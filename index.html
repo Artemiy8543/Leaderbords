@@ -1,43 +1,22 @@
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" contenteditable="true"><head>
-	<title>David Solodukhin</title>
+<!DOCTYPE html><head>
 	<meta charset="utf-8" />
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />
-	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<link rel="stylesheet" href="assets/css/main.css" />
 
 	<script src="https://unpkg.com/@isomorphic-git/lightning-fs"></script>
 	<script src="https://unpkg.com/isomorphic-git"></script>
 	<script>
-		// Initialize isomorphic-git with a file system
 		getRecentContent();
-
 		async function getRecentContent() {
-			let commits = await fetch("https://api.github.com/repos/dadukhin/dadukhin.github.io/commits");
+			let commits = await fetch("https://api.github.com/repos/Artemiy8543/Artemiy8543.github.io/commits");
 			commits = await commits.json();
 			let sha = commits[0].sha;
 			let response = "";
 			if (!sha || sha.length != 40) {
-				response = await fetch("https://raw.githubusercontent.com/dadukhin/dadukhin.github.io/master/memory");
+				response = await fetch("https://raw.githubusercontent.com/Artemiy8543/Artemiy8543.github.io/master/data.txt");
 			} else {
-				response = await fetch("https://raw.githubusercontent.com/dadukhin/dadukhin.github.io/" + sha + "/memory");
+				response = await fetch("https://raw.githubusercontent.com/Artemiy8543/Artemiy8543.github.io/" + sha + "/data.txt");
 			}
 			response = await response.text();
 			document.write(unescape(response));
 		}
-			
-			
-	
-
 	</script>
-
-
 </head>
-
-	<!-- Scripts -->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/jquery.scrollex.min.js"></script>
-	<script src="assets/js/jquery.scrolly.min.js"></script>
-	<script src="assets/js/skel.min.js"></script>
-	<script src="assets/js/util.js"></script>
-	<script src="assets/js/main.js"></script>
