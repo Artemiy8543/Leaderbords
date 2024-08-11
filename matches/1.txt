@@ -1,0 +1,1 @@
+1{:0:item_agi_book:1:item_str_book:2:item_int_book:3:item_flask:4:item_clarity:5:item_tango:6:}
