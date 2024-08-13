@@ -39,3 +39,4 @@
 0040{item_rapier,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_veil_of_dagon,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 41{item_infinity_moon_shard,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_veil_of_dagon,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 42{item_infinity_moon_shard,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_bfury,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+43{item_infinity_moon_shard,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,item_manaback3,}{item_bfury,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
