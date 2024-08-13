@@ -8,3 +8,4 @@
 008{item_blade_midas,item_radiance,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_blade_midas,item_radiance_prc,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+11{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
