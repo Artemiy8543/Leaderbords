@@ -18,3 +18,4 @@
 18{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,item_manaback3,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
 0019{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,item_manaback3,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
 0020{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,item_manaback3,}{item_iron_talon,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+21{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,item_manaback3,}{item_iron_talon,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
