@@ -4,4 +4,4 @@
 22{item_gladiator_guard,item_armlet_of_mjolnir,item_bloodstone_shield,item_radiance_prc,item_assault,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 28{item_gladiator_guard,item_armlet_of_mjolnir,item_veil_of_dagon,item_refresher_core,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0031{item_gladiator_guard,item_armlet_of_mjolnir,item_veil_of_dagon,item_refresher_core,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-34{item_gladiator_guard,item_armlet_of_mjolnir,item_veil_of_dagon,item_refresher_core,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+35{item_gladiator_guard,item_armlet_of_mjolnir,item_veil_of_dagon,-,item_radiance_prc,item_shivas_strom,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
