@@ -16,3 +16,4 @@
 0016{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
 17{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
 18{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,item_manaback3,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
+0019{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,item_manaback3,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
