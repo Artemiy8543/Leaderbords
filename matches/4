@@ -6,3 +6,4 @@
 0031{item_gladiator_guard,item_armlet_of_mjolnir,item_veil_of_dagon,item_refresher_core,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 35{item_gladiator_guard,item_armlet_of_mjolnir,item_veil_of_dagon,-,item_radiance_prc,item_shivas_strom,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0037{item_veil_of_dagon,item_gladiator_guard,item_armlet_of_mjolnir,item_great_magic_crit,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+0041{item_veil_of_dagon,item_gladiator_guard,item_trident_custom,item_great_magic_crit,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
