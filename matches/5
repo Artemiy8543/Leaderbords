@@ -6,3 +6,4 @@
 006{item_blade_midas,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_blade_midas,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_blade_midas,item_radiance,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_blade_midas,item_radiance_prc,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
