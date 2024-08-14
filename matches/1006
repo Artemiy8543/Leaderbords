@@ -57,3 +57,4 @@
 52{item_attacker_midas_agi,item_agi_book,item_satanic_of_madness,item_infinity_moon_shard,-,-,}{-,-,-,}{item_greater_crit,-,-,-,-,-,}{item_apex,};
 53{item_attacker_midas_agi,item_agi_book,item_satanic_of_madness,item_infinity_moon_shard,-,-,}{-,-,-,}{item_greater_crit,-,-,-,-,-,}{item_apex,};
 54{item_shivas_strom,item_greater_crit,item_satanic_of_madness,item_infinity_moon_shard,item_skadi,item_creep_desolator,}{item_radiance_prc,item_shivas_guard,item_orb_of_corrosion,}{item_attacker_midas_agi,-,-,-,-,-,}{item_apex,};
+55{item_shivas_strom,item_agi_book,item_satanic_of_madness,item_infinity_moon_shard,item_skadi,item_attacker_midas_agi,}{item_radiance_prc,item_shivas_guard,item_creep_desolator,}{item_orb_of_corrosion,item_greater_crit,-,-,-,-,}{item_apex,};
