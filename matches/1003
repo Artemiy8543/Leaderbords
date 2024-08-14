@@ -4,4 +4,4 @@
 6{item_blade_midas,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0025{item_satanic_of_madness,item_trident_custom,item_attacker_midas_int,item_great_magic_crit,item_infinity_moon_shard,item_shivas_strom,}{item_mjollnir,item_infinity_moon_shard,item_infinity_moon_shard,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_moon_shard,item_hyperstone,}{item_specialists_array,};
 0026{item_satanic_of_madness,item_trident_custom,item_attacker_midas_int,item_great_magic_crit,item_infinity_moon_shard,item_shivas_strom,}{item_mjollnir,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-7{item_gladiator_guard,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_gladiator_guard,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
