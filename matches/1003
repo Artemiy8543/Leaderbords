@@ -15,3 +15,4 @@
 0050{item_satanic_of_madness,item_greater_crit,item_lightning_sword,item_skadi,item_refresher_core,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
 31{item_satanic_of_madness,item_trident_custom,item_attacker_midas_int,item_great_magic_crit,item_infinity_moon_shard,item_shivas_strom,}{item_hyperstone,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0016{item_gladiator_guard,item_heart,item_shivas_strom,item_assault,item_radiance_prc,item_blade_midas,}{item_dragon_scale,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
+32{item_satanic_of_madness,item_trident_custom,item_attacker_midas_int,item_great_magic_crit,item_infinity_moon_shard,item_shivas_strom,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
