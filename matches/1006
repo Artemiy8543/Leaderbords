@@ -9,4 +9,4 @@
 6{item_attacker_midas_str,item_octarine_core,item_cornucopia,item_ring_of_tarrasque,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 28{item_attacker_midas_agi,item_greater_crit,item_satanic_of_madness,item_infinity_moon_shard,item_agi_book,-,}{-,-,-,}{item_shivas_guard,item_creep_desolator,item_skadi,item_orb_of_corrosion,item_shivas_strom,item_radiance_prc,}{item_vindicators_axe,};
 8{item_attacker_midas_str,item_refresher_core,item_desolator,item_helm_of_iron_will,item_diadem,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-0030{item_attacker_midas_agi,item_greater_crit,item_satanic_of_madness,item_infinity_moon_shard,item_agi_book,-,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
+009{item_attacker_midas_str,item_refresher_core,item_creep_desolator,item_lesser_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
