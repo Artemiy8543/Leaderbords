@@ -5,3 +5,4 @@
 25{item_attacker_midas_agi,item_infinity_moon_shard,item_satanic_of_madness,item_greater_crit,-,-,}{-,-,-,}{item_shivas_guard,item_creep_desolator,item_skadi,item_orb_of_corrosion,item_shivas_strom,item_radiance_prc,}{item_vindicators_axe,};
 26{item_attacker_midas_agi,item_infinity_moon_shard,item_satanic_of_madness,item_greater_crit,item_agi_book,-,}{-,-,-,}{item_shivas_guard,item_creep_desolator,item_skadi,item_orb_of_corrosion,item_shivas_strom,item_radiance_prc,}{item_vindicators_axe,};
 005{item_attacker_midas_str,item_octarine_core,item_cornucopia,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+27{item_attacker_midas_agi,item_greater_crit,item_satanic_of_madness,item_infinity_moon_shard,item_agi_book,item_infinity_moon_shard,}{item_infinity_moon_shard,item_hyperstone,-,}{item_shivas_guard,item_creep_desolator,item_skadi,item_orb_of_corrosion,item_shivas_strom,item_radiance_prc,}{item_vindicators_axe,};
