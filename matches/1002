@@ -4,5 +4,5 @@
 2{item_chainmail,item_ring_of_health,-,-,-,-,}{item_recipe_blade_mail,-,-,}{-,-,-,-,-,-,}{-,};
 0037{item_satanic_of_madness,item_greater_crit,item_lightning_sword,item_skadi,item_refresher_core,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
 18{item_attacker_midas_int,item_trident_custom,item_mjollnir,item_great_magic_crit,item_infinity_moon_shard,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
-0039{item_satanic_of_madness,item_greater_crit,item_lightning_sword,item_skadi,item_refresher_core,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
-19{item_attacker_midas_int,item_trident_custom,item_mjollnir,item_great_magic_crit,item_infinity_moon_shard,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
+0038{item_satanic_of_madness,item_greater_crit,item_lightning_sword,item_skadi,item_refresher_core,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
+40{item_satanic_of_madness,item_greater_crit,item_lightning_sword,item_skadi,item_refresher_core,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
