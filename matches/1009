@@ -28,4 +28,4 @@
 110{item_attacker_midas_str,item_refresher_core,item_infinity_moon_shard,item_creep_desolator,item_bloodstone,item_greater_crit,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
 20{item_blade_midas,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
 21{item_blade_midas,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_gladiator_guard,item_lightning_sword,}{-,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
-00113{item_attacker_midas_str,item_refresher_core,item_infinity_moon_shard,item_creep_desolator,item_bloodstone,item_greater_crit,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
+0022{item_blade_midas,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
