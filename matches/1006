@@ -36,3 +36,4 @@
 25{item_attacker_midas_str,item_refresher_core,item_creep_desolator,item_greater_crit,item_bloodstone,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
 26{item_attacker_midas_str,item_refresher_core,item_creep_desolator,item_greater_crit,item_bloodstone,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
 0027{item_attacker_midas_str,item_refresher_core,item_creep_desolator,item_greater_crit,item_bloodstone,item_infinity_moon_shard,}{item_moon_shard,item_hyperstone,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
+28{item_attacker_midas_str,item_refresher_core,item_infinity_moon_shard,item_faerie_fire,item_bloodstone,item_faerie_fire,}{item_greater_crit,-,item_creep_desolator,}{item_moon_shard,-,-,-,-,-,}{item_defiant_shell,};
