@@ -11,3 +11,4 @@
 13{item_orb_of_corrosion,item_shivas_strom,item_satanic_of_madness,item_butterfly,item_wraith_band,item_wraith_band,}{item_radiance,item_urn_of_shadows,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 4{item_attacker_midas_agi,item_vladmir,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_orb_of_corrosion,item_shivas_strom,item_satanic_of_madness,item_butterfly,item_radiance_prc,item_wraith_band,}{-,item_mithril_hammer,item_mithril_hammer,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+0015{item_orb_of_corrosion,item_shivas_strom,item_satanic_of_madness,item_butterfly,item_radiance_prc,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
