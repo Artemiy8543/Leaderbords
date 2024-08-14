@@ -4,3 +4,4 @@
 005{item_attacker_midas_agi,item_lifesteal,item_chainmail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_mjollnir,item_power_treads,item_lifesteal,item_attacker_midas_int,-,item_quelling_blade,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0025{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_skadi,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
+0010{item_mjollnir,item_power_treads,item_mask_of_madness,item_great_magic_crit,item_attacker_midas_int,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
