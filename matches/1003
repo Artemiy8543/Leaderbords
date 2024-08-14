@@ -57,3 +57,4 @@
 34{item_gladiator_guard,item_heart,item_shivas_strom,item_assault,item_vladmir,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 72{item_satanic_of_madness,item_greater_crit,item_lightning_sword,item_skadi,item_shivas_strom,item_creep_desolator,}{item_ninja_gear,item_agi_book,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 35{item_gladiator_guard,item_heart,item_shivas_strom,item_assault,item_vladmir,item_blade_midas,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+36{item_gladiator_guard,item_heart,item_shivas_strom,item_assault,item_vladmir,item_blade_midas,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
