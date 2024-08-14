@@ -7,3 +7,4 @@
 8{item_gladiator_guard,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 27{item_satanic_of_madness,item_trident_custom,item_attacker_midas_int,item_great_magic_crit,item_infinity_moon_shard,item_shivas_strom,}{item_mjollnir,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 10{item_gladiator_guard,item_heart,item_shivas_strom,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+28{item_satanic_of_madness,item_trident_custom,item_attacker_midas_int,item_great_magic_crit,item_infinity_moon_shard,item_shivas_strom,}{item_mjollnir,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_desolator_2,};
