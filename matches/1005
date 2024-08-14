@@ -5,3 +5,4 @@
 8{item_orb_of_corrosion,item_wraith_band,item_satanic_of_madness,item_eagle,item_branches,item_wraith_band,}{item_branches,item_talisman_of_evasion,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 009{item_orb_of_corrosion,item_wraith_band,item_satanic_of_madness,item_butterfly,item_branches,item_wraith_band,}{item_branches,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 0010{item_orb_of_corrosion,item_wraith_band,item_satanic_of_madness,item_butterfly,item_branches,item_wraith_band,}{item_branches,item_mithril_hammer,item_javelin,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+0011{item_orb_of_corrosion,item_wraith_band,item_satanic_of_madness,item_butterfly,item_maelstrom,item_wraith_band,}{item_veil_of_discord,item_platemail,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
