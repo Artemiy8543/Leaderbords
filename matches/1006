@@ -46,3 +46,4 @@
 33{item_attacker_midas_str,item_refresher_core,item_infinity_moon_shard,item_faerie_fire,item_bloodstone,item_faerie_fire,}{item_greater_crit,item_agi_book,item_creep_desolator,}{-,-,-,-,-,-,}{item_defiant_shell,};
 0046{item_attacker_midas_agi,item_agi_book,item_satanic_of_madness,item_infinity_moon_shard,item_branches,item_branches,}{item_branches,item_branches,item_branches,}{item_greater_crit,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_moon_shard,item_hyperstone,}{item_apex,};
 0034{item_attacker_midas_str,item_refresher_core,item_infinity_moon_shard,item_faerie_fire,item_bloodstone,item_faerie_fire,}{item_greater_crit,item_agi_book,item_creep_desolator,}{-,-,-,-,-,-,}{item_defiant_shell,};
+35{item_attacker_midas_str,item_refresher_core,item_infinity_moon_shard,item_faerie_fire,item_bloodstone,item_faerie_fire,}{item_greater_crit,item_str_book,item_creep_desolator,}{-,-,-,-,-,-,}{item_defiant_shell,};
