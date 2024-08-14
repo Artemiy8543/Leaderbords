@@ -36,4 +36,4 @@
 62{item_satanic_of_madness,item_greater_crit,item_lightning_sword,item_skadi,item_refresher_core,item_creep_desolator,}{item_ninja_gear,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0063{item_satanic_of_madness,item_greater_crit,item_lightning_sword,item_skadi,item_refresher_core,item_creep_desolator,}{item_ninja_gear,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 41{item_satanic_of_madness,item_trident_custom,item_attacker_midas_int,item_great_magic_crit,item_infinity_moon_shard,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-26{item_gladiator_guard,item_heart,item_shivas_strom,item_assault,item_radiance_prc,item_blade_midas,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+65{item_satanic_of_madness,item_greater_crit,item_lightning_sword,item_skadi,item_shivas_strom,item_creep_desolator,}{item_ninja_gear,item_agi_book,-,}{-,-,-,-,-,-,}{item_giants_ring,};
