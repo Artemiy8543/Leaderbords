@@ -4,3 +4,4 @@
 2{item_gloves,item_power_treads,item_javelin,-,-,item_quelling_blade,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_satanic_of_madness,item_greater_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_maelstrom,item_power_treads,-,-,-,item_quelling_blade,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_satanic_of_madness,item_greater_crit,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
