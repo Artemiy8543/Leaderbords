@@ -9,5 +9,4 @@
 0029{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_skadi,item_refresher_core,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
 0031{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_skadi,item_refresher_core,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
 0014{item_mjollnir,item_power_treads,item_mask_of_madness,item_great_magic_crit,item_attacker_midas_int,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
-32{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_skadi,item_refresher_core,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
-15{item_mask_of_madness,item_trident_custom,item_mjollnir,item_great_magic_crit,item_attacker_midas_int,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
+33{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_skadi,item_refresher_core,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
