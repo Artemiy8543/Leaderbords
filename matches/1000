@@ -4,4 +4,6 @@
 2{item_gloves,item_power_treads,item_javelin,-,-,item_quelling_blade,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_satanic_of_madness,item_greater_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_maelstrom,item_power_treads,-,-,-,item_quelling_blade,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_satanic_of_madness,item_greater_crit,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_maelstrom,item_power_treads,-,-,-,item_quelling_blade,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_enchanted_mango,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
