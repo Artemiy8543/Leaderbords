@@ -61,4 +61,5 @@
 56{item_shivas_strom,item_shivas_guard,item_satanic_of_madness,item_infinity_moon_shard,item_creep_desolator,item_greater_crit,}{item_radiance_prc,item_orb_of_corrosion,item_skadi,}{-,-,item_attacker_midas_agi,-,-,-,}{item_apex,};
 57{item_shivas_strom,item_shivas_guard,item_satanic_of_madness,item_infinity_moon_shard,item_creep_desolator,item_greater_crit,}{item_radiance_prc,item_orb_of_corrosion,item_skadi,}{-,-,item_attacker_midas_agi,-,-,-,}{item_apex,};
 58{item_shivas_strom,item_shivas_guard,item_satanic_of_madness,item_infinity_moon_shard,item_creep_desolator,item_greater_crit,}{item_radiance_prc,item_orb_of_corrosion,item_skadi,}{-,-,item_attacker_midas_agi,-,-,-,}{item_apex,};
-42{item_attacker_midas_str,item_refresher_core,item_infinity_moon_shard,item_faerie_fire,item_bloodstone,item_str_book,}{item_greater_crit,-,item_creep_desolator,}{-,-,-,-,-,-,}{item_defiant_shell,};
+59{item_shivas_strom,item_shivas_guard,item_satanic_of_madness,item_infinity_moon_shard,item_creep_desolator,item_greater_crit,}{item_radiance_prc,item_orb_of_corrosion,item_skadi,}{-,-,item_attacker_midas_agi,-,-,-,}{item_apex,};
+60{item_shivas_strom,item_shivas_guard,item_satanic_of_madness,item_infinity_moon_shard,item_creep_desolator,item_greater_crit,}{item_radiance_prc,item_orb_of_corrosion,item_skadi,}{-,-,item_attacker_midas_agi,-,-,-,}{item_apex,};
