@@ -5,4 +5,4 @@
 94{item_attacker_midas_str,item_refresher_core,item_infinity_moon_shard,item_creep_desolator,item_bloodstone,item_greater_crit,}{item_str_book,-,item_faerie_fire,}{-,-,-,-,-,-,}{item_defiant_shell,};
 004{item_blade_mail,item_midas_component,-,-,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 96{item_attacker_midas_str,item_refresher_core,item_infinity_moon_shard,item_creep_desolator,item_bloodstone,item_greater_crit,}{item_str_book,-,item_faerie_fire,}{-,-,-,-,-,-,}{item_defiant_shell,};
-006{item_blade_midas,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0097{item_attacker_midas_str,item_refresher_core,item_infinity_moon_shard,item_creep_desolator,item_bloodstone,item_greater_crit,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
