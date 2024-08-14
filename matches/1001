@@ -6,7 +6,5 @@
 0025{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_skadi,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
 0010{item_mjollnir,item_power_treads,item_mask_of_madness,item_great_magic_crit,item_attacker_midas_int,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0027{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_skadi,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
-0028{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_skadi,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
-0012{item_mjollnir,item_power_treads,item_mask_of_madness,item_great_magic_crit,item_attacker_midas_int,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
-30{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_skadi,item_refresher_core,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
-0013{item_mjollnir,item_power_treads,item_mask_of_madness,item_great_magic_crit,item_attacker_midas_int,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+0029{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_skadi,item_refresher_core,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
+0031{item_satanic_of_madness,item_greater_crit,item_armlet_of_mjolnir,item_skadi,item_refresher_core,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
