@@ -3,3 +3,4 @@
 003{-,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_ring_of_tarrasque,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_heart,item_platemail,item_helm_of_iron_will,item_crown,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+006{item_heart,item_point_booster,item_ogre_axe,item_staff_of_wizardry,item_shivas_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
