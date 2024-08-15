@@ -30,3 +30,4 @@
 31{item_gladiator_guard,item_trident_custom,item_manaback3,item_shivas_strom,item_refresher_core,item_blade_midas,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 0032{item_gladiator_guard,item_trident_custom,item_manaback3,item_shivas_strom,item_refresher_core,item_blade_midas,}{item_firecracker_small,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 33{item_gladiator_guard,item_trident_custom,item_manaback3,item_shivas_strom,item_refresher_core,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
+0034{item_gladiator_guard,item_trident_custom,item_manaback3,item_shivas_strom,item_refresher_core,item_blade_midas,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_force_field,};
