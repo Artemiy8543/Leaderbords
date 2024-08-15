@@ -4,3 +4,4 @@
 004{item_ring_of_tarrasque,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_heart,item_platemail,item_helm_of_iron_will,item_crown,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 007{item_heart,item_ultimate_scepter,-,-,item_shivas_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+8{item_heart,item_ultimate_scepter,item_octarine_core,-,item_shivas_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
