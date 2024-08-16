@@ -5,3 +5,4 @@
 5{item_mask_of_madness,item_power_treads,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_mask_of_madness,item_power_treads,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 007{item_mask_of_madness,item_power_treads,item_mjollnir,item_lesser_crit,item_demon_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+8{item_mask_of_madness,item_power_treads,item_mjollnir,item_greater_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
