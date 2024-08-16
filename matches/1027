@@ -3,3 +3,4 @@
 003{item_mask_of_madness,item_power_treads,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_mask_of_madness,item_power_treads,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_mask_of_madness,item_power_treads,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_mask_of_madness,item_power_treads,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
