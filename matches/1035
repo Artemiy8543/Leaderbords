@@ -28,3 +28,4 @@
 0028{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_satanic,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
 0029{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_satanic,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
 0030{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_satanic,item_blade_midas,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
+0031{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_rod_staff,item_blade_midas,}{item_agi_book,item_satanic_of_madness,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
