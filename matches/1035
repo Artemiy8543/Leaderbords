@@ -4,3 +4,4 @@
 4{item_vanguard,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_crimson_guard,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_gladiator_guard,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+007{item_gladiator_guard,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
