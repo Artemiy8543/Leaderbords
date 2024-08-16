@@ -17,3 +17,4 @@
 17{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_satanic,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
 18{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_satanic,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
 19{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_satanic,item_blade_midas,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
+0020{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_satanic,item_blade_midas,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
