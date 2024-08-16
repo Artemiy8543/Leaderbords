@@ -7,3 +7,4 @@
 007{item_mask_of_madness,item_power_treads,item_mjollnir,item_lesser_crit,item_demon_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 8{item_mask_of_madness,item_power_treads,item_mjollnir,item_greater_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 9{item_mask_of_madness,item_power_treads,item_armlet_of_mjolnir,item_greater_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+0010{item_satanic_of_madness,item_power_treads,item_armlet_of_mjolnir,item_greater_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
