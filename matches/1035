@@ -100,3 +100,4 @@
 100{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_satanic_of_madness,item_blade_midas,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
 00101{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_satanic_of_madness,item_blade_midas,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
 00102{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_satanic_of_madness,item_blade_midas,}{item_str_book,-,item_basher_slardar,}{-,-,-,-,-,-,}{item_nemesis_curse,};
+00103{item_gladiator_guard,item_creep_desolator,item_butterfly,item_lightning_sword,item_satanic_of_madness,item_blade_midas,}{item_str_book,-,item_basher_slardar,}{-,-,-,-,-,-,}{item_nemesis_curse,};
