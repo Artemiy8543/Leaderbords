@@ -12,3 +12,4 @@
 12{item_satanic_of_madness,item_power_treads,item_armlet_of_mjolnir,item_greater_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 13{item_satanic_of_madness,item_power_treads,item_armlet_of_mjolnir,item_greater_crit,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 0014{item_satanic_of_madness,item_power_treads,item_armlet_of_mjolnir,item_greater_crit,item_butterfly,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+15{item_satanic_of_madness,item_power_treads,item_armlet_of_mjolnir,item_greater_crit,item_butterfly,item_gladiator_guard,}{-,-,-,}{item_orb_of_destruction,-,-,-,-,-,}{item_elven_tunic,};
