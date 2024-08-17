@@ -12,3 +12,4 @@
 12{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 0013{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 0014{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+0015{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
