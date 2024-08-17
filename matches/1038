@@ -13,3 +13,4 @@
 13{item_creep_desolator,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 14{item_creep_desolator,item_attacker_midas_str,item_basher_slardar,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 15{item_creep_desolator,item_attacker_midas_str,item_basher_slardar,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+16{item_creep_desolator,item_attacker_midas_str,item_basher_slardar,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
