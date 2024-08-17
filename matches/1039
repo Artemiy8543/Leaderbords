@@ -12,3 +12,4 @@
 12{item_orb_of_corrosion,item_shivas_strom,item_satanic_of_madness,item_attacker_midas_agi,item_wraith_band,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 13{item_orb_of_corrosion,item_shivas_strom,item_satanic_of_madness,item_attacker_midas_agi,item_wraith_band,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 0014{item_orb_of_corrosion,item_shivas_strom,item_satanic_of_madness,item_attacker_midas_agi,item_wraith_band,item_infinity_moon_shard,}{item_moon_shard,item_hyperstone,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+15{item_orb_of_corrosion,item_shivas_strom,item_satanic_of_madness,item_attacker_midas_agi,item_wraith_band,item_infinity_moon_shard,}{item_moon_shard,item_hyperstone,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
