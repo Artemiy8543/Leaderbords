@@ -52,4 +52,4 @@
 0052{item_lightning_sword,item_creep_desolator,item_attacker_midas_str,item_bfury,item_butterfly,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
 0053{item_lightning_sword,item_creep_desolator,item_attacker_midas_str,item_bfury,item_butterfly,item_basher_slardar,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
 0054{item_lightning_sword,item_creep_desolator,item_attacker_midas_str,item_bfury,item_butterfly,item_basher_slardar,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
-64{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_basher_slardar,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
+65{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_basher_slardar,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
