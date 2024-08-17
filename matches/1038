@@ -135,9 +135,4 @@
 158{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_basher_slardar,}{item_agi_book,item_str_book,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
 00159{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_basher_slardar,}{-,item_str_book,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
 160{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_basher_slardar,}{-,item_str_book,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
-161{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
-163{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_greater_crit,}{-,-,item_basher_slardar,}{-,-,-,-,-,-,}{item_mirror_shield,};
-164{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_greater_crit,}{-,-,item_basher_slardar,}{-,-,-,-,-,-,}{item_mirror_shield,};
-165{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_greater_crit,}{-,-,item_basher_slardar,}{-,-,-,-,-,-,}{item_mirror_shield,};
-166{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_greater_crit,}{-,-,item_basher_slardar,}{-,-,-,-,-,-,}{item_mirror_shield,};
-167{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_greater_crit,}{-,-,item_basher_slardar,}{-,-,-,-,-,-,}{item_mirror_shield,};
+168{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_greater_crit,}{-,-,item_basher_slardar,}{-,-,-,-,-,-,}{item_mirror_shield,};
