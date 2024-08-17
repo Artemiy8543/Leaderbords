@@ -16,3 +16,4 @@
 16{item_orb_of_corrosion,item_shivas_strom,item_satanic_of_madness,item_attacker_midas_agi,item_wraith_band,item_infinity_moon_shard,}{-,-,-,}{item_skadi,-,-,-,-,-,}{item_ironwood_tree,};
 17{item_orb_of_corrosion,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,-,-,}{-,-,-,}{item_skadi,item_shivas_strom,item_shivas_guard,-,-,-,}{item_ironwood_tree,};
 18{item_orb_of_corrosion,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,item_moon_shard,-,}{-,-,-,}{item_skadi,item_shivas_strom,item_shivas_guard,-,-,-,}{item_ironwood_tree,};
+0019{item_creep_desolator,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,item_orb_of_corrosion,-,}{-,-,-,}{item_skadi,item_shivas_strom,item_shivas_guard,item_radiance_prc,-,-,}{item_ironwood_tree,};
