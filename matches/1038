@@ -3,3 +3,4 @@
 3{item_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_creep_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_creep_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+6{item_creep_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
