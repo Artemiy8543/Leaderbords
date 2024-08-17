@@ -138,3 +138,4 @@
 161{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
 163{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_greater_crit,}{-,-,item_basher_slardar,}{-,-,-,-,-,-,}{item_mirror_shield,};
 164{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_greater_crit,}{-,-,item_basher_slardar,}{-,-,-,-,-,-,}{item_mirror_shield,};
+165{item_skadi,item_creep_desolator,item_attacker_midas_str,item_bfury,item_shivas_strom,item_greater_crit,}{-,-,item_basher_slardar,}{-,-,-,-,-,-,}{item_mirror_shield,};
