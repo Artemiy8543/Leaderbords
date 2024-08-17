@@ -21,3 +21,4 @@
 0021{item_lightning_sword,item_creep_desolator,item_attacker_midas_str,item_bfury,item_butterfly,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
 0022{item_lightning_sword,item_creep_desolator,item_attacker_midas_str,item_bfury,item_butterfly,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
 0023{item_lightning_sword,item_creep_desolator,item_attacker_midas_str,item_bfury,item_butterfly,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
+0024{item_lightning_sword,item_creep_desolator,item_attacker_midas_str,item_bfury,item_butterfly,item_basher_slardar,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
