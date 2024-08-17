@@ -7,3 +7,4 @@
 7{item_voodoo_mask,item_heart,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_voodoo_mask,item_heart,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 009{item_bloodstone,item_heart,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+10{item_bloodstone,item_heart,item_radiance_prc,item_platemail,item_veil_of_discord,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
