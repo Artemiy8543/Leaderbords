@@ -6,3 +6,4 @@
 006{item_voodoo_mask,item_heart,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_voodoo_mask,item_heart,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_voodoo_mask,item_heart,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+009{item_bloodstone,item_heart,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
