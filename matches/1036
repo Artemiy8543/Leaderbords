@@ -3,3 +3,4 @@
 003{item_voodoo_mask,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_voodoo_mask,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_voodoo_mask,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_voodoo_mask,item_heart,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
