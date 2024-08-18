@@ -18,3 +18,4 @@
 0029{item_trident_custom,item_shivas_strom,item_refresher_core,item_manaback3,item_bloodstone_shield,item_great_magic_crit,}{item_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 0030{item_trident_custom,item_shivas_strom,item_refresher_core,item_manaback3,item_bloodstone_shield,item_veil_of_dagon,}{item_helm_of_the_overlord,item_great_magic_crit,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 31{item_trident_custom,item_shivas_strom,item_refresher_core,item_manaback3,item_veil_of_dagon,item_bloodstone_shield,}{item_helm_of_the_overlord,item_great_magic_crit,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+32{item_trident_custom,item_shivas_strom,item_lightning_sword,item_manaback3,item_veil_of_dagon,item_refresher_core,}{item_helm_of_the_overlord,item_great_magic_crit,item_bloodstone_shield,}{-,-,-,-,-,-,}{item_faded_broach,};
