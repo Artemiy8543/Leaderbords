@@ -3,4 +3,4 @@
 006{item_vanguard,item_bloodstone,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_vanguard,item_bloodstone,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_vanguard,item_bloodstone,item_heart,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_vanguard,item_bloodstone,item_heart,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_gladiator_guard,item_bloodstone_shield,-,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
