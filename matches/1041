@@ -3,3 +3,4 @@
 5{item_bloodstone,item_helm_of_iron_will,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bloodstone,item_veil_of_discord,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_bloodstone,item_cornucopia,item_shivas_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+0010{item_bloodstone,item_shivas_guard,item_refresher,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
