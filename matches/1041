@@ -4,4 +4,4 @@
 7{item_bloodstone,item_veil_of_discord,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_bloodstone,item_cornucopia,item_shivas_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 0011{item_bloodstone,item_shivas_guard,item_refresher,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
-0012{item_bloodstone,item_shivas_guard,item_refresher,item_manaback2,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+0013{item_bloodstone,item_shivas_guard,item_refresher,item_manaback2,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
