@@ -40,4 +40,4 @@
 85{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_ultimate_boots,item_assault,}{item_custom_necronomicon3,item_hyperstone,-,}{-,-,-,-,-,-,}{item_force_field,};
 87{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_ultimate_boots,item_custom_necronomicon3,}{item_assault,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 88{item_gladiator_guard,item_refresher_core,item_blade_mail,item_shivas_strom,item_custom_necronomicon3,item_assault,}{item_ultimate_boots,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_force_field,};
-103{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_helm_of_the_overlord,item_assault,}{item_ultimate_boots,-,-,}{-,-,-,-,-,-,}{item_force_field,};
+104{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_helm_of_the_overlord,item_assault,}{item_ultimate_boots,-,-,}{-,-,-,-,-,-,}{item_force_field,};
