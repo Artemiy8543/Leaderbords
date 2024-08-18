@@ -10,4 +10,4 @@
 12{item_attacker_midas_agi,item_creep_desolator,item_lifesteal,item_gladiator_guard,item_moon_shard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 0014{item_attacker_midas_agi,item_creep_desolator,item_satanic,item_gladiator_guard,item_butterfly,item_claymore,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 16{item_attacker_midas_agi,item_creep_desolator,item_satanic_of_madness,item_gladiator_guard,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
-17{item_attacker_midas_agi,item_creep_desolator,item_satanic_of_madness,item_gladiator_guard,item_butterfly,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+18{item_attacker_midas_agi,item_creep_desolator,item_satanic_of_madness,item_gladiator_guard,item_armlet_of_mjolnir,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
