@@ -27,3 +27,4 @@
 0029{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_infinity_moon_shard,item_attacker_midas_int,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 30{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_infinity_moon_shard,item_attacker_midas_int,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0031{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_infinity_moon_shard,item_attacker_midas_int,}{item_refresher_core,-,-,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,-,-,-,}{item_desolator_2,};
+32{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_infinity_moon_shard,item_attacker_midas_int,}{item_refresher_core,item_branches,item_branches,}{-,-,-,-,-,-,}{item_desolator_2,};
