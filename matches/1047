@@ -15,3 +15,4 @@
 0025{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_radiance_prc,item_shivas_strom,item_trident_custom,}{item_cloak_of_flames,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 26{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_radiance_prc,item_shivas_strom,item_trident_custom,}{item_cloak_of_flames,item_str_book,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0027{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_radiance_prc,item_shivas_strom,item_trident_custom,}{item_cloak_of_flames,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+28{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_shivas_strom,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
