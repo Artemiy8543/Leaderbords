@@ -1,7 +1,7 @@
-67+76561198872106260=2{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_crimson_guard,item_reaver,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-008{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_gladiator_guard,item_radiance,item_sobi_mask,item_ring_of_protection,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0014{item_gladiator_guard,item_radiance_prc,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+67+76561198872106260=3{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_crimson_guard,item_reaver,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_gladiator_guard,item_relic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_gladiator_guard,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_gladiator_guard,item_radiance_prc,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
