@@ -10,3 +10,4 @@
 10{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
