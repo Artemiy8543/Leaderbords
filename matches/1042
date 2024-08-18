@@ -34,3 +34,4 @@
 34{item_attacker_midas_int,item_gladiator_guard,item_assault,item_infinity_moon_shard,item_ultimate_boots,item_creep_desolator,}{item_falcon_blade,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 35{item_attacker_midas_int,item_gladiator_guard,item_bloodstone_shield,item_infinity_moon_shard,item_ultimate_boots,item_basher_slardar,}{-,-,-,}{-,item_greater_crit,-,item_assault,-,-,}{item_vampire_fangs,};
 36{item_great_magic_crit,item_bloodstone_shield,item_rapier,item_rapier,item_rapier,item_rapier,}{-,-,-,}{item_gladiator_guard,item_greater_crit,item_attacker_midas_int,item_assault,item_basher_slardar,item_infinity_moon_shard,}{item_vampire_fangs,};
+0037{item_great_magic_crit,item_bloodstone_shield,item_rapier,item_rapier,item_rapier,item_rapier,}{-,-,-,}{item_gladiator_guard,item_greater_crit,item_attacker_midas_int,item_assault,item_basher_slardar,item_infinity_moon_shard,}{item_vampire_fangs,};
