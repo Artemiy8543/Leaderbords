@@ -13,3 +13,4 @@
 0013{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0015{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_refresher_core,-,}{item_spark_of_courage,-,-,}{-,-,-,-,-,-,}{item_eye_of_the_vizier,};
 0016{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_refresher_core,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_eye_of_the_vizier,};
+17{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,-,item_attacker_midas_int,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_eye_of_the_vizier,};
