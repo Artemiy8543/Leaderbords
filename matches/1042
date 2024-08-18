@@ -25,3 +25,4 @@
 25{item_attacker_midas_int,-,item_bloodstone_shield,item_refresher_core,item_great_magic_crit,item_radiance_prc,}{-,-,-,}{item_gladiator_guard,-,-,-,-,-,}{item_vampire_fangs,};
 26{item_attacker_midas_int,item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_great_magic_crit,item_radiance_prc,}{-,-,-,}{-,item_book_of_shadows,-,-,-,-,}{item_vampire_fangs,};
 0027{item_attacker_midas_int,item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_great_magic_crit,item_radiance_prc,}{-,-,-,}{-,item_book_of_shadows,-,-,-,-,}{item_vampire_fangs,};
+0028{item_attacker_midas_int,item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_great_magic_crit,item_radiance_prc,}{-,-,-,}{-,item_book_of_shadows,-,-,-,-,}{item_vampire_fangs,};
