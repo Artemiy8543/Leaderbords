@@ -64,3 +64,4 @@
 65{item_attacker_midas_agi,item_infinity_moon_shard,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{-,-,-,}{item_satanic_of_madness,-,-,-,-,-,}{item_desolator_2,};
 0066{item_attacker_midas_agi,item_infinity_moon_shard,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{-,-,-,}{item_satanic_of_madness,-,-,-,-,-,}{item_desolator_2,};
 67{item_attacker_midas_agi,item_infinity_moon_shard,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{-,-,-,}{item_satanic_of_madness,-,-,-,-,-,}{item_desolator_2,};
+0068{item_attacker_midas_agi,item_infinity_moon_shard,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{item_travel_boots_2,-,-,}{item_satanic_of_madness,-,-,-,-,-,}{item_desolator_2,};
