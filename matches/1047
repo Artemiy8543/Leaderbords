@@ -9,3 +9,4 @@
 16{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_radiance_prc,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 0018{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_radiance_prc,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 19{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_radiance_prc,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+20{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_radiance_prc,item_shivas_strom,item_trident_custom,}{item_vampire_fangs,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
