@@ -6,3 +6,4 @@
 6{item_kaya,item_ogre_axe,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_sange,item_staff_of_wizardry,item_heart,item_yasha,item_kaya,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_trident_custom,item_staff_of_wizardry,item_heart,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_trident_custom,item_manaback,item_heart,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
