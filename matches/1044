@@ -9,3 +9,4 @@
 9{item_trident_custom,item_manaback,item_heart,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_trident_custom,item_manaback,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_trident_custom,item_manaback,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+12{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_discord,item_dagon_4,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
