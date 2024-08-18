@@ -5,3 +5,4 @@
 5{item_attacker_midas_int,item_vanguard,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_int,item_vanguard,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_int,item_crimson_guard,item_bloodstone,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_int,item_crimson_guard,item_bloodstone,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
