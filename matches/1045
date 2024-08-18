@@ -17,3 +17,4 @@
 17{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 0018{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 19{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+0020{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
