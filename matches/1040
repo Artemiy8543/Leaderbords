@@ -10,3 +10,4 @@
 10{item_power_treads,item_trident_custom,item_satanic,item_butterfly,item_dragon_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 11{item_power_treads,item_trident_custom,item_satanic,item_butterfly,-,item_hurricane_pike,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 0012{item_power_treads,item_trident_custom,item_satanic,item_butterfly,-,item_hurricane_pike,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+13{item_power_treads,item_trident_custom,item_satanic,item_butterfly,-,item_hurricane_pike,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
