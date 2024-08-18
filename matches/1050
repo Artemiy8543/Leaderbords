@@ -9,3 +9,4 @@
 0018{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
 19{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
 0020{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
+0021{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
