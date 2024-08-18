@@ -25,3 +25,4 @@
 38{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_shivas_strom,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 39{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_shivas_strom,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0040{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_shivas_strom,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0041{item_gladiator_guard,item_bloodstone_shield,item_blade_mail,item_shivas_strom,item_radiance_prc,item_trident_custom,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
