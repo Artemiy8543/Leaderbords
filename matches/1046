@@ -7,3 +7,4 @@
 8{item_attacker_midas_str,item_refresher_core,item_creep_desolator,item_greater_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_attacker_midas_str,item_refresher_core,item_creep_desolator,item_greater_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_attacker_midas_str,item_refresher_core,item_creep_desolator,item_greater_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_attacker_midas_str,item_refresher_core,item_creep_desolator,item_greater_crit,-,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
