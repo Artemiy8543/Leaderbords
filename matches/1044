@@ -99,3 +99,4 @@
 101{item_trident_custom,item_manaback,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_magic_crit,}{item_refresher_core,item_infinity_moon_shard,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_desolator_2,};
 00102{item_trident_custom,item_manaback,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_magic_crit,}{item_refresher_core,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_desolator_2,};
 103{item_trident_custom,item_manaback,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_magic_crit,}{item_refresher_core,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_desolator_2,};
+104{item_trident_custom,item_manaback,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_magic_crit,}{item_refresher_core,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_desolator_2,};
