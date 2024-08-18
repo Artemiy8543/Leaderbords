@@ -14,4 +14,4 @@
 0014{item_power_treads,item_trident_custom,item_satanic,item_butterfly,-,item_hurricane_pike,}{item_ironwood_tree,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 15{item_power_treads,item_trident_custom,item_satanic_of_madness,item_butterfly,item_infinity_moon_shard,item_hurricane_pike,}{-,-,-,}{item_ironwood_tree,-,-,-,-,-,}{item_grove_bow,};
 0016{-,item_trident_custom,item_satanic_of_madness,item_butterfly,item_infinity_moon_shard,item_hurricane_pike,}{-,-,-,}{item_ironwood_tree,-,-,-,-,-,}{item_grove_bow,};
-1{item_voodoo_mask,item_energy_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+2{item_voodoo_mask,item_energy_booster,item_vitality_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
