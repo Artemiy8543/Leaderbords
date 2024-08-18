@@ -5,3 +5,4 @@
 5{item_power_treads,item_yasha,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_power_treads,item_yasha,item_mask_of_madness,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_power_treads,item_yasha,item_mask_of_madness,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+008{item_power_treads,item_yasha,item_mask_of_madness,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
