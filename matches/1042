@@ -10,3 +10,4 @@
 10{item_attacker_midas_int,item_crimson_guard,item_bloodstone,item_radiance_prc,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_attacker_midas_int,item_gladiator_guard,item_bloodstone,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_attacker_midas_int,item_gladiator_guard,item_bloodstone,item_radiance_prc,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_attacker_midas_int,item_gladiator_guard,item_bloodstone,item_radiance_prc,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
