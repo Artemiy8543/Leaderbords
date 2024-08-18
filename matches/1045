@@ -32,4 +32,4 @@
 32{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{-,-,-,}{item_tier4_token,-,-,-,-,-,}{item_desolator_2,};
 33{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{-,-,-,}{item_tier4_token,-,-,-,-,-,}{item_desolator_2,};
 34{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{-,-,-,}{item_tier4_token,-,-,-,-,-,}{item_desolator_2,};
-35{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+36{item_attacker_midas_agi,item_satanic_of_madness,item_greater_crit,item_assault,item_butterfly,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
