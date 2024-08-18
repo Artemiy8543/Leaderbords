@@ -43,5 +43,5 @@
 92{item_gladiator_guard,item_refresher_core,item_blade_mail,item_shivas_strom,item_custom_necronomicon3,item_assault,}{item_ultimate_boots,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_force_field,};
 93{item_gladiator_guard,item_refresher_core,item_blade_mail,item_shivas_strom,item_custom_necronomicon3,item_assault,}{item_ultimate_boots,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_force_field,};
 95{item_gladiator_guard,item_refresher_core,item_blade_mail,item_shivas_strom,item_custom_necronomicon3,item_assault,}{item_ultimate_boots,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_force_field,};
-96{item_gladiator_guard,item_refresher_core,item_blade_mail,item_shivas_strom,item_custom_necronomicon3,item_assault,}{item_ultimate_boots,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_force_field,};
-98{item_gladiator_guard,-,item_blade_mail,item_shivas_strom,-,item_assault,}{item_ultimate_boots,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_force_field,};
+97{item_gladiator_guard,item_refresher_core,item_blade_mail,item_shivas_strom,-,item_assault,}{item_ultimate_boots,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_force_field,};
+99{item_gladiator_guard,-,item_blade_mail,item_shivas_strom,-,item_assault,}{item_ultimate_boots,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_force_field,};
