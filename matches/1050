@@ -23,7 +23,7 @@
 42{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 44{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 46{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_force_field,};
-48{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
-50{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
-52{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{item_agi_book,item_str_book,item_int_book,}{-,-,-,-,-,-,}{item_force_field,};
-54{item_gladiator_guard,item_int_book,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{item_agi_book,item_str_book,item_radiance_prc,}{-,-,-,-,-,-,}{item_force_field,};
+49{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
+51{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{item_agi_book,item_str_book,item_int_book,}{item_infinity_moon_shard,-,-,-,-,-,}{item_force_field,};
+0053{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{item_agi_book,item_str_book,item_int_book,}{-,-,-,-,-,-,}{item_force_field,};
+55{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{item_agi_book,item_str_book,item_int_book,}{-,-,-,-,-,-,}{item_force_field,};
