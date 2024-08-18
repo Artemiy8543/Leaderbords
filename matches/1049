@@ -1,3 +1,4 @@
 94+76561198872106260=2{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_agi,item_blight_stone,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 5{item_attacker_midas_agi,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+6{item_attacker_midas_agi,item_desolator,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
