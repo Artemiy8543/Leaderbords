@@ -1,5 +1,6 @@
 14+76561198872106260=2{item_vanguard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_crimson_guard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_gladiator_guard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_gladiator_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-11{item_gladiator_guard,item_bloodstone,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+8{item_gladiator_guard,item_voodoo_mask,item_soul_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_gladiator_guard,item_bloodstone,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+12{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
