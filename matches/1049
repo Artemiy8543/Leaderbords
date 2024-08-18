@@ -7,4 +7,4 @@
 9{item_attacker_midas_agi,item_creep_desolator,item_lifesteal,item_crimson_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 10{item_attacker_midas_agi,item_creep_desolator,item_lifesteal,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 11{item_attacker_midas_agi,item_creep_desolator,item_lifesteal,item_gladiator_guard,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
-12{item_attacker_midas_agi,item_creep_desolator,item_lifesteal,item_gladiator_guard,item_moon_shard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+13{item_attacker_midas_agi,item_creep_desolator,item_lifesteal,item_gladiator_guard,-,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
