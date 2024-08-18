@@ -18,4 +18,5 @@
 32{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 34{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 36{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
-38{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_force_field,};
+37{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
+39{item_gladiator_guard,item_radiance_prc,item_blade_mail,item_shivas_strom,item_infinity_moon_shard,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
