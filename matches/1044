@@ -16,3 +16,4 @@
 17{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,-,item_attacker_midas_int,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_eye_of_the_vizier,};
 18{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_infinity_moon_shard,item_attacker_midas_int,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_eye_of_the_vizier,};
 19{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_infinity_moon_shard,item_attacker_midas_int,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+20{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_infinity_moon_shard,item_attacker_midas_int,}{item_refresher_core,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
