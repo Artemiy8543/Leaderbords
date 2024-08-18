@@ -20,3 +20,4 @@
 22{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_infinity_moon_shard,item_attacker_midas_int,}{item_refresher_core,item_ceremonial_robe,-,}{-,-,-,-,-,-,}{item_tier4_token,};
 23{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_infinity_moon_shard,item_attacker_midas_int,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
 24{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_infinity_moon_shard,item_attacker_midas_int,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
+25{item_trident_custom,item_manaback,item_gladiator_guard,item_veil_of_dagon,item_infinity_moon_shard,item_attacker_midas_int,}{item_refresher_core,item_mind_breaker,-,}{-,-,-,-,-,-,}{item_tier5_token,};
