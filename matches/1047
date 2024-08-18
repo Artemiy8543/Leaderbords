@@ -2,3 +2,4 @@
 004{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vanguard,item_bloodstone,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_vanguard,item_bloodstone,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_vanguard,item_bloodstone,item_heart,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
