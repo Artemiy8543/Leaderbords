@@ -7,3 +7,4 @@
 14{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 16{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 0018{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,item_trident_custom,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+0019{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_mail,item_trident_custom,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
