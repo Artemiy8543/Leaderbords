@@ -2,3 +2,4 @@
 2{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_int,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_int,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_attacker_midas_int,item_vanguard,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
