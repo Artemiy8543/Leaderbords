@@ -116,3 +116,4 @@
 00118{item_trident_custom,item_manaback,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_magic_crit,}{-,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_mind_breaker,};
 00119{item_trident_custom,item_manaback,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_magic_crit,}{-,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_mind_breaker,};
 00120{item_trident_custom,item_manaback,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_magic_crit,}{item_helm_of_the_overlord,-,item_attacker_midas_int,}{-,item_smoke_of_deceit,-,-,-,-,}{item_mind_breaker,};
+121{item_trident_custom,item_manaback3,item_bloodstone_shield,item_great_magic_crit,item_infinity_moon_shard,item_great_magic_crit,}{item_helm_of_the_overlord,-,item_attacker_midas_int,}{-,item_smoke_of_deceit,-,-,-,-,}{item_mind_breaker,};
