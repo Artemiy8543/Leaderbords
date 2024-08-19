@@ -20,3 +20,4 @@
 0021{item_infinity_moon_shard,-,-,item_attacker_midas_agi,item_creep_desolator,item_trident_custom,}{-,-,-,}{item_shivas_strom,item_radiance_prc,item_orb_of_corrosion,item_great_magic_crit,-,-,}{item_duelist_gloves,};
 23{item_infinity_moon_shard,item_branches,item_branches,item_attacker_midas_agi,item_creep_desolator,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_infinity_moon_shard,-,-,-,-,-,}{item_duelist_gloves,};
 24{item_infinity_moon_shard,item_branches,item_branches,item_attacker_midas_agi,item_creep_desolator,item_trident_custom,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+25{item_infinity_moon_shard,-,-,item_attacker_midas_agi,item_creep_desolator,item_trident_custom,}{item_branches,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
