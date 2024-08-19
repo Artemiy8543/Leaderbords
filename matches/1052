@@ -7,3 +7,4 @@
 007{item_orb_of_corrosion,item_gloves,item_satanic_of_madness,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 8{item_orb_of_corrosion,item_hyperstone,item_satanic_of_madness,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 009{item_orb_of_corrosion,item_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+10{item_orb_of_corrosion,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,item_talisman_of_evasion,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
