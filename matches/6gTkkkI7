@@ -55,3 +55,4 @@
 56{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_great_magic_crit,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 57{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_great_magic_crit,item_trident_custom,item_radiance_prc,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 58{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_great_magic_crit,item_trident_custom,item_radiance_prc,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+59{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_great_magic_crit,item_trident_custom,item_radiance_prc,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
