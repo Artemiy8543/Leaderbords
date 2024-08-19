@@ -4,3 +4,4 @@
 008{item_echo_sabre,-,-,-,item_enchanted_mango,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_echo_sabre,item_hyperstone,-,-,item_enchanted_mango,item_satanic,}{-,-,-,}{item_platemail,-,-,-,-,-,}{-,};
 10{item_echo_sabre,item_assault,-,-,item_enchanted_mango,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+1{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
