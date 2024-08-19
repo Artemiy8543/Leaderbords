@@ -10,3 +10,4 @@
 57{item_butterfly,item_basher_slardar,item_greater_crit,item_trident_custom,item_creep_desolator,item_satanic_of_madness,}{-,-,item_trickster_cloak,}{-,-,-,-,-,-,}{-,};
 10{item_satanic,item_butterfly,item_dragon_lance,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_satanic,item_butterfly,item_dragon_lance,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_satanic,item_butterfly,item_dragon_lance,item_power_treads,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
