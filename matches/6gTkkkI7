@@ -11,3 +11,4 @@
 11{item_attacker_midas_int,item_bloodstone_shield,item_radiance_prc,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 0012{item_attacker_midas_int,item_bloodstone_shield,item_radiance_prc,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 0013{item_attacker_midas_int,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+14{item_attacker_midas_int,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit,-,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
