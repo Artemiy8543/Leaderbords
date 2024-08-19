@@ -11,4 +11,5 @@
 10{item_satanic,item_butterfly,item_dragon_lance,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_satanic,item_butterfly,item_dragon_lance,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_satanic,item_butterfly,item_dragon_lance,item_power_treads,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0015{item_satanic_of_madness,item_attacker_midas_agi,item_dragon_lance,item_power_treads,item_skadi,item_butterfly,}{item_boots_of_bearing,item_travel_boots,item_ring_of_regen,}{-,-,-,-,-,-,}{-,};
+0014{item_satanic_of_madness,item_attacker_midas_agi,item_dragon_lance,item_power_treads,item_skadi,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_satanic_of_madness,item_attacker_midas_agi,item_dragon_lance,item_power_treads,item_skadi,item_butterfly,}{item_boots_of_bearing,item_travel_boots_2,item_mekansm,}{item_arcane_boots,item_buckler,-,-,-,-,}{-,};
