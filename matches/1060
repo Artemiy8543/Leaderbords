@@ -11,3 +11,4 @@
 18{item_null_talisman,item_gladiator_guard,item_ethereal_blade,item_ultimate_scepter,item_kaya_and_sange,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0037{-,item_bloodstone_shield,item_shivas_strom,item_radiance_prc,item_gladiator_guard,item_refresher_core,}{item_satanic_of_madness,item_great_magic_crit,item_creep_desolator,}{-,-,-,-,-,-,}{-,};
 21{item_null_talisman,item_gladiator_guard,item_ethereal_blade,item_ultimate_scepter,item_kaya_and_sange,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+38{-,item_bloodstone_shield,item_shivas_strom,item_radiance_prc,item_gladiator_guard,item_refresher_core,}{item_satanic_of_madness,item_great_magic_crit,item_creep_desolator,}{-,-,-,-,-,-,}{-,};
