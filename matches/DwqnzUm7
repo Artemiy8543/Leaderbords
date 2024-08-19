@@ -4,3 +4,4 @@
 4{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_assault,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 006{item_assault,item_heart,item_blight_stone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+7{item_assault,item_heart,item_blight_stone,item_mithril_hammer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
