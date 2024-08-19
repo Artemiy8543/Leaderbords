@@ -5,3 +5,4 @@
 5{item_orb_of_corrosion,item_gloves,item_satanic,item_wraith_band,item_claymore,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_orb_of_corrosion,item_gloves,item_satanic_of_madness,item_wraith_band,item_javelin,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_orb_of_corrosion,item_maelstrom,item_satanic_of_madness,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+8{item_orb_of_corrosion,item_maelstrom,item_satanic_of_madness,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
