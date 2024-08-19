@@ -19,3 +19,4 @@
 0019{item_assault,item_gladiator_guard,item_satanic_of_madness,item_greater_crit,item_attacker_midas_str,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 0020{item_assault,item_gladiator_guard,item_satanic_of_madness,item_greater_crit,item_attacker_midas_str,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 0021{item_assault,item_gladiator_guard,item_satanic_of_madness,item_greater_crit,item_radiance_prc,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+0022{item_assault,item_gladiator_guard,item_satanic_of_madness,item_greater_crit,item_radiance_prc,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
