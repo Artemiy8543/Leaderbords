@@ -10,3 +10,4 @@
 10{item_assault,item_heart,item_creep_desolator,item_greater_crit,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 0011{item_assault,item_heart,item_creep_desolator,item_greater_crit,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 12{item_assault,item_heart,item_satanic_of_madness,item_greater_crit,item_attacker_midas_str,item_creep_desolator,}{item_ring_of_health,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+0013{item_assault,item_gladiator_guard,item_satanic_of_madness,item_greater_crit,item_attacker_midas_str,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
