@@ -22,3 +22,4 @@
 24{item_infinity_moon_shard,item_branches,item_branches,item_attacker_midas_agi,item_creep_desolator,item_trident_custom,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 25{item_infinity_moon_shard,-,-,item_attacker_midas_agi,item_creep_desolator,item_trident_custom,}{item_branches,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 26{item_infinity_moon_shard,item_revenants_brooch,item_shivas_strom,item_great_magic_crit,item_creep_desolator,item_trident_custom,}{item_attacker_midas_agi,item_skadi,item_radiance_prc,}{-,item_shivas_guard,-,-,-,-,}{item_desolator_2,};
+27{item_infinity_moon_shard,item_revenants_brooch,item_meteor_hammer,item_great_magic_crit,item_creep_desolator,item_trident_custom,}{item_attacker_midas_agi,item_skadi,item_radiance_prc,}{item_shivas_strom,item_shivas_guard,-,-,-,-,}{item_desolator_2,};
