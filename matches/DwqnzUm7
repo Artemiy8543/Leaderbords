@@ -8,3 +8,4 @@
 008{item_assault,item_heart,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 9{item_assault,item_heart,item_creep_desolator,item_demon_edge,-,-,}{item_recipe_greater_crit,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 10{item_assault,item_heart,item_creep_desolator,item_greater_crit,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+0011{item_assault,item_heart,item_creep_desolator,item_greater_crit,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
