@@ -109,3 +109,4 @@
 00125{item_trident_custom,item_revenants_brooch,item_attacker_midas_agi,item_agi_book,-,item_creep_desolator,}{-,-,-,}{item_great_magic_crit,item_orb_of_corrosion,item_shivas_guard,item_shivas_strom,item_skadi,item_radiance_prc,}{item_spy_gadget,};
 00127{item_trident_custom,item_revenants_brooch,item_radiance_prc,item_great_magic_crit,item_orb_of_corrosion,item_creep_desolator,}{item_shivas_guard,item_shivas_strom,item_skadi,}{-,-,-,-,-,item_attacker_midas_agi,}{item_spy_gadget,};
 136{item_trident_custom,item_revenants_brooch,item_radiance_prc,item_great_magic_crit,item_orb_of_corrosion,item_creep_desolator,}{item_shivas_guard,item_shivas_strom,item_skadi,}{-,-,-,-,-,item_attacker_midas_agi,}{item_spy_gadget,};
+137{item_trident_custom,item_revenants_brooch,item_radiance_prc,item_great_magic_crit,item_orb_of_corrosion,item_creep_desolator,}{item_shivas_guard,item_shivas_strom,item_skadi,}{-,-,-,-,-,item_attacker_midas_agi,}{item_spy_gadget,};
