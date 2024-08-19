@@ -2,4 +2,5 @@
 5{item_null_talisman,item_bracer,item_ward_observer,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_null_talisman,item_bracer,item_ward_observer,item_ultimate_scepter,item_sange,item_staff_of_wizardry,}{item_robe,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_null_talisman,item_bracer,item_ward_observer,item_ultimate_scepter,item_kaya_and_sange,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0027{item_satanic_of_madness,item_butterfly,item_great_magic_crit,item_radiance_prc,item_gladiator_guard,item_creep_desolator,}{item_infinity_moon_shard,item_ultimate_boots,-,}{-,-,-,-,-,-,}{-,};
+0010{item_null_talisman,item_bracer,item_ward_observer,item_ultimate_scepter,item_kaya_and_sange,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+28{item_satanic_of_madness,item_bloodstone_shield,item_great_magic_crit,item_radiance_prc,item_gladiator_guard,item_creep_desolator,}{item_infinity_moon_shard,item_ultimate_boots,item_butterfly,}{-,-,-,-,-,-,}{-,};
