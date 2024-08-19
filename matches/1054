@@ -12,3 +12,4 @@
 0012{item_trident_custom,item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_moon_shard,item_radiance_prc,}{item_orb_of_corrosion,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
 0013{item_trident_custom,item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_moon_shard,item_radiance_prc,}{item_orb_of_corrosion,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_tier3_token,};
 14{item_trident_custom,item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_moon_shard,item_radiance_prc,}{item_skadi,item_shivas_strom,item_shivas_guard,}{item_orb_of_corrosion,-,-,-,-,-,}{item_nemesis_curse,};
+0015{item_trident_custom,item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_moon_shard,item_radiance_prc,}{item_skadi,item_shivas_strom,item_shivas_guard,}{item_orb_of_corrosion,-,-,-,-,-,}{item_nemesis_curse,};
