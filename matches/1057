@@ -10,4 +10,5 @@
 0018{item_butterfly,item_satanic_of_madness,item_greater_crit,item_trident_custom,-,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0020{item_butterfly,item_satanic_of_madness,item_greater_crit,item_trident_custom,-,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
 0022{item_butterfly,item_satanic_of_madness,item_greater_crit,item_trident_custom,item_skadi,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
-0024{item_butterfly,item_satanic_of_madness,item_greater_crit,item_trident_custom,item_skadi,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
+0023{item_butterfly,item_satanic_of_madness,item_greater_crit,item_trident_custom,item_skadi,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
+0025{item_butterfly,item_satanic_of_madness,item_greater_crit,item_trident_custom,item_skadi,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
