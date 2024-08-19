@@ -39,3 +39,4 @@
 39{item_trident_custom,item_revenants_brooch,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_shivas_guard,}{item_skadi,item_shivas_strom,item_radiance_prc,}{-,-,-,-,-,-,}{item_spy_gadget,};
 40{item_creep_desolator,item_revenants_brooch,item_attacker_midas_agi,item_skadi,item_infinity_moon_shard,item_shivas_guard,}{item_trident_custom,item_shivas_strom,item_radiance_prc,}{-,-,-,-,-,-,}{item_spy_gadget,};
 0041{-,-,item_attacker_midas_agi,-,item_infinity_moon_shard,item_shivas_guard,}{-,-,item_radiance_prc,}{-,-,-,-,-,-,}{item_spy_gadget,};
+42{item_branches,item_branches,item_attacker_midas_agi,item_branches,item_infinity_moon_shard,item_shivas_guard,}{item_branches,item_branches,item_radiance_prc,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{item_spy_gadget,};
