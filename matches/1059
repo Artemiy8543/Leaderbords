@@ -15,3 +15,4 @@
 0016{item_satanic_of_madness,item_attacker_midas_agi,item_dragon_lance,item_power_treads,item_skadi,item_butterfly,}{item_boots_of_bearing,item_travel_boots_2,item_mekansm,}{item_arcane_boots,item_buckler,-,-,-,-,}{-,};
 17{item_satanic_of_madness,item_attacker_midas_agi,item_dragon_lance,item_ultimate_boots,item_skadi,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 18{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit,item_ultimate_boots,item_skadi,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+19{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit,item_ultimate_boots,-,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{-,};
