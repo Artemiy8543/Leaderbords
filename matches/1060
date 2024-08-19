@@ -20,4 +20,4 @@
 30{item_trident_custom,item_gladiator_guard,item_ethereal_blade,item_ultimate_scepter,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 32{item_trident_custom,item_gladiator_guard,item_ethereal_blade,item_ultimate_scepter,item_manaback3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 43{item_armlet_of_mjolnir,item_bloodstone_shield,item_shivas_strom,item_radiance_prc,item_gladiator_guard,item_refresher_core,}{item_satanic_of_madness,item_great_magic_crit,item_creep_desolator,}{-,-,-,-,-,-,}{-,};
-33{item_trident_custom,item_gladiator_guard,item_ethereal_blade,item_ultimate_scepter,item_manaback3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+34{item_trident_custom,item_gladiator_guard,item_ethereal_blade,item_ultimate_scepter,item_manaback3,item_bloodstone_shield,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
