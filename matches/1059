@@ -2,4 +2,4 @@
 2{item_mask_of_madness,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_mask_of_madness,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 54{item_butterfly,item_basher_slardar,item_greater_crit,item_trident_custom,item_creep_desolator,item_satanic_of_madness,}{item_wraith_band,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
-005{item_mask_of_madness,item_talisman_of_evasion,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_mask_of_madness,item_talisman_of_evasion,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
