@@ -18,3 +18,4 @@
 19{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit,item_ultimate_boots,-,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0020{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit,item_butterfly,item_gladiator_guard,item_creep_desolator,}{item_ultimate_boots,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_satanic_of_madness,item_butterfly,item_great_magic_crit,item_infinity_moon_shard,item_gladiator_guard,item_creep_desolator,}{-,item_ultimate_boots,-,}{-,-,-,-,-,-,}{-,};
+0022{item_satanic_of_madness,item_butterfly,item_great_magic_crit,item_infinity_moon_shard,item_gladiator_guard,item_creep_desolator,}{-,item_ultimate_boots,-,}{-,-,-,-,-,-,}{-,};
