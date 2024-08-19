@@ -13,3 +13,4 @@
 0013{item_assault,item_gladiator_guard,item_satanic_of_madness,item_greater_crit,item_attacker_midas_str,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 14{item_assault,item_gladiator_guard,item_satanic_of_madness,item_greater_crit,item_attacker_midas_str,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
 0015{item_assault,item_gladiator_guard,item_satanic_of_madness,item_greater_crit,item_attacker_midas_str,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
+16{item_assault,item_gladiator_guard,item_satanic_of_madness,item_greater_crit,item_attacker_midas_str,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
