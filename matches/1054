@@ -20,3 +20,4 @@
 0020{item_trident_custom,item_attacker_midas_agi,item_orb_of_corrosion,item_creep_desolator,item_infinity_moon_shard,item_radiance_prc,}{item_skadi,item_shivas_strom,item_shivas_guard,}{-,-,-,-,-,-,}{item_spy_gadget,};
 0021{item_trident_custom,item_attacker_midas_agi,item_orb_of_corrosion,item_creep_desolator,item_infinity_moon_shard,item_radiance_prc,}{item_skadi,item_shivas_strom,item_shivas_guard,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,-,-,-,}{item_spy_gadget,};
 0022{item_trident_custom,item_attacker_midas_agi,item_orb_of_corrosion,item_creep_desolator,item_infinity_moon_shard,item_radiance_prc,}{item_skadi,item_shivas_strom,item_shivas_guard,}{-,-,-,-,-,-,}{item_spy_gadget,};
+0023{item_trident_custom,item_attacker_midas_agi,item_orb_of_corrosion,item_meteor_hammer,item_infinity_moon_shard,item_radiance_prc,}{item_skadi,item_shivas_strom,item_shivas_guard,}{item_creep_desolator,-,-,-,-,-,}{item_spy_gadget,};
