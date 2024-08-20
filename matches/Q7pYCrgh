@@ -58,3 +58,4 @@
 58{item_attacker_midas_int,item_radiance_prc,item_trident_custom,item_great_magic_crit,item_bloodstone_shield,item_manaback3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 0059{item_attacker_midas_int,item_radiance_prc,item_trident_custom,item_great_magic_crit,-,item_manaback3,}{-,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 60{item_attacker_midas_int,item_radiance_prc,item_trident_custom,item_great_magic_crit,-,item_manaback3,}{-,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+0061{item_attacker_midas_int,item_radiance_prc,item_trident_custom,item_great_magic_crit,-,item_manaback3,}{-,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
