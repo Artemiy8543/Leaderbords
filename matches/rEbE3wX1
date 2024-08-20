@@ -5,3 +5,4 @@
 005{item_blade_mail,item_attacker_midas_int,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_blade_mail,item_attacker_midas_int,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_blade_mail,item_attacker_midas_int,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_blade_mail,item_attacker_midas_int,item_mjollnir,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
