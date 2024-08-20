@@ -4,3 +4,4 @@
 4{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_int,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_int,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_attacker_midas_int,item_radiance_prc,item_kaya,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
