@@ -2,3 +2,4 @@
 2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_mail,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_blade_mail,item_attacker_midas_int,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
