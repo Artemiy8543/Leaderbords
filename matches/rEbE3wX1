@@ -7,3 +7,4 @@
 7{item_blade_mail,item_attacker_midas_int,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_blade_mail,item_attacker_midas_int,item_mjollnir,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 009{item_satanic,item_attacker_midas_int,item_mjollnir,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+0010{item_satanic,item_attacker_midas_int,item_mjollnir,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
