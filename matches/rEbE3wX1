@@ -11,3 +11,4 @@
 11{item_satanic,item_lightning_sword,item_mjollnir,item_butterfly,item_attacker_midas_int,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 12{item_satanic,item_lightning_sword,item_mjollnir,item_butterfly,item_attacker_midas_int,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 13{item_satanic,item_lightning_sword,item_mjollnir,item_butterfly,item_attacker_midas_int,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+14{item_satanic,item_lightning_sword,item_butterfly,item_infinity_moon_shard,item_attacker_midas_int,item_shivas_strom,}{item_mjollnir,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
