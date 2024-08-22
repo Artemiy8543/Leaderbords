@@ -6,3 +6,4 @@
 12{item_quelling_blade,item_shivas_strom,item_manaback3,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_quelling_blade,item_shivas_strom,item_manaback3,item_octarine_core,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_vambrace,};
 15{item_quelling_blade,item_shivas_strom,item_manaback3,item_octarine_core,-,item_bloodstone_shield,}{item_vambrace,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+16{item_quelling_blade,item_shivas_strom,item_manaback3,item_refresher_core,-,item_bloodstone_shield,}{item_vambrace,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
