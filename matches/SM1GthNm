@@ -1,4 +1,5 @@
-99+76561199028349763=2{item_quelling_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_quelling_blade,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_quelling_blade,-,-,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-008{item_quelling_blade,item_shivas_strom,-,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+99+76561199028349763=1{item_quelling_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_quelling_blade,item_soul_booster,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_quelling_blade,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_quelling_blade,-,-,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_quelling_blade,item_shivas_strom,-,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
