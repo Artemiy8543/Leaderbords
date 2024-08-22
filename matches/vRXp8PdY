@@ -16,3 +16,4 @@
 0016{item_bfury,item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
 17{item_bfury,item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_butterfly,item_creep_desolator,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
 0018{item_bfury,item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
+19{item_bfury,item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
