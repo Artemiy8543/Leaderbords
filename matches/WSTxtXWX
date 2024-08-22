@@ -5,3 +5,4 @@
 009{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,item_ghost,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,item_ghost,item_radiance_prc,-,}{-,-,-,}{item_reaver,-,-,-,-,-,}{-,};
+15{item_attacker_midas_agi,item_satanic_of_madness,-,item_ghost,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
