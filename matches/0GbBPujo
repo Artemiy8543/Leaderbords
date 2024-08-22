@@ -2,3 +2,4 @@
 002{item_arcane_boots,item_wraith_band,item_wraith_band,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_arcane_boots,item_wraith_band,item_wraith_band,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_power_treads,item_wraith_band,item_wraith_band,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_power_treads,item_wraith_band,item_wraith_band,item_lifesteal,item_talisman_of_evasion,item_claymore,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
