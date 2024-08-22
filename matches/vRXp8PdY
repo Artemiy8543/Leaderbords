@@ -28,3 +28,4 @@
 28{item_bfury,item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_greater_crit,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 29{item_bfury,item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_greater_crit,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 30{item_bfury,item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_greater_crit,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+31{-,item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_greater_crit,item_creep_desolator,}{item_bfury,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
