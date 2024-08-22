@@ -4,4 +4,4 @@
 008{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,item_ghost,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,item_ghost,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,item_ghost,item_radiance_prc,-,}{-,-,-,}{item_reaver,-,-,-,-,-,}{-,};
