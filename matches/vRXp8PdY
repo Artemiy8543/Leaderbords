@@ -2,3 +2,4 @@
 002{item_cornucopia,item_quelling_blade,item_broadsword,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_cornucopia,item_quelling_blade,item_broadsword,item_lifesteal,item_wraith_band,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_bfury,-,-,item_lifesteal,item_wraith_band,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_bfury,-,item_attacker_midas_agi,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
