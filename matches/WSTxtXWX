@@ -3,4 +3,4 @@
 5{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,item_ghost,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_attacker_midas_agi,item_mask_of_madness,item_lifesteal,item_ghost,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
