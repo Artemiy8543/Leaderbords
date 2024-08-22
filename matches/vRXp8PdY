@@ -6,3 +6,4 @@
 6{item_bfury,-,item_attacker_midas_agi,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bfury,item_moon_shard,item_attacker_midas_agi,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_bfury,item_moon_shard,item_attacker_midas_agi,item_lifesteal,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+9{item_bfury,item_moon_shard,item_attacker_midas_agi,item_vladimir_pact,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
