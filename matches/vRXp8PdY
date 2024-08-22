@@ -22,3 +22,4 @@
 0022{item_bfury,item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_butterfly,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
 23{item_bfury,item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
 0024{item_bfury,item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
+25{item_bfury,item_agi_book,item_armlet_of_mjolnir,item_satanic_of_madness,item_butterfly,item_creep_desolator,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
