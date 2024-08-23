@@ -3,5 +3,5 @@
 003{item_attacker_midas_agi,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_crimson_guard,item_relic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_attacker_midas_agi,item_crimson_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_attacker_midas_agi,item_crimson_guard,item_radiance_prc,item_moon_shard,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_attacker_midas_agi,item_crimson_guard,item_radiance_prc,item_moon_shard,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_attacker_midas_agi,item_gladiator_guard,item_radiance_prc,item_moon_shard,item_assault,item_vladmir,}{-,-,-,}{-,-,-,-,-,-,}{-,};
