@@ -1,4 +1,5 @@
 4+76561199753829758=001{-,-,item_blood_grenade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_radiance_prc,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+7{item_radiance_prc,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_voodoo_mask,item_vitality_booster,item_ring_of_protection,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
