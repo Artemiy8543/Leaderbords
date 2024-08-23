@@ -3,4 +3,4 @@
 004{item_blade_midas,item_chainmail,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_blade_midas,item_platemail,item_hyperstone,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_midas,item_assault,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
-7{item_vladmir,item_assault,item_heart,item_blade_midas,item_creep_desolator,item_ring_of_health,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+8{item_vladmir,item_assault,item_gladiator_guard,item_blade_midas,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
