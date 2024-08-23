@@ -19,4 +19,4 @@
 00257{item_devastator,item_creep_desolator,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_vladmir,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 264{item_devastator,item_creep_desolator,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_vladmir,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 270{item_devastator,item_creep_desolator,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_vladmir,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
-277{item_devastator,item_creep_desolator,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_vladmir,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+278{item_devastator,item_creep_desolator,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_vladmir,}{item_manaback,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
