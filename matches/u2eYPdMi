@@ -14,4 +14,4 @@
 20{item_attacker_midas_int,item_radiance_prc,item_infinity_moon_shard,item_gladiator_guard,item_devastator,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 0023{item_attacker_midas_int,item_radiance_prc,item_infinity_moon_shard,item_gladiator_guard,item_devastator,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 0027{item_attacker_midas_int,item_radiance_prc,item_infinity_moon_shard,item_gladiator_guard,item_devastator,item_trident_custom,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-0029{item_attacker_midas_int,item_radiance_prc,item_infinity_moon_shard,item_gladiator_guard,item_devastator,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+0030{item_attacker_midas_int,item_radiance_prc,item_infinity_moon_shard,item_gladiator_guard,item_devastator,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
