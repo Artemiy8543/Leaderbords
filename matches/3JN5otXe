@@ -2,3 +2,4 @@
 2{item_hand_of_midas,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_hand_of_midas,item_gloves,item_javelin,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_hand_of_midas,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_hand_of_midas,item_maelstrom,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
