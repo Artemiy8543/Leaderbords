@@ -6,4 +6,4 @@
 0011{item_radiance_prc,item_gladiator_guard,item_butterfly,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 13{item_radiance_prc,item_gladiator_guard,item_butterfly,item_attacker_midas_agi,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 15{item_radiance_prc,item_gladiator_guard,item_butterfly,item_attacker_midas_agi,item_trident_custom,item_ultimate_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
-16{item_radiance_prc,item_revenants_brooch,item_butterfly,item_attacker_midas_agi,item_trident_custom,item_ultimate_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+17{item_meteor_hammer,item_revenants_brooch,item_devastator,item_attacker_midas_agi,item_trident_custom,item_ultimate_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
