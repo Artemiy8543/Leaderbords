@@ -3,6 +3,6 @@
 5{item_attacker_midas_agi,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 6{item_attacker_midas_agi,item_ultimate_scepter,item_relic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 008{item_attacker_midas_agi,item_ultimate_scepter,item_radiance,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-9{item_attacker_midas_agi,item_ultimate_scepter,item_radiance_prc,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0011{item_attacker_midas_agi,item_ultimate_scepter,item_radiance_prc,item_bloodstone,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-13{item_attacker_midas_agi,item_ultimate_scepter,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+10{item_attacker_midas_agi,item_ultimate_scepter,item_radiance_prc,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+12{item_attacker_midas_agi,item_ultimate_scepter,item_radiance_prc,item_bloodstone_shield,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+14{item_attacker_midas_agi,item_ultimate_scepter,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
