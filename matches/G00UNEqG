@@ -12,3 +12,4 @@
 20{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_bloodstone_shield,item_great_magic_crit,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 0022{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 24{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+0025{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
