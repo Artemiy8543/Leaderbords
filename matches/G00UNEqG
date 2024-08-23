@@ -9,5 +9,6 @@
 15{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_bloodstone_shield,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 0016{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_bloodstone_shield,item_great_magic_crit,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 18{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_bloodstone_shield,item_great_magic_crit,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
-20{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_bloodstone_shield,item_great_magic_crit,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
-0022{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+19{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_bloodstone_shield,item_great_magic_crit,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+0021{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+0023{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
