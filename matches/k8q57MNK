@@ -5,3 +5,4 @@
 009{item_bloodstone,item_radiance,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 10{item_bloodstone,item_radiance_prc,item_gladiator_guard,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 12{item_bloodstone,item_radiance_prc,item_gladiator_guard,item_attacker_midas_agi,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+0013{item_bloodstone,item_radiance_prc,item_gladiator_guard,item_attacker_midas_agi,item_manta,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
