@@ -17,4 +17,4 @@
 29{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_rapier,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,-,-,-,}{item_giants_ring,};
 0031{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_rapier,}{item_infinity_moon_shard,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0033{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-35{item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+36{item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
