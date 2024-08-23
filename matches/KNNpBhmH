@@ -25,4 +25,4 @@
 0036{item_trident_custom,item_radiance_prc,item_octarine_core,item_great_magic_crit,item_bloodstone_shield,item_refresher_core,}{item_creep_desolator,item_attacker_midas_agi,item_butterfly,}{item_satanic_of_madness,item_agi_book,-,-,-,-,}{item_enchanted_quiver,};
 0038{item_trident_custom,item_radiance_prc,item_octarine_core,item_great_magic_crit,item_bloodstone_shield,item_refresher_core,}{item_creep_desolator,item_attacker_midas_agi,item_butterfly,}{item_satanic_of_madness,item_agi_book,-,-,-,-,}{item_enchanted_quiver,};
 52{item_skadi,item_shivas_strom,item_shivas_guard,item_attacker_midas_agi,item_infinity_moon_shard,item_creep_desolator,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-75{item_skadi,item_shivas_strom,item_greater_crit,item_attacker_midas_agi,item_infinity_moon_shard,item_creep_desolator,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_desolator_2,};
+76{item_skadi,item_shivas_strom,item_greater_crit,item_attacker_midas_agi,item_infinity_moon_shard,item_creep_desolator,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_desolator_2,};
