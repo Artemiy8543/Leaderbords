@@ -36,4 +36,4 @@
 0081{item_revenants_brooch,item_infinity_moon_shard,item_trident_custom,item_attacker_midas_agi,item_meteor_hammer,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0084{item_revenants_brooch,item_infinity_moon_shard,item_trident_custom,item_attacker_midas_agi,item_meteor_hammer,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0086{item_revenants_brooch,item_infinity_moon_shard,item_trident_custom,item_attacker_midas_agi,item_meteor_hammer,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-0089{item_revenants_brooch,item_infinity_moon_shard,item_trident_custom,item_attacker_midas_agi,item_meteor_hammer,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0090{item_revenants_brooch,item_infinity_moon_shard,item_trident_custom,item_attacker_midas_agi,item_meteor_hammer,item_rapier,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
