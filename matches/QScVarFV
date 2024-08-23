@@ -2,5 +2,5 @@
 3{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_attacker_midas_str,item_radiance,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_attacker_midas_str,item_radiance,item_bloodstone,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-14{item_attacker_midas_str,item_radiance,item_bloodstone_shield,item_assault,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_attacker_midas_str,item_radiance,item_bloodstone,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_attacker_midas_str,item_radiance,item_bloodstone_shield,item_assault,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
