@@ -30,4 +30,5 @@
 66{item_rapier,item_rapier,item_radiance_prc,item_rapier,item_trident_custom,item_great_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 68{item_rapier,item_rapier,item_radiance_prc,item_lotus_cuirass,item_trident_custom,item_rapier,}{item_great_magic_crit,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 71{item_rapier,item_rapier,item_radiance_prc,item_lotus_cuirass,item_trident_custom,item_rapier,}{item_great_magic_crit,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-0073{item_rapier,item_rapier,item_radiance_prc,item_great_magic_crit,item_trident_custom,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+0072{item_rapier,item_rapier,item_radiance_prc,item_great_magic_crit,item_trident_custom,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+74{item_rapier,item_rapier,item_radiance_prc,item_great_magic_crit,item_trident_custom,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
