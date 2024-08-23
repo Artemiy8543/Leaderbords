@@ -2,3 +2,4 @@
 004{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vanguard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_vanguard,item_blade_mail,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_gladiator_guard,item_blade_midas,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
