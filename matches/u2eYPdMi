@@ -15,4 +15,4 @@
 0023{item_attacker_midas_int,item_radiance_prc,item_infinity_moon_shard,item_gladiator_guard,item_devastator,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 0027{item_attacker_midas_int,item_radiance_prc,item_infinity_moon_shard,item_gladiator_guard,item_devastator,item_trident_custom,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 0031{item_attacker_midas_int,item_radiance_prc,item_infinity_moon_shard,item_gladiator_guard,item_devastator,item_trident_custom,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-33{item_attacker_midas_int,item_radiance_prc,item_infinity_moon_shard,item_gladiator_guard,item_devastator,item_trident_custom,}{item_infinity_moon_shard,item_moon_shard,item_hyperstone,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+34{item_attacker_midas_int,item_radiance_prc,item_infinity_moon_shard,item_gladiator_guard,item_devastator,item_trident_custom,}{item_infinity_moon_shard,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
