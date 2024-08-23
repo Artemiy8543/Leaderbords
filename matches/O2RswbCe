@@ -9,4 +9,4 @@
 17{item_meteor_hammer,item_revenants_brooch,item_devastator,item_attacker_midas_agi,item_trident_custom,item_ultimate_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 19{item_meteor_hammer,item_revenants_brooch,item_devastator,item_attacker_midas_agi,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 23{item_meteor_hammer,item_revenants_brooch,item_devastator,item_attacker_midas_agi,item_trident_custom,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
-0025{item_meteor_hammer,item_revenants_brooch,item_devastator,item_attacker_midas_agi,item_trident_custom,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+0026{item_meteor_hammer,item_revenants_brooch,item_devastator,item_attacker_midas_agi,item_trident_custom,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
