@@ -8,3 +8,4 @@
 9{item_orb_of_corrosion,item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_orb_of_corrosion,item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_greater_crit,}{item_kaya,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_trident_custom,item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_great_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_trident_custom,item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{-,};
