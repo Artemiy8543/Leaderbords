@@ -16,4 +16,4 @@
 0026{item_blade_midas,item_shivas_strom,item_trident_custom,item_gladiator_guard,item_lotus_cuirass,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 0028{item_blade_midas,item_shivas_strom,item_trident_custom,item_gladiator_guard,item_lotus_cuirass,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 0030{item_blade_midas,item_shivas_strom,item_trident_custom,item_gladiator_guard,item_lotus_cuirass,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
-0032{item_blade_midas,item_shivas_strom,item_trident_custom,item_gladiator_guard,item_lotus_cuirass,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0033{item_blade_midas,item_shivas_strom,item_trident_custom,item_gladiator_guard,item_lotus_cuirass,item_vladimir_pact,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
