@@ -16,4 +16,5 @@
 0025{item_attacker_midas_agi,item_creep_desolator,item_lotus_cuirass,item_infinity_moon_shard,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 0028{item_attacker_midas_agi,item_creep_desolator,item_lotus_cuirass,item_infinity_moon_shard,item_ultimate_boots,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 31{item_attacker_midas_agi,item_creep_desolator,item_lotus_cuirass,item_infinity_moon_shard,item_ultimate_boots,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-35{item_attacker_midas_agi,item_creep_desolator,item_lotus_cuirass,item_infinity_moon_shard,item_ultimate_boots,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+34{item_attacker_midas_agi,item_creep_desolator,item_lotus_cuirass,item_infinity_moon_shard,item_ultimate_boots,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+36{item_attacker_midas_agi,item_creep_desolator,item_lotus_cuirass,item_infinity_moon_shard,item_ultimate_boots,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
