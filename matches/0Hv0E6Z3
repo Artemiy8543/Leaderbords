@@ -1,6 +1,6 @@
 4+76561199753829758=5{item_crimson_guard,item_ring_of_tarrasque,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-6{item_gladiator_guard,-,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-008{item_gladiator_guard,item_radiance_prc,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-10{item_gladiator_guard,item_radiance_prc,item_attacker_midas_agi,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-0012{item_gladiator_guard,item_radiance_prc,item_attacker_midas_agi,item_lotus_cuirass,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-14{item_gladiator_guard,item_radiance_prc,-,item_lotus_cuirass,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+7{item_gladiator_guard,item_radiance,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+009{item_gladiator_guard,item_radiance_prc,item_attacker_midas_agi,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+0011{item_gladiator_guard,item_radiance_prc,item_attacker_midas_agi,item_lotus_cuirass,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+13{item_gladiator_guard,item_radiance_prc,item_attacker_midas_agi,item_lotus_cuirass,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+0015{item_lotus_cuirass,item_radiance_prc,item_revenants_brooch,-,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
