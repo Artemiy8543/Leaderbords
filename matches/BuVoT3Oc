@@ -5,3 +5,4 @@
 006{item_orb_of_corrosion,item_gloves,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_orb_of_corrosion,item_gloves,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_orb_of_corrosion,item_gloves,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_orb_of_corrosion,item_gloves,item_satanic_of_madness,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
