@@ -93,4 +93,5 @@
 278{item_attacker_midas_agi,item_devastator,item_ultimate_boots,item_revenants_brooch,item_trident_custom,item_meteor_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 282{item_attacker_midas_agi,item_devastator,item_ultimate_boots,item_revenants_brooch,item_trident_custom,item_meteor_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 00285{item_attacker_midas_agi,item_devastator,item_ultimate_boots,item_revenants_brooch,item_trident_custom,item_meteor_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-00289{item_attacker_midas_agi,item_devastator,item_ultimate_boots,item_revenants_brooch,item_trident_custom,item_meteor_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+00288{item_attacker_midas_agi,item_devastator,item_ultimate_boots,item_revenants_brooch,item_trident_custom,item_meteor_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+00290{item_attacker_midas_agi,item_devastator,item_ultimate_boots,item_revenants_brooch,item_trident_custom,item_meteor_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
