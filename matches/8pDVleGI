@@ -9,3 +9,4 @@
 17{item_gladiator_guard,item_blade_midas,item_vladmir,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
 0019{item_gladiator_guard,item_blade_midas,item_vladmir,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 20{item_gladiator_guard,item_blade_midas,item_vladimir_pact,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+0021{item_blade_midas,item_shivas_strom,item_trident_custom,item_gladiator_guard,item_lotus_cuirass,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
