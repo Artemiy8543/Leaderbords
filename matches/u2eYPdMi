@@ -3,3 +3,4 @@
 003{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_attacker_midas_int,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_attacker_midas_int,item_radiance,item_voodoo_mask,item_urn_of_shadows,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
