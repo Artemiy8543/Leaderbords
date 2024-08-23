@@ -10,4 +10,4 @@
 46{item_lotus_cuirass,item_devastator,item_revenants_brooch,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 0049{item_lotus_cuirass,item_devastator,item_revenants_brooch,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 52{item_lotus_cuirass,item_devastator,item_revenants_brooch,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-0054{item_lotus_cuirass,item_devastator,item_revenants_brooch,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+0055{item_lotus_cuirass,item_creep_desolator,item_revenants_brooch,item_devastator,item_trident_custom,item_attacker_midas_agi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
