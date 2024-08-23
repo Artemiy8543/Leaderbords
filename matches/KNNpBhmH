@@ -5,4 +5,5 @@
 6{item_orb_of_corrosion,item_wraith_band,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_orb_of_corrosion,item_attacker_midas_agi,item_satanic_of_madness,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_orb_of_corrosion,item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_orb_of_corrosion,item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_lesser_crit,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_orb_of_corrosion,item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_orb_of_corrosion,item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_greater_crit,}{item_kaya,-,-,}{-,-,-,-,-,-,}{-,};
