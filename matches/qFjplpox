@@ -2,3 +2,4 @@
 3{item_blade_mail,item_midas_component,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_blade_midas,item_chainmail,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_blade_midas,item_platemail,item_hyperstone,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_blade_midas,item_assault,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
