@@ -19,4 +19,4 @@
 43{item_gladiator_guard,item_trident_custom,item_revenants_brooch,-,item_creep_desolator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0046{item_gladiator_guard,item_trident_custom,item_revenants_brooch,-,item_creep_desolator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0050{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_meteor_hammer,-,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-52{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_meteor_hammer,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+53{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_meteor_hammer,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
