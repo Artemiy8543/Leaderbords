@@ -3,4 +3,4 @@
 004{item_orb_of_corrosion,item_wraith_band,item_mask_of_madness,item_wraith_band,-,item_magic_wand,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_orb_of_corrosion,item_wraith_band,item_mask_of_madness,item_wraith_band,-,item_magic_wand,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_orb_of_corrosion,item_wraith_band,item_satanic_of_madness,item_wraith_band,-,item_magic_wand,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_wraith_band,item_wraith_band,item_satanic_of_madness,item_wraith_band,item_orb_of_corrosion,item_magic_wand,}{item_wraith_band,item_wraith_band,item_wraith_band,}{-,-,-,-,-,-,}{-,};
+9{item_wraith_band,item_wraith_band,item_satanic_of_madness,item_wraith_band,item_orb_of_corrosion,item_magic_wand,}{item_wraith_band,item_wraith_band,item_wraith_band,}{-,-,-,-,-,-,}{-,};
