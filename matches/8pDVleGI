@@ -3,3 +3,4 @@
 006{item_vanguard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_vanguard,item_blade_mail,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_gladiator_guard,item_blade_midas,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+11{item_gladiator_guard,item_blade_midas,item_vladmir,item_trident_custom,item_point_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
