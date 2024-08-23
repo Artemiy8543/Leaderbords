@@ -3,3 +3,4 @@
 5{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_radiance_prc,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_radiance_prc,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+0011{item_radiance_prc,item_gladiator_guard,item_butterfly,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
