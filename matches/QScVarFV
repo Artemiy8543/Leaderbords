@@ -8,5 +8,5 @@
 18{-,item_radiance,item_bloodstone_shield,item_assault,item_heart,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 19{-,item_radiance,item_bloodstone_shield,item_assault,item_heart,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
 21{item_radiance_prc,item_kaya_and_sange,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
-22{item_radiance_prc,item_kaya_and_sange,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_bfury,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
-0024{item_radiance_prc,item_great_magic_crit,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
+23{item_radiance_prc,item_great_magic_crit,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
+0025{item_radiance_prc,item_great_magic_crit,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_bfury,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
