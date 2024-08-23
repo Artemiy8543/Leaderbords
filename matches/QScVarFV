@@ -6,4 +6,5 @@
 14{item_attacker_midas_str,item_radiance,item_bloodstone_shield,item_assault,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_attacker_midas_str,item_radiance,item_bloodstone_shield,item_assault,item_heart,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 18{-,item_radiance,item_bloodstone_shield,item_assault,item_heart,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-20{item_radiance_prc,item_kaya_and_sange,item_bloodstone_shield,item_assault,item_heart,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
+19{-,item_radiance,item_bloodstone_shield,item_assault,item_heart,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
+21{item_radiance_prc,item_kaya_and_sange,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
