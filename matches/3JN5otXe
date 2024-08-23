@@ -7,3 +7,4 @@
 009{item_hand_of_midas,item_maelstrom,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 11{item_hand_of_midas,item_maelstrom,item_radiance_prc,item_veil_of_dagon,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 12{item_hand_of_midas,item_shivas_strom,item_radiance_prc,item_veil_of_dagon,item_voodoo_mask,item_void_stone,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+13{item_hand_of_midas,item_shivas_strom,item_radiance_prc,item_veil_of_dagon,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
