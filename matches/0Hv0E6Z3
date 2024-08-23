@@ -22,4 +22,5 @@
 80{item_devastator,item_creep_desolator,item_revenants_brooch,item_radiance_prc,item_trident_custom,item_attacker_midas_agi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 0082{item_devastator,item_creep_desolator,item_revenants_brooch,item_radiance_prc,item_trident_custom,item_attacker_midas_agi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 0084{item_devastator,item_creep_desolator,item_revenants_brooch,item_radiance_prc,item_trident_custom,item_attacker_midas_agi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-0087{item_devastator,item_creep_desolator,item_revenants_brooch,item_radiance_prc,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+0086{item_devastator,item_creep_desolator,item_revenants_brooch,item_radiance_prc,item_trident_custom,item_attacker_midas_agi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+0088{item_devastator,item_creep_desolator,item_revenants_brooch,item_radiance_prc,item_trident_custom,item_attacker_midas_agi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
