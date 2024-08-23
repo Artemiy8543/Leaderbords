@@ -5,3 +5,4 @@
 005{item_attacker_midas_int,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_int,item_radiance,item_voodoo_mask,item_urn_of_shadows,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_attacker_midas_int,item_radiance_prc,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
