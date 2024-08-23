@@ -23,4 +23,4 @@
 58{item_attacker_midas_agi,item_devastator,item_infinity_moon_shard,item_revenants_brooch,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 61{item_attacker_midas_agi,item_devastator,item_infinity_moon_shard,item_revenants_brooch,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 65{item_attacker_midas_agi,item_devastator,item_infinity_moon_shard,item_revenants_brooch,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
-69{item_attacker_midas_agi,item_devastator,item_infinity_moon_shard,item_revenants_brooch,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+70{item_attacker_midas_agi,item_devastator,item_infinity_moon_shard,item_revenants_brooch,item_radiance_prc,item_trident_custom,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
