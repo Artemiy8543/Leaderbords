@@ -32,4 +32,5 @@
 100{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_meteor_hammer,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 00105{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_meteor_hammer,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 109{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_meteor_hammer,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-00114{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_meteor_hammer,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+00113{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_meteor_hammer,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+115{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_meteor_hammer,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
