@@ -58,4 +58,4 @@
 00354{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_meteor_hammer,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 359{item_gladiator_guard,item_trident_custom,item_revenants_brooch,-,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 363{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_great_magic_crit,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-00365{item_gladiator_guard,item_trident_custom,item_revenants_brooch,-,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+00366{item_gladiator_guard,item_trident_custom,item_revenants_brooch,-,item_devastator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
