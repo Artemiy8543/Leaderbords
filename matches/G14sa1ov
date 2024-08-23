@@ -7,3 +7,4 @@
 12{item_attacker_midas_agi,item_ultimate_scepter,item_radiance_prc,item_bloodstone_shield,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 15{item_attacker_midas_agi,item_ultimate_scepter,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 18{item_attacker_midas_agi,item_rapier,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+19{item_attacker_midas_agi,item_rapier,item_rapier,item_bloodstone_shield,item_trident_custom,item_rapier,}{-,-,-,}{item_great_magic_crit,-,-,-,-,-,}{item_ceremonial_robe,};
