@@ -4,4 +4,5 @@
 4{item_hand_of_midas,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_hand_of_midas,item_maelstrom,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 007{item_hand_of_midas,item_maelstrom,item_radiance,item_urn_of_shadows,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
-009{item_hand_of_midas,item_maelstrom,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+008{item_hand_of_midas,item_maelstrom,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+10{item_hand_of_midas,item_maelstrom,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
