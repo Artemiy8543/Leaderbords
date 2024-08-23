@@ -10,3 +10,4 @@
 21{item_radiance_prc,item_kaya_and_sange,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
 23{item_radiance_prc,item_great_magic_crit,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
 0025{item_radiance_prc,item_great_magic_crit,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_bfury,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
+26{item_radiance_prc,item_great_magic_crit,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
