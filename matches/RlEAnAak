@@ -6,4 +6,4 @@
 7{item_attacker_midas_agi,item_vladimir_pact,item_bfury,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 008{item_attacker_midas_agi,item_vladimir_pact,item_bfury,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 009{item_attacker_midas_agi,item_vladimir_pact,item_bfury,item_lotus_cuirass,-,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-0010{item_attacker_midas_agi,item_vladimir_pact,item_bfury,item_lotus_cuirass,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+0011{item_attacker_midas_agi,item_gladiator_guard,item_bfury,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
