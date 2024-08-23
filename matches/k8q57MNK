@@ -2,3 +2,4 @@
 005{item_voodoo_mask,item_radiance,item_vitality_booster,item_energy_booster,item_void_stone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bloodstone,item_radiance,item_vanguard,item_ring_of_tarrasque,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 8{item_bloodstone,item_radiance,item_vanguard,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+009{item_bloodstone,item_radiance,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
