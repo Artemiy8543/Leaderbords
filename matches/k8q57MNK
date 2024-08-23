@@ -8,4 +8,5 @@
 0013{item_bloodstone,item_radiance_prc,item_gladiator_guard,item_attacker_midas_agi,item_manta,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 14{item_devastator,item_gladiator_guard,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_meteor_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 0016{item_devastator,item_infinity_moon_shard,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_meteor_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
-19{item_devastator,item_infinity_moon_shard,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_meteor_hammer,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+18{item_devastator,item_infinity_moon_shard,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_meteor_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+20{item_devastator,item_infinity_moon_shard,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_meteor_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
