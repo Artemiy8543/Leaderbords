@@ -15,4 +15,4 @@
 30{item_butterfly,item_trident_custom,item_gladiator_guard,item_infinity_moon_shard,item_creep_desolator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0033{item_butterfly,item_trident_custom,item_gladiator_guard,item_infinity_moon_shard,item_creep_desolator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 36{item_butterfly,item_trident_custom,item_gladiator_guard,item_infinity_moon_shard,item_creep_desolator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-0040{item_revenants_brooch,item_trident_custom,item_gladiator_guard,item_infinity_moon_shard,item_creep_desolator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0041{item_gladiator_guard,item_trident_custom,item_revenants_brooch,item_infinity_moon_shard,item_creep_desolator,item_greater_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
