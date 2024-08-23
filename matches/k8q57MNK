@@ -29,4 +29,4 @@
 990{item_disperser,item_creep_desolator,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_radiance_prc,}{item_vladmir,-,-,}{-,item_devastator,-,-,-,-,}{item_grove_bow,};
 1055{item_vladmir,item_creep_desolator,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_radiance_prc,}{item_devastator,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 1060{item_greater_crit,item_creep_desolator,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_radiance_prc,}{item_devastator,item_vladmir,-,}{-,-,-,-,-,-,}{item_grove_bow,};
-001063{item_greater_crit,item_creep_desolator,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_radiance_prc,}{item_devastator,item_vladmir,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+001064{item_greater_crit,item_creep_desolator,item_revenants_brooch,item_attacker_midas_agi,item_trident_custom,item_radiance_prc,}{item_devastator,item_vladmir,-,}{-,-,-,-,-,-,}{item_grove_bow,};
