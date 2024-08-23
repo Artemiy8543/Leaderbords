@@ -9,5 +9,6 @@
 18{item_attacker_midas_agi,item_rapier,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 19{item_attacker_midas_agi,item_rapier,item_rapier,item_bloodstone_shield,item_trident_custom,item_rapier,}{-,-,-,}{item_great_magic_crit,-,-,-,-,-,}{item_ceremonial_robe,};
 21{item_attacker_midas_agi,item_rapier,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,}{-,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_ceremonial_robe,};
-23{item_attacker_midas_agi,item_rapier,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,}{-,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_ceremonial_robe,};
-0025{item_attacker_midas_agi,item_rapier,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,}{-,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_ceremonial_robe,};
+22{item_attacker_midas_agi,item_rapier,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,}{-,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_ceremonial_robe,};
+0024{item_attacker_midas_agi,item_rapier,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,}{-,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_ceremonial_robe,};
+0026{item_attacker_midas_agi,item_rapier,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,}{-,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_ceremonial_robe,};
