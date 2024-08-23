@@ -5,4 +5,5 @@
 10{item_gladiator_guard,item_blade_midas,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 12{item_gladiator_guard,item_blade_midas,item_vladmir,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 13{item_gladiator_guard,item_blade_midas,item_vladmir,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
-16{item_gladiator_guard,item_blade_midas,item_vladmir,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
+15{item_gladiator_guard,item_blade_midas,item_vladmir,item_trident_custom,item_lotus_cuirass,-,}{item_pupils_gift,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
+17{item_gladiator_guard,item_blade_midas,item_vladmir,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
