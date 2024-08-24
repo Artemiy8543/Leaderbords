@@ -2,3 +2,4 @@
 2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 004{item_flask,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+5{item_flask,item_vladmir,item_buckler,item_ring_of_basilius,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
