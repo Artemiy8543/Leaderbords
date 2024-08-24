@@ -17,4 +17,4 @@
 36{item_bloodstone_shield,item_vladimir_pact,item_lotus_cuirass,item_trident_custom,item_blade_midas,item_infinity_moon_shard,}{item_radiance_prc,item_refresher_core,-,}{-,-,-,-,-,-,}{-,};
 41{item_bloodstone_shield,item_vladimir_pact,item_lotus_cuirass,item_trident_custom,item_blade_midas,item_infinity_moon_shard,}{item_radiance_prc,item_refresher_core,-,}{-,-,-,-,-,-,}{-,};
 42{item_bloodstone_shield,item_vladimir_pact,item_lotus_cuirass,item_trident_custom,item_blade_midas,item_infinity_moon_shard,}{item_radiance_prc,item_refresher_core,item_infinity_moon_shard,}{-,-,-,-,-,-,}{-,};
-43{item_refresher_core,item_vladimir_pact,item_lotus_cuirass,item_trident_custom,item_blade_midas,item_infinity_moon_shard,}{item_radiance_prc,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{-,};
+44{item_refresher_core,item_vladimir_pact,item_lotus_cuirass,item_trident_custom,item_blade_midas,item_infinity_moon_shard,}{item_radiance_prc,item_bloodstone_shield,item_infinity_moon_shard,}{-,-,-,-,-,-,}{-,};
