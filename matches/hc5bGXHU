@@ -11,4 +11,5 @@
 00112{item_meteor_rain,item_gladiator_guard,item_radiance_prc,item_kaya_and_sange,item_bloodstone_shield,item_octarine_core,}{item_hand_of_midas,item_lightning_sword,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 00115{item_meteor_rain,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_octarine_core,}{item_hand_of_midas,item_lightning_sword,item_kaya_and_sange,}{-,-,-,-,-,-,}{item_giants_ring,};
 00116{item_meteor_rain,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_octarine_core,}{item_hand_of_midas,item_lightning_sword,item_kaya_and_sange,}{-,-,-,-,-,-,}{item_giants_ring,};
-00120{item_meteor_rain,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_octarine_core,}{item_hand_of_midas,item_lightning_sword,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+00119{item_meteor_rain,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_octarine_core,}{item_hand_of_midas,item_lightning_sword,item_kaya_and_sange,}{-,-,-,-,-,-,}{item_giants_ring,};
+00121{item_meteor_rain,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_octarine_core,}{item_hand_of_midas,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
