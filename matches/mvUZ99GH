@@ -13,5 +13,5 @@
 30{item_radiance_prc,item_gladiator_guard,item_trident_custom,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 32{item_radiance_prc,item_gladiator_guard,item_trident_custom,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 33{-,item_gladiator_guard,item_trident_custom,item_great_magic_crit3,-,-,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
-35{-,item_gladiator_guard,item_trident_custom,item_great_magic_crit3,-,-,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
-37{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_great_magic_crit3,-,-,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+36{-,item_gladiator_guard,item_trident_custom,item_great_magic_crit3,-,-,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+38{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_great_magic_crit3,-,-,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
