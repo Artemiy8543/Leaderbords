@@ -23,5 +23,6 @@
 27{item_creep_desolator,item_lightning_sword,item_lotus_cuirass,item_gladiator_guard,item_armlet_of_mjolnir,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 29{item_creep_desolator,item_lightning_sword,item_lotus_cuirass,item_gladiator_guard,item_armlet_of_mjolnir,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 31{item_creep_desolator,item_lightning_sword,item_lotus_cuirass,item_gladiator_guard,item_attacker_midas_str,item_infinity_moon_shard,}{item_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
-0033{item_creep_desolator,item_lightning_sword,item_lotus_cuirass,item_gladiator_guard,item_attacker_midas_str,item_infinity_moon_shard,}{item_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
-0035{item_creep_desolator,item_lightning_sword,item_lotus_cuirass,item_gladiator_guard,item_attacker_midas_str,item_infinity_moon_shard,}{item_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
+0032{item_creep_desolator,item_lightning_sword,item_lotus_cuirass,item_gladiator_guard,item_attacker_midas_str,item_infinity_moon_shard,}{item_armlet_of_mjolnir,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_force_boots,};
+34{item_creep_desolator,item_lightning_sword,item_lotus_cuirass,item_gladiator_guard,item_attacker_midas_str,item_infinity_moon_shard,}{item_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
+0036{item_creep_desolator,item_lightning_sword,item_lotus_cuirass,item_gladiator_guard,item_attacker_midas_str,item_infinity_moon_shard,}{item_armlet_of_mjolnir,item_agi_book,-,}{-,-,-,-,-,-,}{item_force_boots,};
