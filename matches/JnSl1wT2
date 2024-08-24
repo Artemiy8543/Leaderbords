@@ -3,4 +3,5 @@
 8{item_ultimate_scepter,item_ring_of_protection,-,item_platemail,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_ultimate_scepter,-,item_assault,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_ultimate_scepter,item_pers,item_assault,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_ultimate_scepter,item_heart,item_lotus_cuirass,item_vanguard,item_helm_of_iron_will,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_ultimate_scepter,-,item_lotus_cuirass,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_ultimate_scepter,item_gladiator_guard,item_lotus_cuirass,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
