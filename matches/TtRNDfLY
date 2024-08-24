@@ -1,2 +1,2 @@
 72+76561199067290366=3{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_attacker_midas_agi,-,-,-,-,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_attacker_midas_agi,item_buckler,item_platemail,-,-,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
