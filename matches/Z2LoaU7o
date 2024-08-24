@@ -8,4 +8,4 @@
 17{item_bloodstone_shield,item_gladiator_guard,item_manaback3,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 0019{item_bloodstone_shield,item_gladiator_guard,item_manaback3,item_radiance_prc,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 20{item_bloodstone_shield,item_gladiator_guard,item_manaback3,item_radiance_prc,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-0021{item_bloodstone_shield,item_gladiator_guard,item_manaback3,item_radiance_prc,item_trident_custom,item_meteor_rain,}{item_great_magic_crit,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+0022{item_bloodstone_shield,item_gladiator_guard,item_manaback3,item_radiance_prc,item_trident_custom,item_great_magic_crit,}{item_meteor_rain,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
