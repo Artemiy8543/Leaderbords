@@ -10,3 +10,4 @@
 22{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_manaback3,item_great_magic_crit3,item_attacker_midas_int,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 24{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_manaback3,item_great_magic_crit3,item_attacker_midas_int,}{item_psychic_headband,item_tier2_token,-,}{-,-,-,-,-,-,}{item_grisgris,};
 26{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_manaback3,item_great_magic_crit3,item_attacker_midas_int,}{item_psychic_headband,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+0027{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_manaback3,item_great_magic_crit3,item_bloodstone_shield,}{item_psychic_headband,item_tier4_token,-,}{-,-,-,-,-,-,}{item_grisgris,};
