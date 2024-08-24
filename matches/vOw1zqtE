@@ -7,4 +7,4 @@
 13{item_radiance_prc,item_gladiator_guard,item_attacker_midas_agi,item_trident_custom,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 15{item_radiance_prc,-,item_attacker_midas_agi,item_trident_custom,item_butterfly,item_butterfly,}{item_grove_bow,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 0017{item_radiance_prc,item_infinity_moon_shard,item_attacker_midas_agi,item_trident_custom,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
-19{item_radiance_prc,item_infinity_moon_shard,item_attacker_midas_agi,item_trident_custom,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+20{item_radiance_prc,-,item_attacker_midas_agi,item_trident_custom,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
