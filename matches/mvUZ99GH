@@ -17,4 +17,4 @@
 38{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_great_magic_crit3,-,-,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 40{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_great_magic_crit3,item_vladimir_pact,item_voodoo_mask,}{item_radiance_prc,item_vitality_booster,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 42{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_great_magic_crit3,item_vladimir_pact,-,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
-44{item_lotus_cuirass,item_gladiator_guard,-,item_great_magic_crit3,item_vladimir_pact,-,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+45{item_lotus_cuirass,item_gladiator_guard,-,item_great_magic_crit3,item_vladimir_pact,-,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
