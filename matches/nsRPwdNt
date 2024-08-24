@@ -5,4 +5,4 @@
 13{item_butterfly,-,item_satanic_of_madness,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 0014{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 15{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,item_great_crit_custom2,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
-0016{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+0017{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
