@@ -2,3 +2,4 @@
 2{item_arcane_boots,item_gloves,item_javelin,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_arcane_boots,item_maelstrom,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_arcane_boots,item_maelstrom,item_buckler,item_platemail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_arcane_boots,item_maelstrom,item_buckler,item_platemail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
