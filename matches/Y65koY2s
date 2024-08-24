@@ -14,4 +14,4 @@
 27{item_flask,item_vladimir_pact,item_shivas_strom,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 31{item_flask,item_vladimir_pact,item_shivas_strom,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 198{item_flask,item_vladimir_pact,item_shivas_strom,item_shivas_guard,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-333{item_phylactery_blade,item_vladimir_pact,item_shivas_strom,item_shivas_guard,item_radiance_prc,item_trident_custom,}{item_flask,-,-,}{-,-,-,-,-,-,}{-,};
+334{item_phylactery_blade,item_vladimir_pact,item_shivas_strom,item_shivas_guard,item_radiance_prc,item_trident_custom,}{item_flask,-,-,}{-,-,-,-,-,-,}{-,};
