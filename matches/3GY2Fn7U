@@ -1,4 +1,5 @@
 14+76561198094562058=2{item_bracer,item_bracer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_str,item_bracer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_attacker_midas_str,item_bracer,item_heart,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_attacker_midas_str,item_bracer,item_gladiator_guard,item_voodoo_mask,item_veil_of_discord,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+5{item_attacker_midas_str,item_bracer,item_ring_of_tarrasque,item_voodoo_mask,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_attacker_midas_str,item_bracer,item_heart,item_voodoo_mask,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+009{item_shivas_guard,item_bracer,item_gladiator_guard,item_voodoo_mask,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
