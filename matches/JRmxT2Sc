@@ -3,3 +3,4 @@
 3{item_arcane_boots,item_maelstrom,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_arcane_boots,item_maelstrom,item_buckler,item_platemail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_arcane_boots,item_maelstrom,item_buckler,item_platemail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_arcane_boots,item_maelstrom,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
