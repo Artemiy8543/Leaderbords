@@ -9,4 +9,5 @@
 0016{item_radiance_prc,item_vladimir_pact,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 18{item_radiance_prc,item_vladimir_pact,item_lotus_cuirass,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 20{item_radiance_prc,item_vladimir_pact,item_lotus_cuirass,item_trident_custom,item_blade_midas,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-24{item_radiance_prc,item_vladimir_pact,item_lotus_cuirass,item_trident_custom,item_blade_midas,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+23{item_radiance_prc,item_vladimir_pact,item_lotus_cuirass,item_trident_custom,item_blade_midas,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+25{item_radiance_prc,item_vladimir_pact,item_lotus_cuirass,item_trident_custom,item_blade_midas,item_infinity_moon_shard,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{-,};
