@@ -9,3 +9,4 @@
 9{item_arcane_boots,item_maelstrom,item_assault,item_heart,item_mask_of_madness,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_arcane_boots,item_maelstrom,item_assault,item_heart,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_arcane_boots,item_maelstrom,item_assault,item_heart,item_satanic_of_madness,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_arcane_boots,-,item_assault,item_heart,item_armlet_of_mjolnir,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
