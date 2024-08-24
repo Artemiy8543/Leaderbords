@@ -19,4 +19,5 @@
 00128{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_trident_custom,item_great_magic_crit3,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 00131{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_trident_custom,item_great_magic_crit3,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 00134{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
-00139{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+00138{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+00140{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
