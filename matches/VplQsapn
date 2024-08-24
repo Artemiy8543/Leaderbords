@@ -10,3 +10,4 @@
 20{item_veil_of_dagon,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 22{item_veil_of_dagon,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 24{item_veil_of_dagon,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+25{item_veil_of_dagon,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit,item_gladiator_guard,}{-,item_tier5_token,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
