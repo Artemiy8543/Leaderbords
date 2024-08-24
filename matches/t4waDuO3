@@ -3,4 +3,5 @@
 4{item_midas_component,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{-,-,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{-,-,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_radiance_prc,item_bloodstone_shield,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_radiance_prc,-,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_radiance_prc,item_bloodstone_shield,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
