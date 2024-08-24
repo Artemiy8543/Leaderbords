@@ -4,4 +4,4 @@
 009{item_radiance_prc,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 11{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 13{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
-16{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_trident_custom,item_phylactery_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
+17{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_trident_custom,item_phylactery_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
