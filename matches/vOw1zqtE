@@ -2,4 +2,4 @@
 4{item_urn_of_shadows,item_radiance,-,-,-,-,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_radiance_prc,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_radiance_prc,item_ring_of_tarrasque,item_crimson_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_radiance_prc,item_gladiator_guard,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_radiance_prc,item_gladiator_guard,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
