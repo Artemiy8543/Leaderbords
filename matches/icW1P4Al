@@ -4,3 +4,4 @@
 8{item_radiance_prc,item_buckler,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance_prc,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_radiance_prc,item_vladmir,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_radiance_prc,item_vladmir,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
