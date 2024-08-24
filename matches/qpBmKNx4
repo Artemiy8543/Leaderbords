@@ -3,3 +3,4 @@
 008{item_lifesteal,item_heart,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 009{item_mask_of_madness,item_gladiator_guard,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 10{item_mask_of_madness,item_gladiator_guard,item_assault,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+13{item_mask_of_madness,item_gladiator_guard,item_assault,item_bfury,item_desolator,-,}{item_spark_of_courage,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
