@@ -8,4 +8,5 @@
 9{item_flask,item_vladimir_pact,item_helm_of_iron_will,item_crown,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_flask,item_vladimir_pact,item_shivas_strom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0014{item_flask,item_vladimir_pact,item_shivas_strom,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-17{item_flask,item_vladimir_pact,item_shivas_strom,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_flask,item_vladimir_pact,item_shivas_strom,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+18{item_flask,item_vladimir_pact,item_shivas_strom,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
