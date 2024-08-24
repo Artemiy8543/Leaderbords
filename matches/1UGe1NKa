@@ -5,6 +5,6 @@
 6{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{-,-,item_platemail,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_talisman_of_evasion,-,item_platemail,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_talisman_of_evasion,-,item_platemail,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_radiance,item_ward_observer,item_assault,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{item_radiance_prc,item_ward_observer,item_assault,item_voodoo_mask,-,item_attacker_midas_int,}{-,-,-,}{item_soul_booster,-,-,-,-,-,}{-,};
+10{item_radiance,item_ward_observer,item_platemail,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_radiance_prc,item_ward_observer,item_assault,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_radiance_prc,item_ward_observer,item_assault,item_bloodstone,item_ring_of_health,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
