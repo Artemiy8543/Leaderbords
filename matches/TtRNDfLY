@@ -6,3 +6,4 @@
 0016{item_attacker_midas_agi,item_ultimate_scepter,item_satanic,item_butterfly,item_octarine_core,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 19{item_attacker_midas_agi,item_ultimate_scepter,item_satanic,item_butterfly,item_octarine_core,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 0021{item_attacker_midas_agi,item_ultimate_scepter,item_satanic,item_butterfly,item_octarine_core,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+22{item_attacker_midas_agi,item_basher_slardar,item_satanic,item_butterfly,item_basher_slardar,item_lotus_cuirass,}{item_tier5_token,item_octarine_core,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
