@@ -3,3 +3,4 @@
 4{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{-,-,item_platemail,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
