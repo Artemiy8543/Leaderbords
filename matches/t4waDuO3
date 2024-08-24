@@ -15,4 +15,5 @@
 27{item_radiance_prc,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_blade_midas,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 0029{item_radiance_prc,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 0031{item_radiance_prc,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
-0033{item_radiance_prc,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_blade_midas,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+0032{item_radiance_prc,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+0034{item_radiance_prc,item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
