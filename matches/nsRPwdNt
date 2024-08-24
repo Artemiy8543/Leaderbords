@@ -10,4 +10,4 @@
 20{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 0022{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
 0023{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_agi_book,item_great_crit_custom3,item_butterfly,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
-0025{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
+0026{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
