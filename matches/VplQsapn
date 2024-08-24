@@ -3,3 +3,4 @@
 008{item_gladiator_guard,item_bloodstone,item_energy_booster,item_ring_of_protection,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 9{item_gladiator_guard,item_bloodstone_shield,item_kaya_and_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 0010{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+11{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_radiance,item_urn_of_shadows,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
