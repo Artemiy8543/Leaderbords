@@ -4,3 +4,4 @@
 7{item_attacker_midas_str,item_bracer,item_heart,item_voodoo_mask,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 009{item_shivas_guard,item_bracer,item_gladiator_guard,item_voodoo_mask,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_shivas_strom,item_bracer,item_gladiator_guard,item_voodoo_mask,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_shivas_strom,item_bracer,item_gladiator_guard,item_bloodstone,item_attacker_midas_str,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
