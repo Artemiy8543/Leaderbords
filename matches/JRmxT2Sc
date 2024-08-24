@@ -15,3 +15,4 @@
 16{item_radiance_prc,item_butterfly,item_assault,item_gladiator_guard,item_armlet_of_mjolnir,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_radiance_prc,item_butterfly,item_assault,item_gladiator_guard,item_armlet_of_mjolnir,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0019{item_radiance_prc,item_butterfly,item_lotus_cuirass,item_gladiator_guard,item_armlet_of_mjolnir,item_lightning_sword,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+20{item_creep_desolator,item_butterfly,item_lotus_cuirass,item_gladiator_guard,item_armlet_of_mjolnir,item_lightning_sword,}{-,-,-,}{-,-,-,-,-,-,}{-,};
