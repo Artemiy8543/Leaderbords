@@ -9,3 +9,4 @@
 13{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_kaya,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 0014{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 15{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+16{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_attacker_midas_str,item_blade_mail,}{item_recipe_blade_midas,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
