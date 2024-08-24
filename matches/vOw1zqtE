@@ -3,4 +3,4 @@
 6{item_radiance_prc,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_radiance_prc,item_ring_of_tarrasque,item_crimson_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_radiance_prc,item_gladiator_guard,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_radiance_prc,item_gladiator_guard,item_attacker_midas_agi,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
+12{item_radiance_prc,item_gladiator_guard,item_attacker_midas_agi,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
