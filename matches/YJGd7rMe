@@ -6,4 +6,4 @@
 16{item_ultimate_scepter,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 18{-,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 19{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-21{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+23{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
