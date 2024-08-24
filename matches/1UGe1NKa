@@ -9,3 +9,4 @@
 12{item_radiance_prc,item_ward_observer,item_assault,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0014{item_radiance_prc,item_ward_observer,item_assault,item_bloodstone,item_ring_of_health,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_radiance_prc,item_pers,item_assault,item_bloodstone,item_platemail,item_attacker_midas_int,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_radiance_prc,-,item_lotus_cuirass,item_bloodstone,-,item_attacker_midas_int,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{-,};
