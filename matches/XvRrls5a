@@ -10,4 +10,4 @@
 0042{item_radiance_prc,item_gladiator_guard,item_manaback,item_trident_custom,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 46{item_radiance_prc,item_gladiator_guard,-,item_trident_custom,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 0049{item_radiance_prc,item_shivas_strom,item_shivas_guard,item_trident_custom,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
-53{item_radiance_prc,item_shivas_strom,item_trident_custom,item_shivas_guard,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
+54{item_radiance_prc,item_shivas_strom,item_trident_custom,item_shivas_guard,item_phylactery_blade,item_great_magic_crit3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
