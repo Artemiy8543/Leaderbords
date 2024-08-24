@@ -2,3 +2,4 @@
 4{item_blight_stone,item_maelstrom,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_blight_stone,item_maelstrom,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_blight_stone,item_maelstrom,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_blight_stone,item_maelstrom,item_lifesteal,item_assault,item_skadi,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{-,};
