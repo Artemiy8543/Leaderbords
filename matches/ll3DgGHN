@@ -5,3 +5,4 @@
 0010{item_gladiator_guard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
 12{item_gladiator_guard,item_lotus_cuirass,item_creep_desolator,item_greater_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
 14{item_gladiator_guard,item_lotus_cuirass,item_creep_desolator,item_greater_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
+0015{item_gladiator_guard,item_lotus_cuirass,item_creep_desolator,item_greater_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
