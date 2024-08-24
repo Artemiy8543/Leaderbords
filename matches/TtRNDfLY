@@ -3,4 +3,4 @@
 7{item_attacker_midas_agi,item_assault,item_pers,-,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 009{item_attacker_midas_agi,-,-,-,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 12{item_attacker_midas_agi,item_ultimate_scepter,item_lifesteal,-,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-0016{item_attacker_midas_agi,item_ultimate_scepter,item_satanic,item_butterfly,item_octarine_core,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+0017{item_attacker_midas_agi,item_ultimate_scepter,item_satanic,item_butterfly,item_octarine_core,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
