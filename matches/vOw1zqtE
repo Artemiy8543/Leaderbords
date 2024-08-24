@@ -95,4 +95,5 @@
 1458{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_revenants_brooch,item_shivas_strom,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 001461{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_revenants_brooch,item_devastator,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 1464{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_revenants_brooch,item_devastator,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
-001468{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_revenants_brooch,item_devastator,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+001467{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_revenants_brooch,item_devastator,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+1469{item_radiance_prc,item_attacker_midas_agi,item_trident_custom,item_revenants_brooch,item_devastator,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
