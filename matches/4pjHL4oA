@@ -17,4 +17,4 @@
 0034{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_manaback3,item_great_magic_crit,item_rapier,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_cloak_of_flames,};
 36{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_manaback3,item_great_magic_crit,item_rapier,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_cloak_of_flames,};
 37{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_manaback3,item_great_magic_crit,-,}{-,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_cloak_of_flames,};
-46{item_radiance_prc,item_great_magic_crit,item_rapier,item_manaback3,item_great_magic_crit,item_refresher_core,}{item_bloodstone_shield,-,-,}{-,item_rapier,-,-,-,-,}{item_cloak_of_flames,};
+47{item_radiance_prc,item_refresher_core,item_rapier,item_manaback3,item_great_magic_crit,item_great_magic_crit,}{item_bloodstone_shield,-,-,}{-,item_rapier,-,-,-,-,}{item_cloak_of_flames,};
