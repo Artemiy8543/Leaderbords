@@ -3,3 +3,4 @@
 5{item_attacker_midas_str,item_bracer,item_ring_of_tarrasque,item_voodoo_mask,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_str,item_bracer,item_heart,item_voodoo_mask,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 009{item_shivas_guard,item_bracer,item_gladiator_guard,item_voodoo_mask,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0010{item_shivas_strom,item_bracer,item_gladiator_guard,item_voodoo_mask,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
