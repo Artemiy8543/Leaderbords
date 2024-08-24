@@ -7,4 +7,4 @@
 15{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_phylactery_blade,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 0021{item_radiance_prc,item_gladiator_guard,-,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 26{item_radiance_prc,item_shivas_strom,item_shivas_guard,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-0030{item_radiance_prc,item_shivas_strom,item_shivas_guard,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+0031{item_radiance_prc,item_shivas_strom,item_shivas_guard,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
