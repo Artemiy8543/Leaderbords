@@ -6,5 +6,5 @@
 12{item_ultimate_scepter,-,item_lotus_cuirass,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_ultimate_scepter,item_gladiator_guard,item_lotus_cuirass,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 0016{item_ultimate_scepter,item_gladiator_guard,item_lotus_cuirass,-,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
-17{-,item_gladiator_guard,item_lotus_cuirass,item_infinity_moon_shard,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
-0019{item_trident_custom,item_gladiator_guard,item_lotus_cuirass,item_infinity_moon_shard,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+18{item_trident_custom,item_gladiator_guard,item_lotus_cuirass,item_infinity_moon_shard,-,item_bloodstone_shield,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+0020{item_trident_custom,item_gladiator_guard,item_lotus_cuirass,item_infinity_moon_shard,item_bfury,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
