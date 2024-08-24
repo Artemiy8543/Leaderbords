@@ -4,3 +4,4 @@
 6{item_shivas_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_shivas_guard,item_blink,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_shivas_guard,item_blink,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_shivas_guard,item_blink,-,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
