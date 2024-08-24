@@ -18,4 +18,4 @@
 26{item_radiance_prc,item_infinity_moon_shard,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_attacker_midas_int,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 28{item_radiance_prc,item_infinity_moon_shard,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_attacker_midas_int,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0030{item_radiance_prc,item_infinity_moon_shard,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_attacker_midas_int,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-0032{item_radiance_prc,item_infinity_moon_shard,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_attacker_midas_int,}{item_ward_observer,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_desolator_2,};
+0033{item_radiance_prc,item_infinity_moon_shard,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_attacker_midas_int,}{item_ward_observer,item_infinity_moon_shard,item_infinity_moon_shard,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,-,-,}{item_desolator_2,};
