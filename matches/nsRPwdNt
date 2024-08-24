@@ -2,3 +2,4 @@
 009{item_talisman_of_evasion,item_claymore,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 10{item_talisman_of_evasion,item_claymore,item_satanic,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 12{item_talisman_of_evasion,item_claymore,item_satanic_of_madness,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+13{item_butterfly,-,item_satanic_of_madness,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
