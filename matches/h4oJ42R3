@@ -4,4 +4,4 @@
 8{item_radiance_prc,item_crimson_guard,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance_prc,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_phylactery,item_aether_lens,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-14{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_phylactery_blade,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+15{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_phylactery_blade,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
