@@ -9,4 +9,4 @@
 21{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0024{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 30{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_force_field,};
-33{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{item_infinity_moon_shard,item_str_book,-,}{-,-,-,-,-,-,}{item_force_field,};
+34{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{item_infinity_moon_shard,item_str_book,-,}{-,-,-,-,-,-,}{item_force_field,};
