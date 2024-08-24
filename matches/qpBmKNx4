@@ -7,3 +7,4 @@
 14{item_mask_of_madness,item_gladiator_guard,item_assault,item_bfury,item_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
 0015{item_mask_of_madness,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_desolator,-,}{item_dragon_scale,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
 16{item_mask_of_madness,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
+20{item_satanic_of_madness,item_gladiator_guard,item_lotus_cuirass,item_great_magic_crit2,item_creep_desolator,-,}{-,item_recipe_great_magic_crit3,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
