@@ -3,4 +3,4 @@
 5{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_radiance_prc,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 11{item_radiance_prc,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
-12{item_radiance_prc,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+13{item_radiance_prc,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
