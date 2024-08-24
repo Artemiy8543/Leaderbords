@@ -5,3 +5,4 @@
 10{item_mask_of_madness,item_gladiator_guard,item_assault,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 13{item_mask_of_madness,item_gladiator_guard,item_assault,item_bfury,item_desolator,-,}{item_spark_of_courage,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
 14{item_mask_of_madness,item_gladiator_guard,item_assault,item_bfury,item_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
+0015{item_mask_of_madness,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_desolator,-,}{item_dragon_scale,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
