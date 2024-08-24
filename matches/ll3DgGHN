@@ -12,3 +12,4 @@
 0019{item_gladiator_guard,item_lotus_cuirass,item_creep_desolator,item_greater_crit,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
 20{item_gladiator_guard,item_lotus_cuirass,item_creep_desolator,item_greater_crit,item_bfury,-,}{item_stormcrafter,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 21{item_gladiator_guard,item_lotus_cuirass,item_creep_desolator,item_greater_crit,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+22{item_gladiator_guard,item_lotus_cuirass,item_satanic_of_madness,item_greater_crit,item_bfury,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
