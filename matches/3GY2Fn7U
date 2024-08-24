@@ -13,3 +13,4 @@
 17{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_manaback3,item_blade_mail,}{item_recipe_blade_midas,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 18{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_manaback3,item_blade_mail,}{item_recipe_blade_midas,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 0019{item_shivas_strom,item_bloodstone_shield,item_blade_mail,item_trident_custom,item_manaback3,item_gladiator_guard,}{item_recipe_blade_midas,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0020{item_shivas_strom,item_bloodstone_shield,item_blade_mail,item_trident_custom,item_manaback3,item_gladiator_guard,}{item_recipe_blade_midas,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
