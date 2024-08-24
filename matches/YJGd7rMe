@@ -2,5 +2,5 @@
 004{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_point_booster,-,-,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_ultimate_scepter,item_bloodstone,-,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-14{item_ultimate_scepter,item_bloodstone_shield,-,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-16{item_ultimate_scepter,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_ultimate_scepter,item_bloodstone_shield,-,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+17{item_ultimate_scepter,item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
