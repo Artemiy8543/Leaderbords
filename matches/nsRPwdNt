@@ -14,3 +14,4 @@
 0027{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
 0029{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
 0031{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,}{item_agi_book,item_tier5_token,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
+0033{item_butterfly,item_creep_desolator,item_satanic_of_madness,item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,}{item_agi_book,item_tier5_token,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
