@@ -2,3 +2,4 @@
 6{item_radiance,item_sobi_mask,item_ring_of_protection,-,-,-,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance,item_urn_of_shadows,item_vitality_booster,-,-,-,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_radiance_prc,item_buckler,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_radiance_prc,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
