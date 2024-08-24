@@ -1,4 +1,5 @@
 30+76561198041710240=9{item_bloodstone_shield,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 0010{item_bloodstone_shield,item_gladiator_guard,item_manaback3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 0011{item_bloodstone_shield,item_gladiator_guard,item_manaback3,-,-,-,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-0013{item_bloodstone_shield,item_gladiator_guard,item_manaback3,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+0012{item_bloodstone_shield,item_gladiator_guard,item_manaback3,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+0014{item_bloodstone_shield,item_gladiator_guard,item_manaback3,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
