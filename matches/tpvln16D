@@ -32,4 +32,4 @@
 00240{item_attacker_midas_int,item_radiance_prc,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_vladimir_pact,}{item_null_talisman,item_null_talisman,item_agi_book,}{-,-,-,-,-,-,}{item_giants_ring,};
 244{item_attacker_midas_int,item_radiance_prc,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_vladimir_pact,}{item_null_talisman,item_null_talisman,item_agi_book,}{-,-,-,-,-,-,}{item_giants_ring,};
 00251{item_attacker_midas_int,item_radiance_prc,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_vladimir_pact,}{item_null_talisman,item_null_talisman,item_agi_book,}{-,-,-,-,-,-,}{item_giants_ring,};
-255{item_attacker_midas_int,item_radiance_prc,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_vladimir_pact,}{item_null_talisman,item_null_talisman,item_agi_book,}{-,-,-,-,-,-,}{item_giants_ring,};
+256{item_attacker_midas_int,item_radiance_prc,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_vladimir_pact,}{item_null_talisman,item_null_talisman,item_agi_book,}{-,-,-,-,-,-,}{item_giants_ring,};
