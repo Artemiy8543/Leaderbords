@@ -5,4 +5,5 @@
 14{item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_abyssal_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
 16{item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_abyssal_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
 0018{item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_abyssal_blade,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
-20{item_satanic_of_madness,item_butterfly,item_gladiator_guard,item_abyssal_blade,item_shivas_strom,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
+19{item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_abyssal_blade,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
+0021{item_satanic_of_madness,item_butterfly,item_gladiator_guard,item_abyssal_blade,item_shivas_strom,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
