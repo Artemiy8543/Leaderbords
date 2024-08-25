@@ -17,3 +17,4 @@
 29{item_hand_of_midas,item_satanic,item_mjollnir,item_ultimate_boots,item_great_magic_crit3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
 31{item_gladiator_guard,item_satanic,item_trident_custom,item_ultimate_boots,item_great_magic_crit3,item_butterfly,}{item_hand_of_midas,item_mjollnir,-,}{-,-,-,-,-,-,}{item_apex,};
 0033{item_gladiator_guard,item_satanic,item_trident_custom,item_ultimate_boots,item_great_magic_crit3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
+34{item_gladiator_guard,item_satanic_of_madness,item_trident_custom,item_creep_desolator,item_great_magic_crit3,item_butterfly,}{item_ultimate_boots,-,-,}{-,-,-,-,-,-,}{item_apex,};
