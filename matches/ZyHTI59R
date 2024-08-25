@@ -2,3 +2,4 @@
 5{item_radiance,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 7{item_radiance_prc,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 8{item_radiance_prc,item_bloodstone_shield,item_staff_of_wizardry,item_robe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+9{item_radiance_prc,item_bloodstone_shield,item_kaya_and_sange,item_blade_of_alacrity,item_boots_of_elves,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
