@@ -2,3 +2,4 @@
 3{item_gloves,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_gloves,item_attacker_midas_str,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_phase_boots,item_attacker_midas_str,item_blade_mail,item_gloves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_phase_boots,item_attacker_midas_str,item_blade_mail,item_gloves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
