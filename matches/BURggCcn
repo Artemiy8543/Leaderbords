@@ -4,3 +4,4 @@
 006{item_phase_boots,item_attacker_midas_str,item_blade_mail,item_gloves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_phase_boots,item_attacker_midas_str,item_blade_mail,item_gloves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_phase_boots,item_attacker_midas_str,item_blade_mail,item_gloves,item_radiance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_phase_boots,item_attacker_midas_str,item_blade_mail,item_gloves,item_radiance,-,}{-,-,-,}{item_reaver,-,-,-,-,-,}{-,};
