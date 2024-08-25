@@ -2,3 +2,4 @@
 7{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_satanic_of_madness,item_butterfly,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_satanic_of_madness,item_butterfly,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_abyssal_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
