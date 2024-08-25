@@ -7,3 +7,4 @@
 009{item_bfury,item_tango,item_vladimir_pact,item_flask,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_bfury,item_tango,item_vladimir_pact,item_flask,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_bfury,item_tango,item_vladimir_pact,item_flask,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_bfury,item_tango,item_vladimir_pact,item_flask,item_bracer,-,}{-,-,-,}{item_moon_shard,-,-,-,-,-,}{-,};
