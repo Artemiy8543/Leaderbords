@@ -1,4 +1,4 @@
 99+76561198364285816=3{item_vanguard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_vanguard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_vanguard,item_bloodstone,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_bloodstone_shield,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_bloodstone_shield,item_tiara_of_selemene,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
