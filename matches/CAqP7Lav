@@ -2,3 +2,4 @@
 006{item_manta,item_wraith_band,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_manta,item_butterfly,item_mask_of_madness,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_manta,item_butterfly,item_satanic,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_manta,item_butterfly,item_satanic,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
