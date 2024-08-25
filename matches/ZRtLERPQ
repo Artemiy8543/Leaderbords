@@ -21,4 +21,5 @@
 38{item_satanic_of_madness,item_shivas_strom,item_creep_desolator,item_gladiator_guard,item_infinity_moon_shard,item_great_crit_custom3,}{item_agi_book,item_butterfly,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
 40{item_satanic_of_madness,item_shivas_strom,item_creep_desolator,item_gladiator_guard,item_butterfly,item_great_crit_custom3,}{item_recipe_great_crit_custom,item_recipe_great_crit_custom,item_recipe_great_crit_custom,}{-,-,-,-,-,-,}{item_trickster_cloak,};
 42{item_satanic_of_madness,item_shivas_strom,item_creep_desolator,item_gladiator_guard,item_butterfly,item_great_crit_custom3,}{item_monkey_king_bar,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
-44{item_satanic_of_madness,item_shivas_strom,item_creep_desolator,item_gladiator_guard,item_butterfly,item_great_crit_custom3,}{item_monkey_king_bar,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
+43{item_satanic_of_madness,item_shivas_strom,item_creep_desolator,item_gladiator_guard,item_butterfly,item_great_crit_custom3,}{item_monkey_king_bar,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
+0045{item_satanic_of_madness,item_shivas_strom,item_creep_desolator,item_gladiator_guard,item_trident_custom,item_great_crit_custom3,}{item_monkey_king_bar,item_butterfly,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
