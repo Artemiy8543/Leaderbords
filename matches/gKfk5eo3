@@ -9,4 +9,4 @@
 0017{item_bloodstone_shield,item_refresher_core,item_gladiator_guard,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 19{item_bloodstone_shield,item_refresher_core,item_gladiator_guard,item_trident_custom,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 21{item_bloodstone_shield,item_refresher_core,-,item_trident_custom,item_radiance_prc,item_manaback3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-23{item_bloodstone_shield,item_refresher_core,item_great_magic_crit3,item_trident_custom,item_radiance_prc,item_manaback3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+24{item_bloodstone_shield,item_refresher_core,item_great_magic_crit3,item_trident_custom,item_radiance_prc,item_manaback3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
