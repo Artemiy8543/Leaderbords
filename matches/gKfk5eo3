@@ -45,3 +45,4 @@
 90{item_bloodstone_shield,item_refresher_core,item_great_magic_crit3,item_trident_custom,item_radiance_prc,item_manaback3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0092{item_bloodstone_shield,item_refresher_core,item_great_magic_crit3,item_trident_custom,item_radiance_prc,item_manaback3,}{item_gladiator_guard,item_str_book,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 94{item_bloodstone_shield,item_refresher_core,item_great_magic_crit3,item_trident_custom,item_radiance_prc,item_manaback3,}{item_gladiator_guard,item_str_book,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0095{item_bloodstone_shield,item_refresher_core,item_great_magic_crit3,item_trident_custom,item_radiance_prc,item_manaback3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
