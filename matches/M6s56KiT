@@ -18,4 +18,5 @@
 0033{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_bloodstone_shield,item_attacker_midas_int,item_infinity_moon_shard,}{item_null_talisman,item_tier5_token,item_null_talisman,}{-,-,-,-,-,-,}{item_iron_talon,};
 0035{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_bloodstone_shield,item_attacker_midas_int,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,item_null_talisman,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 38{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_bloodstone_shield,item_attacker_midas_int,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,item_int_book,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-40{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_bloodstone_shield,item_attacker_midas_int,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,item_int_book,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+39{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_bloodstone_shield,item_attacker_midas_int,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,item_int_book,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+41{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_bloodstone_shield,item_attacker_midas_int,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,item_int_book,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
