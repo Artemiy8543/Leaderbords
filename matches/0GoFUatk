@@ -2,4 +2,4 @@
 4{item_radiance,item_urn_of_shadows,item_vitality_booster,-,-,-,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_radiance_prc,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_radiance_prc,item_trident_custom,item_vanguard,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_radiance_prc,item_trident_custom,item_crimson_guard,item_ring_of_tarrasque,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
