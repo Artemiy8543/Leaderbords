@@ -1,6 +1,7 @@
 96+76561198892134970=2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_blade_midas,item_gladiator_guard,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-009{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-0011{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_sange_and_yasha,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-0013{item_blade_mail,item_gladiator_guard,item_lotus_cuirass,item_sange_and_yasha,item_str_book,item_attacker_midas_str,}{-,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+6{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_blade_midas,item_gladiator_guard,item_assault,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+10{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+12{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_sange_and_yasha,-,-,}{-,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+14{item_blade_mail,item_gladiator_guard,item_lotus_cuirass,item_sange_and_yasha,item_str_book,item_attacker_midas_str,}{item_pupils_gift,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
