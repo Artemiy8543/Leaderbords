@@ -16,7 +16,7 @@
 23{item_vladimir_pact,item_gladiator_guard,item_blade_midas,item_armlet_of_mjolnir,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
 0025{item_vladimir_pact,item_gladiator_guard,item_blade_midas,item_armlet_of_mjolnir,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 26{item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,item_armlet_of_mjolnir,item_radiance_prc,item_lotus_cuirass,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-27{item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,item_armlet_of_mjolnir,item_radiance_prc,item_lotus_cuirass,}{item_blade_midas,item_moon_shard,item_hyperstone,}{-,-,-,-,-,-,}{item_elven_tunic,};
-29{item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,item_armlet_of_mjolnir,item_radiance_prc,item_lotus_cuirass,}{item_blade_midas,item_moon_shard,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-31{item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,item_armlet_of_mjolnir,item_radiance_prc,item_lotus_cuirass,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-33{item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,item_armlet_of_mjolnir,item_great_magic_crit,item_lotus_cuirass,}{item_blade_midas,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+28{item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,item_armlet_of_mjolnir,item_radiance_prc,item_lotus_cuirass,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0030{item_vladimir_pact,item_gladiator_guard,item_moon_shard,item_armlet_of_mjolnir,item_radiance_prc,item_lotus_cuirass,}{item_blade_midas,item_infinity_moon_shard,item_hyperstone,}{-,-,-,-,-,-,}{item_elven_tunic,};
+32{item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,item_armlet_of_mjolnir,item_radiance_prc,item_lotus_cuirass,}{item_blade_midas,item_great_magic_crit,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+34{item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,item_armlet_of_mjolnir,item_great_magic_crit3,item_lotus_cuirass,}{item_blade_midas,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
