@@ -3,4 +3,5 @@
 009{item_satanic_of_madness,item_butterfly,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_satanic_of_madness,item_butterfly,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_abyssal_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
-17{item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_abyssal_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
+16{item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_abyssal_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
+0018{item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_abyssal_blade,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
