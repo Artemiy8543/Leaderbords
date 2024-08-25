@@ -1,3 +1,4 @@
 14+76561198173587522=3{item_bracer,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_blade_midas,item_bracer,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_blade_midas,item_bracer,item_bloodstone,item_radiance,item_urn_of_shadows,item_vitality_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_blade_midas,item_bracer,item_bloodstone,item_radiance,item_urn_of_shadows,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_blade_midas,item_bracer,item_bloodstone,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
