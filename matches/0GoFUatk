@@ -4,3 +4,4 @@
 008{item_radiance_prc,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_radiance_prc,item_trident_custom,item_crimson_guard,item_ring_of_tarrasque,-,-,}{item_grove_bow,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 13{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+0014{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_ultimate_scepter,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
