@@ -14,3 +14,4 @@
 0021{item_infinity_moon_shard,item_gladiator_guard,item_lotus_cuirass,item_sange_and_yasha,item_trident_custom,item_attacker_midas_str,}{item_giants_ring,item_shivas_strom,item_blade_mail,}{-,-,-,-,-,-,}{item_vindicators_axe,};
 0022{item_infinity_moon_shard,item_gladiator_guard,item_lotus_cuirass,item_sange_and_yasha,item_trident_custom,item_attacker_midas_str,}{item_giants_ring,item_shivas_strom,item_blade_mail,}{-,-,-,-,-,-,}{-,};
 23{item_infinity_moon_shard,item_gladiator_guard,item_lotus_cuirass,item_sange_and_yasha,item_trident_custom,item_blade_midas,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+24{item_shivas_strom,item_gladiator_guard,item_lotus_cuirass,item_sange_and_yasha,item_trident_custom,item_blade_midas,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
