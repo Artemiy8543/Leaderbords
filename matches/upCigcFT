@@ -2,4 +2,5 @@
 5{item_blade_midas,item_bracer,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_blade_midas,item_bracer,item_bloodstone,item_radiance,item_urn_of_shadows,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_blade_midas,item_bracer,item_bloodstone,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
+11{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+13{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
