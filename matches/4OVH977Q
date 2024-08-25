@@ -13,5 +13,6 @@
 22{item_hand_of_midas,item_satanic,item_ultimate_boots,item_mjollnir,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 0023{item_agi_book,item_satanic,item_mjollnir,item_ultimate_boots,item_great_magic_crit3,item_butterfly,}{item_hand_of_midas,-,-,}{-,-,-,-,-,-,}{item_apex,};
 25{item_hand_of_midas,item_satanic,item_mjollnir,item_ultimate_boots,item_great_magic_crit3,item_butterfly,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_apex,};
-27{item_hand_of_midas,item_satanic,item_str_book,item_agi_book,item_great_magic_crit3,item_butterfly,}{item_ultimate_boots,item_mjollnir,-,}{-,-,-,-,-,-,}{item_apex,};
-29{item_hand_of_midas,item_satanic,item_mjollnir,item_ultimate_boots,item_great_magic_crit3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
+26{item_hand_of_midas,item_satanic,item_mjollnir,item_ultimate_boots,item_great_magic_crit3,item_butterfly,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_apex,};
+28{item_hand_of_midas,item_satanic,item_str_book,item_agi_book,item_great_magic_crit3,item_butterfly,}{item_ultimate_boots,item_mjollnir,-,}{-,-,-,-,-,-,}{item_apex,};
+30{item_gladiator_guard,item_satanic,item_mjollnir,item_ultimate_boots,item_great_magic_crit3,item_butterfly,}{item_hand_of_midas,-,-,}{-,-,-,-,-,-,}{item_apex,};
