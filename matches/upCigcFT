@@ -5,5 +5,5 @@
 11{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 13{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
 15{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
-16{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
-0018{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
+17{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
+19{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
