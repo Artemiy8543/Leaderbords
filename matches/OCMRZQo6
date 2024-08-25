@@ -4,4 +4,5 @@
 007{item_radiance_prc,item_vitality_booster,item_sobi_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_radiance_prc,item_bloodstone,item_sobi_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_radiance_prc,item_bloodstone,item_sobi_mask,item_ring_of_protection,item_fluffy_hat,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_radiance_prc,item_bloodstone_shield,item_sobi_mask,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_radiance_prc,item_bloodstone,item_sobi_mask,item_ring_of_protection,item_fluffy_hat,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_radiance_prc,item_bloodstone_shield,item_sobi_mask,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
