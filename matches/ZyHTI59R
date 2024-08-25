@@ -14,4 +14,5 @@
 28{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 30{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
 32{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
-35{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+34{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_ward_observer,item_radiance_prc,item_great_magic_crit3,}{item_phylactery_blade,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+36{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
