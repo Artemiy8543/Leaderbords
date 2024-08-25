@@ -2,3 +2,4 @@
 3{item_quelling_blade,item_tango,item_cornucopia,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bfury,item_tango,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_bfury,item_tango,item_vladmir,item_buckler,item_ring_of_basilius,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_bfury,item_tango,item_vladimir_pact,item_flask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
