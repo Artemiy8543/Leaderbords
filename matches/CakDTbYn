@@ -5,4 +5,4 @@
 18{item_trident_custom,item_gladiator_guard,item_phylactery_blade,item_great_magic_crit3,item_shivas_strom,item_shivas_guard,}{item_philosophers_stone,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 0020{item_trident_custom,item_gladiator_guard,item_phylactery_blade,item_great_magic_crit3,item_shivas_strom,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 22{item_trident_custom,item_gladiator_guard,item_phylactery_blade,item_shivas_guard,item_shivas_strom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
-0026{item_trident_custom,item_gladiator_guard,item_phylactery_blade,item_shivas_guard,item_shivas_strom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+0027{item_trident_custom,item_gladiator_guard,item_shivas_strom,item_shivas_guard,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
