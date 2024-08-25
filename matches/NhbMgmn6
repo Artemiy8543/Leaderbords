@@ -1,4 +1,4 @@
 33+76561198173587522=4{-,item_faerie_fire,item_faerie_fire,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_heart,-,-,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_heart,-,item_lifesteal,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-007{item_heart,item_platemail,item_lifesteal,item_arcane_boots,item_buckler,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+008{item_heart,item_platemail,item_lifesteal,item_arcane_boots,item_buckler,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
