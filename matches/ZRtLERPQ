@@ -13,5 +13,5 @@
 26{item_satanic_of_madness,item_butterfly,item_creep_desolator,item_gladiator_guard,item_shivas_strom,item_great_crit_custom3,}{item_gladiator_guard,item_agi_book,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
 0027{item_satanic_of_madness,item_butterfly,item_creep_desolator,item_gladiator_guard,item_shivas_strom,item_great_crit_custom3,}{item_gladiator_guard,item_agi_book,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
 0028{item_satanic_of_madness,item_shivas_strom,item_creep_desolator,item_gladiator_guard,item_butterfly,item_great_crit_custom3,}{item_gladiator_guard,item_agi_book,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
-0029{item_satanic_of_madness,item_shivas_strom,item_creep_desolator,item_gladiator_guard,item_butterfly,item_great_crit_custom3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
-0031{item_satanic_of_madness,item_shivas_strom,item_creep_desolator,item_gladiator_guard,item_butterfly,item_great_crit_custom3,}{-,item_agi_book,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
+0030{item_satanic_of_madness,item_shivas_strom,item_creep_desolator,item_gladiator_guard,item_butterfly,item_great_crit_custom3,}{item_gladiator_guard,item_agi_book,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
+0032{item_satanic_of_madness,item_shivas_strom,item_creep_desolator,item_gladiator_guard,item_butterfly,item_great_crit_custom3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
