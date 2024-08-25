@@ -6,6 +6,7 @@
 8{item_null_talisman,item_radiance_prc,item_voodoo_mask,item_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 9{item_null_talisman,item_radiance_prc,item_voodoo_mask,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 10{item_null_talisman,item_radiance_prc,item_voodoo_mask,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-12{item_attacker_midas_int,item_radiance_prc,item_voodoo_mask,item_trident_custom,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-0014{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-0016{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+11{item_attacker_midas_int,item_radiance_prc,item_voodoo_mask,item_trident_custom,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+0013{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+0015{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+17{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,item_null_talisman,}{-,-,-,-,-,-,}{item_safety_bubble,};
