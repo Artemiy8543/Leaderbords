@@ -40,4 +40,4 @@
 0072{item_great_crit_custom3,-,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{-,item_blade_midas,-,}{-,-,-,-,-,-,}{item_force_field,};
 0074{item_great_crit_custom3,item_bfury,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{-,item_blade_midas,-,}{-,-,-,-,-,-,}{item_force_field,};
 0076{item_great_crit_custom3,item_bfury,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{-,item_blade_midas,-,}{-,-,-,-,-,-,}{item_force_field,};
-0078{item_great_crit_custom3,item_bfury,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{-,item_blade_midas,-,}{-,-,-,-,-,-,}{item_force_field,};
+0079{item_great_crit_custom3,item_manaback3,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{item_bfury,item_blade_midas,-,}{-,-,-,-,-,-,}{item_force_field,};
