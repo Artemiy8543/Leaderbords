@@ -12,4 +12,4 @@
 26{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_lightning_sword,item_infinity_moon_shard,item_great_crit_custom3,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 29{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_lightning_sword,item_infinity_moon_shard,item_great_crit_custom3,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 31{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_lightning_sword,item_infinity_moon_shard,item_great_crit_custom3,}{item_tier2_token,item_branches,item_branches,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-33{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_lightning_sword,item_infinity_moon_shard,item_great_crit_custom3,}{-,item_branches,item_branches,}{-,-,-,-,-,-,}{item_mind_breaker,};
+34{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_lightning_sword,item_infinity_moon_shard,item_great_crit_custom3,}{item_branches,item_tier3_token,item_branches,}{-,-,-,-,-,-,}{item_mind_breaker,};
