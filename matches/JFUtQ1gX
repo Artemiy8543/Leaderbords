@@ -3,3 +3,4 @@
 5{item_attacker_midas_agi,item_kaya_and_sange,item_blade_of_alacrity,item_boots_of_elves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_agi,item_trident_custom,item_desolator,item_helm_of_iron_will,item_diadem,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_bloodthorn,item_maelstrom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+11{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_bloodthorn,item_maelstrom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
