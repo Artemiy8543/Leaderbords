@@ -10,3 +10,4 @@
 20{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_lightning_sword,item_infinity_moon_shard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 85{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_satanic_of_madness,item_infinity_moon_shard,item_great_crit_custom3,}{item_branches,item_branches,item_branches,}{item_agi_book,item_lightning_sword,-,-,-,-,}{-,};
 86{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_satanic_of_madness,item_infinity_moon_shard,item_great_crit_custom3,}{item_branches,item_branches,item_branches,}{item_agi_book,item_lightning_sword,-,-,-,-,}{-,};
+87{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_satanic_of_madness,item_infinity_moon_shard,item_great_crit_custom3,}{item_branches,item_branches,item_branches,}{item_agi_book,item_lightning_sword,-,-,-,-,}{-,};
