@@ -3,4 +3,5 @@
 006{item_radiance_prc,item_kaya,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_radiance_prc,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance_prc,item_trident_custom,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_radiance_prc,item_trident_custom,item_ultimate_scepter,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_radiance_prc,item_trident_custom,item_ultimate_scepter,item_voodoo_mask,item_soul_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_radiance_prc,item_trident_custom,item_ultimate_scepter,item_bloodstone_shield,item_attacker_midas_agi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
