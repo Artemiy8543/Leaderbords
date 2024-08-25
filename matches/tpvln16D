@@ -24,4 +24,4 @@
 56{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0062{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 65{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,item_agi_book,}{-,-,-,-,-,-,}{item_giants_ring,};
-151{item_attacker_midas_int,item_radiance_prc,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,item_agi_book,}{-,-,-,-,-,-,}{item_giants_ring,};
+152{item_attacker_midas_int,item_radiance_prc,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,item_agi_book,}{-,-,-,-,-,-,}{item_giants_ring,};
