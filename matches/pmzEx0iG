@@ -22,4 +22,5 @@
 119{item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_blade_mail,item_refresher_core,item_gladiator_guard,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,item_moon_shard,item_hyperstone,}{item_panic_button,};
 121{item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_blade_mail,item_refresher_core,item_gladiator_guard,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_panic_button,};
 123{item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,-,item_refresher_core,item_gladiator_guard,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_panic_button,};
-126{item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,-,item_refresher_core,item_gladiator_guard,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_panic_button,};
+125{item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,-,item_refresher_core,item_gladiator_guard,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_panic_button,};
+127{item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,-,item_refresher_core,item_gladiator_guard,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_panic_button,};
