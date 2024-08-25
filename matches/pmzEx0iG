@@ -3,4 +3,5 @@
 35{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,-,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 37{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,-,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 0040{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,-,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_philosophers_stone,};
-43{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,-,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+42{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,-,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+0044{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,item_int_book,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_philosophers_stone,};
