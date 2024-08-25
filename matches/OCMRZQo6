@@ -2,3 +2,4 @@
 4{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_radiance,item_urn_of_shadows,item_sobi_mask,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance_prc,item_vitality_booster,item_sobi_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_radiance_prc,item_bloodstone,item_sobi_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
