@@ -6,3 +6,4 @@
 008{item_phase_boots,item_attacker_midas_str,item_blade_mail,item_gloves,item_radiance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_phase_boots,item_attacker_midas_str,item_blade_mail,item_gloves,item_radiance,-,}{-,-,-,}{item_reaver,-,-,-,-,-,}{-,};
 10{item_phase_boots,item_attacker_midas_str,item_blade_mail,item_gloves,item_radiance,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+11{item_phase_boots,item_gladiator_guard,item_blade_mail,item_maelstrom,item_radiance,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
