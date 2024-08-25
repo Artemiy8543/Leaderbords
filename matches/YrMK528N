@@ -12,4 +12,4 @@
 30{item_radiance_prc,item_shivas_strom,item_phylactery_blade,item_pipe,item_shivas_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 41{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_pipe,item_trident_custom,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 42{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_pipe,item_trident_custom,}{item_paladin_sword,item_tier2_token,item_tier5_token,}{-,-,-,-,-,-,}{item_broom_handle,};
-47{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+48{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
