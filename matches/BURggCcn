@@ -8,4 +8,4 @@
 10{item_phase_boots,item_attacker_midas_str,item_blade_mail,item_gloves,item_radiance,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
 11{item_phase_boots,item_gladiator_guard,item_blade_mail,item_maelstrom,item_radiance,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
 12{item_phase_boots,item_gladiator_guard,item_blade_mail,item_maelstrom,item_radiance,item_attacker_midas_str,}{item_armlet,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
-13{item_phase_boots,item_gladiator_guard,item_blade_mail,item_armlet_of_mjolnir,item_radiance,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+14{item_phase_boots,item_gladiator_guard,item_blade_mail,item_armlet_of_mjolnir,item_radiance,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
