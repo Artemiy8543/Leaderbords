@@ -9,3 +9,4 @@
 0018{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
 0020{item_blade_midas,item_bracer,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
 22{item_blade_midas,-,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
+23{item_blade_midas,-,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
