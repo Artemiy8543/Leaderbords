@@ -1,3 +1,4 @@
 2+76561199164807183=002{-,-,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_ring_of_health,-,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_ring_of_health,item_heart,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_ring_of_health,item_heart,item_chainmail,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
