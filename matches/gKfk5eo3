@@ -3,3 +3,4 @@
 7{item_vanguard,item_bloodstone,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone_shield,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_bloodstone_shield,item_octarine_core,item_gladiator_guard,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_bloodstone_shield,item_octarine_core,item_gladiator_guard,item_cornucopia,item_ring_of_tarrasque,item_tiara_of_selemene,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
