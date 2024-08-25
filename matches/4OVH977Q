@@ -9,4 +9,5 @@
 0015{item_hand_of_midas,item_lifesteal,item_power_treads,item_mjollnir,item_boots_of_bearing,item_travel_boots_2,}{item_mekansm,item_boots,item_sobi_mask,}{-,-,-,-,-,-,}{item_grove_bow,};
 17{item_hand_of_midas,item_ultimate_boots,item_lifesteal,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 18{item_hand_of_midas,item_ultimate_boots,item_lifesteal,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
-20{item_hand_of_midas,item_ultimate_boots,item_mask_of_madness,item_mjollnir,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+19{item_hand_of_midas,item_ultimate_boots,item_mask_of_madness,item_mjollnir,item_blades_of_attack,item_kaya,}{item_recipe_lesser_crit,item_recipe_magic_crit,item_demon_edge,}{item_recipe_great_magic_crit,item_demon_edge,item_recipe_great_magic_crit2,item_demon_edge,item_recipe_great_magic_crit3,-,}{item_grove_bow,};
+0021{item_hand_of_midas,item_ultimate_boots,item_lifesteal,item_mjollnir,item_great_magic_crit3,item_claymore,}{item_reaver,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
