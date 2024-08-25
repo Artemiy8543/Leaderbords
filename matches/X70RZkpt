@@ -1,4 +1,5 @@
 12+76561198173587522=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_agi,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_satanic,item_attacker_midas_agi,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_ultimate_scepter,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_ultimate_scepter,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
