@@ -6,4 +6,4 @@
 13{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 0015{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_ultimate_scepter,item_great_magic_crit2,item_demon_edge,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 18{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_ultimate_scepter,item_great_magic_crit3,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-19{item_radiance_prc,item_trident_custom,item_gladiator_guard,item_ultimate_scepter,item_great_magic_crit3,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+20{item_radiance_prc,item_trident_custom,-,item_ultimate_scepter,item_great_magic_crit3,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
