@@ -4,3 +4,4 @@
 004{item_null_talisman,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_null_talisman,item_radiance_prc,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 8{item_null_talisman,item_radiance_prc,item_voodoo_mask,item_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+9{item_null_talisman,item_radiance_prc,item_voodoo_mask,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
