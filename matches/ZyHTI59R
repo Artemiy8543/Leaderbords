@@ -39,4 +39,5 @@
 0079{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,}{-,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 0081{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,}{-,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 0083{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,}{-,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-0086{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,}{-,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+0085{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,}{-,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+0087{item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,}{item_int_book,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
