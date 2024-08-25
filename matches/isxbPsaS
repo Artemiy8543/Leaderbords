@@ -9,4 +9,4 @@
 11{item_bfury,item_tango,item_vladimir_pact,item_flask,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_bfury,item_tango,item_vladimir_pact,-,item_bracer,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
 0015{item_bfury,item_tango,item_vladimir_pact,-,item_bracer,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
-16{item_bfury,item_tango,item_vladimir_pact,item_lotus_cuirass,item_bracer,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
+17{item_bfury,item_tango,item_vladimir_pact,item_lotus_cuirass,item_mjollnir,item_moon_shard,}{item_bracer,item_heart,-,}{-,-,-,-,-,-,}{item_iron_talon,};
