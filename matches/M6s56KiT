@@ -30,4 +30,4 @@
 148{item_radiance_prc,item_trident_custom,item_revenants_brooch,item_bloodstone_shield,item_attacker_midas_int,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,item_agi_book,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 235{item_radiance_prc,item_trident_custom,item_infinity_moon_shard,item_bloodstone_shield,item_attacker_midas_int,item_revenants_brooch,}{item_null_talisman,item_null_talisman,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 240{item_radiance_prc,item_trident_custom,item_infinity_moon_shard,item_null_talisman,item_attacker_midas_int,item_revenants_brooch,}{item_bloodstone_shield,item_null_talisman,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-277{item_radiance_prc,item_trident_custom,item_infinity_moon_shard,item_vladimir_pact,item_attacker_midas_int,item_revenants_brooch,}{item_bloodstone_shield,item_null_talisman,item_null_talisman,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+278{item_radiance_prc,item_trident_custom,item_infinity_moon_shard,item_vladimir_pact,item_attacker_midas_int,item_revenants_brooch,}{item_bloodstone_shield,item_null_talisman,item_null_talisman,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
