@@ -5,4 +5,5 @@
 10{item_radiance_prc,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 13{item_radiance_prc,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 0019{item_radiance_prc,item_shivas_strom,item_trident_custom,item_phylactery_blade,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-23{item_radiance_prc,item_shivas_strom,item_trident_custom,item_phylactery_blade,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+21{item_radiance_prc,item_shivas_strom,item_trident_custom,item_phylactery_blade,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+0024{item_radiance_prc,item_shivas_strom,item_trident_custom,item_phylactery_blade,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
