@@ -2,3 +2,4 @@
 4{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_radiance_prc,item_kaya,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_radiance_prc,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_radiance_prc,item_trident_custom,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
