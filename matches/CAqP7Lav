@@ -16,3 +16,4 @@
 30{item_rapier,item_butterfly,item_satanic_of_madness,item_attacker_midas_agi,item_infinity_moon_shard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 0031{item_rapier,item_butterfly,item_satanic_of_madness,-,item_infinity_moon_shard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 0032{item_rapier,item_butterfly,item_satanic_of_madness,-,item_infinity_moon_shard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+0033{item_rapier,item_butterfly,item_satanic_of_madness,item_great_crit_custom2,item_infinity_moon_shard,item_great_crit_custom3,}{item_recipe_great_crit_custom,item_recipe_great_crit_custom,item_demon_edge,}{-,-,-,-,-,-,}{item_pirate_hat,};
