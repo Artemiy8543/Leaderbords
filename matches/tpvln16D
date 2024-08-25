@@ -39,4 +39,4 @@
 437{item_attacker_midas_int,item_phylactery_blade,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_lightning_sword,}{item_null_talisman,item_null_talisman,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 444{item_attacker_midas_int,item_phylactery_blade,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_lightning_sword,}{item_null_talisman,item_null_talisman,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 00451{item_attacker_midas_int,item_phylactery_blade,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_lightning_sword,}{item_null_talisman,item_null_talisman,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-455{item_attacker_midas_int,item_phylactery_blade,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_lotus_cuirass,}{item_null_talisman,item_null_talisman,item_lightning_sword,}{-,-,-,-,-,-,}{item_giants_ring,};
+456{item_attacker_midas_int,item_phylactery_blade,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_lotus_cuirass,}{item_null_talisman,item_null_talisman,item_lightning_sword,}{-,-,-,-,-,-,}{item_giants_ring,};
