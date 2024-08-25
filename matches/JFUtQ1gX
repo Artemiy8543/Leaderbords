@@ -4,4 +4,4 @@
 007{item_attacker_midas_agi,item_trident_custom,item_desolator,item_helm_of_iron_will,item_diadem,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_bloodthorn,item_maelstrom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 11{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_bloodthorn,item_maelstrom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0013{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_lightning_sword,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0014{item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_lightning_sword,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
