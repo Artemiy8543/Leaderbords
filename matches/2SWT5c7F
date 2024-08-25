@@ -4,6 +4,6 @@
 006{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_radiance_prc,item_crimson_guard,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_radiance_prc,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_radiance_prc,item_trident_custom,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_radiance_prc,item_trident_custom,item_attacker_midas_agi,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
-14{item_radiance_prc,item_trident_custom,item_attacker_midas_agi,item_infinity_moon_shard,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+11{item_radiance_prc,item_trident_custom,item_attacker_midas_agi,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_radiance_prc,item_trident_custom,item_attacker_midas_agi,item_infinity_moon_shard,item_moon_shard,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+0015{item_radiance_prc,item_trident_custom,item_attacker_midas_agi,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
