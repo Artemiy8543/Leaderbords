@@ -14,4 +14,5 @@
 42{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_pipe,item_trident_custom,}{item_paladin_sword,item_tier2_token,item_tier5_token,}{-,-,-,-,-,-,}{item_broom_handle,};
 47{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
 0049{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
-0055{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+0054{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+0057{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_shivas_guard,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
