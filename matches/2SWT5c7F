@@ -3,3 +3,4 @@
 4{item_sobi_mask,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_radiance_prc,item_crimson_guard,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_radiance_prc,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
