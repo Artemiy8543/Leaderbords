@@ -1,4 +1,5 @@
 96+76561198892134970=2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_blade_midas,item_gladiator_guard,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-009{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+6{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_blade_midas,item_gladiator_guard,item_assault,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+10{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
