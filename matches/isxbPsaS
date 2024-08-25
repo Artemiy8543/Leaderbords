@@ -15,4 +15,4 @@
 22{item_bfury,item_heart,item_vladimir_pact,item_lotus_cuirass,item_mjollnir,item_butterfly,}{item_bracer,item_tango,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 24{item_bfury,item_heart,item_vladimir_pact,item_lotus_cuirass,item_mjollnir,item_butterfly,}{item_cloak_of_flames,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_tier5_token,};
 25{item_bfury,item_heart,item_vladimir_pact,item_lotus_cuirass,item_mjollnir,item_butterfly,}{item_cloak_of_flames,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_giants_ring,};
-0026{item_bfury,item_gladiator_guard,item_vladimir_pact,item_lotus_cuirass,item_mjollnir,item_butterfly,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_giants_ring,};
+0027{item_bfury,item_gladiator_guard,item_vladimir_pact,item_lotus_cuirass,item_mjollnir,item_butterfly,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_giants_ring,};
