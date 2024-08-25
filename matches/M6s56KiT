@@ -1,3 +1,4 @@
 4+76561199145962017=002{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_radiance_prc,item_kaya_and_sange,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_radiance_prc,item_kaya,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_radiance_prc,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
