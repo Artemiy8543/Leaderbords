@@ -4,4 +4,4 @@
 8{item_bloodstone_shield,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_bloodstone_shield,item_octarine_core,item_gladiator_guard,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 12{item_bloodstone_shield,item_refresher_core,item_gladiator_guard,item_kaya,item_ogre_axe,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-13{item_bloodstone_shield,item_refresher_core,item_gladiator_guard,item_kaya_and_sange,item_staff_of_wizardry,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+14{item_bloodstone_shield,item_refresher_core,item_gladiator_guard,item_yasha,item_staff_of_wizardry,item_kaya,}{item_sange,item_recipe_trident_custom,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
