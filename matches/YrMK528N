@@ -9,4 +9,5 @@
 0024{item_radiance_prc,item_shivas_strom,item_trident_custom,item_phylactery_blade,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 26{item_radiance_prc,item_shivas_strom,item_phylactery_blade,item_pipe,item_shivas_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 29{item_radiance_prc,item_shivas_strom,item_phylactery_blade,item_pipe,item_shivas_guard,item_trident_custom,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-34{item_radiance_prc,item_shivas_strom,item_phylactery_blade,item_pipe,item_shivas_guard,item_trident_custom,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+30{item_radiance_prc,item_shivas_strom,item_phylactery_blade,item_pipe,item_shivas_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+35{item_radiance_prc,item_shivas_strom,item_phylactery_blade,item_pipe,item_shivas_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
