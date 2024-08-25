@@ -5,4 +5,5 @@
 0081{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,-,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_panic_button,};
 83{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,-,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_panic_button,};
 0085{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,-,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_panic_button,};
-88{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,-,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_panic_button,};
+87{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,-,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_panic_button,};
+0089{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_blade_mail,item_refresher_core,-,}{item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_panic_button,};
