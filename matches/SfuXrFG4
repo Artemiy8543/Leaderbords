@@ -1,3 +1,3 @@
 89+76561198173587522=2{item_diadem,item_yasha,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_manta,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_manta,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+006{item_manta,item_reaver,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
