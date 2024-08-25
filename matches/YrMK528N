@@ -61,4 +61,5 @@
 286{item_radiance_prc,item_phylactery_blade,item_great_magic_crit,item_great_magic_crit2,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
 00291{item_radiance_prc,item_phylactery_blade,item_great_magic_crit,item_great_magic_crit2,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
 295{item_radiance_prc,item_phylactery_blade,item_great_magic_crit,item_great_magic_crit2,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
-00300{item_radiance_prc,item_phylactery_blade,item_great_magic_crit,item_great_magic_crit2,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+00299{item_radiance_prc,item_phylactery_blade,item_great_magic_crit,item_great_magic_crit2,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+301{item_radiance_prc,item_phylactery_blade,item_great_magic_crit,item_great_magic_crit2,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
