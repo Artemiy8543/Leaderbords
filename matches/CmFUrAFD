@@ -10,4 +10,4 @@
 13{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_bfury,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 15{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_bfury,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 18{item_satanic_of_madness,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_bfury,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-20{item_satanic_of_madness,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_bfury,item_great_crit_custom3,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
+21{item_satanic_of_madness,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_bfury,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
