@@ -20,4 +20,4 @@
 37{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_meteor_rain,}{-,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0038{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_meteor_rain,}{-,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 40{item_meteor_rain,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-0041{item_meteor_rain,item_bloodstone_shield,item_blade_midas,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{item_manaback3,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+0042{item_meteor_rain,item_radiance_prc,item_blade_midas,item_manaback3,item_trident_custom,item_great_magic_crit3,}{-,item_bloodstone_shield,item_gladiator_guard,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
