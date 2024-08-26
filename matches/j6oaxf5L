@@ -3,4 +3,5 @@
 006{item_gladiator_guard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_boots,item_bloodstone_shield,item_ring_of_basilius,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_manaback,item_bloodstone_shield,-,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_manaback,item_bloodstone_shield,item_blade_midas,item_staff_of_wizardry,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_manaback,item_bloodstone_shield,item_blade_midas,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_manaback3,item_bloodstone_shield,item_blade_midas,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
