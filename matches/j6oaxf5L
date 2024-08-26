@@ -8,4 +8,5 @@
 16{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 19{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-24{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+23{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0025{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_moon_shard,-,-,}{-,-,-,-,-,-,}{-,};
