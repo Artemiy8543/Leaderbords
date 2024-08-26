@@ -9,4 +9,4 @@
 11{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_sange,item_bfury,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_bfury,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 15{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_bfury,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-16{item_satanic_of_madness,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_bfury,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+17{item_satanic_of_madness,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_bfury,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
