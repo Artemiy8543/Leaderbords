@@ -50,4 +50,5 @@
 0098{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ascetic_cap,};
 00100{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ascetic_cap,};
 102{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_ascetic_cap,};
-00104{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_ascetic_cap,};
+00103{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_ascetic_cap,};
+105{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_ascetic_cap,};
