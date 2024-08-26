@@ -3,5 +3,5 @@
 5{item_bracer,item_heart,item_ring_of_health,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_bracer,item_soul_booster,item_gladiator_guard,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_bracer,item_bloodstone_shield,-,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_bracer,item_bloodstone_shield,item_ultimate_scepter,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_bracer,item_bloodstone_shield,-,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+10{item_bracer,item_bloodstone_shield,-,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_attacker_midas_str,item_bloodstone_shield,item_blade_mail,item_kaya,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
