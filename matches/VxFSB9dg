@@ -2,4 +2,4 @@
 003{item_attacker_midas_agi,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_vladmir,item_mithril_hammer,item_mithril_hammer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_agi,item_vladmir,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_attacker_midas_agi,item_vladimir_pact,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_attacker_midas_agi,item_vladimir_pact,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
