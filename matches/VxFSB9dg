@@ -22,6 +22,7 @@
 42{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{-,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
 44{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{-,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
 46{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{-,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
-48{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{-,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
-50{item_infinity_moon_shard,-,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{-,item_vladimir_pact,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
-52{item_infinity_moon_shard,item_great_crit_custom3,item_creep_desolator,item_armlet_of_mjolnir,-,-,}{-,item_vladimir_pact,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
+47{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{-,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
+49{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{-,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
+51{item_infinity_moon_shard,item_great_crit_custom3,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{-,item_vladimir_pact,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
+0053{item_infinity_moon_shard,item_great_crit_custom3,item_creep_desolator,item_armlet_of_mjolnir,-,-,}{item_vladimir_pact,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
