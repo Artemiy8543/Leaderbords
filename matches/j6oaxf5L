@@ -2,3 +2,4 @@
 5{item_heart,item_voodoo_mask,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_gladiator_guard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_boots,item_bloodstone_shield,item_ring_of_basilius,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_manaback,item_bloodstone_shield,-,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
