@@ -6,4 +6,5 @@
 7{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_sange,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_sange,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_bfury,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_sange,item_bfury,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_infinity_moon_shard,item_bfury,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
