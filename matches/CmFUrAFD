@@ -4,3 +4,4 @@
 005{item_satanic,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_satanic,item_attacker_midas_agi,item_desolator,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_satanic,item_attacker_midas_agi,item_creep_desolator,item_sange,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
