@@ -11,4 +11,5 @@
 0021{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0023{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{-,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
 25{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{item_ancient_guardian,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
-28{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{item_ancient_guardian,-,-,}{-,-,-,-,-,-,}{item_demonicon,};
+27{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{item_ancient_guardian,-,-,}{-,-,-,-,-,-,}{item_demonicon,};
+0029{item_infinity_moon_shard,item_vladimir_pact,item_creep_desolator,item_duelist_gloves,item_armlet_of_mjolnir,item_elven_tunic,}{item_ancient_guardian,-,-,}{-,-,-,-,-,-,}{item_demonicon,};
