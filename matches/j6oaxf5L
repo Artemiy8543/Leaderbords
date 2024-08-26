@@ -16,4 +16,5 @@
 0033{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
 0035{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
 0037{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
-0040{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_str_book,item_tier5_token,item_tier3_token,}{-,-,-,-,-,-,}{item_tier4_token,};
+0039{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
+0041{item_great_magic_crit3,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_radiance_prc,}{item_str_book,item_tier5_token,item_tier3_token,}{-,-,-,-,-,-,}{item_tier4_token,};
