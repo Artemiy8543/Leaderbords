@@ -19,4 +19,5 @@
 33{item_satanic_of_madness,-,item_creep_desolator,-,item_bfury,item_great_crit_custom3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,item_attacker_midas_agi,}{item_giants_ring,};
 0035{item_satanic_of_madness,-,item_creep_desolator,-,item_bfury,item_great_crit_custom3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,item_attacker_midas_agi,}{item_giants_ring,};
 37{item_satanic_of_madness,item_great_crit_custom,item_creep_desolator,item_lesser_crit,item_bfury,item_great_crit_custom3,}{item_infinity_moon_shard,item_demon_edge,-,}{-,-,-,-,-,item_attacker_midas_agi,}{item_giants_ring,};
-40{item_satanic_of_madness,item_great_crit_custom3,item_creep_desolator,-,item_bfury,item_great_crit_custom3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,item_attacker_midas_agi,}{item_giants_ring,};
+39{item_satanic_of_madness,item_great_crit_custom2,item_creep_desolator,item_great_crit_custom2,item_bfury,item_great_crit_custom3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,item_attacker_midas_agi,}{item_giants_ring,};
+0041{item_satanic_of_madness,item_great_crit_custom3,item_creep_desolator,-,item_bfury,item_great_crit_custom3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,item_attacker_midas_agi,}{item_giants_ring,};
