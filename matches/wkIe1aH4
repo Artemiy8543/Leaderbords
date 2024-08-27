@@ -16,4 +16,4 @@
 22{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,item_manaback3,}{item_defiant_shell,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
 25{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,item_manaback3,}{item_defiant_shell,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
 0027{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,item_manaback3,}{item_defiant_shell,item_stormcrafter,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-29{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,item_manaback3,}{item_defiant_shell,item_stormcrafter,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+30{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,-,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
