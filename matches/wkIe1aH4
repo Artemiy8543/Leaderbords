@@ -6,3 +6,4 @@
 006{item_attacker_midas_int,item_mask_of_madness,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_satanic_of_madness,item_attacker_midas_int,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
