@@ -9,4 +9,4 @@
 0013{item_attacker_midas_str,item_bloodstone_shield,item_ultimate_scepter,item_infinity_moon_shard,-,-,}{item_duelist_gloves,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
 15{item_attacker_midas_str,item_bloodstone_shield,-,item_infinity_moon_shard,item_creep_desolator,item_trident_custom,}{item_duelist_gloves,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
 17{item_bloodstone_shield,item_attacker_midas_str,item_infinity_moon_shard,-,item_creep_desolator,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
-19{item_bloodstone_shield,item_attacker_midas_str,item_infinity_moon_shard,item_great_crit_custom3,item_creep_desolator,item_trident_custom,}{item_defiant_shell,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
+20{item_bloodstone_shield,item_attacker_midas_str,item_infinity_moon_shard,item_great_crit_custom3,item_creep_desolator,item_trident_custom,}{item_defiant_shell,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
