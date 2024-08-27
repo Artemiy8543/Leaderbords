@@ -6,4 +6,5 @@
 7{item_attacker_midas_str,item_bloodstone_shield,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 9{item_attacker_midas_str,item_bloodstone_shield,item_ultimate_scepter,item_moon_shard,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 11{item_attacker_midas_str,item_bloodstone_shield,item_ultimate_scepter,item_infinity_moon_shard,item_moon_shard,item_hyperstone,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
-0013{item_attacker_midas_str,item_bloodstone_shield,item_ultimate_scepter,item_infinity_moon_shard,-,-,}{item_duelist_gloves,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
+0012{item_attacker_midas_str,item_bloodstone_shield,item_ultimate_scepter,item_infinity_moon_shard,-,-,}{item_duelist_gloves,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
+0014{item_attacker_midas_str,item_bloodstone_shield,-,item_infinity_moon_shard,item_creep_desolator,item_trident_custom,}{item_duelist_gloves,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
