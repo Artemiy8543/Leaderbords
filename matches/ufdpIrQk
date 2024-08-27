@@ -3,3 +3,4 @@
 7{item_crimson_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_crimson_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_crimson_guard,item_bloodstone,item_eternal_shroud,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_crimson_guard,item_bloodstone,item_eternal_shroud,item_heart,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
