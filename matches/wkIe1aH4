@@ -7,8 +7,9 @@
 007{item_satanic_of_madness,item_attacker_midas_int,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-11{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0013{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-15{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-17{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,item_manaback,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
-0019{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
+10{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0012{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+14{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+16{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
+0018{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
+20{item_satanic_of_madness,item_attacker_midas_int,item_infinity_moon_shard,item_creep_desolator,item_heart,item_manaback3,}{item_specialists_array,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
