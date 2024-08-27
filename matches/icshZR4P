@@ -4,4 +4,4 @@
 5{item_attacker_midas_str,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_str,item_bloodstone_shield,item_ogre_axe,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_str,item_bloodstone_shield,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
-8{item_attacker_midas_str,item_bloodstone_shield,item_ultimate_scepter,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+9{item_attacker_midas_str,item_bloodstone_shield,item_ultimate_scepter,item_moon_shard,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
