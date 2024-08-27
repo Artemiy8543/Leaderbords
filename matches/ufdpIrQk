@@ -24,4 +24,5 @@
 0058{item_gladiator_guard,item_bloodstone_shield,item_eternal_shroud,item_lotus_cuirass,item_shivas_strom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 0063{item_gladiator_guard,item_bloodstone_shield,item_eternal_shroud,item_lotus_cuirass,item_shivas_strom,item_radiance_prc,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 69{item_gladiator_guard,item_bloodstone_shield,item_eternal_shroud,item_lotus_cuirass,item_shivas_strom,item_radiance_prc,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_force_field,};
-72{item_gladiator_guard,item_bloodstone_shield,item_eternal_shroud,item_lotus_cuirass,item_shivas_strom,item_radiance_prc,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_force_field,};
+71{item_gladiator_guard,item_bloodstone_shield,item_eternal_shroud,item_lotus_cuirass,item_shivas_strom,item_radiance_prc,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_force_field,};
+73{item_gladiator_guard,item_bloodstone_shield,item_eternal_shroud,item_lotus_cuirass,item_shivas_strom,item_radiance_prc,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_force_field,};
