@@ -4,3 +4,4 @@
 4{item_attacker_midas_int,item_mask_of_madness,item_claymore,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_int,item_mask_of_madness,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_int,item_mask_of_madness,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_satanic_of_madness,item_attacker_midas_int,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
