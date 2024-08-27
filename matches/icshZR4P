@@ -2,3 +2,4 @@
 003{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_str,item_pavise,item_voodoo_mask,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_str,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_attacker_midas_str,item_bloodstone_shield,item_ogre_axe,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
