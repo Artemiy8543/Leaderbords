@@ -5,4 +5,4 @@
 11{item_crimson_guard,item_bloodstone,item_eternal_shroud,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_crimson_guard,item_bloodstone,item_eternal_shroud,item_heart,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_gladiator_guard,item_bloodstone,item_eternal_shroud,item_assault,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
-16{item_gladiator_guard,item_bloodstone,item_eternal_shroud,item_assault,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
+17{item_gladiator_guard,item_bloodstone,item_eternal_shroud,item_assault,item_shivas_guard,item_radiance,}{item_pers,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
