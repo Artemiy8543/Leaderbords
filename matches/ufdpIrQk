@@ -2,3 +2,4 @@
 5{item_crimson_guard,item_voodoo_mask,item_void_stone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_crimson_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_crimson_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_crimson_guard,item_bloodstone,item_eternal_shroud,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
