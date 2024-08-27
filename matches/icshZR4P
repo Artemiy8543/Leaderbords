@@ -11,5 +11,5 @@
 17{item_bloodstone_shield,item_attacker_midas_str,item_infinity_moon_shard,-,item_creep_desolator,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
 22{item_bloodstone_shield,item_attacker_midas_str,item_infinity_moon_shard,item_great_crit_custom3,item_creep_desolator,item_trident_custom,}{item_defiant_shell,-,-,}{item_giants_ring,-,-,-,-,-,}{item_tier4_token,};
 0024{item_bloodstone_shield,item_attacker_midas_str,item_infinity_moon_shard,item_great_crit_custom3,item_creep_desolator,item_trident_custom,}{item_defiant_shell,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-25{item_bloodstone_shield,item_attacker_midas_str,item_infinity_moon_shard,item_great_crit_custom3,item_creep_desolator,item_trident_custom,}{item_defiant_shell,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-27{item_bloodstone_shield,item_bfury,item_infinity_moon_shard,item_great_crit_custom3,item_creep_desolator,item_trident_custom,}{-,item_attacker_midas_str,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+26{item_bloodstone_shield,item_attacker_midas_str,item_infinity_moon_shard,item_great_crit_custom3,item_creep_desolator,item_trident_custom,}{item_defiant_shell,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+28{item_bloodstone_shield,item_bfury,item_infinity_moon_shard,item_great_crit_custom3,item_creep_desolator,item_trident_custom,}{item_infinity_moon_shard,item_infinity_moon_shard,-,}{-,-,-,-,-,item_attacker_midas_str,}{item_giants_ring,};
