@@ -6,4 +6,4 @@
 12{item_flask,item_boots_of_bearing,item_arcane_boots,item_vladimir_pact,item_ghost,item_null_talisman,}{item_branches,item_null_talisman,item_branches,}{-,-,-,-,-,-,}{-,};
 0013{item_flask,item_boots_of_bearing,item_guardian_greaves,item_vladimir_pact,item_ghost,item_null_talisman,}{item_branches,item_null_talisman,-,}{item_branches,-,-,-,-,-,}{-,};
 15{item_arcane_boots,item_boots_of_bearing,item_guardian_greaves,item_vladimir_pact,item_ghost,item_null_talisman,}{item_branches,item_null_talisman,-,}{item_branches,item_flask,-,-,-,-,}{-,};
-0016{item_arcane_boots,item_boots_of_bearing,item_guardian_greaves,item_vladimir_pact,item_ghost,item_ghost,}{item_branches,item_null_talisman,item_null_talisman,}{item_branches,item_flask,-,-,-,-,}{-,};
+0017{item_arcane_boots,item_boots_of_bearing,item_guardian_greaves,item_vladimir_pact,item_ghost,item_ghost,}{item_branches,item_null_talisman,item_null_talisman,}{item_branches,item_flask,-,-,-,-,}{-,};
