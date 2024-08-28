@@ -17,3 +17,4 @@
 0017{item_mjollnir,item_vladmir,item_sange_and_yasha,item_skadi,item_butterfly,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
 0018{item_mjollnir,item_vladmir,item_sange_and_yasha,item_skadi,item_butterfly,item_great_crit_custom3,}{item_trident_custom,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
 19{item_mjollnir,item_vladmir,item_trident_custom,item_skadi,item_butterfly,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
+20{item_mjollnir,item_vladimir_pact,item_trident_custom,item_skadi,item_butterfly,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
