@@ -3,5 +3,6 @@
 005{item_attacker_midas_str,-,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_str,item_creep_desolator,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_str,item_creep_desolator,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-0010{item_attacker_midas_str,item_creep_desolator,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-12{item_attacker_midas_str,item_creep_desolator,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+009{item_attacker_midas_str,item_creep_desolator,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0011{item_attacker_midas_str,item_creep_desolator,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+13{item_attacker_midas_str,item_creep_desolator,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
