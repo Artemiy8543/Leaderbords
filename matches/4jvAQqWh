@@ -12,3 +12,4 @@
 0021{item_arcane_boots,item_boots_of_bearing,item_guardian_greaves,item_vladimir_pact,item_ethereal_blade,item_ethereal_blade,}{item_branches,item_null_talisman,item_null_talisman,}{item_branches,item_flask,item_ghost,-,-,-,}{-,};
 0022{item_arcane_boots,item_boots_of_bearing,item_guardian_greaves,item_vladimir_pact,item_refresher_core,item_ethereal_blade,}{item_branches,item_null_talisman,item_null_talisman,}{item_branches,item_flask,item_ghost,-,-,-,}{-,};
 0023{item_arcane_boots,item_boots_of_bearing,item_guardian_greaves,item_vladimir_pact,item_refresher_core,item_ethereal_blade,}{item_branches,item_null_talisman,item_null_talisman,}{item_branches,item_flask,item_ghost,-,-,-,}{-,};
+24{item_arcane_boots,item_boots_of_bearing,item_guardian_greaves,item_vladimir_pact,item_quelling_blade,item_ethereal_blade,}{item_branches,item_null_talisman,item_null_talisman,}{item_branches,item_flask,item_ghost,item_refresher_core,-,-,}{-,};
