@@ -1,3 +1,4 @@
 6+76561198074271128=001{item_mithril_hammer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_maelstrom,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_maelstrom,item_lifesteal,item_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
