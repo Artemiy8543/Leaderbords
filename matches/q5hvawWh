@@ -2,3 +2,4 @@
 002{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_maelstrom,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_maelstrom,item_lifesteal,item_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_maelstrom,item_lifesteal,item_sange_and_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
