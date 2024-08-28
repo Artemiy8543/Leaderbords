@@ -2,3 +2,4 @@
 4{item_attacker_midas_str,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_attacker_midas_str,-,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_str,item_creep_desolator,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_str,item_creep_desolator,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
