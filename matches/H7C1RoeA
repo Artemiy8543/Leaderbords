@@ -8,6 +8,6 @@
 13{item_attacker_midas_str,item_creep_desolator,-,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0015{item_attacker_midas_str,item_creep_desolator,item_great_crit_custom3,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 17{item_attacker_midas_str,item_creep_desolator,item_great_crit_custom3,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-18{item_attacker_midas_str,item_creep_desolator,item_great_crit_custom3,item_vladimir_pact,-,-,}{item_vampire_fangs,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
-20{item_attacker_midas_str,item_creep_desolator,item_great_crit_custom3,item_vladimir_pact,item_great_crit_custom3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
-22{item_attacker_midas_str,item_creep_desolator,item_great_crit_custom3,item_vladimir_pact,item_great_crit_custom3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+19{item_attacker_midas_str,item_creep_desolator,item_great_crit_custom3,item_vladimir_pact,item_lesser_crit,item_demon_edge,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+21{item_attacker_midas_str,item_creep_desolator,item_great_crit_custom3,item_vladimir_pact,item_great_crit_custom3,item_infinity_moon_shard,}{item_giants_ring,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
+23{item_attacker_midas_str,item_creep_desolator,item_great_crit_custom3,item_vladimir_pact,item_great_crit_custom3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
