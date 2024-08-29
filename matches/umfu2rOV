@@ -19,4 +19,5 @@
 0041{item_radiance_prc,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_shivas_strom,item_manaback3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 0044{item_radiance_prc,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_shivas_strom,item_manaback3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 0047{item_radiance_prc,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_shivas_strom,item_manaback3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-0050{item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{item_blade_midas,item_tier4_token,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+0049{item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
+0051{item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
