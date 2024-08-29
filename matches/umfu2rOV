@@ -12,4 +12,4 @@
 29{item_radiance_prc,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 31{item_radiance_prc,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 33{item_radiance_prc,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_shivas_strom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-35{item_radiance_prc,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_shivas_strom,item_manaback3,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+36{-,item_blade_midas,item_trident_custom,item_great_magic_crit3,item_shivas_strom,item_manaback3,}{item_int_book,item_phylactery_blade,-,}{item_radiance_prc,-,-,-,-,-,}{item_grisgris,};
