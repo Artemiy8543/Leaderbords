@@ -4,4 +4,4 @@
 008{item_radiance_prc,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_radiance_prc,item_phylactery_blade,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_radiance_prc,item_phylactery_blade,item_ultimate_scepter,item_trident_custom,item_great_magic_crit,item_demon_edge,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-17{item_radiance_prc,item_phylactery_blade,item_ultimate_scepter,item_trident_custom,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+18{item_radiance_prc,item_phylactery_blade,item_ultimate_scepter,item_trident_custom,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
