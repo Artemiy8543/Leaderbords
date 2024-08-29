@@ -7,3 +7,4 @@
 13{item_wraith_band,item_gladiator_guard,item_ultimate_scepter,item_trident_custom,item_radiance_prc,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 0015{item_infinity_moon_shard,item_gladiator_guard,item_ultimate_scepter,item_trident_custom,item_radiance_prc,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 0017{item_infinity_moon_shard,item_gladiator_guard,item_ultimate_scepter,item_trident_custom,item_radiance_prc,item_blade_midas,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+18{item_infinity_moon_shard,item_gladiator_guard,item_ultimate_scepter,item_trident_custom,item_radiance_prc,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
