@@ -31,4 +31,5 @@
 53{item_butterfly,item_attacker_midas_agi,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_creep_desolator,}{item_refresher_core,item_agi_book,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 55{item_butterfly,item_attacker_midas_agi,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_creep_desolator,}{item_refresher_core,item_agi_book,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 57{item_butterfly,item_attacker_midas_agi,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_creep_desolator,}{item_refresher_core,item_agi_book,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
-60{item_butterfly,item_attacker_midas_agi,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_creep_desolator,}{item_refresher_core,item_str_book,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+59{item_butterfly,item_attacker_midas_agi,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_creep_desolator,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+61{item_butterfly,item_attacker_midas_agi,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_creep_desolator,}{item_refresher_core,item_agi_book,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
