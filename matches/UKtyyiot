@@ -2,5 +2,5 @@
 004{item_wraith_band,item_heart,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_wraith_band,item_heart,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_wraith_band,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_wraith_band,item_gladiator_guard,item_blade_mail,item_midas_component,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_wraith_band,item_gladiator_guard,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+10{item_wraith_band,item_gladiator_guard,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+12{item_wraith_band,item_gladiator_guard,item_ultimate_scepter,item_trident_custom,item_radiance_prc,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
