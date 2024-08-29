@@ -45,4 +45,4 @@
 0098{item_shivas_guard,item_radiance_prc,item_shivas_strom,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 00100{item_shivas_strom,item_radiance_prc,item_armlet_of_mjolnir,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,item_shivas_guard,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 102{item_shivas_strom,item_radiance_prc,item_radiance,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_timeless_relic,};
-00104{item_shivas_strom,item_radiance_prc,item_radiance,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_timeless_relic,};
+00105{item_shivas_strom,item_radiance_prc,item_shivas_guard,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
