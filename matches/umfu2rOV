@@ -2,4 +2,5 @@
 5{item_radiance,item_aether_lens,item_smoke_of_deceit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 007{item_radiance,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 9{item_radiance_prc,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-0012{item_radiance_prc,item_phylactery_blade,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+0011{item_radiance_prc,item_phylactery_blade,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+13{item_radiance_prc,item_phylactery_blade,item_trident_custom,item_magic_crit,-,-,}{item_recipe_kaya,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
