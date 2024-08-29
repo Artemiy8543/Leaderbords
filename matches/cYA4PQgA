@@ -1,4 +1,5 @@
 30+76561198192808195=3{item_voodoo_mask,item_aether_lens,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 5{item_voodoo_mask,item_diadem,item_ethereal_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 8{item_bloodstone_shield,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-11{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+10{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+0012{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
