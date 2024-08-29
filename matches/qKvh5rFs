@@ -9,4 +9,5 @@
 31{item_radiance_prc,item_phylactery_blade,-,item_trident_custom,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0034{item_radiance_prc,item_phylactery_blade,-,item_trident_custom,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 84{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
-0088{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
+0087{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
+89{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
