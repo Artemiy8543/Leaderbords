@@ -33,4 +33,4 @@
 0067{item_refresher_core,item_shivas_strom,item_blade_midas,item_great_magic_crit3,item_trident_custom,item_octarine_core,}{item_int_book,-,-,}{item_manaback3,item_radiance_prc,item_phylactery_blade,-,-,-,}{item_timeless_relic,};
 69{item_manaback3,item_shivas_strom,item_radiance_prc,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{item_refresher_core,item_octarine_core,item_blade_midas,}{-,-,-,-,-,-,}{item_timeless_relic,};
 71{item_manaback3,item_shivas_strom,item_radiance_prc,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{item_refresher_core,item_octarine_core,item_blade_midas,}{-,-,-,-,-,-,}{item_timeless_relic,};
-73{item_manaback3,item_shivas_strom,item_radiance_prc,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+74{item_manaback3,item_armlet_of_mjolnir,item_radiance_prc,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
