@@ -3,4 +3,4 @@
 6{item_radiance,-,item_ethereal_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_radiance_prc,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_radiance_prc,item_phylactery_blade,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0014{item_radiance_prc,item_phylactery_blade,item_ultimate_scepter,item_trident_custom,item_lesser_crit,item_staff_of_wizardry,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0015{item_radiance_prc,item_phylactery_blade,item_ultimate_scepter,item_trident_custom,item_great_magic_crit,item_demon_edge,}{-,-,-,}{-,-,-,-,-,-,}{-,};
