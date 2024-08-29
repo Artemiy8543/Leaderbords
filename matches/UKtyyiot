@@ -90,4 +90,4 @@
 178{item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 00180{item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 183{item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
-215{item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,item_shivas_guard,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+216{item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,item_shivas_guard,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
