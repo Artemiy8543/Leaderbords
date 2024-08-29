@@ -15,3 +15,4 @@
 24{item_attacker_midas_agi,item_refresher_core,item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_creep_desolator,}{item_basher_slardar,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 25{item_attacker_midas_agi,item_refresher_core,item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_creep_desolator,}{item_skadi,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 26{item_butterfly,item_refresher_core,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_creep_desolator,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+27{item_butterfly,item_attacker_midas_agi,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_creep_desolator,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
