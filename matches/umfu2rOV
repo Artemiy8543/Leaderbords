@@ -4,4 +4,4 @@
 9{item_radiance_prc,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 0011{item_radiance_prc,item_phylactery_blade,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 13{item_radiance_prc,item_phylactery_blade,item_trident_custom,item_magic_crit,-,-,}{item_recipe_kaya,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-16{item_radiance_prc,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+17{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
