@@ -6,3 +6,4 @@
 14{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 0016{item_bloodstone_shield,-,item_radiance_prc,item_trident_custom,-,-,}{-,-,-,}{item_phylactery_blade,-,-,-,-,-,}{item_grisgris,};
 18{item_bloodstone_shield,-,item_radiance_prc,item_trident_custom,item_great_magic_crit3,-,}{-,-,-,}{item_phylactery_blade,-,-,-,-,-,}{item_grisgris,};
+0019{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_trident_custom,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
