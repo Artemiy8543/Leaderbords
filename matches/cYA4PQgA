@@ -75,4 +75,4 @@
 212{item_great_magic_crit3,item_blade_midas,item_shivas_strom,item_trident_custom,item_radiance_prc,item_shivas_guard,}{item_phylactery_blade,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
 00214{item_great_magic_crit3,item_blade_midas,item_shivas_strom,item_trident_custom,item_radiance_prc,item_shivas_guard,}{item_phylactery_blade,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
 256{item_great_magic_crit3,item_blade_midas,item_shivas_strom,item_trident_custom,item_radiance_prc,item_shivas_guard,}{item_phylactery_blade,item_str_book,item_armlet_of_mjolnir,}{item_quelling_blade,-,-,-,-,-,}{item_giants_ring,};
-276{item_great_magic_crit3,item_blade_midas,item_shivas_strom,item_trident_custom,item_radiance_prc,item_shivas_guard,}{item_phylactery_blade,item_str_book,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
+277{item_great_magic_crit3,item_blade_midas,item_shivas_strom,item_trident_custom,item_radiance_prc,item_shivas_guard,}{item_phylactery_blade,item_str_book,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
