@@ -12,4 +12,4 @@
 30{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 32{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_trident_custom,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
 35{item_bloodstone_shield,-,item_radiance_prc,item_trident_custom,item_great_magic_crit3,-,}{-,-,-,}{item_phylactery_blade,-,-,-,-,-,}{item_tier2_token,};
-0038{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_trident_custom,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+0039{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_trident_custom,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
