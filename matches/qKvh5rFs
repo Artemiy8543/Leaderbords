@@ -17,4 +17,4 @@
 101{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
 104{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
 107{item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_shivas_guard,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_stormcrafter,};
-108{item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_radiance_prc,item_shivas_guard,}{-,item_bloodstone_shield,item_blade_midas,}{-,-,-,-,-,-,}{item_stormcrafter,};
+109{item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_radiance_prc,item_shivas_guard,}{item_tier5_token,item_bloodstone_shield,item_blade_midas,}{-,-,-,-,-,-,}{item_stormcrafter,};
