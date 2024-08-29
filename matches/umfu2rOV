@@ -59,3 +59,4 @@
 127{item_shivas_strom,item_radiance_prc,item_shivas_guard,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 00129{item_shivas_strom,item_radiance_prc,item_shivas_guard,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 131{item_shivas_strom,item_radiance_prc,item_shivas_guard,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+00132{item_shivas_strom,item_radiance_prc,item_shivas_guard,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
