@@ -96,4 +96,5 @@
 00243{item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,item_shivas_guard,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 00245{item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,item_shivas_guard,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 00247{item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,item_shivas_guard,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
-00250{item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,item_shivas_guard,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+00249{item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,item_shivas_guard,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+00251{item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,item_shivas_guard,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
