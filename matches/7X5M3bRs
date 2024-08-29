@@ -3,4 +3,4 @@
 9{item_bloodstone_shield,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 10{item_bloodstone_shield,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 13{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-14{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+15{item_bloodstone_shield,-,item_radiance_prc,item_trident_custom,-,-,}{-,-,-,}{item_phylactery_blade,-,-,-,-,-,}{item_grisgris,};
