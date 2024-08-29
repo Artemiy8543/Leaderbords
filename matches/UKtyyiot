@@ -2,3 +2,4 @@
 004{item_wraith_band,item_heart,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_wraith_band,item_heart,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_wraith_band,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_wraith_band,item_gladiator_guard,item_blade_mail,item_midas_component,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
