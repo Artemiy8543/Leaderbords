@@ -13,3 +13,4 @@
 0024{item_infinity_moon_shard,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 25{item_infinity_moon_shard,item_gladiator_guard,item_bloodstone_shield,item_null_talisman,item_infinity_moon_shard,item_blade_midas,}{item_trident_custom,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 26{item_infinity_moon_shard,item_gladiator_guard,item_bloodstone_shield,-,-,item_blade_midas,}{item_trident_custom,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+0027{item_infinity_moon_shard,item_gladiator_guard,item_bloodstone_shield,-,-,item_blade_midas,}{item_trident_custom,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
