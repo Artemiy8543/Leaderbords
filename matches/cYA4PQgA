@@ -33,4 +33,4 @@
 0076{item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_radiance_prc,item_shivas_guard,}{item_tier1_token,item_tier3_token,item_tier2_token,}{-,-,-,-,-,-,}{item_tier5_token,};
 0078{item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_radiance_prc,item_radiance,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_giants_ring,};
 0080{item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_radiance_prc,item_radiance,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_giants_ring,};
-0082{item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_radiance_prc,-,}{-,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
+0083{item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_radiance_prc,item_shivas_guard,}{-,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
