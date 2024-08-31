@@ -10,4 +10,4 @@
 0021{item_radiance_prc,item_attacker_midas_agi,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 24{item_radiance_prc,item_attacker_midas_agi,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_great_crit_custom3,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,-,-,-,}{-,};
 27{item_radiance_prc,item_attacker_midas_agi,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_great_crit_custom3,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{-,};
-29{item_radiance_prc,item_attacker_midas_agi,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_great_crit_custom3,}{item_branches,item_branches,item_branches,}{-,-,-,-,item_hyperstone,-,}{-,};
+30{item_radiance_prc,item_attacker_midas_agi,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_great_crit_custom3,}{item_branches,item_branches,item_branches,}{-,-,-,-,item_hyperstone,-,}{-,};
