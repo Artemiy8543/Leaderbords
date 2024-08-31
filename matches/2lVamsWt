@@ -10,4 +10,4 @@
 0027{item_lotus_cuirass,item_crimson_guard,item_bloodstone_shield,item_radiance,item_heart,-,}{-,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_spy_gadget,};
 0028{item_lotus_cuirass,item_crimson_guard,item_bloodstone_shield,item_radiance,item_heart,-,}{item_spy_gadget,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_tier5_token,};
 0030{item_lotus_cuirass,item_crimson_guard,item_bloodstone_shield,item_radiance,item_heart,-,}{item_spy_gadget,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_tier5_token,};
-0032{item_lotus_cuirass,item_crimson_guard,item_bloodstone_shield,item_radiance,item_heart,-,}{item_spy_gadget,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_force_boots,};
+0033{item_lotus_cuirass,item_crimson_guard,item_bloodstone_shield,item_radiance,item_heart,-,}{item_spy_gadget,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_force_boots,};
