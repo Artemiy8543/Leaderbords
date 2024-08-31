@@ -17,4 +17,4 @@
 226{item_vladimir_pact,item_radiance_prc,item_creep_desolator,item_great_crit_custom3,-,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_attacker_midas_agi,item_skadi,item_recipe_ultimate_scepter_2,item_ultimate_scepter_2,-,-,}{item_apex,};
 00228{item_vladimir_pact,item_radiance_prc,item_creep_desolator,item_great_crit_custom3,item_skadi,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_attacker_midas_agi,-,-,-,-,-,}{item_apex,};
 230{item_vladimir_pact,item_radiance_prc,item_creep_desolator,item_great_crit_custom3,item_skadi,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_attacker_midas_agi,-,-,-,-,-,}{item_apex,};
-263{item_attacker_midas_agi,item_radiance_prc,item_creep_desolator,item_great_crit_custom3,item_skadi,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_vladimir_pact,item_agi_book,-,-,-,-,}{item_apex,};
+264{item_attacker_midas_agi,item_radiance_prc,item_creep_desolator,item_great_crit_custom3,item_skadi,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_vladimir_pact,item_agi_book,-,-,-,-,}{item_apex,};
