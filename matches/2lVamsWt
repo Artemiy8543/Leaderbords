@@ -6,4 +6,5 @@
 19{item_lotus_cuirass,item_crimson_guard,item_bloodstone_shield,item_radiance,item_heart,-,}{item_seeds_of_serenity,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
 21{item_lotus_cuirass,item_crimson_guard,item_bloodstone_shield,item_radiance,item_heart,-,}{item_seeds_of_serenity,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
 0023{item_lotus_cuirass,item_crimson_guard,item_bloodstone_shield,item_radiance,item_heart,-,}{-,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_tier4_token,};
-26{item_lotus_cuirass,item_crimson_guard,item_bloodstone_shield,item_radiance,item_heart,-,}{-,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_spy_gadget,};
+25{item_lotus_cuirass,item_crimson_guard,item_bloodstone_shield,item_radiance,item_heart,-,}{-,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_tier4_token,};
+0027{item_lotus_cuirass,item_crimson_guard,item_bloodstone_shield,item_radiance,item_heart,-,}{-,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_spy_gadget,};
