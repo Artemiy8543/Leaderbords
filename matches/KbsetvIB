@@ -9,4 +9,4 @@
 0016{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 18{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0020{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-22{item_radiance,item_phylactery_blade,-,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+23{item_radiance,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{item_moon_shard,-,-,-,-,-,}{-,};
