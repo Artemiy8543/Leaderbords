@@ -12,3 +12,4 @@
 16{item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_attacker_midas_str,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 0017{item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_shivas_strom,item_lotus_cuirass,}{item_bracer,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 0018{item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+19{item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
