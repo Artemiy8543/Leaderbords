@@ -8,4 +8,4 @@
 0011{item_attacker_midas_str,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 0012{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_attacker_midas_str,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 13{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_attacker_midas_str,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
-0014{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_attacker_midas_str,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
+0015{item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_attacker_midas_str,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
