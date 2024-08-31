@@ -69,3 +69,4 @@
 75{item_radiance_prc,item_gladiator_guard,item_trident_custom,item_blade_midas,item_creep_desolator,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 76{item_radiance_prc,item_gladiator_guard,item_trident_custom,item_blade_midas,item_creep_desolator,item_lotus_cuirass,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 0077{item_radiance_prc,item_gladiator_guard,item_trident_custom,item_blade_midas,item_creep_desolator,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
+0078{item_radiance_prc,item_gladiator_guard,item_trident_custom,item_blade_midas,item_creep_desolator,item_lotus_cuirass,}{item_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
