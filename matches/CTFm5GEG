@@ -66,3 +66,4 @@
 0072{item_radiance_prc,item_gladiator_guard,item_trident_custom,item_blade_midas,item_creep_desolator,item_lotus_cuirass,}{-,-,item_shivas_strom,}{-,-,-,-,-,-,}{item_force_boots,};
 73{item_radiance_prc,item_gladiator_guard,item_trident_custom,item_blade_midas,item_creep_desolator,item_lotus_cuirass,}{-,-,item_shivas_strom,}{-,-,-,-,-,-,}{item_force_boots,};
 0074{item_radiance_prc,item_gladiator_guard,item_trident_custom,item_blade_midas,item_creep_desolator,item_lotus_cuirass,}{-,-,item_shivas_strom,}{-,-,-,-,-,-,}{item_force_boots,};
+75{item_radiance_prc,item_gladiator_guard,item_trident_custom,item_blade_midas,item_creep_desolator,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
