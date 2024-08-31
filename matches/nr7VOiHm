@@ -3,3 +3,4 @@
 5{item_talisman_of_evasion,item_claymore,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_radiance_prc,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_radiance_prc,item_satanic_of_madness,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_radiance_prc,item_satanic_of_madness,item_bloodstone_shield,item_kaya_and_sange,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
