@@ -5,4 +5,4 @@
 5{item_attacker_midas_str,item_mask_of_madness,item_hyperstone,item_blight_stone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_str,item_mask_of_madness,item_hyperstone,-,-,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_str,item_mask_of_madness,item_moon_shard,item_trident_custom,-,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_attacker_midas_str,item_mask_of_madness,-,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+10{item_attacker_midas_str,item_mask_of_madness,-,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
