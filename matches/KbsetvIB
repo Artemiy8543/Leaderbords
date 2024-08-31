@@ -80,4 +80,4 @@
 00733{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_revenants_brooch,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
 00736{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_revenants_brooch,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
 00739{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_revenants_brooch,}{-,item_refresher_core,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
-00741{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_revenants_brooch,}{-,item_refresher_core,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
+00742{item_octarine_core,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_refresher_core,}{item_radiance_prc,-,item_revenants_brooch,}{-,-,-,-,-,-,}{item_mind_breaker,};
