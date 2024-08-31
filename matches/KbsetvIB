@@ -84,4 +84,4 @@
 746{item_radiance_prc,item_phylactery_blade,item_skadi,item_trident_custom,item_creep_desolator,item_revenants_brooch,}{item_octarine_core,item_great_magic_crit3,item_refresher_core,}{-,-,-,-,-,-,}{item_mind_breaker,};
 782{item_radiance_prc,item_phylactery_blade,item_armlet_of_mjolnir,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,item_skadi,}{-,-,-,-,-,-,}{item_mind_breaker,};
 783{item_radiance_prc,item_phylactery_blade,item_armlet_of_mjolnir,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,item_skadi,}{-,-,-,-,-,-,}{item_mind_breaker,};
-00785{item_radiance_prc,item_phylactery_blade,item_armlet_of_mjolnir,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,item_skadi,}{-,-,-,-,-,-,}{item_mind_breaker,};
+00786{item_radiance_prc,item_phylactery_blade,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,item_skadi,}{-,-,-,-,-,-,}{item_mind_breaker,};
