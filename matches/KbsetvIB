@@ -35,4 +35,5 @@
 00212{item_radiance_prc,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{item_branches,item_branches,item_great_magic_crit3,}{item_agi_book,item_infinity_moon_shard,item_infinity_moon_shard,-,item_moon_shard,-,}{-,};
 269{item_radiance_prc,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{item_branches,-,item_great_magic_crit3,}{item_agi_book,-,-,-,-,-,}{-,};
 312{item_radiance_prc,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{item_branches,-,item_great_magic_crit3,}{item_agi_book,-,-,-,-,-,}{-,};
-314{item_radiance_prc,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{item_branches,-,item_great_magic_crit3,}{item_agi_book,-,-,-,-,-,}{-,};
+313{item_radiance_prc,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{item_branches,-,item_great_magic_crit3,}{item_agi_book,-,-,-,-,-,}{-,};
+00315{item_radiance_prc,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{item_branches,-,item_great_magic_crit3,}{item_agi_book,-,-,-,-,-,}{-,};
