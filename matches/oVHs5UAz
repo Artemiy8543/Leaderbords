@@ -2,3 +2,4 @@
 2{item_bracer,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_str,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_str,item_mask_of_madness,item_hyperstone,item_blight_stone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_attacker_midas_str,item_mask_of_madness,item_hyperstone,item_blight_stone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
