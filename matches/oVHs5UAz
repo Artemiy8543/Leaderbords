@@ -56,3 +56,4 @@
 0080{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0082{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0083{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0084{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
