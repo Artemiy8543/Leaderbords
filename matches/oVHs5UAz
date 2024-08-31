@@ -32,7 +32,8 @@
 0045{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0047{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0049{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-0051{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-0053{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-0055{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-0057{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0050{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0052{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0054{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0056{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0058{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
