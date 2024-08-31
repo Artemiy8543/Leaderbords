@@ -8,4 +8,5 @@
 0031{item_bloodstone,-,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_tier4_token,item_tier5_token,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_psychic_headband,};
 0033{item_bloodstone,item_blade_midas,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_tier4_token,item_tier5_token,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 35{item_bloodstone,item_blade_midas,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_tier4_token,item_tier5_token,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
-38{item_bloodstone,item_blade_midas,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_tier4_token,item_tier5_token,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+37{item_bloodstone,item_blade_midas,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_tier4_token,item_tier5_token,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+39{item_bloodstone,item_blade_midas,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_tier4_token,item_tier5_token,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
