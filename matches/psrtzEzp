@@ -12,4 +12,5 @@
 00213{-,item_radiance_prc,item_creep_desolator,item_skadi,item_great_magic_crit3,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_attacker_midas_agi,-,-,-,-,-,}{item_apex,};
 217{item_vladimir_pact,item_radiance_prc,item_creep_desolator,item_skadi,item_great_magic_crit3,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_attacker_midas_agi,-,-,-,-,-,}{item_apex,};
 220{item_vladimir_pact,item_radiance_prc,item_creep_desolator,item_great_crit_custom3,item_great_magic_crit3,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_attacker_midas_agi,item_skadi,-,-,-,-,}{item_apex,};
-223{item_vladimir_pact,item_radiance_prc,item_creep_desolator,item_great_crit_custom3,item_skadi,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_attacker_midas_agi,-,-,-,-,-,}{item_apex,};
+222{item_vladimir_pact,item_radiance_prc,item_creep_desolator,item_great_crit_custom3,item_skadi,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_attacker_midas_agi,-,-,-,-,-,}{item_apex,};
+00224{item_vladimir_pact,item_radiance_prc,item_creep_desolator,item_great_crit_custom3,item_skadi,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_attacker_midas_agi,-,-,-,-,-,}{item_apex,};
