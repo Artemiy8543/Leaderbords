@@ -31,3 +31,4 @@
 35{item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_shivas_strom,item_lotus_cuirass,}{item_str_book,-,item_force_boots,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 0036{item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_shivas_strom,item_lotus_cuirass,}{-,-,item_force_boots,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 37{item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_shivas_strom,item_lotus_cuirass,}{item_str_book,-,item_force_boots,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+0038{item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_shivas_strom,item_lotus_cuirass,}{-,-,item_force_boots,}{-,-,-,-,-,-,}{item_philosophers_stone,};
