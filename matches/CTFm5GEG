@@ -46,3 +46,4 @@
 0050{item_radiance_prc,item_gladiator_guard,item_lightning_sword,item_blade_midas,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 51{item_radiance_prc,item_gladiator_guard,item_lightning_sword,item_blade_midas,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 0052{item_radiance_prc,item_gladiator_guard,item_lightning_sword,item_blade_midas,item_shivas_strom,item_lotus_cuirass,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
+53{item_radiance_prc,item_gladiator_guard,item_lightning_sword,item_blade_midas,item_shivas_strom,item_lotus_cuirass,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
