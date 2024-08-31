@@ -24,4 +24,5 @@
 67{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_infinity_moon_shard,}{item_spy_gadget,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_force_boots,};
 94{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,-,}{item_spy_gadget,item_smoke_of_deceit,-,}{-,-,-,-,-,-,}{item_force_boots,};
 99{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_str_book,}{item_spy_gadget,item_smoke_of_deceit,item_tier3_token,}{-,-,-,-,-,-,}{item_force_boots,};
-102{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_str_book,}{item_spy_gadget,item_smoke_of_deceit,item_tier3_token,}{-,-,-,-,-,-,}{item_force_boots,};
+101{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_str_book,}{item_spy_gadget,item_smoke_of_deceit,item_tier3_token,}{-,-,-,-,-,-,}{item_force_boots,};
+00103{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_str_book,}{item_spy_gadget,item_smoke_of_deceit,item_tier3_token,}{-,-,-,-,-,-,}{item_force_boots,};
