@@ -73,4 +73,4 @@
 488{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_agi_book,-,-,-,-,-,}{-,};
 571{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_agi_book,-,-,-,-,-,}{-,};
 637{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_devastator,}{-,item_lightning_sword,item_attacker_midas_agi,}{-,-,-,-,-,-,}{item_mind_breaker,};
-682{item_radiance_prc,item_phylactery_blade,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_lightning_sword,}{item_great_magic_crit3,item_devastator,item_attacker_midas_agi,}{-,-,-,-,-,-,}{item_mind_breaker,};
+683{item_radiance_prc,item_phylactery_blade,item_revenants_brooch,item_trident_custom,item_creep_desolator,item_lightning_sword,}{item_great_magic_crit3,item_devastator,item_attacker_midas_agi,}{-,-,-,-,-,-,}{item_mind_breaker,};
