@@ -5,3 +5,4 @@
 5{item_falcon_blade,item_mask_of_madness,item_maelstrom,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_falcon_blade,item_mask_of_madness,item_maelstrom,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_falcon_blade,item_satanic,item_maelstrom,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_falcon_blade,item_satanic,item_mjollnir,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
