@@ -9,3 +9,4 @@
 200{item_attacker_midas_agi,item_radiance_prc,item_creep_desolator,item_great_magic_crit3,item_infinity_moon_shard,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_skadi,item_agi_book,-,-,-,-,}{item_apex,};
 202{item_attacker_midas_agi,item_radiance_prc,item_creep_desolator,item_great_magic_crit3,item_infinity_moon_shard,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_skadi,item_agi_book,-,-,-,-,}{item_apex,};
 204{item_attacker_midas_agi,item_radiance_prc,item_creep_desolator,item_great_magic_crit3,item_infinity_moon_shard,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_skadi,item_agi_book,-,-,-,-,}{item_apex,};
+00205{item_attacker_midas_agi,item_radiance_prc,item_creep_desolator,item_agi_book,item_infinity_moon_shard,item_trident_custom,}{item_branches,item_branches,item_branches,}{item_skadi,item_great_magic_crit3,-,-,-,-,}{item_apex,};
