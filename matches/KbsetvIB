@@ -72,9 +72,4 @@
 00486{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_agi_book,-,-,-,-,-,}{-,};
 488{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_agi_book,-,-,-,-,-,}{-,};
 571{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_agi_book,-,-,-,-,-,}{-,};
-573{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_agi_book,-,-,-,-,-,}{-,};
-576{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_agi_book,-,-,-,-,-,}{-,};
-00579{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_agi_book,-,-,-,-,-,}{-,};
-582{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_agi_book,-,-,-,-,-,}{-,};
-00585{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_agi_book,-,-,-,-,-,}{-,};
-589{item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_agi_book,-,-,-,-,-,}{-,};
+590{item_radiance_prc,item_phylactery_blade,-,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{item_great_magic_crit3,-,-,-,-,-,}{-,};
