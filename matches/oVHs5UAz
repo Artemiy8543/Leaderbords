@@ -27,6 +27,7 @@
 0037{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0038{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0039{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-0041{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-0043{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-0045{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0040{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0042{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0044{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0046{item_radiance_prc,item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
