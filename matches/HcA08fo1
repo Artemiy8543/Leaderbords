@@ -16,4 +16,5 @@
 58{item_bloodstone_shield,item_blade_midas,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_timeless_relic,item_manaback3,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 60{item_bloodstone_shield,item_blade_midas,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_timeless_relic,item_manaback3,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 62{item_bloodstone_shield,item_manaback3,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_timeless_relic,-,item_blade_midas,}{-,-,-,-,-,-,}{item_psychic_headband,};
-0065{item_bloodstone_shield,item_manaback3,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_timeless_relic,item_int_book,item_blade_midas,}{-,-,-,-,-,-,}{item_psychic_headband,};
+0064{item_bloodstone_shield,item_manaback3,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_timeless_relic,-,item_blade_midas,}{-,-,-,-,-,-,}{item_psychic_headband,};
+66{item_bloodstone_shield,item_manaback3,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_timeless_relic,-,item_blade_midas,}{-,-,-,-,-,-,}{item_psychic_headband,};
