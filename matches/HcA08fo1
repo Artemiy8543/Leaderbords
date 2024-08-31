@@ -37,4 +37,4 @@
 273{item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,item_radiance_prc,item_manaback3,item_trident_custom,}{item_phylactery_blade,item_int_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 276{item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,item_radiance_prc,item_manaback3,item_trident_custom,}{item_phylactery_blade,item_int_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 278{item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,item_radiance_prc,item_manaback3,item_trident_custom,}{item_phylactery_blade,item_int_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-298{item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,item_radiance_prc,item_manaback3,item_trident_custom,}{item_phylactery_blade,item_int_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+299{item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,item_radiance_prc,item_manaback3,item_trident_custom,}{item_phylactery_blade,item_int_book,item_smoke_of_deceit,}{-,-,-,-,-,-,}{item_timeless_relic,};
