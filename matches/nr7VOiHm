@@ -6,4 +6,4 @@
 0012{item_radiance_prc,item_satanic_of_madness,item_bloodstone_shield,item_trident_custom,item_helm_of_iron_will,item_diadem,}{item_blight_stone,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_radiance_prc,item_satanic_of_madness,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_lesser_crit,}{item_demon_edge,-,-,}{-,-,-,-,-,-,}{-,};
 0016{item_radiance_prc,item_satanic_of_madness,item_attacker_midas_agi,item_trident_custom,item_creep_desolator,item_great_crit_custom3,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{-,};
-0018{item_radiance_prc,item_attacker_midas_agi,item_satanic_of_madness,item_trident_custom,item_creep_desolator,item_great_crit_custom3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{-,};
+0019{item_radiance_prc,item_attacker_midas_agi,item_infinity_moon_shard,item_trident_custom,item_creep_desolator,item_great_crit_custom3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{-,};
