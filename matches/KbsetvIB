@@ -2,4 +2,5 @@
 4{item_talisman_of_evasion,item_flask,item_ghost,item_smoke_of_deceit,item_wraith_band,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_radiance,item_aether_lens,item_ghost,-,item_wraith_band,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_radiance,item_phylactery_blade,-,item_wraith_band,-,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_radiance,item_phylactery_blade,item_bloodstone,item_wraith_band,item_sange,item_wraith_band,}{item_staff_of_wizardry,item_robe,-,}{-,-,-,-,-,-,}{-,};
+9{item_radiance,item_phylactery_blade,item_bloodstone,item_wraith_band,-,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_radiance,item_phylactery_blade,item_bloodstone,item_trident_custom,item_wraith_band,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{-,};
