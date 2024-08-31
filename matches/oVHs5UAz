@@ -7,5 +7,6 @@
 8{item_attacker_midas_str,item_mask_of_madness,item_moon_shard,item_trident_custom,-,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_attacker_midas_str,item_mask_of_madness,-,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0012{item_radiance_prc,item_mask_of_madness,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-14{item_radiance_prc,item_mask_of_madness,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0016{item_radiance_prc,item_mask_of_madness,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+13{item_radiance_prc,item_mask_of_madness,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0015{item_radiance_prc,item_mask_of_madness,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+17{item_radiance_prc,item_mask_of_madness,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_tier2_token,item_agi_book,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
