@@ -169,4 +169,4 @@
 00290{item_trident_custom,item_phylactery_blade,item_blade_midas,item_radiance_prc,item_lotus_cuirass,item_creep_desolator,}{item_shivas_strom,item_skadi,item_gladiator_guard,}{-,-,-,-,-,-,}{item_elven_tunic,};
 294{item_trident_custom,item_phylactery_blade,item_great_magic_crit3,item_radiance_prc,item_lotus_cuirass,item_creep_desolator,}{item_blade_midas,item_skadi,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 296{item_trident_custom,item_phylactery_blade,item_great_magic_crit3,item_radiance_prc,item_lotus_cuirass,item_creep_desolator,}{item_blade_midas,item_skadi,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-300{item_trident_custom,item_phylactery_blade,item_great_magic_crit3,item_radiance_prc,item_lotus_cuirass,item_creep_desolator,}{item_blade_midas,item_skadi,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+301{item_trident_custom,item_phylactery_blade,item_great_magic_crit3,item_radiance_prc,item_lotus_cuirass,item_creep_desolator,}{item_blade_midas,item_skadi,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
