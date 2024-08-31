@@ -8,4 +8,5 @@
 0014{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0016{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 18{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0021{item_radiance,item_phylactery_blade,-,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0020{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+22{item_radiance,item_phylactery_blade,-,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
