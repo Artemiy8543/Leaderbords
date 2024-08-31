@@ -25,4 +25,5 @@
 94{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,-,}{item_spy_gadget,item_smoke_of_deceit,-,}{-,-,-,-,-,-,}{item_force_boots,};
 117{item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_str_book,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 122{item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_str_book,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
-00125{item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_str_book,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
+00124{item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_str_book,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
+126{item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_str_book,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
