@@ -47,4 +47,5 @@
 317{item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,item_radiance_prc,item_manaback3,item_trident_custom,}{item_phylactery_blade,item_agi_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 319{item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,item_radiance_prc,item_manaback3,item_trident_custom,}{item_phylactery_blade,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 321{item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,item_radiance_prc,item_manaback3,item_trident_custom,}{item_phylactery_blade,item_int_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-325{item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,item_radiance_prc,item_manaback3,item_trident_custom,}{item_phylactery_blade,item_int_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+324{item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,item_radiance_prc,item_manaback3,item_trident_custom,}{item_phylactery_blade,item_int_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+326{item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,item_radiance_prc,item_manaback3,item_trident_custom,}{item_phylactery_blade,item_int_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
