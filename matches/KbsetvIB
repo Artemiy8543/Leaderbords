@@ -6,4 +6,5 @@
 11{item_radiance,item_phylactery_blade,item_bloodstone,item_trident_custom,item_wraith_band,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_claymore,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0014{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0017{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+18{item_radiance,item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
