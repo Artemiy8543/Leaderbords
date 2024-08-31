@@ -14,4 +14,5 @@
 46{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance,-,-,}{item_spy_gadget,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_force_boots,};
 0048{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance,-,-,}{item_spy_gadget,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_force_boots,};
 50{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance,item_blade_midas,item_infinity_moon_shard,}{item_spy_gadget,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_force_boots,};
-53{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance,item_blade_midas,item_infinity_moon_shard,}{item_spy_gadget,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_force_boots,};
+52{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance,item_blade_midas,item_infinity_moon_shard,}{item_spy_gadget,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_force_boots,};
+0054{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_radiance,item_blade_midas,item_infinity_moon_shard,}{item_spy_gadget,item_gossamer_cape,-,}{-,-,-,-,-,-,}{item_force_boots,};
