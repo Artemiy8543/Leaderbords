@@ -14,3 +14,4 @@
 21{item_radiance_prc,item_ultimate_boots,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 23{item_radiance_prc,item_ultimate_boots,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 25{item_radiance_prc,item_ultimate_boots,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_demonicon,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0026{item_radiance_prc,item_ultimate_boots,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{item_demonicon,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
