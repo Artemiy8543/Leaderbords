@@ -3,4 +3,5 @@
 19{item_bloodstone,item_attacker_midas_int,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 0022{item_bloodstone,item_attacker_midas_int,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_grove_bow,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 25{item_bloodstone,item_attacker_midas_int,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_grove_bow,item_tier3_token,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-28{item_bloodstone,item_attacker_midas_int,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+27{item_bloodstone,item_attacker_midas_int,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+0029{item_bloodstone,item_attacker_midas_int,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_tier4_token,item_tier5_token,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
