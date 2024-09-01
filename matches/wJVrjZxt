@@ -9,3 +9,4 @@
 9{item_hand_of_midas,item_satanic,item_vanguard,item_bfury,item_ultimate_scepter,item_claymore,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 0010{item_hand_of_midas,item_satanic,item_vanguard,item_bfury,item_ultimate_scepter,item_claymore,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 11{item_satanic_of_madness,item_hand_of_midas,item_vanguard,item_bfury,item_ultimate_scepter,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
+12{item_satanic_of_madness,item_hand_of_midas,item_vanguard,item_bfury,item_ultimate_scepter,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
