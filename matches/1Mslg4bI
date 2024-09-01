@@ -2,3 +2,4 @@
 3{-,-,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_platemail,item_ring_of_protection,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_platemail,item_buckler,item_bloodstone,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_assault,item_ring_of_health,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
