@@ -10,3 +10,4 @@
 14{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 0016{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 0018{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+19{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_agi_book,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
