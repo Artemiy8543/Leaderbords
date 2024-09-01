@@ -14,9 +14,9 @@
 14{item_satanic_of_madness,item_hand_of_midas,item_vanguard,item_bfury,-,item_creep_desolator,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
 16{item_satanic_of_madness,item_attacker_midas_agi,item_vanguard,item_bfury,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0017{item_satanic_of_madness,item_attacker_midas_agi,item_vanguard,item_bfury,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-0018{item_satanic_of_madness,item_attacker_midas_agi,-,item_bfury,item_lotus_cuirass,item_creep_desolator,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-0020{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit3,item_bfury,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
-22{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit3,item_bfury,item_lotus_cuirass,item_creep_desolator,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
-24{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit3,item_bfury,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-0026{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit3,item_bfury,item_lotus_cuirass,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-0028{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit3,item_bfury,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0019{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit3,item_bfury,item_lotus_cuirass,item_creep_desolator,}{item_elven_tunic,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
+21{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit3,item_bfury,item_lotus_cuirass,item_creep_desolator,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ancient_guardian,};
+23{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit3,item_bfury,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0025{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit3,item_bfury,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0027{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit3,item_bfury,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0029{item_satanic_of_madness,item_attacker_midas_agi,item_great_magic_crit3,item_bfury,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
