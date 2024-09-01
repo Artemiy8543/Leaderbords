@@ -33,4 +33,5 @@
 0067{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_trident_custom,item_str_book,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
 0069{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_trident_custom,item_str_book,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
 0072{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_trident_custom,-,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
-0075{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_trident_custom,item_int_book,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
+0074{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_trident_custom,item_int_book,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
+0076{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_trident_custom,item_int_book,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
