@@ -13,3 +13,4 @@
 20{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_agi_book,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 21{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 22{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_agi_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+23{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_agi_book,-,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
