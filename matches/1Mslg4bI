@@ -17,3 +17,4 @@
 24{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_trident_custom,item_agi_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 27{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_trident_custom,item_agi_book,-,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 28{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
+29{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
