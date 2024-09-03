@@ -10,4 +10,4 @@
 0017{item_revenants_brooch,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 19{item_attacker_midas_int,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 21{item_attacker_midas_int,-,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
-0023{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_unstable_wand,};
+0024{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{item_infinity_moon_shard,-,-,-,-,-,}{item_unstable_wand,};
