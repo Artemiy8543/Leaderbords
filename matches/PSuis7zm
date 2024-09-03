@@ -13,4 +13,5 @@
 0023{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_unstable_wand,};
 25{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{item_infinity_moon_shard,-,-,-,-,-,}{item_tier4_token,};
 0027{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_spy_gadget,};
-30{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{item_infinity_moon_shard,-,-,-,-,-,}{item_spy_gadget,};
+29{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{item_infinity_moon_shard,-,-,-,-,-,}{item_spy_gadget,};
+31{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_spy_gadget,};
