@@ -3,3 +3,4 @@
 3{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_radiance,item_voodoo_mask,item_kaya,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_radiance,item_voodoo_mask,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
+8{item_radiance,item_voodoo_mask,item_trident_custom,item_void_stone,item_pavise,item_point_booster,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
