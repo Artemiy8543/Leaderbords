@@ -11,4 +11,5 @@
 19{item_attacker_midas_int,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 21{item_attacker_midas_int,-,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 0023{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_unstable_wand,};
-26{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_spy_gadget,};
+25{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{item_infinity_moon_shard,-,-,-,-,-,}{item_tier4_token,};
+0027{item_attacker_midas_int,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_branches,item_radiance_prc,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_spy_gadget,};
