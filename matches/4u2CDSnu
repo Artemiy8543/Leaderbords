@@ -2,3 +2,4 @@
 004{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vanguard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_bloodstone,item_blade_mail,item_heart,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
