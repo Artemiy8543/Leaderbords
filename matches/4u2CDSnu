@@ -3,4 +3,4 @@
 006{item_vanguard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_bloodstone,item_blade_mail,item_heart,item_vanguard,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_bloodstone,item_blade_mail,item_heart,item_vanguard,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+13{item_bloodstone,item_blade_mail,item_heart,item_vanguard,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
