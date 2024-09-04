@@ -17,3 +17,4 @@
 27{item_bloodstone_shield,item_blade_midas,item_gladiator_guard,item_trident_custom,item_refresher_core,item_lotus_cuirass,}{item_paladin_sword,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 28{item_bloodstone_shield,item_blade_midas,item_gladiator_guard,item_trident_custom,item_refresher_core,item_lotus_cuirass,}{item_paladin_sword,item_str_book,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 29{item_bloodstone_shield,item_blade_midas,item_gladiator_guard,item_trident_custom,item_refresher_core,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
+30{item_bloodstone_shield,item_blade_midas,item_gladiator_guard,item_trident_custom,item_refresher_core,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
