@@ -4,4 +4,4 @@
 8{item_bloodstone_shield,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 009{item_bloodstone_shield,item_lotus_cuirass,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 11{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-12{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_kaya_and_sange,-,-,}{item_vampire_fangs,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+13{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_kaya_and_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
