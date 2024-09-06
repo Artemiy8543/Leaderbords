@@ -15,4 +15,5 @@
 0023{item_attacker_midas_agi,-,item_creep_desolator,item_rapier,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0025{item_attacker_midas_agi,item_agi_book,item_creep_desolator,-,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 27{item_attacker_midas_agi,item_agi_book,item_creep_desolator,-,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-29{item_attacker_midas_agi,item_rapier,item_creep_desolator,-,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+28{item_attacker_midas_agi,item_rapier,item_creep_desolator,-,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0030{item_attacker_midas_agi,item_rapier,item_creep_desolator,-,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
