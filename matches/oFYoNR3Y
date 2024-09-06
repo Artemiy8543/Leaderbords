@@ -8,3 +8,4 @@
 0014{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 0015{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 0016{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+17{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_shivas_strom,item_great_magic_crit,}{item_demon_edge,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
