@@ -2,3 +2,4 @@
 4{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_agi,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_agi,item_bfury,item_blight_stone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_agi,item_bfury,item_desolator,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
