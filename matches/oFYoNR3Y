@@ -2,4 +2,5 @@
 4{item_voodoo_mask,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_voodoo_mask,item_assault,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 8{item_bloodstone_shield,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-0010{item_bloodstone_shield,item_lotus_cuirass,item_vanguard,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+009{item_bloodstone_shield,item_lotus_cuirass,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+11{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
