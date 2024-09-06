@@ -10,5 +10,5 @@
 0016{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 17{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_shivas_strom,item_great_magic_crit,}{item_demon_edge,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 19{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_shivas_strom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
-0020{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_shivas_strom,item_great_magic_crit3,}{item_paladin_sword,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
-22{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_shivas_strom,item_great_magic_crit3,}{item_paladin_sword,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+0021{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_shivas_strom,item_great_magic_crit3,}{item_paladin_sword,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+23{item_bloodstone_shield,item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_shivas_strom,item_great_magic_crit3,}{item_paladin_sword,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
