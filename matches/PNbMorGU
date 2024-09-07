@@ -8,4 +8,4 @@
 9{item_radiance_prc,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 11{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_lesser_crit,item_aether_lens,item_ghost,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 13{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_lesser_crit,item_phylactery_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-15{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+16{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
