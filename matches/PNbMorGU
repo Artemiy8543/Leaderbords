@@ -2,3 +2,4 @@
 2{item_talisman_of_evasion,-,item_smoke_of_deceit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_talisman_of_evasion,-,item_smoke_of_deceit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_radiance,item_urn_of_shadows,item_smoke_of_deceit,-,-,-,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_radiance_prc,item_voodoo_mask,item_smoke_of_deceit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
