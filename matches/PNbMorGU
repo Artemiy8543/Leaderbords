@@ -7,3 +7,4 @@
 8{item_radiance_prc,item_bloodstone_shield,item_smoke_of_deceit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 9{item_radiance_prc,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 11{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_lesser_crit,item_aether_lens,item_ghost,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+12{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_lesser_crit,item_phylactery_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
