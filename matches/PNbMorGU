@@ -3,4 +3,4 @@
 003{item_talisman_of_evasion,-,item_smoke_of_deceit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_radiance,item_urn_of_shadows,item_smoke_of_deceit,-,-,-,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_radiance_prc,item_voodoo_mask,item_smoke_of_deceit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_radiance_prc,item_voodoo_mask,item_smoke_of_deceit,item_energy_booster,item_void_stone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_radiance_prc,item_bloodstone,item_smoke_of_deceit,item_energy_booster,item_ring_of_protection,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
