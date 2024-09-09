@@ -1,3 +1,4 @@
 11+76561198000159256=1{item_dragon_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_dragon_lance,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_dragon_lance,item_mask_of_madness,item_staff_of_wizardry,item_fluffy_hat,-,-,}{item_recipe_hurricane_pike,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_lifesteal,item_mask_of_madness,item_hurricane_pike,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
