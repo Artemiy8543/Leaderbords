@@ -4,3 +4,4 @@
 6{item_lifesteal,item_satanic,item_hurricane_pike,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_satanic_of_madness,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_hurricane_pike,};
 9{item_satanic_of_madness,item_moon_shard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_hurricane_pike,};
+10{item_satanic_of_madness,item_moon_shard,item_yasha,item_staff_of_wizardry,item_robe,item_ogre_axe,}{item_recipe_trident_custom,item_belt_of_strength,-,}{-,-,-,-,-,-,}{item_hurricane_pike,};
