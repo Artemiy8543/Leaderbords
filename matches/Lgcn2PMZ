@@ -3,4 +3,4 @@
 4{item_dragon_lance,item_mask_of_madness,item_staff_of_wizardry,item_fluffy_hat,-,-,}{item_recipe_hurricane_pike,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_lifesteal,item_satanic,item_hurricane_pike,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_satanic_of_madness,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_hurricane_pike,};
-8{item_satanic_of_madness,item_hyperstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_hurricane_pike,};
+9{item_satanic_of_madness,item_moon_shard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_hurricane_pike,};
