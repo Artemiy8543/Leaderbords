@@ -8,3 +8,4 @@
 008{item_creep_desolator,item_satanic,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 009{item_creep_desolator,item_satanic_of_madness,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 10{item_creep_desolator,item_satanic_of_madness,item_lotus_cuirass,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+11{item_creep_desolator,item_satanic_of_madness,item_lotus_cuirass,item_lightning_sword,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
