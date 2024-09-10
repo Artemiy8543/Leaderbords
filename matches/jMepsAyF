@@ -4,3 +4,4 @@
 4{item_attacker_midas_agi,item_satanic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{-,item_satanic,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 6{-,item_satanic,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+7{item_creep_desolator,item_satanic,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
