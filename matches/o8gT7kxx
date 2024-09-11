@@ -2,3 +2,4 @@
 002{item_quelling_blade,item_orb_of_venom,item_armlet,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_quelling_blade,item_orb_of_venom,item_armlet,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_quelling_blade,item_orb_of_venom,item_armlet,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{-,item_orb_of_venom,item_armlet,-,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
