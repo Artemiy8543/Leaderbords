@@ -26,5 +26,5 @@
 0048{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,}{item_int_book,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 50{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,}{-,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 0051{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,}{-,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-52{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,}{item_int_book,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-0054{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,}{item_int_book,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+53{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,}{item_int_book,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+0055{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_shivas_strom,}{item_int_book,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
