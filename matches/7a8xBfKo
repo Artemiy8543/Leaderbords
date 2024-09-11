@@ -7,3 +7,4 @@
 0013{item_yasha_and_kaya,item_bloodstone_shield,item_ultimate_scepter,item_heart,item_blade_mail,item_lotus_cuirass,}{item_aether_lens,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 0015{item_yasha_and_kaya,item_bloodstone_shield,item_ultimate_scepter,item_heart,item_blade_mail,item_lotus_cuirass,}{item_aether_lens,item_shivas_guard,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 16{item_yasha_and_kaya,item_bloodstone_shield,item_ultimate_scepter,item_heart,item_blade_mail,item_lotus_cuirass,}{item_aether_lens,item_shivas_strom,item_tier2_token,}{item_rapier,-,-,-,-,-,}{item_unstable_wand,};
+17{item_yasha_and_kaya,item_bloodstone_shield,item_ultimate_scepter,item_heart,item_blade_mail,item_lotus_cuirass,}{item_aether_lens,item_shivas_strom,-,}{item_rapier,-,-,-,-,-,}{item_dragon_scale,};
