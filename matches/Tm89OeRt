@@ -6,3 +6,4 @@
 009{item_bloodstone_shield,item_trident_custom,item_radiance,-,-,-,}{item_tier1_token,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_bloodstone_shield,item_trident_custom,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 13{item_bloodstone_shield,item_trident_custom,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
