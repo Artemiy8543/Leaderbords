@@ -37,3 +37,4 @@
 0045{item_lotus_cuirass,item_gladiator_guard,item_armlet_of_mjolnir,item_ultimate_boots,item_satanic,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 0047{item_lotus_cuirass,item_gladiator_guard,item_armlet_of_mjolnir,item_ultimate_boots,item_satanic,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 0050{item_lotus_cuirass,item_gladiator_guard,item_armlet_of_mjolnir,item_ultimate_boots,item_satanic,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+0051{item_lotus_cuirass,item_gladiator_guard,item_great_magic_crit3,item_ultimate_boots,item_satanic,item_creep_desolator,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_pirate_hat,};
