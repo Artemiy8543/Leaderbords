@@ -2,3 +2,4 @@
 002{item_power_treads,item_cornucopia,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_power_treads,item_cornucopia,item_mithril_hammer,item_javelin,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_power_treads,item_cornucopia,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_power_treads,item_cornucopia,item_maelstrom,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
