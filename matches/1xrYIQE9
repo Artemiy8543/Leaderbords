@@ -6,3 +6,4 @@
 7{item_power_treads,item_cornucopia,item_maelstrom,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 8{item_power_treads,item_cornucopia,item_maelstrom,item_satanic,item_desolator,item_blade_of_alacrity,}{item_boots_of_elves,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 009{item_power_treads,item_cornucopia,item_maelstrom,item_satanic,item_desolator,item_sange_and_yasha,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+10{item_power_treads,item_cornucopia,item_maelstrom,item_desolator,item_satanic,item_sange_and_yasha,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
