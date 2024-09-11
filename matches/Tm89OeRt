@@ -15,4 +15,5 @@
 28{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 30{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 32{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-35{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+34{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+36{item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_phylactery_blade,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
