@@ -16,3 +16,4 @@
 19{item_lotus_cuirass,item_abyssal_blade,item_armlet_of_mjolnir,item_creep_desolator,item_satanic,item_sange_and_yasha,}{item_cornucopia,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
 0020{item_lotus_cuirass,item_abyssal_blade,item_armlet_of_mjolnir,item_creep_desolator,item_satanic,item_sange_and_yasha,}{item_cornucopia,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
 0021{item_lotus_cuirass,item_abyssal_blade,item_armlet_of_mjolnir,item_creep_desolator,item_satanic,item_ultimate_boots,}{item_cornucopia,item_sange_and_yasha,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
+0022{item_lotus_cuirass,item_abyssal_blade,item_armlet_of_mjolnir,item_creep_desolator,item_satanic,item_ultimate_boots,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
