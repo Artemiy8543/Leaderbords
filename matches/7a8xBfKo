@@ -2,4 +2,4 @@
 4{item_aether_lens,item_voodoo_mask,item_vitality_booster,item_void_stone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_aether_lens,item_bloodstone,item_point_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_aether_lens,item_bloodstone,item_point_booster,item_ogre_axe,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-008{item_aether_lens,item_bloodstone,item_ultimate_scepter,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_aether_lens,item_bloodstone,item_ultimate_scepter,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
