@@ -3,4 +3,5 @@
 5{item_aether_lens,item_bloodstone,item_point_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_aether_lens,item_bloodstone,item_point_booster,item_ogre_axe,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_aether_lens,item_bloodstone,item_ultimate_scepter,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
-12{item_aether_lens,item_bloodstone_shield,item_ultimate_scepter,item_heart,item_blade_mail,item_assault,}{item_pers,item_platemail,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
+11{item_aether_lens,item_bloodstone_shield,item_ultimate_scepter,item_heart,item_blade_mail,item_platemail,}{item_hyperstone,item_buckler,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
+0013{item_yasha_and_kaya,item_bloodstone_shield,item_ultimate_scepter,item_heart,item_blade_mail,item_lotus_cuirass,}{item_aether_lens,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
