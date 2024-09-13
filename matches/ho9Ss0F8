@@ -3,5 +3,6 @@
 3{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_radiance_prc,-,-,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_radiance_prc,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-10{item_radiance_prc,item_bloodstone_shield,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+7{item_radiance_prc,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+9{item_radiance_prc,item_bloodstone_shield,item_yasha_and_kaya,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+0011{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_maelstrom,item_veil_of_discord,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
