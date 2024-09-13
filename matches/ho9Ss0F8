@@ -68,4 +68,5 @@
 144{item_radiance_prc,item_revenants_brooch,item_vladimir_pact,item_creep_desolator,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{item_meteor_rain,-,-,-,-,-,}{item_trident_custom,};
 00148{item_radiance_prc,item_revenants_brooch,item_vladimir_pact,item_creep_desolator,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{item_meteor_rain,-,-,-,-,-,}{item_trident_custom,};
 152{item_radiance_prc,item_revenants_brooch,item_vladimir_pact,item_creep_desolator,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{item_meteor_rain,-,-,-,-,-,}{item_trident_custom,};
-00157{item_radiance_prc,item_revenants_brooch,item_vladimir_pact,item_creep_desolator,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{item_meteor_rain,-,-,-,-,-,}{item_trident_custom,};
+00156{item_radiance_prc,item_revenants_brooch,item_vladimir_pact,item_creep_desolator,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{item_meteor_rain,-,-,-,-,-,}{item_trident_custom,};
+158{item_radiance_prc,item_revenants_brooch,item_vladimir_pact,item_creep_desolator,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{item_meteor_rain,-,-,-,-,-,}{item_trident_custom,};
