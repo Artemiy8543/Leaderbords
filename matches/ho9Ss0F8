@@ -51,4 +51,5 @@
 0086{item_radiance_prc,item_meteor_rain,item_lightning_sword,item_shivas_strom,item_phylactery_blade,item_great_magic_crit3,}{item_radiance,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 0089{item_radiance_prc,item_revenants_brooch,item_lightning_sword,item_creep_desolator,item_phylactery_blade,item_great_magic_crit3,}{item_radiance,item_shivas_strom,-,}{item_meteor_rain,-,-,-,-,-,}{item_trident_custom,};
 0092{item_radiance_prc,item_revenants_brooch,item_lightning_sword,item_creep_desolator,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{item_meteor_rain,-,-,-,-,-,}{item_trident_custom,};
-95{item_radiance_prc,item_revenants_brooch,item_lightning_sword,item_creep_desolator,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{item_meteor_rain,-,-,-,-,-,}{item_trident_custom,};
+94{item_radiance_prc,item_revenants_brooch,item_lightning_sword,item_creep_desolator,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{item_meteor_rain,-,-,-,-,-,}{item_trident_custom,};
+96{item_radiance_prc,item_revenants_brooch,item_lightning_sword,item_creep_desolator,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{item_meteor_rain,-,-,-,-,-,}{item_trident_custom,};
