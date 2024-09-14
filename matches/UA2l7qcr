@@ -17,4 +17,4 @@
 0037{item_bloodstone_shield,item_int_book,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 39{item_bloodstone_shield,item_int_book,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 0041{item_bloodstone_shield,-,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-42{item_bloodstone_shield,-,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+43{item_bloodstone_shield,item_veil_of_dagon,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
