@@ -13,4 +13,5 @@
 28{item_bloodstone_shield,-,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{item_tier4_token,item_tier5_token,item_tier3_token,}{-,-,-,-,-,-,}{item_dragon_scale,};
 30{item_bloodstone_shield,-,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{item_tier4_token,item_tier5_token,item_psychic_headband,}{-,-,-,-,-,-,}{item_dragon_scale,};
 0032{item_bloodstone_shield,-,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{item_tier4_token,item_tier5_token,item_psychic_headband,}{-,-,-,-,-,-,}{item_dragon_scale,};
-35{item_bloodstone_shield,item_int_book,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+34{item_bloodstone_shield,item_int_book,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+0036{item_bloodstone_shield,item_int_book,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
