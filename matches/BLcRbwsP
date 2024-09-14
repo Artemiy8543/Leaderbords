@@ -2,4 +2,4 @@
 4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_blade_midas,item_bloodstone,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_blade_midas,item_bloodstone,item_ultimate_scepter,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-009{item_blade_midas,item_bloodstone_shield,item_ultimate_scepter,item_trident_custom,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+0010{item_blade_midas,item_bloodstone_shield,item_ultimate_scepter,item_trident_custom,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
