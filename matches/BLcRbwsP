@@ -5,4 +5,4 @@
 0010{item_blade_midas,item_bloodstone_shield,item_ultimate_scepter,item_trident_custom,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 15{item_blade_midas,-,item_ultimate_scepter,item_trident_custom,item_great_magic_crit,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 19{item_blade_midas,-,item_ultimate_scepter,item_trident_custom,item_great_magic_crit,item_phylactery_blade,}{item_whisper_of_the_dread,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-20{item_blade_midas,-,item_ultimate_scepter,item_trident_custom,item_great_magic_crit,item_phylactery_blade,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+21{item_blade_midas,-,item_ultimate_scepter,item_trident_custom,item_great_magic_crit,item_phylactery_blade,}{item_psychic_headband,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
