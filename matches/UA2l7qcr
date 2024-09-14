@@ -50,3 +50,4 @@
 95{item_phylactery_blade,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_refresher_core,item_refresher_core,}{item_veil_of_dagon,-,item_shivas_strom,}{item_manaback3,-,-,-,-,-,}{item_timeless_relic,};
 98{item_phylactery_blade,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_refresher_core,item_refresher_core,}{item_veil_of_dagon,-,item_shivas_strom,}{item_manaback3,-,-,-,-,-,}{item_timeless_relic,};
 99{item_phylactery_blade,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_refresher_core,item_refresher_core,}{item_veil_of_dagon,-,item_shivas_strom,}{item_manaback3,-,-,-,-,-,}{item_timeless_relic,};
+100{item_phylactery_blade,item_veil_of_dagon,item_trident_custom,item_great_magic_crit3,item_refresher_core,item_refresher_core,}{item_radiance_prc,-,item_shivas_strom,}{item_manaback3,-,-,-,-,-,}{item_timeless_relic,};
