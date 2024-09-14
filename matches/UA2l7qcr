@@ -29,4 +29,4 @@
 0058{item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{item_veil_of_dagon,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 61{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{item_veil_of_dagon,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 63{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{item_veil_of_dagon,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-64{item_shivas_strom,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{item_veil_of_dagon,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+65{item_shivas_strom,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{item_veil_of_dagon,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
