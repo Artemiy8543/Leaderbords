@@ -1,4 +1,4 @@
 22+76561199654725543=3{item_voodoo_mask,item_vitality_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bloodstone_shield,item_sange,item_staff_of_wizardry,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_bloodstone_shield,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-11{item_bloodstone_shield,item_trident_custom,item_manaback3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
+12{item_bloodstone_shield,item_trident_custom,item_manaback3,item_claymore,item_blades_of_attack,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
