@@ -21,4 +21,4 @@
 58{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_revenants_brooch,}{item_circlet,item_circlet,item_circlet,}{-,-,-,-,-,-,}{item_grove_bow,};
 63{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_creep_desolator,-,}{item_circlet,item_circlet,item_circlet,}{-,-,-,-,-,-,}{item_grove_bow,};
 0073{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{item_circlet,item_circlet,item_circlet,}{-,-,-,-,-,-,}{item_grove_bow,};
-0078{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{item_circlet,item_circlet,item_circlet,}{-,-,-,-,-,-,}{item_grove_bow,};
+0079{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{item_circlet,item_circlet,item_circlet,}{-,-,-,-,-,-,}{item_grove_bow,};
