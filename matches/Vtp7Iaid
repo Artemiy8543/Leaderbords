@@ -2,4 +2,4 @@
 7{item_bloodstone_shield,item_sange,item_staff_of_wizardry,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_bloodstone_shield,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 12{item_bloodstone_shield,item_trident_custom,item_manaback3,item_claymore,item_blades_of_attack,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
-13{item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit2,item_demon_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+14{item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
