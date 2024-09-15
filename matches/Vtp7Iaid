@@ -12,4 +12,4 @@
 0029{item_shivas_strom,item_meteor_rain,item_bloodstone_shield,item_infinity_moon_shard,item_trident_custom,item_manaback3,}{item_great_magic_crit3,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_mirror_shield,};
 32{item_infinity_moon_shard,item_meteor_rain,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_manaback3,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_mirror_shield,};
 0035{item_infinity_moon_shard,item_meteor_rain,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_manaback3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
-39{item_infinity_moon_shard,item_meteor_rain,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_manaback3,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_mirror_shield,};
+40{item_infinity_moon_shard,item_meteor_rain,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_manaback3,}{item_infinity_moon_shard,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
