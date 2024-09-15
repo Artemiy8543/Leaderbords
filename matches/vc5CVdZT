@@ -4,4 +4,4 @@
 008{item_radiance,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_radiance_prc,item_trident_custom,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0014{item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_creep_desolator,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0015{item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
