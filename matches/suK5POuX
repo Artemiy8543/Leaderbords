@@ -2,4 +2,5 @@
 006{item_attacker_midas_int,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_int,item_radiance,item_voodoo_mask,item_belt_of_strength,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_attacker_midas_int,item_radiance,item_voodoo_mask,item_trident_custom,item_urn_of_shadows,item_vitality_booster,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_attacker_midas_int,item_radiance_prc,item_voodoo_mask,item_trident_custom,item_vitality_booster,item_energy_booster,}{item_void_stone,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
