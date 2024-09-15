@@ -7,4 +7,5 @@
 18{item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 0020{item_bloodstone_shield,item_meteor_rain,item_manaback3,item_great_magic_crit3,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 22{item_bloodstone_shield,item_meteor_rain,item_manaback3,item_great_magic_crit3,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
-25{item_meteor_rain,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
+24{item_bloodstone_shield,item_meteor_rain,item_manaback3,item_great_magic_crit3,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0026{item_meteor_rain,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
