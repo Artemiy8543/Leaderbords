@@ -3,4 +3,5 @@
 9{item_bloodstone_shield,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 12{item_bloodstone_shield,item_trident_custom,item_manaback3,item_claymore,item_blades_of_attack,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 14{item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
-17{item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+16{item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
+18{item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
