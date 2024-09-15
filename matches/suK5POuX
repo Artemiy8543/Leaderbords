@@ -6,4 +6,4 @@
 12{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_attacker_midas_int,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_revenants_brooch,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-17{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_revenants_brooch,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+18{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_creep_desolator,item_revenants_brooch,}{item_circlet,item_circlet,item_circlet,}{item_infinity_moon_shard,-,-,-,-,-,}{-,};
