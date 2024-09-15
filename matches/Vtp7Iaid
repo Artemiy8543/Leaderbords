@@ -1,2 +1,3 @@
 22+76561199654725543=3{item_voodoo_mask,item_vitality_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_bloodstone_shield,item_sange,item_staff_of_wizardry,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_bloodstone_shield,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
