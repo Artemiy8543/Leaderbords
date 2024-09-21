@@ -3,4 +3,5 @@
 5{item_satanic_of_madness,item_heart,item_null_talisman,item_infinity_moon_shard,item_creep_desolator,item_attacker_midas_agi,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_satanic_of_madness,item_heart,item_null_talisman,item_infinity_moon_shard,item_creep_desolator,item_attacker_midas_agi,}{item_hyperstone,-,-,}{-,-,-,-,-,-,}{item_moon_shard,};
 12{item_satanic_of_madness,item_heart,item_null_talisman,item_infinity_moon_shard,item_creep_desolator,item_attacker_midas_agi,}{-,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{-,};
-0016{item_satanic_of_madness,item_heart,item_null_talisman,item_infinity_moon_shard,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{-,-,item_hyperstone,-,-,-,}{-,};
+0015{item_satanic_of_madness,item_heart,item_null_talisman,item_infinity_moon_shard,item_creep_desolator,item_attacker_midas_agi,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{item_infinity_moon_shard,item_infinity_moon_shard,item_hyperstone,-,-,-,}{-,};
+17{item_satanic_of_madness,item_heart,item_null_talisman,item_infinity_moon_shard,item_creep_desolator,item_attacker_midas_agi,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_moon_shard,item_hyperstone,-,}{-,};
