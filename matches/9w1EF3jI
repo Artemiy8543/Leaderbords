@@ -3,4 +3,4 @@
 009{item_vanguard,item_bloodstone,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_crimson_guard,item_bloodstone,item_heart,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0014{item_gladiator_guard,item_bloodstone,-,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-16{item_gladiator_guard,item_bloodstone,item_trident_custom,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+17{item_gladiator_guard,item_bloodstone,item_trident_custom,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
