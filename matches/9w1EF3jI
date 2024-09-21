@@ -16,4 +16,5 @@
 0033{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_blade_midas,-,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 0036{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_blade_midas,item_str_book,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 0038{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_blade_midas,item_lotus_cuirass,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-41{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_blade_midas,item_lotus_cuirass,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+40{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_blade_midas,item_lotus_cuirass,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+42{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_blade_midas,item_lotus_cuirass,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
