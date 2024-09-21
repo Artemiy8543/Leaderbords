@@ -1,4 +1,5 @@
 99+76561198440728464=2{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_vanguard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_vanguard,item_bloodstone,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_crimson_guard,item_bloodstone,item_heart,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_crimson_guard,item_bloodstone,item_heart,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_gladiator_guard,item_bloodstone,-,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
