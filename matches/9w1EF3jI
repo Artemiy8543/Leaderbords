@@ -4,3 +4,4 @@
 12{item_crimson_guard,item_bloodstone,item_heart,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0014{item_gladiator_guard,item_bloodstone,-,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_gladiator_guard,item_bloodstone,item_trident_custom,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+18{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
