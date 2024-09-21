@@ -2,3 +2,4 @@
 003{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_ultimate_scepter,item_energy_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ultimate_scepter,item_aether_lens,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_ultimate_scepter,item_aether_lens,item_ghost,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
