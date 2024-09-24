@@ -3,3 +3,4 @@
 4{item_power_treads,item_dragon_lance,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_power_treads,item_dragon_lance,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_power_treads,item_dragon_lance,item_moon_shard,item_lesser_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_power_treads,item_dragon_lance,item_moon_shard,item_lesser_crit,item_demon_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
