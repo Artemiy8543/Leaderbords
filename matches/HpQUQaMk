@@ -4,4 +4,4 @@
 9{item_heart,item_sange,-,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_heart,item_sange_and_yasha,item_sange,item_staff_of_wizardry,item_lotus_cuirass,item_robe,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_heart,item_sange_and_yasha,item_trident_custom,item_blade_mail,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0015{item_heart,item_sange_and_yasha,item_trident_custom,item_blade_mail,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_heart,item_sange_and_yasha,item_trident_custom,item_blade_mail,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
