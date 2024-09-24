@@ -1,5 +1,5 @@
 4+76561199767450320=002{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{-,-,-,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_heart,-,-,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_heart,item_sange_and_yasha,-,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_heart,item_sange,-,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_heart,item_sange_and_yasha,item_sange,item_staff_of_wizardry,item_lotus_cuirass,item_robe,}{-,-,-,}{-,-,-,-,-,-,}{-,};
