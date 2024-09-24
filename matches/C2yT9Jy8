@@ -5,3 +5,4 @@
 5{item_power_treads,item_null_talisman,item_null_talisman,item_octarine_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_power_treads,item_null_talisman,item_null_talisman,item_octarine_core,item_robe,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_power_treads,item_null_talisman,item_null_talisman,item_octarine_core,item_kaya,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_power_treads,item_kaya,item_kaya,item_octarine_core,item_null_talisman,item_null_talisman,}{item_belt_of_strength,-,-,}{-,-,-,-,-,-,}{-,};
