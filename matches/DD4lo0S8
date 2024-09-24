@@ -9,4 +9,5 @@
 14{item_gladiator_guard,item_bloodstone_shield,item_magic_crit,item_ultimate_scepter,-,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 16{item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit,item_ultimate_scepter,item_refresher_core,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 0018{item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit,item_ultimate_scepter,item_refresher_core,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
-0021{item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit,-,item_refresher_core,item_blade_midas,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+0020{item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit,item_ultimate_scepter,item_refresher_core,item_blade_midas,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+0022{item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit,-,item_refresher_core,item_blade_midas,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
