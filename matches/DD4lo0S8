@@ -7,4 +7,5 @@
 10{item_vanguard,item_bloodstone,item_magic_crit,item_heart,item_helm_of_iron_will,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 12{item_gladiator_guard,item_bloodstone_shield,item_magic_crit,item_ogre_axe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 14{item_gladiator_guard,item_bloodstone_shield,item_magic_crit,item_ultimate_scepter,-,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
-17{item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit,item_ultimate_scepter,item_refresher_core,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+16{item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit,item_ultimate_scepter,item_refresher_core,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+0018{item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit,item_ultimate_scepter,item_refresher_core,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
