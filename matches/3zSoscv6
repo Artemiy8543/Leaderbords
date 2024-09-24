@@ -1,4 +1,5 @@
 4+76561199767450320=001{item_boots,item_broadsword,item_orb_of_venom,item_chainmail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_boots,-,item_orb_of_venom,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_boots,-,item_orb_of_venom,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-008{item_boots,item_radiance,-,item_heart,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_boots,item_radiance,item_orb_of_venom,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_boots,item_radiance,-,item_heart,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
