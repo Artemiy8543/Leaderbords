@@ -4,4 +4,4 @@
 007{item_boots,item_radiance,item_orb_of_venom,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_boots,item_radiance,-,item_heart,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_boots,item_radiance,item_assault,item_heart,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_boots,item_radiance,item_assault,item_heart,item_blade_mail,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_boots,item_radiance,item_assault,item_heart,item_blade_mail,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
