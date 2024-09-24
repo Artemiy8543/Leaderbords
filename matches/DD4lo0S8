@@ -4,3 +4,4 @@
 7{item_vanguard,item_bloodstone,item_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 8{item_vanguard,item_bloodstone,item_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 009{item_vanguard,item_bloodstone,item_magic_crit,item_ring_of_tarrasque,item_reaver,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+10{item_vanguard,item_bloodstone,item_magic_crit,item_heart,item_helm_of_iron_will,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
