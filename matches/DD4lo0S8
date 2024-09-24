@@ -1,3 +1,4 @@
 99+76561198188800469=1{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_vanguard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_vanguard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_vanguard,item_bloodstone,item_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
