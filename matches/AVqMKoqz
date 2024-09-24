@@ -3,4 +3,4 @@
 5{item_power_treads,item_dragon_lance,item_lesser_crit,-,item_lifesteal,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_power_treads,item_dragon_lance,item_lesser_crit,item_hyperstone,item_lifesteal,-,}{item_recipe_great_crit_custom,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_power_treads,item_dragon_lance,item_great_crit_custom,item_hyperstone,item_lifesteal,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-8{item_power_treads,item_dragon_lance,item_great_crit_custom,item_moon_shard,item_lifesteal,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_power_treads,item_dragon_lance,item_great_crit_custom,item_moon_shard,item_lifesteal,item_reaver,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
