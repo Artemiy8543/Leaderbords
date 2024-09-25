@@ -3,3 +3,4 @@
 004{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ultimate_scepter,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_ultimate_scepter,item_voodoo_mask,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+7{item_ultimate_scepter,item_voodoo_mask,item_blade_midas,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
