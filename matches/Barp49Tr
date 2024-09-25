@@ -3,4 +3,4 @@
 7{item_radiance,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance,item_bloodstone_shield,item_crimson_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_radiance,item_bloodstone_shield,item_crimson_guard,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_radiance,item_bloodstone_shield,item_crimson_guard,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
+14{item_radiance,item_bloodstone_shield,item_crimson_guard,item_ultimate_scepter,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
