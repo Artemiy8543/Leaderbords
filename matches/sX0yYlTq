@@ -2,3 +2,4 @@
 003{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ultimate_scepter,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_ultimate_scepter,item_voodoo_mask,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
