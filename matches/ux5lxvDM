@@ -13,3 +13,4 @@
 42{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_shivas_strom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 0045{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_shivas_strom,item_great_magic_crit3,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 97{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+98{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
