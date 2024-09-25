@@ -1,2 +1,3 @@
 4+76561198341495393=002{item_ward_observer,item_firecracker_small,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_ward_observer,item_firecracker_small,item_radiance,item_flask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_ward_observer,item_firecracker_small,item_talisman_of_evasion,item_flask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_ward_observer,item_firecracker_small,item_radiance,item_flask,item_voodoo_mask,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
