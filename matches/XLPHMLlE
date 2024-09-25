@@ -3,3 +3,4 @@
 003{item_quelling_blade,item_broadsword,-,item_phase_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_quelling_blade,item_broadsword,item_flask,item_phase_boots,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_quelling_blade,-,item_claymore,item_phase_boots,item_broadsword,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_bfury,item_mask_of_madness,-,item_phase_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
