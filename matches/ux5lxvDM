@@ -2,4 +2,4 @@
 6{item_heart,item_vanguard,item_helm_of_iron_will,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_gladiator_guard,item_vitality_booster,-,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_gladiator_guard,item_bloodstone_shield,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+13{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
