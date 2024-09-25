@@ -3,4 +3,4 @@
 8{item_gladiator_guard,item_vitality_booster,-,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-17{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+18{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
