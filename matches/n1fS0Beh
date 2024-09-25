@@ -1,3 +1,3 @@
 2+76561198077391337=002{item_reaver,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_heart,item_voodoo_mask,item_vitality_booster,item_energy_booster,item_void_stone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_heart,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
