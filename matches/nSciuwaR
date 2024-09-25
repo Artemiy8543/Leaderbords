@@ -2,3 +2,4 @@
 5{item_vanguard,item_voodoo_mask,item_vitality_booster,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 9{item_vanguard,item_bloodstone,-,-,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 11{item_vanguard,item_bloodstone,item_blade_midas,-,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+0012{item_vanguard,item_bloodstone,item_blade_midas,item_lotus_cuirass,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
