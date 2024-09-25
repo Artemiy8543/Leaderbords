@@ -2,3 +2,4 @@
 2{item_tango,item_clarity,-,item_magic_wand,item_flask,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_point_booster,-,-,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_point_booster,item_staff_of_wizardry,-,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+5{item_point_booster,item_staff_of_wizardry,-,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
