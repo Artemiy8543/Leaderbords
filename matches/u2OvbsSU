@@ -2,4 +2,4 @@
 5{item_ward_observer,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 9{item_ward_observer,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 12{item_ward_observer,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-13{item_ward_observer,item_radiance_prc,item_lotus_cuirass,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+14{item_ward_observer,item_radiance_prc,item_lotus_cuirass,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
