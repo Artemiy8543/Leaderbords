@@ -1,4 +1,4 @@
 2+76561198077391337=002{item_ring_of_tarrasque,-,-,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_heart,item_vanguard,item_helm_of_iron_will,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_gladiator_guard,item_vitality_booster,-,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_gladiator_guard,item_bloodstone_shield,item_relic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
