@@ -3,3 +3,4 @@
 007{item_vanguard,item_voodoo_mask,item_heart,item_soul_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_vanguard,item_bloodstone,item_heart,item_assault,item_lotus_orb,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_vanguard,item_bloodstone,item_heart,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+14{item_gladiator_guard,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
