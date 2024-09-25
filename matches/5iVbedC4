@@ -3,3 +3,4 @@
 3{item_point_booster,-,-,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_point_booster,item_staff_of_wizardry,-,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 5{item_point_booster,item_staff_of_wizardry,-,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+6{item_point_booster,item_staff_of_wizardry,item_ogre_axe,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
