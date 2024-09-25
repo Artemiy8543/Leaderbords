@@ -2,3 +2,4 @@
 6{item_heart,item_voodoo_mask,item_vitality_booster,item_energy_booster,item_void_stone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_heart,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+11{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
