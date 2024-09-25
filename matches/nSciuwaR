@@ -1,2 +1,3 @@
 99+76561198440728464=2{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
-6{item_vanguard,item_voodoo_mask,item_vitality_booster,item_energy_booster,item_ring_of_tarrasque,item_reaver,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+5{item_vanguard,item_voodoo_mask,item_vitality_booster,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+7{item_vanguard,item_voodoo_mask,item_vitality_booster,item_energy_booster,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
