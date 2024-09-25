@@ -3,3 +3,4 @@
 003{item_eagle,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_dragon_lance,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{-,item_lifesteal,-,-,-,-,}{-,-,item_dragon_lance,}{-,-,-,-,-,-,}{-,};
+7{item_moon_shard,item_mask_of_madness,-,-,-,-,}{-,-,item_dragon_lance,}{-,-,-,-,-,-,}{-,};
