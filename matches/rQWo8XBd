@@ -6,4 +6,5 @@
 15{item_gladiator_guard,item_bloodstone_shield,item_octarine_core,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 0018{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 20{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-23{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_shivas_strom,item_ultimate_scepter_2,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+22{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
+24{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_shivas_strom,item_ultimate_scepter_2,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
