@@ -2,3 +2,4 @@
 3{item_quelling_blade,item_phase_boots,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_quelling_blade,item_phase_boots,item_broadsword,item_cornucopia,-,-,}{item_recipe_bfury,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bfury,item_phase_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_bfury,item_phase_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
