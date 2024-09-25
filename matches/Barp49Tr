@@ -2,4 +2,4 @@
 5{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_radiance,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance,item_bloodstone_shield,item_crimson_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_radiance,item_bloodstone_shield,item_crimson_guard,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_radiance,item_bloodstone_shield,item_crimson_guard,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
