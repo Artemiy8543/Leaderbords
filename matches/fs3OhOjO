@@ -2,3 +2,4 @@
 002{item_eagle,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_eagle,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_dragon_lance,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{-,item_lifesteal,-,-,-,-,}{-,-,item_dragon_lance,}{-,-,-,-,-,-,}{-,};
