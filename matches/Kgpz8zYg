@@ -1,3 +1,4 @@
 4+76561198341495393=002{item_ward_observer,item_firecracker_small,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_ward_observer,item_firecracker_small,item_talisman_of_evasion,item_flask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_ward_observer,item_firecracker_small,item_radiance,item_flask,item_voodoo_mask,item_soul_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_ward_observer,item_firecracker_small,item_radiance,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
