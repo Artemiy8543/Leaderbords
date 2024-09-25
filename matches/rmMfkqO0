@@ -1,3 +1,4 @@
 11+76561198341495393=1{item_power_treads,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_power_treads,-,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_mask_of_madness,-,item_power_treads,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_mask_of_madness,-,item_power_treads,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_mask_of_madness,item_platemail,item_power_treads,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
