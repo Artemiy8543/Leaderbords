@@ -5,4 +5,4 @@
 13{item_vanguard,item_bloodstone,item_heart,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 15{item_gladiator_guard,item_bloodstone_shield,item_octarine_core,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 0018{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-19{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+20{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
