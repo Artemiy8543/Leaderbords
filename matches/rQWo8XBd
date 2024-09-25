@@ -15,4 +15,5 @@
 0035{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_shivas_strom,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0037{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_shivas_strom,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0041{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_shivas_strom,item_trident_custom,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-0044{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_shivas_strom,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+0043{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_shivas_strom,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+0045{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_shivas_strom,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
