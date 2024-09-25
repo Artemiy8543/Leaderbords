@@ -10,3 +10,4 @@
 0021{item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,item_ultimate_scepter,item_lotus_cuirass,-,}{item_vampire_fangs,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 23{item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,item_ultimate_scepter,item_lotus_cuirass,item_shivas_strom,}{item_vampire_fangs,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 24{item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,-,item_lotus_cuirass,item_shivas_strom,}{item_vampire_fangs,item_tier5_token,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+25{item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,item_infinity_moon_shard,item_lotus_cuirass,item_shivas_strom,}{item_vampire_fangs,item_demonicon,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
