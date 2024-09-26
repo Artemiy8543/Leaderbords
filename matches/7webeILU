@@ -6,4 +6,4 @@
 0019{item_gladiator_guard,item_lotus_cuirass,-,-,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 23{item_gladiator_guard,item_lotus_cuirass,-,-,-,item_shivas_strom,}{item_elven_tunic,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
 0028{item_gladiator_guard,item_lotus_cuirass,-,-,-,item_shivas_strom,}{item_elven_tunic,item_tier4_token,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
-0030{item_gladiator_guard,item_lotus_cuirass,-,-,-,item_shivas_strom,}{item_elven_tunic,item_dragon_scale,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+0031{item_gladiator_guard,item_lotus_cuirass,-,-,-,item_shivas_strom,}{item_elven_tunic,item_dragon_scale,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
