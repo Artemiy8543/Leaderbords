@@ -3,4 +3,5 @@
 10{item_gladiator_guard,item_pers,item_voodoo_mask,item_ring_of_protection,item_fluffy_hat,item_vitality_booster,}{item_energy_booster,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,item_ogre_axe,item_belt_of_strength,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
-20{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+19{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+0021{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
