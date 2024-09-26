@@ -11,4 +11,5 @@
 38{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 41{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 44{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-50{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_shivas_strom,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+49{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+51{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_shivas_strom,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
