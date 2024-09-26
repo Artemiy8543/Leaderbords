@@ -7,4 +7,5 @@
 0021{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 0023{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 30{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{item_tier3_token,item_tier4_token,item_tier5_token,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-0034{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0033{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+36{item_gladiator_guard,-,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
