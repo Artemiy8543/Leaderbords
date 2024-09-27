@@ -4,4 +4,4 @@
 005{item_vanguard,-,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_vanguard,-,item_mjollnir,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_vanguard,item_butterfly,item_mjollnir,-,-,item_satanic,}{item_broom_handle,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
-0012{item_vanguard,item_butterfly,item_mjollnir,-,-,item_satanic,}{item_broom_handle,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+0013{item_vanguard,item_butterfly,item_mjollnir,item_satanic_of_madness,-,-,}{item_broom_handle,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
