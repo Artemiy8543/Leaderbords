@@ -3,4 +3,4 @@
 7{item_ghost,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_ghost,item_ultimate_scepter,item_sange,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_ghost,item_ultimate_scepter,item_sange,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-17{item_ghost,item_ultimate_scepter,item_shivas_guard,item_bloodstone,item_sange,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+18{item_ghost,item_ultimate_scepter,item_shivas_guard,item_bloodstone,item_sange,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
