@@ -3,4 +3,4 @@
 003{item_vanguard,item_hyperstone,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_vanguard,-,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_vanguard,-,item_mjollnir,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_vanguard,item_butterfly,item_mjollnir,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+10{item_vanguard,item_butterfly,item_mjollnir,-,-,item_satanic,}{item_broom_handle,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
