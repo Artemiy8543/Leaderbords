@@ -3,4 +3,5 @@
 11{item_ultimate_scepter,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_ultimate_scepter,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0017{item_ultimate_scepter,item_radiance,item_trident_custom,item_shivas_strom,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-20{item_refresher_core,item_radiance_prc,item_trident_custom,item_shivas_strom,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+19{item_refresher_core,item_radiance_prc,item_trident_custom,item_shivas_strom,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+21{item_refresher_core,item_shivas_strom,item_trident_custom,item_radiance_prc,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
