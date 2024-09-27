@@ -1,3 +1,4 @@
 35+76561199028349763=1{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_vanguard,item_hyperstone,item_gloves,item_javelin,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+003{item_vanguard,item_hyperstone,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_vanguard,-,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
