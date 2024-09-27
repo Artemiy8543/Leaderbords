@@ -5,4 +5,4 @@
 0018{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,}{item_vampire_fangs,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0022{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,}{item_vampire_fangs,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
 25{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
-29{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+30{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_ascetic_cap,};
