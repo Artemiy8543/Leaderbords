@@ -11,5 +11,4 @@
 0038{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,}{item_ascetic_cap,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0044{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 139{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_blade_midas,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-140{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_blade_midas,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-174{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+175{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
