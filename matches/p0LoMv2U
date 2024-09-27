@@ -2,4 +2,4 @@
 4{item_ghost,item_point_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_ghost,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_ghost,item_ultimate_scepter,item_sange,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_ghost,item_ultimate_scepter,item_sange,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_ghost,item_ultimate_scepter,item_sange,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
