@@ -1,3 +1,4 @@
 2+76561198069875613=002{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_str,item_voodoo_mask,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_attacker_midas_str,item_voodoo_mask,item_blade_mail,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+6{item_attacker_midas_str,item_voodoo_mask,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_attacker_midas_str,item_bloodstone,item_blade_mail,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
