@@ -1,4 +1,5 @@
 2+76561198069875613=002{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_blade_midas,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_blade_midas,item_vanguard,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{item_blade_midas,item_gladiator_guard,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_blade_midas,item_vanguard,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_blade_midas,item_vanguard,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_blade_midas,item_gladiator_guard,item_bloodstone,item_assault,item_pers,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
