@@ -2,4 +2,4 @@
 5{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_ultimate_scepter,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_ultimate_scepter,item_radiance,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-15{item_shivas_strom,item_radiance,item_bloodstone,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_shivas_strom,item_radiance,item_bloodstone,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
