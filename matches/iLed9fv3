@@ -1,15 +1,1 @@
-2+76561198069875613=002{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_blade_midas,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_blade_midas,item_vanguard,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0012{item_blade_midas,item_vanguard,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0015{item_blade_midas,item_gladiator_guard,item_bloodstone,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0019{item_blade_midas,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_bloodstone,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0023{item_blade_midas,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_bloodstone,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0025{item_blade_midas,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_bloodstone,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0032{item_blade_midas,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_bloodstone,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0035{item_blade_midas,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_bloodstone,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0040{item_blade_midas,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_bloodstone,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0043{item_blade_midas,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_bloodstone,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0048{item_gladiator_guard,item_blade_midas,item_refresher_core,item_lotus_cuirass,item_bloodstone,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0052{item_gladiator_guard,item_blade_midas,item_refresher_core,item_lotus_cuirass,item_bloodstone,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0059{item_gladiator_guard,item_blade_midas,item_refresher_core,item_lotus_cuirass,item_bloodstone,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+60{item_gladiator_guard,item_blade_midas,item_refresher_core,item_lotus_cuirass,item_bloodstone,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
