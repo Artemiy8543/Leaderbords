@@ -1,3 +1,4 @@
 67+76561198069875613=2{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_crimson_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_crimson_guard,item_blade_mail,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_crimson_guard,item_blade_mail,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_crimson_guard,item_blade_mail,item_ghost,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
