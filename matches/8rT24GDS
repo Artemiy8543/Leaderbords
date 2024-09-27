@@ -2,4 +2,4 @@
 2{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_vanguard,item_hyperstone,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_vanguard,-,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_vanguard,-,item_mjollnir,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_vanguard,-,item_mjollnir,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
