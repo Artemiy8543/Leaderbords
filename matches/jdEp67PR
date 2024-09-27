@@ -5,4 +5,5 @@
 17{item_shivas_strom,item_radiance,item_bloodstone_shield,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0019{item_shivas_strom,item_radiance,item_bloodstone_shield,item_ultimate_scepter,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0021{item_shivas_strom,item_radiance,item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-24{item_shivas_strom,item_refresher_core,item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+23{item_shivas_strom,item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+25{item_shivas_strom,item_refresher_core,item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
