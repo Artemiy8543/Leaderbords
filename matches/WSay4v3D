@@ -14,4 +14,4 @@
 35{item_bloodstone_shield,item_armlet_of_mjolnir,item_gladiator_guard,item_shivas_strom,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0037{item_bloodstone_shield,item_armlet_of_mjolnir,item_gladiator_guard,item_shivas_strom,item_ultimate_boots,item_great_magic_crit3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0041{item_bloodstone_shield,item_armlet_of_mjolnir,item_gladiator_guard,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{item_ultimate_boots,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-43{item_bloodstone_shield,item_armlet_of_mjolnir,item_gladiator_guard,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{item_ultimate_boots,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+44{item_bloodstone_shield,item_manaback3,item_gladiator_guard,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{item_ultimate_boots,item_armlet_of_mjolnir,-,}{-,-,-,-,-,-,}{item_giants_ring,};
