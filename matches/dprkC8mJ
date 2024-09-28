@@ -3,3 +3,4 @@
 006{item_voodoo_mask,item_heart,item_vitality_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_bloodstone,item_heart,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_bloodstone,item_heart,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
