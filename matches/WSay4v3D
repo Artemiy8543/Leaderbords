@@ -20,4 +20,4 @@
 0063{item_bloodstone_shield,item_manaback3,item_refresher_core,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{-,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_giants_ring,};
 67{item_bloodstone_shield,item_manaback3,item_refresher_core,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{-,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_giants_ring,};
 71{item_bloodstone_shield,item_radiance_prc,item_refresher_core,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{item_manaback3,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_giants_ring,};
-0074{item_bloodstone_shield,item_radiance_prc,item_refresher_core,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{item_manaback3,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_giants_ring,};
+0075{item_bloodstone_shield,item_radiance_prc,item_refresher_core,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{item_manaback3,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_giants_ring,};
