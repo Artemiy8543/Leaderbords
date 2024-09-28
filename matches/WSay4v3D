@@ -12,3 +12,4 @@
 0032{item_bloodstone_shield,item_bracer,item_gladiator_guard,item_shivas_strom,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 34{item_bloodstone_shield,-,item_gladiator_guard,item_shivas_strom,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 35{item_bloodstone_shield,item_armlet_of_mjolnir,item_gladiator_guard,item_shivas_strom,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0037{item_bloodstone_shield,item_armlet_of_mjolnir,item_gladiator_guard,item_shivas_strom,item_ultimate_boots,item_great_magic_crit3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
