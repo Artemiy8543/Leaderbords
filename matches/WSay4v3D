@@ -5,4 +5,5 @@
 16{item_bloodstone_shield,item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0018{item_bloodstone_shield,item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
 0021{item_bloodstone_shield,item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
-24{item_bloodstone_shield,item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,item_blade_mail,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
+23{item_bloodstone_shield,item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,item_blade_mail,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
+0025{item_bloodstone_shield,item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,item_blade_mail,item_trident_custom,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
