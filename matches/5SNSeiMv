@@ -17,4 +17,4 @@
 150{item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_str_book,item_gladiator_guard,item_shivas_strom,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_apex,};
 243{item_lotus_cuirass,item_lotus_cuirass,item_blade_midas,item_bfury,item_gladiator_guard,item_shivas_strom,}{item_agi_book,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_apex,};
 320{item_lotus_cuirass,item_gladiator_guard,item_blade_midas,item_creep_desolator,item_manaback3,item_shivas_strom,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_apex,};
-333{item_lotus_cuirass,item_gladiator_guard,item_blade_midas,item_creep_desolator,item_manaback3,item_shivas_strom,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_apex,};
+334{item_lotus_cuirass,item_gladiator_guard,item_blade_midas,item_creep_desolator,item_manaback3,item_shivas_strom,}{item_agi_book,item_bloodstone,-,}{-,-,-,-,-,-,}{item_apex,};
