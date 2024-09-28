@@ -17,5 +17,6 @@
 0079{item_creep_desolator,item_radiance_prc,item_trident_custom,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,}{item_infinity_moon_shard,item_str_book,-,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
 0083{item_creep_desolator,item_radiance_prc,item_trident_custom,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,}{item_infinity_moon_shard,item_str_book,-,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
 0086{item_creep_desolator,item_radiance_prc,item_trident_custom,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,}{item_infinity_moon_shard,item_str_book,-,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
-0091{item_creep_desolator,item_radiance_prc,item_trident_custom,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,}{item_infinity_moon_shard,item_str_book,-,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
-0093{item_creep_desolator,item_radiance_prc,item_trident_custom,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
+0090{item_creep_desolator,item_radiance_prc,item_trident_custom,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,}{item_infinity_moon_shard,item_str_book,-,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
+0092{item_creep_desolator,item_radiance_prc,item_trident_custom,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,}{item_infinity_moon_shard,item_str_book,-,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
+0094{item_creep_desolator,item_radiance_prc,item_trident_custom,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
