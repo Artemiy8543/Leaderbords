@@ -3,3 +3,4 @@
 46{item_lightning_sword,item_radiance_prc,item_gladiator_guard,item_infinity_moon_shard,item_great_magic_crit,item_bloodstone_shield,}{item_royal_jelly,item_attacker_midas_agi,-,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
 0048{item_lightning_sword,item_radiance_prc,item_gladiator_guard,item_infinity_moon_shard,item_great_magic_crit,item_bloodstone_shield,}{item_royal_jelly,item_attacker_midas_agi,-,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
 49{item_lightning_sword,item_radiance_prc,item_bfury,item_infinity_moon_shard,item_great_magic_crit,item_bloodstone_shield,}{item_royal_jelly,item_attacker_midas_agi,item_gladiator_guard,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
+50{item_creep_desolator,item_radiance_prc,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_bloodstone_shield,}{item_lightning_sword,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_armlet_of_mjolnir,};
