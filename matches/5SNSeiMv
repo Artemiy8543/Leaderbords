@@ -4,4 +4,4 @@
 0012{item_gladiator_guard,item_radiance,item_blade_midas,item_bloodstone,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0016{item_gladiator_guard,item_radiance_prc,item_blade_midas,item_bloodstone,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
 0018{item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_gladiator_guard,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
-19{item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
+20{item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
