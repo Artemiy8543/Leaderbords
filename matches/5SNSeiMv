@@ -2,4 +2,5 @@
 006{item_vanguard,item_radiance,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_vanguard,item_radiance,item_blade_midas,item_ring_of_tarrasque,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_gladiator_guard,item_radiance,item_blade_midas,item_bloodstone,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0016{item_gladiator_guard,item_radiance_prc,item_blade_midas,item_bloodstone,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
+0015{item_gladiator_guard,item_radiance_prc,item_blade_midas,item_bloodstone,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
+0017{item_gladiator_guard,item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
