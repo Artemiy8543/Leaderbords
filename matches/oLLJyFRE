@@ -5,3 +5,4 @@
 6{item_null_talisman,item_null_talisman,item_manaback,-,item_dagon,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_null_talisman,item_null_talisman,item_manaback,item_veil_of_discord,item_dagon_2,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_null_talisman,item_null_talisman,item_manaback,item_veil_of_discord,item_dagon_4,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+009{item_null_talisman,item_null_talisman,item_manaback,item_ring_of_tarrasque,item_veil_of_dagon,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
