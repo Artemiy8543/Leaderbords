@@ -2,3 +2,4 @@
 4{item_voodoo_mask,item_ring_of_tarrasque,item_vitality_booster,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_voodoo_mask,item_heart,item_vitality_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_bloodstone,item_heart,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
