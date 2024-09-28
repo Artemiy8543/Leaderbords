@@ -7,4 +7,5 @@
 0021{item_gladiator_guard,-,item_bloodstone,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0026{item_gladiator_guard,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 28{item_gladiator_guard,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0032{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0031{item_gladiator_guard,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+33{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
