@@ -17,3 +17,4 @@
 43{item_bloodstone_shield,item_armlet_of_mjolnir,item_gladiator_guard,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{item_ultimate_boots,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 59{item_bloodstone_shield,item_manaback3,item_refresher_core,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{-,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_giants_ring,};
 0061{item_bloodstone_shield,item_manaback3,item_refresher_core,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{item_int_book,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_giants_ring,};
+0063{item_bloodstone_shield,item_manaback3,item_refresher_core,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,}{-,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_giants_ring,};
