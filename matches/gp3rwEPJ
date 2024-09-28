@@ -11,4 +11,4 @@
 34{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 36{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 41{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-45{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+46{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
