@@ -9,3 +9,4 @@
 0025{item_bloodstone_shield,item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,item_blade_mail,item_trident_custom,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_mind_breaker,};
 28{item_bloodstone_shield,item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,item_blade_mail,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 31{item_bloodstone_shield,item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,-,item_trident_custom,}{item_blade_mail,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0032{item_bloodstone_shield,item_bracer,item_gladiator_guard,item_shivas_strom,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
