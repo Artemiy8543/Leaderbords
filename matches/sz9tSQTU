@@ -6,4 +6,5 @@
 14{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_bfury,item_creep_desolator,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{-,};
 0018{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_bfury,item_creep_desolator,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{-,};
 0019{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_bfury,item_creep_desolator,}{item_ward_observer,item_great_magic_crit3,-,}{-,-,-,-,-,-,}{-,};
-0023{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_bfury,item_creep_desolator,}{item_ward_observer,item_great_magic_crit3,-,}{-,-,-,-,-,-,}{-,};
+0022{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_bfury,item_creep_desolator,}{item_ward_observer,item_great_magic_crit3,-,}{-,-,-,-,-,-,}{-,};
+0024{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_bfury,item_creep_desolator,}{item_ward_observer,item_great_magic_crit3,-,}{-,-,-,-,-,-,}{-,};
