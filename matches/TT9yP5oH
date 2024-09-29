@@ -2,3 +2,4 @@
 2{item_wraith_band,item_point_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_wraith_band,item_point_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_wraith_band,item_skadi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_wraith_band,item_skadi,item_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
