@@ -2,4 +2,4 @@
 006{item_ward_observer,item_blade_midas,item_crimson_guard,item_vladmir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_ward_observer,item_blade_midas,item_crimson_guard,item_vladimir_pact,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_ward_observer,item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_bfury,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_bfury,item_creep_desolator,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_bfury,item_creep_desolator,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{-,};
