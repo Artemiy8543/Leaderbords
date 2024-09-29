@@ -2,3 +2,4 @@
 006{item_blade_mail,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_blade_midas,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_blade_midas,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_blade_midas,item_gladiator_guard,item_ultimate_scepter,item_lotus_cuirass,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
