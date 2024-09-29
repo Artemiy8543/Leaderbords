@@ -26,4 +26,5 @@
 0060{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_strom,item_lotus_cuirass,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0063{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_strom,item_lotus_cuirass,item_armlet_of_mjolnir,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0066{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_strom,item_lotus_cuirass,item_armlet_of_mjolnir,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-0070{item_bloodstone_shield,item_gladiator_guard,item_great_magic_crit3,item_shivas_strom,item_lotus_cuirass,item_armlet_of_mjolnir,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0069{item_bloodstone_shield,item_gladiator_guard,item_great_magic_crit3,item_shivas_strom,item_lotus_cuirass,item_armlet_of_mjolnir,}{item_str_book,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0071{item_bloodstone_shield,item_gladiator_guard,item_great_magic_crit3,item_shivas_strom,item_lotus_cuirass,item_armlet_of_mjolnir,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
