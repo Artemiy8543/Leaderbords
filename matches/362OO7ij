@@ -5,4 +5,5 @@
 10{item_bloodstone,item_crimson_guard,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 0013{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 16{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-19{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_strom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+18{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_strom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+20{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_strom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
