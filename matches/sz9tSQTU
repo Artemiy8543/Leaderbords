@@ -1,3 +1,4 @@
 44+76561198081504545=2{item_ward_observer,item_blade_mail,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_ward_observer,item_blade_midas,item_crimson_guard,item_vladmir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_ward_observer,item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_bfury,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_ward_observer,item_blade_midas,item_crimson_guard,item_vladimir_pact,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_ward_observer,item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_bfury,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
