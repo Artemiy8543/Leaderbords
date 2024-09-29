@@ -3,5 +3,5 @@
 8{item_blade_midas,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_blade_midas,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_blade_midas,item_gladiator_guard,-,item_lotus_cuirass,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
-18{item_blade_midas,item_gladiator_guard,-,item_lotus_cuirass,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
-20{item_blade_midas,item_gladiator_guard,item_heart,item_lotus_cuirass,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+19{item_blade_midas,item_gladiator_guard,item_bloodstone,item_lotus_cuirass,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
+0021{item_blade_midas,item_gladiator_guard,item_heart,item_lotus_cuirass,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
