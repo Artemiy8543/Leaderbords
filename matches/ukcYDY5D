@@ -2,3 +2,4 @@
 2{item_wraith_band,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_wraith_band,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_wraith_band,item_vanguard,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+006{item_attacker_midas_agi,item_vanguard,item_talisman_of_evasion,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
