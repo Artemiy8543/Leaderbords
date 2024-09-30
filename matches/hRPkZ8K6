@@ -3,4 +3,5 @@
 008{item_heart,item_ring_of_tarrasque,item_crimson_guard,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_heart,item_heart,item_crimson_guard,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_heart,item_heart,item_crimson_guard,item_heart,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-19{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+18{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0020{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
