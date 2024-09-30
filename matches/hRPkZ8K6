@@ -10,4 +10,4 @@
 29{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_apex,};
 31{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,-,item_gladiator_guard,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_apex,};
 34{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
-35{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
+36{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_apex,};
