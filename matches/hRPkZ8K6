@@ -4,4 +4,5 @@
 0011{item_heart,item_heart,item_crimson_guard,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_heart,item_heart,item_crimson_guard,item_heart,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 18{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0022{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0021{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0023{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
