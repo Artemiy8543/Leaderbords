@@ -8,4 +8,5 @@
 0024{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0027{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
 29{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_apex,};
-32{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
+31{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,-,item_gladiator_guard,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_apex,};
+33{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_bloodstone_shield,item_gladiator_guard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
