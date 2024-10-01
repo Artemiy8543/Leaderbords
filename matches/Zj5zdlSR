@@ -1,3 +1,4 @@
 22+76561198000159256=2{item_voodoo_mask,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_bloodstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_bloodstone,item_dragon_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_bloodstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_bloodstone,item_dragon_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_bloodstone_shield,item_dragon_lance,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
