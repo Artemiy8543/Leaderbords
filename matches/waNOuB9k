@@ -5,4 +5,4 @@
 9{item_ward_observer,item_attacker_midas_agi,item_gladiator_guard,item_blade_mail,item_platemail,item_hyperstone,}{item_ring_of_protection,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_ward_observer,item_attacker_midas_agi,item_gladiator_guard,item_blade_mail,item_lotus_cuirass,item_mithril_hammer,}{item_blight_stone,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_ward_observer,item_attacker_midas_agi,item_gladiator_guard,-,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_ward_observer,item_attacker_midas_agi,item_gladiator_guard,-,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+14{item_ward_observer,item_attacker_midas_agi,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
