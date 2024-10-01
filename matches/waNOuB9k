@@ -15,4 +15,4 @@
 0026{item_great_magic_crit3,item_blade_mail,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_creep_desolator,}{-,item_attacker_midas_agi,item_desolator_2,}{-,-,-,-,-,-,}{item_vladimir_pact,};
 27{item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_creep_desolator,}{item_agi_book,-,item_desolator_2,}{-,-,-,-,-,-,}{item_vladimir_pact,};
 0030{item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_creep_desolator,}{item_agi_book,-,item_desolator_2,}{-,-,-,-,-,-,}{item_vladimir_pact,};
-32{item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_creep_desolator,}{item_agi_book,-,item_desolator_2,}{-,-,-,-,-,-,}{item_vladimir_pact,};
+33{item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_creep_desolator,}{item_agi_book,-,item_desolator_2,}{-,-,-,-,-,-,}{item_vladimir_pact,};
