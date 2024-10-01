@@ -2,4 +2,5 @@
 3{item_ward_observer,item_wraith_band,item_vanguard,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ward_observer,item_wraith_band,item_crimson_guard,-,item_ring_of_tarrasque,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_ward_observer,item_wraith_band,item_crimson_guard,item_blade_mail,item_ring_of_tarrasque,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_ward_observer,item_attacker_midas_agi,item_gladiator_guard,item_blade_mail,item_platemail,item_hyperstone,}{item_ring_of_protection,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_ward_observer,item_attacker_midas_agi,item_gladiator_guard,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_ward_observer,item_attacker_midas_agi,item_gladiator_guard,item_blade_mail,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
