@@ -7,4 +7,4 @@
 0015{item_voodoo_mask,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
 0017{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
 19{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
-0021{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
+0022{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
