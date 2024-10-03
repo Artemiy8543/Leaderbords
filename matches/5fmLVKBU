@@ -14,4 +14,4 @@
 32{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_paladin_sword,item_gladiator_guard,item_lotus_cuirass,}{item_str_book,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 33{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_paladin_sword,item_shivas_strom,item_lotus_cuirass,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 36{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_paladin_sword,item_shivas_strom,item_lotus_cuirass,}{item_gladiator_guard,-,-,}{item_infinity_moon_shard,-,-,-,-,-,}{item_giants_ring,};
-37{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_paladin_sword,item_infinity_moon_shard,item_lotus_cuirass,}{item_creep_desolator,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+38{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_infinity_moon_shard,item_lotus_cuirass,}{item_paladin_sword,-,item_shivas_strom,}{-,-,-,-,-,-,}{item_giants_ring,};
