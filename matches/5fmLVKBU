@@ -2,4 +2,5 @@
 4{item_blade_midas,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_midas,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_blade_midas,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_giants_ring,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_giants_ring,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_giants_ring,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
