@@ -4,4 +4,5 @@
 8{item_ultimate_scepter,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_ultimate_scepter,item_bloodstone,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_ultimate_scepter,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-17{item_ultimate_scepter,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_timeless_relic,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_ultimate_scepter,item_bloodstone_shield,item_radiance_prc,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0018{item_ultimate_scepter,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_spell_prism,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
