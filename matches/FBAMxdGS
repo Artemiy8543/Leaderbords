@@ -5,3 +5,4 @@
 0010{item_voodoo_mask,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_voodoo_mask,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_voodoo_mask,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
+0016{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
