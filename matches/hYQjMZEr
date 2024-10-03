@@ -8,3 +8,4 @@
 0019{item_ultimate_scepter,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_spell_prism,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_refresher_core,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_spell_prism,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 23{item_refresher_core,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_quickening_charm,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spell_prism,};
+0024{item_refresher_core,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_quickening_charm,item_paladin_sword,}{-,-,-,}{-,-,-,-,-,-,}{item_spell_prism,};
