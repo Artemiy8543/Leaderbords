@@ -5,4 +5,5 @@
 12{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_ultimate_scepter,item_desolator,item_bfury,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_ultimate_scepter,item_desolator,item_bfury,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0020{item_creep_desolator,item_lotus_cuirass,item_bfury,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0019{item_creep_desolator,item_assault,item_bfury,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+21{item_creep_desolator,item_lotus_cuirass,item_bfury,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
