@@ -10,4 +10,5 @@
 0022{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
 24{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
 0027{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
-31{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{item_tier1_token,item_tier4_token,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
+30{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{item_tier1_token,item_tier4_token,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
+0032{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,item_tier4_token,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
