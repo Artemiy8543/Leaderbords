@@ -13,3 +13,4 @@
 30{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{item_tier1_token,item_tier4_token,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
 0033{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,item_tier4_token,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
 36{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+37{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
