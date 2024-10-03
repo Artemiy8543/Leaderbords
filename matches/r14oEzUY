@@ -2,4 +2,5 @@
 4{item_point_booster,item_staff_of_wizardry,item_ogre_axe,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_ultimate_scepter,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+10{item_ultimate_scepter,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_ultimate_scepter,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
