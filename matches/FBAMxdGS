@@ -3,4 +3,5 @@
 007{item_voodoo_mask,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_voodoo_mask,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_voodoo_mask,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_voodoo_mask,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
+12{item_voodoo_mask,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_voodoo_mask,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
