@@ -15,4 +15,4 @@
 36{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 37{item_bloodstone_shield,item_radiance,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 38{item_bloodstone_shield,item_radiance_prc,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0039{item_bloodstone_shield,item_radiance_prc,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+0041{item_bloodstone_shield,item_radiance_prc,item_refresher_core,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
