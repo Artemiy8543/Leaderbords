@@ -4,4 +4,4 @@
 9{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_ultimate_scepter,item_desolator,item_bfury,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-17{item_ultimate_scepter,item_desolator,item_bfury,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+18{item_creep_desolator,-,item_bfury,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
