@@ -2,4 +2,5 @@
 4{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_point_booster,item_ultimate_orb,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_point_booster,item_ultimate_orb,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_skadi,-,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_skadi,-,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_skadi,-,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
