@@ -2,3 +2,4 @@
 3{item_voodoo_mask,item_void_stone,item_energy_booster,item_enchanted_mango,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bloodstone,-,-,item_enchanted_mango,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_bloodstone,-,-,item_enchanted_mango,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_bloodstone,item_magic_crit,-,item_enchanted_mango,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
