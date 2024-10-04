@@ -1,3 +1,4 @@
 14+76561198298188564=2{item_ring_of_tarrasque,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ring_of_tarrasque,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_heart,item_voodoo_mask,item_vitality_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_heart,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_bloodstone,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
