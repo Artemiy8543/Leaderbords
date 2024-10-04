@@ -1,2 +1,3 @@
 16+76561198298188564=2{item_voodoo_mask,item_kaya,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_voodoo_mask,item_kaya,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+4{item_voodoo_mask,item_kaya,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_voodoo_mask,item_kaya,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
