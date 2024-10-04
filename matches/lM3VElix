@@ -3,4 +3,4 @@
 006{item_bloodstone,item_kaya,item_tiara_of_selemene,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone,item_kaya,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_bloodstone,item_kaya,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-25{item_refresher_core,item_bloodstone_shield,item_great_magic_crit,item_yasha_and_kaya,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+26{item_refresher_core,item_bloodstone_shield,item_great_magic_crit,item_yasha_and_kaya,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
