@@ -3,4 +3,5 @@
 6{item_voodoo_mask,item_kaya,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 007{item_voodoo_mask,item_magic_crit,item_octarine_core,item_cornucopia,item_ring_of_tarrasque,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 009{item_voodoo_mask,item_magic_crit,item_refresher_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-11{item_refresher_core,item_magic_crit,item_voodoo_mask,-,-,-,}{item_seeds_of_serenity,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
+10{item_refresher_core,item_magic_crit,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+0012{item_refresher_core,item_magic_crit,item_voodoo_mask,-,-,-,}{item_seeds_of_serenity,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
