@@ -7,5 +7,5 @@
 0017{item_bloodstone,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0020{item_bloodstone,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
 0022{item_bloodstone,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-0025{item_bloodstone,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-0027{item_bloodstone,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+0026{item_bloodstone,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+0028{item_bloodstone,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
