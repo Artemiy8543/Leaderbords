@@ -2,6 +2,6 @@
 002{-,-,item_buckler,-,item_phase_boots,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 3{item_ring_of_health,-,item_buckler,-,item_phase_boots,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 004{item_vanguard,item_chainmail,item_buckler,-,item_phase_boots,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-5{item_vanguard,item_chainmail,item_buckler,item_broadsword,item_phase_boots,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-7{item_vanguard,item_blade_mail,item_buckler,-,item_phase_boots,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-9{item_vanguard,item_blade_mail,item_buckler,-,item_phase_boots,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+6{item_vanguard,item_blade_mail,item_buckler,-,item_phase_boots,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+008{item_vanguard,item_blade_mail,item_buckler,-,item_phase_boots,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+0010{item_vanguard,item_blade_mail,item_buckler,-,item_phase_boots,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
