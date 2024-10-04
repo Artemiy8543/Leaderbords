@@ -2,3 +2,4 @@
 2{item_quelling_blade,item_broadsword,item_claymore,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_quelling_blade,item_broadsword,item_claymore,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bfury,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{-,item_lifesteal,item_chainmail,-,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
