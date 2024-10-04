@@ -2,4 +2,4 @@
 5{item_ring_of_tarrasque,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_heart,item_voodoo_mask,item_vitality_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_bloodstone,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_bloodstone,item_heart,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_bloodstone,item_heart,item_ultimate_scepter,item_yasha_and_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
