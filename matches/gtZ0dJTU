@@ -10,3 +10,4 @@
 24{item_bloodstone_shield,item_gladiator_guard,item_shivas_strom,item_trident_custom,item_great_magic_crit,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0026{item_bloodstone_shield,item_gladiator_guard,item_shivas_strom,item_trident_custom,item_great_magic_crit,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 27{-,item_gladiator_guard,item_shivas_strom,item_trident_custom,item_great_magic_crit,item_radiance_prc,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+28{item_bloodstone_shield,item_gladiator_guard,item_shivas_strom,item_trident_custom,item_great_magic_crit,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
