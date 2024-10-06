@@ -2,4 +2,4 @@
 002{item_faerie_fire,item_soul_ring,item_voodoo_mask,item_boots,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_faerie_fire,item_soul_ring,item_voodoo_mask,item_boots,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{-,item_soul_ring,item_voodoo_mask,item_arcane_boots,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{-,item_soul_ring,item_voodoo_mask,item_arcane_boots,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{-,item_soul_ring,item_voodoo_mask,item_arcane_boots,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
