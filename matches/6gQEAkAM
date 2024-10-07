@@ -9,4 +9,5 @@
 25{item_attacker_midas_str,item_infinity_moon_shard,item_satanic,item_lotus_cuirass,item_gladiator_guard,item_great_crit_custom3,}{item_power_treads,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
 27{item_attacker_midas_str,item_infinity_moon_shard,item_satanic,item_lotus_cuirass,item_gladiator_guard,item_great_crit_custom3,}{item_power_treads,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
 30{item_attacker_midas_str,item_infinity_moon_shard,item_satanic,item_lotus_cuirass,item_gladiator_guard,item_great_crit_custom3,}{item_power_treads,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
-34{item_attacker_midas_str,item_infinity_moon_shard,item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,item_great_crit_custom3,}{item_power_treads,item_pupils_gift,-,}{-,-,-,-,-,-,}{item_creep_desolator,};
+33{item_attacker_midas_str,item_infinity_moon_shard,item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,item_great_crit_custom3,}{item_power_treads,item_pupils_gift,-,}{-,-,-,-,-,-,}{item_creep_desolator,};
+35{item_attacker_midas_str,item_infinity_moon_shard,item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,item_great_crit_custom3,}{item_power_treads,item_pupils_gift,-,}{-,-,-,-,-,-,}{item_creep_desolator,};
