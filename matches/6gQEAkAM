@@ -5,4 +5,4 @@
 0014{item_attacker_midas_str,item_power_treads,item_satanic,item_lotus_cuirass,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_attacker_midas_str,item_power_treads,item_satanic,item_lotus_cuirass,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
 0018{item_attacker_midas_str,item_power_treads,item_satanic,item_lotus_cuirass,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
-20{item_attacker_midas_str,item_power_treads,item_satanic,item_lotus_cuirass,item_gladiator_guard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
+21{item_attacker_midas_str,item_power_treads,item_satanic,item_lotus_cuirass,item_gladiator_guard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
