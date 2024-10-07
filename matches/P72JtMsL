@@ -16,4 +16,4 @@
 38{item_radiance_prc,item_gladiator_guard,item_creep_desolator,item_bfury,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 40{item_radiance_prc,item_gladiator_guard,item_creep_desolator,item_bfury,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 43{item_radiance_prc,item_gladiator_guard,-,item_bfury,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
-0044{item_radiance_prc,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
+0045{item_radiance_prc,item_gladiator_guard,item_lotus_cuirass,-,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
