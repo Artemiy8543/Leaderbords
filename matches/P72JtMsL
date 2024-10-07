@@ -24,3 +24,4 @@
 0059{item_radiance_prc,item_gladiator_guard,item_lotus_cuirass,-,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 94{item_rapier,item_trident_custom,item_magic_crit,item_rapier,item_rapier,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 110{item_satanic_of_madness,item_skadi,item_gladiator_guard,item_basher_slardar,item_infinity_moon_shard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+00111{item_satanic_of_madness,item_great_crit_custom3,item_gladiator_guard,item_basher_slardar,item_bloodstone_shield,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
