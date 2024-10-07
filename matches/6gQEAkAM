@@ -3,4 +3,5 @@
 008{item_attacker_midas_str,item_power_treads,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_attacker_midas_str,item_power_treads,item_satanic,item_assault,item_ring_of_tarrasque,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0014{item_attacker_midas_str,item_power_treads,item_satanic,item_lotus_cuirass,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-17{item_attacker_midas_str,item_power_treads,item_satanic,item_lotus_cuirass,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
+16{item_attacker_midas_str,item_power_treads,item_satanic,item_lotus_cuirass,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
+0018{item_attacker_midas_str,item_power_treads,item_satanic,item_lotus_cuirass,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
