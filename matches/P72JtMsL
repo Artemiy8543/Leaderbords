@@ -22,4 +22,4 @@
 0054{item_radiance_prc,item_gladiator_guard,item_lotus_cuirass,-,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 0057{item_radiance_prc,item_gladiator_guard,item_lotus_cuirass,-,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
 0059{item_radiance_prc,item_gladiator_guard,item_lotus_cuirass,-,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_force_boots,};
-93{item_rapier,item_trident_custom,-,item_rapier,item_rapier,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+94{item_rapier,item_trident_custom,item_magic_crit,item_rapier,item_rapier,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
