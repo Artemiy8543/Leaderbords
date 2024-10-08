@@ -16,4 +16,4 @@
 0036{item_bloodstone_shield,item_great_magic_crit3,item_refresher_core,item_blade_midas,item_radiance_prc,-,}{item_royal_jelly,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0038{item_bloodstone_shield,item_great_magic_crit3,item_refresher_core,item_blade_midas,item_radiance_prc,item_quickening_charm,}{-,item_gladiator_guard,item_giants_ring,}{-,-,-,-,-,-,}{-,};
 40{item_bloodstone_shield,item_great_magic_crit3,item_refresher_core,item_blade_midas,item_spell_prism,item_quickening_charm,}{item_radiance_prc,item_gladiator_guard,item_giants_ring,}{-,-,-,-,-,-,}{item_octarine_core,};
-42{item_bloodstone_shield,item_great_magic_crit3,item_refresher_core,item_blade_midas,item_spell_prism,item_quickening_charm,}{item_radiance_prc,item_gladiator_guard,item_giants_ring,}{-,-,-,-,-,-,}{item_octarine_core,};
+43{item_bloodstone_shield,item_great_magic_crit3,item_refresher_core,item_blade_midas,item_spell_prism,item_quickening_charm,}{item_radiance_prc,item_gladiator_guard,item_giants_ring,}{-,-,-,-,-,-,}{item_octarine_core,};
