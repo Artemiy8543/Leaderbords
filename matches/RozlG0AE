@@ -7,3 +7,4 @@
 17{item_bloodstone_shield,item_gladiator_guard,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 19{item_bloodstone_shield,item_gladiator_guard,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 22{item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+23{item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_blade_midas,item_radiance_prc,-,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
