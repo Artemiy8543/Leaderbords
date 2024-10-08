@@ -5,4 +5,5 @@
 12{item_bloodstone,item_gladiator_guard,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 0014{item_bloodstone,item_gladiator_guard,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 17{item_bloodstone_shield,item_gladiator_guard,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
-20{item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+19{item_bloodstone_shield,item_gladiator_guard,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+21{item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
