@@ -3,4 +3,4 @@
 32{item_bloodstone_shield,item_gladiator_guard,item_attacker_midas_int,item_lotus_cuirass,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 64{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
 110{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-126{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
+127{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
