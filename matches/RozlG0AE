@@ -12,3 +12,4 @@
 0028{item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_blade_midas,item_radiance_prc,item_heart,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0030{item_bloodstone_shield,-,item_refresher_core,item_blade_midas,item_radiance_prc,item_heart,}{item_royal_jelly,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0032{item_bloodstone_shield,item_great_magic_crit3,item_refresher_core,item_blade_midas,item_radiance_prc,item_heart,}{item_royal_jelly,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0033{item_bloodstone_shield,item_great_magic_crit3,item_refresher_core,item_blade_midas,item_radiance_prc,item_heart,}{item_royal_jelly,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_giants_ring,};
