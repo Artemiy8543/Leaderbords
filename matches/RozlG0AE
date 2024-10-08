@@ -3,4 +3,5 @@
 8{item_voodoo_mask,item_vanguard,item_helm_of_iron_will,item_blade_midas,item_soul_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 10{item_bloodstone,item_gladiator_guard,-,item_blade_midas,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 12{item_bloodstone,item_gladiator_guard,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
-0015{item_bloodstone_shield,item_gladiator_guard,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+0014{item_bloodstone,item_gladiator_guard,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+16{item_bloodstone_shield,item_gladiator_guard,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
