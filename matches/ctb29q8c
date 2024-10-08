@@ -8,3 +8,4 @@
 18{item_ward_observer,item_blade_midas,item_gladiator_guard,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
 19{item_ward_observer,item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
 0021{item_ward_observer,item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
+0022{item_ward_observer,item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
