@@ -3,4 +3,4 @@
 24{item_bloodstone_shield,item_gladiator_guard,item_attacker_midas_int,item_lotus_cuirass,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0025{item_bloodstone_shield,item_gladiator_guard,item_attacker_midas_int,item_lotus_cuirass,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0027{item_bloodstone_shield,item_gladiator_guard,item_attacker_midas_int,item_lotus_cuirass,item_great_magic_crit3,item_manaback3,}{item_int_book,-,-,}{-,-,-,-,-,-,}{-,};
-0029{item_bloodstone_shield,item_gladiator_guard,item_attacker_midas_int,item_lotus_cuirass,item_great_magic_crit3,item_manaback3,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+0030{item_bloodstone_shield,item_gladiator_guard,item_attacker_midas_int,item_lotus_cuirass,item_great_magic_crit3,item_manaback3,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
