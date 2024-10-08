@@ -3,4 +3,5 @@
 8{item_blade_midas,item_ward_observer,item_gladiator_guard,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_blade_midas,item_ward_observer,item_gladiator_guard,item_ultimate_scepter,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_blade_midas,item_refresher_core,item_gladiator_guard,item_ultimate_scepter,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0017{item_blade_midas,item_refresher_core,item_gladiator_guard,-,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_blade_midas,item_refresher_core,item_gladiator_guard,item_ultimate_scepter,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0018{item_blade_midas,item_refresher_core,item_gladiator_guard,-,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
