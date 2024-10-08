@@ -9,4 +9,4 @@
 80{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
 0082{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
 84{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-0086{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
+0087{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
