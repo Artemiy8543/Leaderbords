@@ -17,3 +17,4 @@
 29{item_satanic_of_madness,item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,}{item_agi_book,item_ward_observer,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
 0032{item_satanic_of_madness,item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,}{item_agi_book,item_ward_observer,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
 34{item_satanic_of_madness,item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,}{item_infinity_moon_shard,item_ward_observer,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
+35{item_satanic_of_madness,item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,}{-,item_ward_observer,-,}{-,-,-,-,-,-,}{item_trickster_cloak,};
