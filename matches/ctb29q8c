@@ -1,3 +1,4 @@
 44+76561198081504545=3{item_ward_observer,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ward_observer,item_blade_midas,item_vanguard,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_ward_observer,item_blade_midas,item_gladiator_guard,item_creep_desolator,item_platemail,item_hyperstone,}{item_buckler,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_ward_observer,item_blade_midas,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_ward_observer,item_blade_midas,item_gladiator_guard,item_creep_desolator,item_assault,item_lotus_orb,}{-,-,-,}{-,-,-,-,-,-,}{-,};
