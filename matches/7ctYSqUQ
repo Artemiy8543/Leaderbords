@@ -2,14 +2,4 @@
 4{item_blade_midas,item_ring_of_health,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 32{item_bloodstone_shield,item_gladiator_guard,item_attacker_midas_int,item_lotus_cuirass,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 64{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-72{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-0074{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-76{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-0078{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-80{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-0082{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-84{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-0086{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-88{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-0090{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
-93{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
+94{item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_int,item_great_magic_crit3,item_manaback3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
