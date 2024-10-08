@@ -8,4 +8,5 @@
 21{item_blade_midas,item_refresher_core,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 23{item_blade_midas,item_refresher_core,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 25{item_blade_midas,item_refresher_core,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_great_magic_crit3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
-28{item_blade_midas,item_refresher_core,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+27{item_blade_midas,item_refresher_core,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_great_magic_crit3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
+29{item_blade_midas,item_refresher_core,item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
