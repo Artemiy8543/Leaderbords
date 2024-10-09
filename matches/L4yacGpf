@@ -4,4 +4,4 @@
 007{item_radiance,item_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_radiance,item_boots,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_radiance,item_boots,item_heart,item_veil_of_discord,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0012{item_radiance,item_boots,item_heart,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_radiance,item_boots,item_heart,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
