@@ -4,4 +4,5 @@
 005{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 009{item_radiance_prc,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
-13{item_radiance_prc,item_shivas_guard,-,-,-,-,}{-,-,-,}{item_ironwood_tree,-,-,-,-,-,}{item_whisper_of_the_dread,};
+12{item_radiance_prc,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+14{item_radiance_prc,item_shivas_strom,-,-,-,-,}{-,-,-,}{item_ironwood_tree,-,-,-,-,-,}{item_whisper_of_the_dread,};
