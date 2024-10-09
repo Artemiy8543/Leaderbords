@@ -2,4 +2,4 @@
 4{item_relic,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance,item_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_radiance,item_boots,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_radiance,item_boots,item_heart,item_veil_of_discord,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
