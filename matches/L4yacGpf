@@ -8,4 +8,4 @@
 15{item_radiance,item_boots,item_heart,item_shivas_guard,item_ghost,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_radiance_prc,item_boots,item_heart,item_shivas_guard,item_ghost,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
 0019{item_radiance_prc,item_boots,item_heart,item_shivas_guard,item_ghost,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vambrace,};
-0020{item_radiance_prc,item_boots,item_heart,item_shivas_strom,item_ghost,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vambrace,};
+0021{item_radiance_prc,item_boots,item_heart,item_shivas_strom,item_ghost,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vambrace,};
