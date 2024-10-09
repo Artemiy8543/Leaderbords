@@ -6,4 +6,5 @@
 0011{item_radiance,item_boots,item_heart,item_veil_of_discord,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_radiance,item_boots,item_heart,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_radiance,item_boots,item_heart,item_shivas_guard,item_ghost,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-18{item_radiance_prc,item_boots,item_heart,item_shivas_guard,item_ghost,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
+17{item_radiance_prc,item_boots,item_heart,item_shivas_guard,item_ghost,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
+0019{item_radiance_prc,item_boots,item_heart,item_shivas_guard,item_ghost,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vambrace,};
