@@ -4,4 +4,4 @@
 005{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 009{item_radiance_prc,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
-11{item_radiance_prc,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+12{item_radiance_prc,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
