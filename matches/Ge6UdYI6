@@ -2,4 +2,5 @@
 5{item_ultimate_scepter,item_voodoo_mask,item_vitality_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_ultimate_scepter,item_voodoo_mask,item_soul_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_ultimate_scepter,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_ultimate_scepter,item_bloodstone,item_kaya_and_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_ultimate_scepter,item_bloodstone,item_kaya,item_ogre_axe,item_belt_of_strength,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_ultimate_scepter,item_bloodstone,item_kaya_and_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
