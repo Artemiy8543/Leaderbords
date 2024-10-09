@@ -8,4 +8,4 @@
 14{item_radiance_prc,item_shivas_strom,-,-,-,-,}{-,-,-,}{item_ironwood_tree,-,-,-,-,-,}{item_whisper_of_the_dread,};
 16{item_radiance_prc,item_shivas_strom,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 0018{item_radiance_prc,item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
-19{item_radiance_prc,item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+20{item_radiance_prc,item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
