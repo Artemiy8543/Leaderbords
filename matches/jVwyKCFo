@@ -11,4 +11,4 @@
 25{item_radiance_prc,item_lotus_cuirass,item_gladiator_guard,item_shivas_strom,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
 0026{item_radiance_prc,item_lotus_cuirass,item_gladiator_guard,item_shivas_strom,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
 0029{item_shivas_strom,item_refresher_core,item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
-31{item_shivas_strom,item_refresher_core,item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+32{item_shivas_strom,item_refresher_core,item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_great_crit_custom3,}{item_recipe_great_crit_custom,item_recipe_great_crit_custom,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
