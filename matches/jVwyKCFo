@@ -2,4 +2,4 @@
 5{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance,item_platemail,item_buckler,item_ring_of_health,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance,item_platemail,item_buckler,item_pers,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,item_recipe_assault,}{-,-,-,-,-,-,}{-,};
-12{item_radiance,item_lotus_cuirass,item_vanguard,item_ring_of_tarrasque,item_cloak,-,}{item_recipe_heart,item_recipe_gladiator_guard,item_recipe_unwavering_condition,}{-,-,-,-,-,-,}{-,};
+13{item_radiance,item_lotus_cuirass,item_gladiator_guard,item_cloak,item_cloak,item_ogre_axe,}{-,-,item_recipe_unwavering_condition,}{-,-,-,-,-,-,}{item_tier2_token,};
