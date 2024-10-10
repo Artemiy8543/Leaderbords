@@ -3,3 +3,4 @@
 007{item_radiance,item_platemail,item_buckler,item_ring_of_health,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance,item_platemail,item_buckler,item_pers,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,item_recipe_assault,}{-,-,-,-,-,-,}{-,};
 13{item_radiance,item_lotus_cuirass,item_gladiator_guard,item_cloak,item_cloak,item_ogre_axe,}{-,-,item_recipe_unwavering_condition,}{-,-,-,-,-,-,}{item_tier2_token,};
+14{item_radiance,item_lotus_cuirass,item_gladiator_guard,item_unwavering_condition,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
