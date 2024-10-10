@@ -1,3 +1,4 @@
 129+76561197984951595=2{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance,item_platemail,item_buckler,item_ring_of_health,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
+8{item_radiance,item_platemail,item_buckler,item_pers,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,item_recipe_assault,}{-,-,-,-,-,-,}{-,};
