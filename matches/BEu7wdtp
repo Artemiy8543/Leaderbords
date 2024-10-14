@@ -19,3 +19,4 @@
 0048{item_great_magic_crit3,item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,}{item_tier2_token,-,-,}{item_cloak_of_flames,-,-,-,-,-,}{item_vampire_fangs,};
 0050{item_great_magic_crit3,item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,}{item_tier2_token,item_str_book,-,}{item_cloak_of_flames,-,-,-,-,-,}{item_vampire_fangs,};
 0051{item_great_magic_crit3,item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,}{item_tier2_token,item_str_book,-,}{item_cloak_of_flames,-,-,-,-,-,}{item_vampire_fangs,};
+0052{item_great_magic_crit3,item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
