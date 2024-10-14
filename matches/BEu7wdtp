@@ -1,4 +1,5 @@
 36+76561198105593290=2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_mail,item_radiance,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-10{item_blade_mail,item_radiance,item_voodoo_mask,-,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+9{item_blade_mail,item_radiance,item_voodoo_mask,-,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+11{item_blade_mail,item_radiance,item_voodoo_mask,-,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
