@@ -1,3 +1,4 @@
 36+76561198105593290=2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_blade_mail,item_radiance,item_voodoo_mask,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+6{item_blade_mail,item_radiance,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+8{item_blade_mail,item_radiance,item_voodoo_mask,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
