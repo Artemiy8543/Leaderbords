@@ -15,4 +15,5 @@
 41{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 43{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 45{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
-48{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,item_great_magic_crit3,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{-,};
+47{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,item_great_magic_crit3,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_force_field,};
+49{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,item_great_magic_crit3,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{-,};
