@@ -9,4 +9,5 @@
 0022{item_blade_midas,item_radiance_prc,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
 25{item_blade_midas,item_radiance_prc,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_gladiator_guard,}{item_force_field,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
 0027{item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
-29{item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+28{item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+30{item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
