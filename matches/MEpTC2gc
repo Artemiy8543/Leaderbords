@@ -20,4 +20,4 @@
 51{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_paladin_sword,item_great_magic_crit3,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{-,};
 53{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,item_great_magic_crit3,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 90{item_rapier,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_rapier,item_great_magic_crit3,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-98{item_rapier,item_shivas_strom,item_bloodstone_shield,item_great_magic_crit3,item_rapier,item_veil_of_dagon,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+99{item_rapier,item_shivas_strom,item_bloodstone_shield,item_great_magic_crit3,item_rapier,item_veil_of_dagon,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
