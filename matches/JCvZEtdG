@@ -19,4 +19,4 @@
 35{item_gladiator_guard,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_agi_book,item_shivas_strom,}{-,item_faerie_fire,item_faerie_fire,}{-,-,-,-,-,-,}{item_ninja_gear,};
 0037{item_gladiator_guard,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_agi_book,item_shivas_strom,}{-,item_faerie_fire,item_faerie_fire,}{-,-,-,-,-,-,}{item_ninja_gear,};
 38{item_great_crit_custom2,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_creep_desolator,item_shivas_strom,}{item_gladiator_guard,item_faerie_fire,item_faerie_fire,}{-,-,-,-,-,-,}{item_ninja_gear,};
-40{item_great_crit_custom3,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_creep_desolator,item_shivas_strom,}{item_ninja_gear,-,-,}{-,-,-,-,-,-,}{item_gladiator_guard,};
+41{item_great_crit_custom3,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_creep_desolator,item_shivas_strom,}{item_ninja_gear,-,-,}{-,-,-,-,-,-,}{item_gladiator_guard,};
