@@ -34,4 +34,4 @@
 0065{item_great_crit_custom3,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_creep_desolator,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_basher_slardar,};
 0067{item_great_crit_custom3,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_creep_desolator,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_basher_slardar,};
 0070{item_great_crit_custom3,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_creep_desolator,item_shivas_strom,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_basher_slardar,};
-102{item_great_crit_custom3,item_attacker_midas_str,item_satanic_of_madness,item_skadi,item_creep_desolator,item_shivas_strom,}{item_refresher_core,item_basher_slardar,item_agi_book,}{-,-,-,-,-,-,}{item_shivas_guard,};
+103{item_great_crit_custom3,item_attacker_midas_str,item_satanic_of_madness,item_skadi,item_creep_desolator,item_shivas_strom,}{item_refresher_core,item_basher_slardar,item_agi_book,}{-,-,-,-,-,-,}{item_shivas_guard,};
