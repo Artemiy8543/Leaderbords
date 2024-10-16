@@ -10,5 +10,5 @@
 0019{item_gladiator_guard,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_infinity_moon_shard,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 0020{item_gladiator_guard,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_infinity_moon_shard,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 0022{item_gladiator_guard,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_infinity_moon_shard,item_shivas_strom,}{item_ninja_gear,-,-,}{-,-,-,-,-,-,}{item_apex,};
-24{item_gladiator_guard,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_infinity_moon_shard,item_shivas_strom,}{item_faerie_fire,item_faerie_fire,item_faerie_fire,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,-,}{item_ninja_gear,};
-26{item_gladiator_guard,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_infinity_moon_shard,item_shivas_strom,}{-,-,item_faerie_fire,}{-,-,-,-,-,-,}{item_ninja_gear,};
+25{item_gladiator_guard,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_infinity_moon_shard,item_shivas_strom,}{item_faerie_fire,item_faerie_fire,item_faerie_fire,}{item_agi_book,-,-,-,-,-,}{item_ninja_gear,};
+0027{item_gladiator_guard,item_attacker_midas_str,item_satanic_of_madness,item_refresher_core,item_infinity_moon_shard,item_shivas_strom,}{item_agi_book,item_faerie_fire,item_faerie_fire,}{-,-,-,-,-,-,}{item_ninja_gear,};
