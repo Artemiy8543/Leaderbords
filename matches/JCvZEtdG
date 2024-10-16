@@ -2,3 +2,4 @@
 3{-,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_vanguard,item_attacker_midas_str,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
 7{item_gladiator_guard,item_attacker_midas_str,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+9{item_gladiator_guard,item_attacker_midas_str,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
