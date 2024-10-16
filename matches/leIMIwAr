@@ -3,3 +3,4 @@
 008{item_blade_midas,item_octarine_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_blade_midas,item_octarine_core,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 0012{item_blade_midas,item_octarine_core,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+0013{item_blade_midas,item_refresher_core,item_gladiator_guard,item_bloodstone,item_octarine_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
