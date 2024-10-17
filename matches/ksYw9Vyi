@@ -1,3 +1,4 @@
 6+76561198217793551=001{item_hyperstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hyperstone,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_hyperstone,item_platemail,item_lifesteal,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_assault,-,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
