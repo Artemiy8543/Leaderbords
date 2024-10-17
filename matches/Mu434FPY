@@ -6,4 +6,4 @@
 11{item_radiance,item_ultimate_scepter,item_kaya_and_sange,item_bloodstone,item_paladin_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_radiance,item_bloodstone_shield,item_kaya_and_sange,-,item_paladin_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_radiance_prc,-,item_kaya_and_sange,-,item_paladin_sword,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
-17{item_radiance_prc,-,item_kaya_and_sange,-,item_paladin_sword,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+18{item_radiance_prc,-,item_kaya_and_sange,-,item_paladin_sword,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
