@@ -1,3 +1,4 @@
 18+76561198167148033=1{item_cornucopia,item_quelling_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_cornucopia,item_quelling_blade,item_broadsword,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_bfury,item_desolator,item_heart,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_bfury,item_desolator,-,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_bfury,item_desolator,item_heart,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
