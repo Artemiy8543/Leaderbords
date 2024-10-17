@@ -3,3 +3,4 @@
 004{item_hyperstone,item_platemail,item_lifesteal,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_assault,-,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 006{item_assault,item_boots,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+007{item_assault,item_boots,item_lifesteal,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
