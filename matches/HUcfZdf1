@@ -11,5 +11,5 @@
 20{item_headdress,item_boots_of_bearing,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
 0022{item_headdress,item_boots_of_bearing,item_gladiator_guard,-,-,-,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
 24{item_headdress,item_boots_of_bearing,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
-0026{item_headdress,item_boots_of_bearing,item_gladiator_guard,item_giants_ring,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
-28{item_headdress,item_boots_of_bearing,item_gladiator_guard,item_giants_ring,item_custom_necronomicon3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
+0027{item_headdress,item_boots_of_bearing,item_gladiator_guard,item_giants_ring,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
+29{item_headdress,item_boots_of_bearing,item_gladiator_guard,item_giants_ring,item_custom_necronomicon3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
