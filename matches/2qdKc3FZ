@@ -2,3 +2,4 @@
 2{item_quelling_blade,item_lifesteal,-,-,item_phase_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_quelling_blade,item_lifesteal,-,-,item_phase_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_quelling_blade,item_lifesteal,-,-,item_phase_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_quelling_blade,item_lifesteal,-,-,item_phase_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
