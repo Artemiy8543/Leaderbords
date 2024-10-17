@@ -3,4 +3,4 @@
 006{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_radiance,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance,item_ultimate_scepter,item_kaya_and_sange,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_radiance,item_ultimate_scepter,item_kaya_and_sange,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_radiance,item_ultimate_scepter,item_kaya_and_sange,item_bloodstone,item_paladin_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
