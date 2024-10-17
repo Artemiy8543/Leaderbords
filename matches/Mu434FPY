@@ -9,4 +9,4 @@
 17{item_radiance_prc,-,item_kaya_and_sange,-,item_paladin_sword,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 20{item_radiance_prc,-,item_kaya_and_sange,-,item_paladin_sword,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 0022{item_radiance_prc,item_trident_custom,-,-,item_paladin_sword,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-0024{item_radiance_prc,item_trident_custom,item_refresher_core,-,item_paladin_sword,item_bloodstone_shield,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+0025{item_radiance_prc,item_trident_custom,item_refresher_core,item_shivas_strom,item_paladin_sword,item_bloodstone_shield,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
