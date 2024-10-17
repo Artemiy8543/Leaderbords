@@ -8,4 +8,4 @@
 12{item_headdress,item_boots_of_bearing,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 15{item_headdress,item_boots_of_bearing,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 18{item_headdress,item_boots_of_bearing,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
-20{item_headdress,item_boots_of_bearing,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
+21{item_headdress,item_boots_of_bearing,item_gladiator_guard,-,-,-,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
