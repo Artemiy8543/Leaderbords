@@ -13,4 +13,5 @@
 0026{item_radiance_prc,item_trident_custom,item_refresher_core,item_shivas_strom,item_paladin_sword,item_bloodstone_shield,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 29{item_radiance_prc,item_trident_custom,item_refresher_core,item_shivas_strom,item_paladin_sword,item_bloodstone_shield,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 0032{item_radiance_prc,item_trident_custom,item_refresher_core,item_shivas_strom,item_paladin_sword,item_bloodstone_shield,}{item_tier3_token,item_str_book,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-35{item_radiance_prc,item_trident_custom,item_refresher_core,item_shivas_strom,item_paladin_sword,item_bloodstone_shield,}{item_tier3_token,item_str_book,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+34{item_radiance_prc,item_trident_custom,item_refresher_core,item_shivas_strom,item_paladin_sword,item_bloodstone_shield,}{item_tier3_token,item_str_book,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+0036{item_radiance_prc,item_trident_custom,item_refresher_core,item_shivas_strom,item_paladin_sword,item_bloodstone_shield,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
