@@ -4,4 +4,5 @@
 7{-,-,-,-,item_vanguard,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_heart,item_ultimate_scepter,-,-,item_vanguard,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_heart,item_ultimate_scepter,-,-,item_vanguard,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-13{item_gladiator_guard,item_ultimate_scepter,-,-,-,item_bloodstone,}{-,-,-,}{item_arcane_ring,-,-,-,-,-,}{item_whisper_of_the_dread,};
+12{item_heart,item_ultimate_scepter,-,-,item_vanguard,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+14{-,-,-,item_ultimate_scepter,item_gladiator_guard,item_bloodstone,}{-,-,-,}{item_arcane_ring,-,-,-,-,-,}{item_whisper_of_the_dread,};
