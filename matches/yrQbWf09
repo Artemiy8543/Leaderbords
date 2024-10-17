@@ -3,4 +3,5 @@
 8{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,item_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,item_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+11{item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,item_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+13{item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,item_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
