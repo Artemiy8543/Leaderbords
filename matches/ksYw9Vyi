@@ -5,3 +5,4 @@
 006{item_assault,item_boots,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 007{item_assault,item_boots,item_lifesteal,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
 8{item_assault,item_boots,item_lifesteal,item_heart,item_gloves,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+009{item_assault,item_boots,item_lifesteal,item_heart,item_maelstrom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
