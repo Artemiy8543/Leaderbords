@@ -6,4 +6,5 @@
 12{item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,item_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 14{item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,item_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 16{item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,item_moon_shard,item_creep_desolator,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_apex,};
-20{item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,item_moon_shard,item_creep_desolator,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_apex,};
+19{item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,item_moon_shard,item_creep_desolator,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_apex,};
+0021{item_blade_midas,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,item_moon_shard,item_creep_desolator,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_apex,};
