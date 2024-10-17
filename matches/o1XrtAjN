@@ -2,3 +2,4 @@
 3{item_cornucopia,item_quelling_blade,item_broadsword,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bfury,item_desolator,-,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_bfury,item_desolator,item_gladiator_guard,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_bfury,item_creep_desolator,item_gladiator_guard,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
