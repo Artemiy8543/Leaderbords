@@ -175,4 +175,4 @@
 398{item_great_magic_crit3,item_phylactery_blade,item_lotus_cuirass,item_meteor_rain,item_radiance_prc,item_bloodstone_shield,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 399{item_great_magic_crit3,item_phylactery_blade,item_lotus_cuirass,item_meteor_rain,item_radiance_prc,item_bloodstone_shield,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 402{item_great_magic_crit3,item_phylactery_blade,item_lotus_cuirass,item_meteor_rain,item_radiance_prc,item_bloodstone_shield,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-403{item_great_magic_crit3,item_phylactery_blade,item_lotus_cuirass,item_meteor_rain,item_radiance_prc,item_bloodstone_shield,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+404{-,-,item_lotus_cuirass,item_meteor_rain,item_radiance_prc,item_bloodstone_shield,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
