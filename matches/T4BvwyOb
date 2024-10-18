@@ -1,4 +1,4 @@
 99+76561198096809488=2{item_vampire_fangs,item_ring_of_health,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_vampire_fangs,item_ring_of_health,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_vampire_fangs,item_ring_of_health,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_vampire_fangs,item_ring_of_health,item_radiance,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+7{item_vampire_fangs,item_ring_of_health,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_vampire_fangs,item_ring_of_health,item_radiance,item_heart,item_platemail,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
