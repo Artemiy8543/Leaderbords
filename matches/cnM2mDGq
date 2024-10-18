@@ -7,3 +7,4 @@
 15{item_bracer,item_ultimate_scepter,item_boots,item_heart,item_shivas_guard,item_bloodstone_shield,}{item_bracer,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_bracer,item_gladiator_guard,item_boots,item_radiance_prc,item_shivas_guard,item_bloodstone_shield,}{item_bracer,-,-,}{-,-,-,-,-,-,}{-,};
 0020{item_trident_custom,item_gladiator_guard,item_yasha_and_kaya,item_radiance_prc,item_shivas_guard,item_bloodstone_shield,}{item_bracer,item_boots,item_bracer,}{-,-,-,-,-,-,}{-,};
+0021{-,item_gladiator_guard,item_yasha_and_kaya,item_radiance_prc,item_shivas_guard,item_bloodstone_shield,}{item_bracer,item_boots,item_bracer,}{-,-,-,-,-,-,}{item_trident_custom,};
