@@ -2,4 +2,5 @@
 4{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_radiance_prc,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{item_radiance_prc,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_radiance_prc,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_radiance_prc,item_ultimate_scepter,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
