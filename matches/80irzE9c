@@ -1,4 +1,5 @@
 18+76561198096809488=1{item_lifesteal,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{-,-,-,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{-,-,-,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-008{-,-,item_great_crit_custom,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+007{-,-,item_great_crit_custom,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+009{-,-,item_great_crit_custom,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
