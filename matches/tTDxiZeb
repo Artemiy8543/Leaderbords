@@ -2,4 +2,4 @@
 4{item_vampire_fangs,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_vampire_fangs,item_talisman_of_evasion,-,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_vampire_fangs,item_radiance,-,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-12{item_vampire_fangs,item_radiance,item_heart,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+13{item_vampire_fangs,item_radiance,item_heart,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
