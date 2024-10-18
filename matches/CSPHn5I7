@@ -2,4 +2,5 @@
 004{item_broadsword,item_claymore,item_quelling_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bfury,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
 0011{item_bfury,item_satanic,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
-0014{item_bfury,item_satanic,item_lotus_cuirass,item_butterfly,-,-,}{-,-,-,}{item_dragon_scale,-,-,-,-,-,}{item_avianas_feather,};
+0013{item_bfury,item_satanic,item_lotus_cuirass,-,-,-,}{-,-,-,}{item_dragon_scale,-,-,-,-,-,}{item_avianas_feather,};
+16{item_bfury,item_satanic,item_lotus_cuirass,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
