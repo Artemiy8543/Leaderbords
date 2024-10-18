@@ -1,5 +1,5 @@
 16+76561198096809488=2{item_vampire_fangs,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_vampire_fangs,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_vampire_fangs,item_talisman_of_evasion,-,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_vampire_fangs,item_radiance,-,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_vampire_fangs,item_radiance,item_heart,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+10{item_vampire_fangs,item_radiance,-,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+12{item_vampire_fangs,item_radiance,item_heart,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
