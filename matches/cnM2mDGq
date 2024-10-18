@@ -4,5 +4,5 @@
 8{item_bracer,item_bracer,item_boots,item_heart,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_bracer,item_bracer,item_boots,item_heart,item_ultimate_scepter,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_bracer,item_ultimate_scepter,item_boots,item_heart,item_shivas_guard,item_bloodstone,}{item_bracer,-,-,}{-,-,-,-,-,-,}{-,};
-14{item_bracer,item_ultimate_scepter,item_boots,item_heart,item_shivas_guard,item_bloodstone,}{item_bracer,-,-,}{-,-,-,-,-,-,}{-,};
-16{item_bracer,item_gladiator_guard,item_boots,item_radiance_prc,item_shivas_guard,item_bloodstone_shield,}{item_bracer,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_bracer,item_ultimate_scepter,item_boots,item_heart,item_shivas_guard,item_bloodstone_shield,}{item_bracer,-,-,}{-,-,-,-,-,-,}{-,};
+17{item_bracer,item_gladiator_guard,item_boots,item_radiance_prc,item_shivas_guard,item_bloodstone_shield,}{item_bracer,-,-,}{-,-,-,-,-,-,}{-,};
