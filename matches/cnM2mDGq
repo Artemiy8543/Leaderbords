@@ -85,3 +85,4 @@
 184{item_great_magic_crit3,item_phylactery_blade,item_veil_of_dagon,item_radiance_prc,item_shivas_strom,item_bloodstone_shield,}{item_yasha_and_kaya,item_gladiator_guard,item_lotus_cuirass,}{item_str_book,-,-,-,-,-,}{item_trident_custom,};
 188{item_great_magic_crit3,item_phylactery_blade,item_veil_of_dagon,item_radiance_prc,item_shivas_strom,item_bloodstone_shield,}{item_yasha_and_kaya,-,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_trident_custom,};
 190{item_great_magic_crit3,item_phylactery_blade,item_veil_of_dagon,item_radiance_prc,item_shivas_strom,item_bloodstone_shield,}{item_yasha_and_kaya,-,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_trident_custom,};
+00191{item_great_magic_crit3,item_phylactery_blade,item_veil_of_dagon,item_radiance_prc,item_shivas_strom,item_bloodstone_shield,}{item_yasha_and_kaya,-,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_trident_custom,};
