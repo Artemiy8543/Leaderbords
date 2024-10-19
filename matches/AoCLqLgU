@@ -5,3 +5,4 @@
 007{item_attacker_midas_agi,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 8{item_attacker_midas_agi,item_gladiator_guard,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 10{item_attacker_midas_agi,item_gladiator_guard,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+11{item_attacker_midas_agi,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
