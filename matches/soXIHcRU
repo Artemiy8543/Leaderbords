@@ -69,4 +69,4 @@
 00190{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_gladiator_guard,item_manaback3,}{item_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 00192{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_gladiator_guard,item_manaback3,}{item_helm_of_the_overlord,item_str_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 00193{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_gladiator_guard,item_manaback3,}{item_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-208{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,-,item_meteor_rain,item_refresher_core,}{item_helm_of_the_overlord,item_manaback3,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_timeless_relic,};
+209{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_meteor_hammer,item_meteor_rain,item_refresher_core,}{item_helm_of_the_overlord,item_manaback3,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_timeless_relic,};
