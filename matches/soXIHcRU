@@ -12,4 +12,5 @@
 0029{item_bloodstone_shield,item_radiance_prc,item_rattlecage,item_giants_ring,item_shivas_strom,item_rapier,}{item_giants_ring,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 0033{item_bloodstone_shield,item_radiance_prc,item_rattlecage,item_giants_ring,item_shivas_strom,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0037{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_giants_ring,item_shivas_strom,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-41{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_giants_ring,item_shivas_strom,item_rapier,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+40{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_giants_ring,item_shivas_strom,item_rapier,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0043{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_giants_ring,item_shivas_strom,item_rapier,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
