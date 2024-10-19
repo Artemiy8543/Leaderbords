@@ -11,4 +11,4 @@
 25{item_bloodstone_shield,item_radiance_prc,item_blade_mail,item_giants_ring,item_shivas_strom,item_rapier,}{item_trickster_cloak,-,-,}{item_seeds_of_serenity,-,-,-,-,-,}{item_giants_ring,};
 0029{item_bloodstone_shield,item_radiance_prc,item_rattlecage,item_giants_ring,item_shivas_strom,item_rapier,}{item_giants_ring,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 0033{item_bloodstone_shield,item_radiance_prc,item_rattlecage,item_giants_ring,item_shivas_strom,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-0036{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_giants_ring,item_shivas_strom,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0037{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_giants_ring,item_shivas_strom,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
