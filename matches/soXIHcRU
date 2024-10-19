@@ -3,4 +3,5 @@
 005{item_bloodstone,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bloodstone,item_radiance,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_bloodstone,item_radiance,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_bloodstone_shield,item_radiance,item_blade_mail,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_bloodstone_shield,item_radiance,item_blade_mail,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_bloodstone_shield,item_radiance,item_blade_mail,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
