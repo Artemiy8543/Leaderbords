@@ -73,4 +73,4 @@
 220{item_manaback3,item_phylactery_blade,item_trident_custom,item_veil_of_dagon,item_refresher_core,item_refresher_core,}{item_helm_of_the_overlord,-,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_timeless_relic,};
 223{item_manaback3,item_phylactery_blade,item_trident_custom,-,item_refresher_core,item_refresher_core,}{item_helm_of_the_overlord,-,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_timeless_relic,};
 226{item_manaback3,item_phylactery_blade,item_trident_custom,item_bloodstone_shield,item_bloodstone,item_refresher_core,}{item_helm_of_the_overlord,-,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_timeless_relic,};
-00228{item_manaback3,item_phylactery_blade,item_trident_custom,item_bloodstone_shield,item_bloodstone,-,}{item_helm_of_the_overlord,-,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_timeless_relic,};
+00229{item_manaback3,item_phylactery_blade,item_trident_custom,item_bloodstone_shield,item_bloodstone,-,}{item_helm_of_the_overlord,-,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_timeless_relic,};
