@@ -59,4 +59,4 @@
 00171{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_rapier,item_firecracker_small,}{item_helm_of_the_overlord,item_manaback3,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 00172{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_rapier,-,}{item_helm_of_the_overlord,item_manaback3,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 00174{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_rapier,item_manaback3,}{item_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-00176{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_rapier,item_manaback3,}{item_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+00177{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_rapier,item_manaback3,}{item_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
