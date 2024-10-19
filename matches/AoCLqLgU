@@ -11,4 +11,4 @@
 22{item_attacker_midas_agi,item_refresher_core,item_satanic_of_madness,item_creep_desolator,item_gladiator_guard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_butterfly,};
 0025{item_attacker_midas_agi,item_refresher_core,item_spell_prism,item_creep_desolator,item_gladiator_guard,item_great_crit_custom3,}{item_quickening_charm,item_satanic_of_madness,-,}{-,-,-,-,-,-,}{item_octarine_core,};
 26{item_attacker_midas_agi,item_refresher_core,item_satanic_of_madness,item_creep_desolator,item_gladiator_guard,item_great_crit_custom3,}{item_quickening_charm,item_spell_prism,-,}{-,-,-,-,-,-,}{item_octarine_core,};
-0027{item_attacker_midas_agi,item_refresher_core,item_satanic_of_madness,item_creep_desolator,item_gladiator_guard,item_great_crit_custom3,}{item_quickening_charm,item_spell_prism,item_octarine_core,}{-,-,-,-,-,-,}{item_shivas_strom,};
+0028{item_attacker_midas_agi,item_refresher_core,item_satanic_of_madness,item_creep_desolator,item_gladiator_guard,item_great_crit_custom3,}{item_quickening_charm,item_spell_prism,item_octarine_core,}{-,-,-,-,-,-,}{item_shivas_strom,};
