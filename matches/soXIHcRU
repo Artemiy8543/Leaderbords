@@ -23,4 +23,4 @@
 59{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_giants_ring,item_shivas_strom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 62{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_radiance_prc,item_shivas_strom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 64{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,item_shivas_strom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-84{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,-,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+85{item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_great_magic_crit3,-,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
