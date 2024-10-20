@@ -9,4 +9,4 @@
 22{item_blade_midas,item_gladiator_guard,-,item_great_crit_custom3,item_creep_desolator,item_refresher_core,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
 24{item_blade_midas,item_gladiator_guard,item_octarine_core,item_great_crit_custom3,item_creep_desolator,item_refresher_core,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_spell_prism,};
 27{item_blade_midas,item_gladiator_guard,item_satanic_of_madness,item_great_crit_custom3,item_creep_desolator,item_refresher_core,}{item_safety_bubble,item_spell_prism,item_str_book,}{item_desolator_2,-,-,-,-,-,}{item_octarine_core,};
-29{item_blade_midas,item_gladiator_guard,item_satanic_of_madness,item_great_crit_custom3,item_creep_desolator,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_octarine_core,};
+30{item_blade_midas,item_gladiator_guard,item_satanic_of_madness,item_great_crit_custom3,item_creep_desolator,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_octarine_core,};
