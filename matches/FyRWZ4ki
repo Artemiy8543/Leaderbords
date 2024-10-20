@@ -3,4 +3,5 @@
 009{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 0011{item_blade_midas,item_gladiator_guard,-,-,-,-,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
 0014{item_blade_midas,item_gladiator_guard,item_heart,item_great_crit_custom3,-,-,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
-17{item_blade_midas,item_gladiator_guard,item_heart,item_great_crit_custom3,item_creep_desolator,item_octarine_core,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
+16{item_blade_midas,item_gladiator_guard,item_heart,item_great_crit_custom3,item_creep_desolator,-,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
+18{item_blade_midas,item_gladiator_guard,item_heart,item_great_crit_custom3,item_creep_desolator,item_refresher_core,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_iron_talon,};
