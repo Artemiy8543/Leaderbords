@@ -5,4 +5,5 @@
 13{item_radiance_prc,item_ultimate_scepter,item_phylactery_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 17{item_radiance_prc,item_ultimate_scepter,item_phylactery_blade,item_safety_bubble,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 19{item_radiance_prc,item_ultimate_scepter,item_phylactery_blade,item_safety_bubble,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-23{item_radiance_prc,item_ultimate_scepter,item_phylactery_blade,-,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+22{item_radiance_prc,item_ultimate_scepter,item_phylactery_blade,-,item_bloodstone_shield,-,}{-,-,-,}{item_safety_bubble,-,-,-,-,-,}{item_trident_custom,};
+24{item_radiance_prc,item_ultimate_scepter,item_phylactery_blade,-,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
