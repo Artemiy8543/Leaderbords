@@ -10,4 +10,5 @@
 0027{item_radiance_prc,item_ultimate_scepter,item_phylactery_blade,-,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 0030{item_radiance_prc,item_ultimate_scepter,item_phylactery_blade,-,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 0032{item_radiance_prc,-,item_phylactery_blade,-,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-36{item_radiance_prc,item_yasha_and_kaya,item_phylactery_blade,item_kaya_and_sange,item_bloodstone_shield,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+35{item_radiance_prc,item_yasha_and_kaya,item_phylactery_blade,item_kaya_and_sange,item_bloodstone_shield,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+37{item_radiance_prc,item_yasha_and_kaya,item_phylactery_blade,item_kaya_and_sange,item_bloodstone_shield,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
