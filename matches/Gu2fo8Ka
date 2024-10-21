@@ -1,4 +1,4 @@
 4+76561198312307155=002{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_radiance_prc,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_radiance_prc,item_ultimate_scepter,item_phylactery_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+0011{item_radiance_prc,item_ultimate_scepter,item_phylactery_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
