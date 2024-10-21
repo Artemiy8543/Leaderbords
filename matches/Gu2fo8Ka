@@ -16,4 +16,4 @@
 44{item_radiance_prc,item_shivas_strom,item_phylactery_blade,item_int_book,item_bloodstone_shield,item_manaback3,}{item_kaya_and_sange,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 0047{item_radiance_prc,item_shivas_strom,item_phylactery_blade,item_agi_book,item_bloodstone_shield,item_manaback3,}{item_kaya_and_sange,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 0049{item_radiance_prc,item_shivas_strom,item_phylactery_blade,item_agi_book,item_bloodstone_shield,item_manaback3,}{item_kaya_and_sange,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-0051{item_radiance_prc,item_shivas_strom,item_phylactery_blade,item_kaya_and_sange,item_bloodstone_shield,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0052{item_radiance_prc,item_shivas_strom,item_phylactery_blade,item_kaya_and_sange,item_bloodstone_shield,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
