@@ -4,4 +4,4 @@
 10{item_soul_booster,-,-,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_octarine_core,-,-,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_octarine_core,-,-,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0017{item_refresher_core,-,-,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0018{item_refresher_core,-,-,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
