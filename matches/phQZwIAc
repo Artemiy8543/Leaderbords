@@ -2,4 +2,4 @@
 4{item_point_booster,-,-,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_point_booster,item_blade_of_alacrity,-,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_point_booster,item_blade_of_alacrity,item_staff_of_wizardry,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_ultimate_scepter,-,-,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_ultimate_scepter,item_eagle,-,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
