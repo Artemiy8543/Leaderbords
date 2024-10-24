@@ -2,4 +2,4 @@
 3{item_gauntlets,item_mask_of_madness,item_flask,item_tango,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_gauntlets,item_mask_of_madness,item_flask,item_tango,item_yasha,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_gauntlets,item_mask_of_madness,item_flask,item_tango,item_sange_and_yasha,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_gauntlets,item_tango,item_flask,item_satanic,item_sange_and_yasha,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_gauntlets,item_tango,item_flask,item_satanic,item_sange_and_yasha,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
