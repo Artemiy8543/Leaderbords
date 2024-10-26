@@ -4,4 +4,4 @@
 12{item_bloodstone,item_heart,item_radiance,item_vampire_fangs,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 0014{item_bloodstone,item_gladiator_guard,item_radiance,item_vampire_fangs,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 17{item_bloodstone,item_gladiator_guard,item_radiance,item_vampire_fangs,item_assault,-,}{item_arcane_ring,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
-19{item_bloodstone,item_gladiator_guard,item_radiance,item_vampire_fangs,item_assault,-,}{-,-,-,}{item_arcane_ring,-,-,-,-,-,}{item_whisper_of_the_dread,};
+20{item_bloodstone,item_gladiator_guard,item_radiance,item_vampire_fangs,item_assault,-,}{item_tier3_token,-,-,}{item_arcane_ring,-,-,-,-,-,}{item_whisper_of_the_dread,};
