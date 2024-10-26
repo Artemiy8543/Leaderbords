@@ -2,4 +2,4 @@
 7{item_bloodstone,item_heart,item_relic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_bloodstone,item_heart,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 12{item_bloodstone,item_heart,item_radiance,item_vampire_fangs,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-0014{item_bloodstone,item_gladiator_guard,item_radiance,item_vampire_fangs,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+0015{item_bloodstone,item_gladiator_guard,item_radiance,item_vampire_fangs,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
