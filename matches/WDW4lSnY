@@ -5,3 +5,4 @@
 9{item_gladiator_guard,item_bloodstone,item_tiara_of_selemene,item_vitality_booster,item_energy_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_gladiator_guard,item_bloodstone,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+13{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
