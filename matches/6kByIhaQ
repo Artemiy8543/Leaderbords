@@ -52,4 +52,4 @@
 00275{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_rapier,item_radiance_prc,item_manaback3,}{item_meteor_hammer,item_octarine_core,item_veil_of_dagon,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
 00277{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_rapier,item_radiance_prc,item_manaback3,}{item_meteor_hammer,item_octarine_core,item_veil_of_dagon,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
 294{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_rapier,item_radiance_prc,item_manaback3,}{item_meteor_hammer,item_octarine_core,item_veil_of_dagon,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
-325{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_octarine_core,item_radiance_prc,item_manaback3,}{item_meteor_hammer,-,item_veil_of_dagon,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
+326{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_octarine_core,item_radiance_prc,item_manaback3,}{item_meteor_hammer,-,item_veil_of_dagon,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
