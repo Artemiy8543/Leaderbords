@@ -4,3 +4,4 @@
 7{item_gladiator_guard,item_voodoo_mask,item_vitality_booster,item_energy_booster,item_void_stone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,item_bloodstone,item_tiara_of_selemene,item_vitality_booster,item_energy_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_gladiator_guard,item_bloodstone,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_gladiator_guard,item_bloodstone_shield,item_octarine_core,item_cornucopia,item_ring_of_tarrasque,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
