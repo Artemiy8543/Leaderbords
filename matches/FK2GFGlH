@@ -13,5 +13,5 @@
 0031{item_radiance_prc,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_unwavering_condition,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0033{item_radiance_prc,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_unwavering_condition,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0036{item_radiance_prc,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_unwavering_condition,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-0038{item_radiance_prc,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_unwavering_condition,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-0040{item_radiance_prc,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_unwavering_condition,}{item_tier5_token,item_str_book,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0039{item_radiance_prc,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_unwavering_condition,}{item_tier5_token,item_str_book,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0041{item_radiance_prc,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_unwavering_condition,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
