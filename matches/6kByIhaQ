@@ -25,4 +25,5 @@
 00215{item_refresher_core,item_phylactery_blade,item_bloodstone_shield,item_octarine_core,item_meteor_hammer,item_meteor_rain,}{item_wraith_band,-,-,}{item_great_crit_custom3,item_lightning_sword,item_infinity_moon_shard,item_infinity_moon_shard,item_gladiator_guard,-,}{item_trident_custom,};
 00217{item_refresher_core,item_phylactery_blade,item_bloodstone_shield,item_octarine_core,item_meteor_hammer,item_meteor_rain,}{item_wraith_band,item_veil_of_discord,item_dagon_4,}{item_great_crit_custom3,item_lightning_sword,item_infinity_moon_shard,item_infinity_moon_shard,item_gladiator_guard,-,}{item_trident_custom,};
 00220{item_refresher_core,item_phylactery_blade,item_bloodstone_shield,item_octarine_core,item_veil_of_dagon,item_meteor_rain,}{item_meteor_hammer,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-222{item_refresher_core,item_phylactery_blade,item_bloodstone_shield,item_octarine_core,item_veil_of_dagon,item_meteor_rain,}{item_meteor_hammer,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+221{item_refresher_core,item_phylactery_blade,item_bloodstone_shield,item_octarine_core,item_veil_of_dagon,item_meteor_rain,}{item_meteor_hammer,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+00223{item_refresher_core,item_phylactery_blade,item_bloodstone_shield,item_octarine_core,item_veil_of_dagon,item_meteor_rain,}{item_meteor_hammer,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
