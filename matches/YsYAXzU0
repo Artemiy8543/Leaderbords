@@ -7,3 +7,4 @@
 19{item_bloodstone,item_gladiator_guard,item_radiance,item_vampire_fangs,item_assault,-,}{-,-,-,}{item_arcane_ring,-,-,-,-,-,}{item_whisper_of_the_dread,};
 21{item_bloodstone,item_gladiator_guard,item_radiance,item_vampire_fangs,item_assault,-,}{item_whisper_of_the_dread,-,-,}{item_arcane_ring,-,-,-,-,-,}{item_tier3_token,};
 24{item_bloodstone_shield,item_gladiator_guard,item_radiance,item_vampire_fangs,item_assault,-,}{-,-,-,}{item_arcane_ring,item_whisper_of_the_dread,item_ceremonial_robe,-,-,-,}{item_trickster_cloak,};
+25{item_blade_midas,item_gladiator_guard,item_radiance_prc,item_vampire_fangs,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{item_arcane_ring,item_whisper_of_the_dread,item_ceremonial_robe,item_trickster_cloak,-,-,}{item_giants_ring,};
