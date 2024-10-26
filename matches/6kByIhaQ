@@ -34,4 +34,4 @@
 233{item_refresher_core,item_phylactery_blade,item_bloodstone_shield,item_octarine_core,item_veil_of_dagon,item_meteor_rain,}{item_meteor_hammer,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 00235{item_refresher_core,item_phylactery_blade,item_bloodstone_shield,item_rapier,item_veil_of_dagon,item_meteor_rain,}{item_meteor_hammer,item_octarine_core,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 237{item_refresher_core,item_phylactery_blade,item_bloodstone_shield,item_rapier,item_veil_of_dagon,item_int_book,}{item_meteor_hammer,item_octarine_core,item_meteor_rain,}{-,-,-,-,-,-,}{item_trident_custom,};
-238{item_refresher_core,item_phylactery_blade,item_bloodstone_shield,item_rapier,item_veil_of_dagon,item_meteor_rain,}{item_meteor_hammer,item_octarine_core,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+240{item_refresher_core,item_phylactery_blade,item_bloodstone_shield,item_rapier,item_veil_of_dagon,item_meteor_rain,}{item_meteor_hammer,item_octarine_core,-,}{-,-,-,-,-,-,}{item_trident_custom,};
