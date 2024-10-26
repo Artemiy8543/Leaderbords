@@ -54,4 +54,4 @@
 294{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_rapier,item_radiance_prc,item_manaback3,}{item_meteor_hammer,item_octarine_core,item_veil_of_dagon,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
 327{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_octarine_core,item_radiance_prc,item_manaback3,}{item_meteor_hammer,-,item_veil_of_dagon,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
 335{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_octarine_core,item_radiance_prc,item_manaback3,}{item_meteor_hammer,-,item_veil_of_dagon,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
-346{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_octarine_core,item_custom_necronomicon3,item_manaback3,}{-,-,-,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
+347{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_octarine_core,item_custom_necronomicon3,item_manaback3,}{-,-,-,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
