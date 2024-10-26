@@ -6,3 +6,4 @@
 127{item_refresher_core,item_bloodstone_shield,item_lotus_cuirass,item_firecracker_small,item_great_crit_custom3,item_manaback3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{-,};
 147{item_lotus_cuirass,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 148{item_lotus_cuirass,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+149{item_refresher_core,item_bloodstone_shield,item_lotus_cuirass,item_refresher_core,item_refresher_core,item_lotus_cuirass,}{item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{item_refresher_core,-,-,-,-,-,}{-,};
