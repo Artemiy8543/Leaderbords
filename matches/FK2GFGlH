@@ -2,3 +2,4 @@
 3{item_radiance_prc,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_unwavering_condition,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_radiance_prc,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_unwavering_condition,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_radiance_prc,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_unwavering_condition,}{-,-,-,}{-,-,-,-,-,-,}{item_lance_of_pursuit,};
+009{item_radiance_prc,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_unwavering_condition,}{-,-,-,}{-,-,-,-,-,-,}{item_lance_of_pursuit,};
