@@ -57,4 +57,5 @@
 352{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_octarine_core,item_radiance_prc,item_manaback3,}{-,-,-,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
 361{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_octarine_core,item_radiance_prc,item_manaback3,}{-,-,-,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
 362{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_octarine_core,item_radiance_prc,item_manaback3,}{-,-,-,}{-,item_bloodstone_shield,-,-,-,-,}{item_trident_custom,};
-364{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_refresher_core,item_radiance_prc,item_manaback3,}{item_spell_prism,-,-,}{-,item_bloodstone_shield,-,-,-,-,}{-,};
+363{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_refresher_core,item_radiance_prc,item_manaback3,}{item_spell_prism,-,-,}{-,item_bloodstone_shield,-,-,-,-,}{-,};
+365{item_great_magic_crit3,item_revenants_brooch,item_phylactery_blade,item_refresher_core,item_radiance_prc,item_manaback3,}{item_spell_prism,-,-,}{-,item_bloodstone_shield,-,-,-,-,}{-,};
