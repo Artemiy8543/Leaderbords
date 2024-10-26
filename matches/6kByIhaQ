@@ -5,5 +5,4 @@
 97{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 127{item_refresher_core,item_bloodstone_shield,item_lotus_cuirass,item_firecracker_small,item_great_crit_custom3,item_manaback3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{-,};
 147{item_lotus_cuirass,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-148{item_lotus_cuirass,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-162{item_refresher_core,item_great_crit_custom3,item_trident_custom,item_recipe_armlet_of_mjolnir,item_lotus_cuirass,item_lightning_sword,}{item_armlet,item_broadsword,item_recipe_mjollnir,}{-,-,-,-,-,-,}{-,};
+163{item_refresher_core,item_great_crit_custom3,item_trident_custom,item_recipe_armlet_of_mjolnir,item_mithril_hammer,item_lightning_sword,}{item_armlet,item_broadsword,item_recipe_mjollnir,}{item_javelin,-,-,-,-,-,}{-,};
