@@ -12,3 +12,4 @@
 0028{item_blade_midas,item_refresher_core,item_shivas_strom,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,}{-,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0029{item_satanic_of_madness,item_butterfly,item_shivas_strom,item_bfury,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0030{item_satanic_of_madness,item_butterfly,item_bloodstone_shield,item_bfury,item_lotus_cuirass,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0031{item_satanic_of_madness,item_bfury,item_bloodstone_shield,item_infinity_moon_shard,item_lotus_cuirass,item_great_crit_custom3,}{item_butterfly,item_moon_shard,-,}{-,-,-,-,-,-,}{item_giants_ring,};
