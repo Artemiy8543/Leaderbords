@@ -1,3 +1,4 @@
 35+76561199659839350=1{item_gloves,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_hand_of_midas,item_grove_bow,item_flask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+3{item_hand_of_midas,item_grove_bow,item_flask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_hand_of_midas,item_grove_bow,item_flask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
