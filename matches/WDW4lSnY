@@ -9,3 +9,4 @@
 0017{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_blade_midas,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{item_safety_bubble,-,-,-,-,-,}{item_vampire_fangs,};
 0019{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_blade_midas,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{item_safety_bubble,-,-,-,-,-,}{item_vampire_fangs,};
 0021{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_blade_midas,item_lotus_cuirass,item_radiance_prc,}{item_tier3_token,-,-,}{item_safety_bubble,-,-,-,-,-,}{item_vampire_fangs,};
+0022{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_blade_midas,item_lotus_cuirass,item_radiance_prc,}{item_tier3_token,item_vampire_fangs,-,}{item_safety_bubble,-,-,-,-,-,}{item_timeless_relic,};
