@@ -9,3 +9,4 @@
 19{item_bloodstone_shield,item_radiance_prc,item_cloak_of_flames,item_giants_ring,item_trident_custom,item_phylactery_blade,}{item_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 21{item_bloodstone_shield,item_radiance_prc,item_cloak_of_flames,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 24{item_bloodstone_shield,item_radiance_prc,-,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0025{item_bloodstone_shield,item_radiance_prc,-,item_great_magic_crit3,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
