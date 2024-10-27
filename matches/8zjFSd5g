@@ -40,4 +40,4 @@
 137{item_revenants_brooch,item_radiance_prc,item_lightning_sword,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{-,item_giants_ring,-,}{-,-,-,-,-,-,}{item_manaback3,};
 139{item_revenants_brooch,item_radiance_prc,item_meteor_rain,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{item_lightning_sword,item_giants_ring,-,}{-,-,-,-,-,-,}{item_manaback3,};
 00141{item_revenants_brooch,item_radiance_prc,item_meteor_rain,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{item_lightning_sword,item_giants_ring,-,}{-,-,-,-,-,-,}{item_manaback3,};
-00143{item_revenants_brooch,item_radiance_prc,item_meteor_rain,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{item_lightning_sword,item_giants_ring,-,}{-,-,-,-,-,-,}{item_manaback3,};
+00144{item_revenants_brooch,item_radiance_prc,item_meteor_rain,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{item_lightning_sword,item_giants_ring,-,}{-,-,-,-,-,-,}{item_manaback3,};
