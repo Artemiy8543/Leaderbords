@@ -5,4 +5,4 @@
 0010{item_bloodstone_shield,item_radiance_prc,item_cloak_of_flames,item_giants_ring,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 0012{item_bloodstone_shield,item_radiance_prc,item_cloak_of_flames,item_giants_ring,item_trident_custom,item_aether_lens,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 0014{item_bloodstone_shield,item_radiance_prc,item_cloak_of_flames,item_giants_ring,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-16{item_bloodstone_shield,item_radiance_prc,item_cloak_of_flames,item_giants_ring,item_trident_custom,item_phylactery_blade,}{item_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{-,};
+17{item_bloodstone_shield,item_radiance_prc,item_cloak_of_flames,item_giants_ring,item_trident_custom,item_phylactery_blade,}{item_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{-,};
