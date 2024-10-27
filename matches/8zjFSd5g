@@ -25,4 +25,5 @@
 97{item_bloodstone_shield,item_radiance_prc,item_shivas_strom,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{-,item_revenants_brooch,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0099{item_infinity_moon_shard,item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_revenants_brooch,}{item_bloodstone_shield,-,item_cloak_of_flames,}{-,-,-,-,-,-,}{item_giants_ring,};
 00101{item_infinity_moon_shard,item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_revenants_brooch,}{item_bloodstone_shield,-,item_cloak_of_flames,}{-,-,-,-,-,-,}{item_giants_ring,};
-105{item_cloak_of_flames,item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{item_phylactery_blade,-,item_revenants_brooch,}{-,-,-,-,-,-,}{item_giants_ring,};
+104{item_cloak_of_flames,item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{item_phylactery_blade,-,item_revenants_brooch,}{-,-,-,-,-,-,}{item_giants_ring,};
+00106{item_cloak_of_flames,item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{item_phylactery_blade,-,item_revenants_brooch,}{-,-,-,-,-,-,}{item_giants_ring,};
