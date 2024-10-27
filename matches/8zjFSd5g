@@ -38,4 +38,4 @@
 133{item_revenants_brooch,item_radiance_prc,item_lightning_sword,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{item_phylactery_blade,-,item_bloodstone_shield,}{-,-,-,-,-,-,}{item_giants_ring,};
 135{item_revenants_brooch,item_radiance_prc,item_lightning_sword,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{item_phylactery_blade,item_giants_ring,-,}{-,-,-,-,-,-,}{item_manaback3,};
 137{item_revenants_brooch,item_radiance_prc,item_lightning_sword,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{-,item_giants_ring,-,}{-,-,-,-,-,-,}{item_manaback3,};
-138{item_revenants_brooch,item_radiance_prc,item_meteor_rain,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{item_lightning_sword,item_giants_ring,-,}{-,-,-,-,-,-,}{item_manaback3,};
+139{item_revenants_brooch,item_radiance_prc,item_meteor_rain,item_great_magic_crit3,item_trident_custom,item_infinity_moon_shard,}{item_lightning_sword,item_giants_ring,-,}{-,-,-,-,-,-,}{item_manaback3,};
