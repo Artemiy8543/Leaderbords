@@ -1,4 +1,5 @@
 7+76561198173687242=001{item_enchanted_mango,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_enchanted_mango,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_enchanted_mango,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_enchanted_mango,item_crimson_guard,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
