@@ -3,4 +3,5 @@
 7{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_giants_ring,item_blade_mail,-,-,-,item_ironwood_tree,}{-,-,-,}{-,-,-,-,-,-,}{item_gladiator_guard,};
-0014{item_gladiator_guard,item_blade_mail,-,-,-,item_ironwood_tree,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0013{item_gladiator_guard,item_blade_mail,-,-,-,item_ironwood_tree,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0015{item_gladiator_guard,item_blade_mail,item_lotus_cuirass,-,-,item_ironwood_tree,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
