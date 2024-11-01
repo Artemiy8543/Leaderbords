@@ -14,5 +14,5 @@
 31{item_refresher_core,item_refresher,item_trident_custom,item_spell_prism,item_phylactery_blade,item_quickening_charm,}{item_tier4_token,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_radiance_prc,};
 33{item_refresher_core,item_octarine_core,item_trident_custom,item_bloodstone_shield,item_phylactery_blade,item_great_magic_crit3,}{item_tier4_token,item_spell_prism,item_quickening_charm,}{-,-,-,-,-,-,}{item_radiance_prc,};
 34{item_refresher_core,item_octarine_core,item_trident_custom,item_spell_prism,item_phylactery_blade,item_quickening_charm,}{item_tier4_token,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_radiance_prc,};
-35{item_refresher_core,item_octarine_core,item_trident_custom,item_spell_prism,item_phylactery_blade,item_quickening_charm,}{item_tier4_token,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_radiance_prc,};
-38{item_refresher_core,item_bloodstone_shield,item_trident_custom,item_spell_prism,item_octarine_core,item_quickening_charm,}{item_tier4_token,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_radiance_prc,};
+37{item_refresher_core,item_octarine_core,item_trident_custom,item_spell_prism,item_bloodstone_shield,item_quickening_charm,}{item_tier4_token,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_radiance_prc,};
+39{item_refresher_core,item_octarine_core,item_trident_custom,item_spell_prism,item_phylactery_blade,item_quickening_charm,}{item_tier4_token,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_radiance_prc,};
