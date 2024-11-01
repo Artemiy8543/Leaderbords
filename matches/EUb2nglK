@@ -30,5 +30,4 @@
 66{item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,item_satanic_of_madness,}{item_blade_mail,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
 67{item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,item_satanic_of_madness,}{item_blade_mail,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
 72{item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_rod_staff,item_gladiator_guard,item_satanic_of_madness,}{item_blade_mail,item_shivas_strom,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
-73{item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_rod_staff,item_gladiator_guard,item_satanic_of_madness,}{item_blade_mail,item_shivas_strom,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
-98{item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,-,item_gladiator_guard,item_satanic_of_madness,}{-,item_shivas_strom,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
+99{item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,-,item_gladiator_guard,item_satanic_of_madness,}{-,item_shivas_strom,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_giants_ring,};
