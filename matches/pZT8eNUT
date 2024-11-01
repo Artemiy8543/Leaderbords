@@ -12,3 +12,4 @@
 26{item_cloak_of_flames,item_giants_ring,item_trident_custom,item_bloodstone_shield,item_phylactery_blade,item_great_magic_crit3,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
 29{item_refresher_core,item_refresher,item_trident_custom,item_bloodstone_shield,item_phylactery_blade,item_great_magic_crit3,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
 31{item_refresher_core,item_refresher,item_trident_custom,item_spell_prism,item_phylactery_blade,item_quickening_charm,}{item_tier4_token,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,-,-,-,}{item_radiance_prc,};
+33{item_refresher_core,item_octarine_core,item_trident_custom,item_bloodstone_shield,item_phylactery_blade,item_great_magic_crit3,}{item_tier4_token,item_spell_prism,item_quickening_charm,}{-,-,-,-,-,-,}{item_radiance_prc,};
