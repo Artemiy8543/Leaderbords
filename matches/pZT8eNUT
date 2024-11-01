@@ -40,4 +40,5 @@
 00105{item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_shivas_guard,};
 00107{item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_great_magic_crit3,}{item_meteor_rain,-,-,}{-,-,-,-,-,-,}{item_shivas_guard,};
 00109{item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_great_magic_crit3,}{item_meteor_rain,item_shivas_guard,-,}{-,-,-,-,-,-,}{item_refresher_core,};
-00113{item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_octarine_core,item_great_magic_crit3,}{item_meteor_rain,item_shivas_guard,item_gladiator_guard,}{-,-,-,-,-,-,}{item_refresher_core,};
+00112{item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_great_magic_crit3,}{item_meteor_rain,item_shivas_guard,-,}{-,-,-,-,-,-,}{item_refresher_core,};
+00115{item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_spell_prism,item_octarine_core,item_great_magic_crit3,}{item_meteor_rain,item_shivas_guard,item_gladiator_guard,}{-,-,-,-,-,-,}{item_refresher_core,};
