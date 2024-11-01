@@ -10,3 +10,4 @@
 21{item_gladiator_guard,item_blade_mail,item_lotus_cuirass,item_bloodstone_shield,item_armlet_of_mjolnir,-,}{-,-,item_ironwood_tree,}{-,-,-,-,-,-,}{item_giants_ring,};
 23{item_gladiator_guard,item_blade_mail,item_lotus_cuirass,item_bloodstone_shield,item_armlet_of_mjolnir,-,}{-,-,item_ironwood_tree,}{-,-,-,-,-,-,}{item_giants_ring,};
 24{item_gladiator_guard,item_blade_mail,item_lotus_cuirass,item_bloodstone_shield,item_armlet_of_mjolnir,-,}{-,-,item_ironwood_tree,}{-,-,-,-,-,-,}{item_giants_ring,};
+25{item_gladiator_guard,item_blade_mail,item_lotus_cuirass,item_bloodstone_shield,item_armlet_of_mjolnir,item_skadi,}{item_tier4_token,-,item_ironwood_tree,}{-,-,-,-,-,-,}{item_giants_ring,};
