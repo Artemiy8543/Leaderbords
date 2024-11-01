@@ -1,4 +1,5 @@
 96+76561198348946970=1{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_gladiator_guard,item_blade_mail,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+9{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_giants_ring,item_blade_mail,-,-,-,item_ironwood_tree,}{-,-,-,}{-,-,-,-,-,-,}{item_gladiator_guard,};
