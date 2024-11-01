@@ -29,4 +29,4 @@
 85{item_refresher_core,item_octarine_core,item_trident_custom,item_spell_prism,item_quickening_charm,item_great_magic_crit3,}{item_phylactery_blade,item_radiance_prc,item_bloodstone_shield,}{-,-,-,-,-,-,}{item_shivas_guard,};
 0088{item_refresher_core,item_bloodstone_shield,item_trident_custom,item_spell_prism,item_octarine_core,item_great_magic_crit3,}{item_phylactery_blade,item_radiance_prc,item_quickening_charm,}{-,-,-,-,-,-,}{item_shivas_guard,};
 0090{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_radiance,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_shivas_guard,};
-91{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_radiance,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_shivas_guard,};
+92{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_shivas_strom,item_gladiator_guard,item_great_magic_crit3,}{item_radiance,-,-,}{-,-,-,-,-,-,}{item_shivas_guard,};
