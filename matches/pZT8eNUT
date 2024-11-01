@@ -9,4 +9,4 @@
 16{item_cloak_of_flames,item_phylactery_blade,item_radiance_prc,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 19{item_cloak_of_flames,item_giants_ring,item_radiance_prc,item_bloodstone_shield,item_phylactery_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 23{item_cloak_of_flames,item_giants_ring,item_radiance_prc,item_bloodstone_shield,item_phylactery_blade,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-25{item_cloak_of_flames,item_giants_ring,item_trident_custom,item_bloodstone_shield,item_phylactery_blade,item_great_magic_crit3,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
+26{item_cloak_of_flames,item_giants_ring,item_trident_custom,item_bloodstone_shield,item_phylactery_blade,item_great_magic_crit3,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
