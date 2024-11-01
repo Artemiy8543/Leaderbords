@@ -2,4 +2,5 @@
 3{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_gladiator_guard,item_blade_mail,-,-,-,item_ironwood_tree,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+11{item_giants_ring,item_blade_mail,-,-,-,item_ironwood_tree,}{-,-,-,}{-,-,-,-,-,-,}{item_gladiator_guard,};
+0013{item_gladiator_guard,item_blade_mail,-,-,-,item_ironwood_tree,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
