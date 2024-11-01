@@ -14,3 +14,4 @@
 26{item_gladiator_guard,item_blade_mail,item_lotus_cuirass,item_bloodstone_shield,item_armlet_of_mjolnir,-,}{item_tier4_token,-,item_ironwood_tree,}{-,-,-,-,-,-,}{item_giants_ring,};
 27{item_lotus_cuirass,item_blade_mail,item_gladiator_guard,item_bloodstone_shield,item_armlet_of_mjolnir,item_gladiator_guard,}{item_tier4_token,-,item_ironwood_tree,}{-,-,-,-,-,-,}{item_giants_ring,};
 0028{item_lotus_cuirass,item_blade_mail,item_gladiator_guard,item_bloodstone_shield,item_armlet_of_mjolnir,item_satanic_of_madness,}{-,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+29{item_lotus_cuirass,item_trident_custom,item_gladiator_guard,item_bloodstone_shield,item_armlet_of_mjolnir,item_satanic_of_madness,}{item_blade_mail,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_giants_ring,};
