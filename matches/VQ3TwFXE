@@ -4,4 +4,4 @@
 9{item_rattlecage,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_rattlecage,item_vladmir,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0017{item_rattlecage,item_vladimir_pact,item_gladiator_guard,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
-0018{item_rattlecage,item_vladimir_pact,item_gladiator_guard,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+0019{item_rattlecage,item_vladimir_pact,item_gladiator_guard,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
