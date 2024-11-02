@@ -1,4 +1,5 @@
 29+76561198305494014=2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_rattlecage,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_rattlecage,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_rattlecage,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_rattlecage,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_rattlecage,item_vladmir,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
