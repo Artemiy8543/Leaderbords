@@ -17,3 +17,4 @@
 40{item_armlet_of_mjolnir,item_greater_crit,item_creep_desolator,item_lightning_sword,item_great_magic_crit,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 43{item_armlet_of_mjolnir,item_great_crit_custom3,item_creep_desolator,item_lightning_sword,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0045{item_armlet_of_mjolnir,item_great_crit_custom3,item_creep_desolator,item_lightning_sword,item_great_magic_crit3,item_infinity_moon_shard,}{item_revenants_brooch,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+47{item_armlet_of_mjolnir,item_great_crit_custom3,item_creep_desolator,item_lightning_sword,item_great_magic_crit3,item_infinity_moon_shard,}{item_revenants_brooch,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
