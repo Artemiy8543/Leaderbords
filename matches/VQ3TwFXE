@@ -9,4 +9,4 @@
 24{item_rattlecage,item_vladimir_pact,item_gladiator_guard,item_radiance_prc,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 0026{item_rattlecage,item_vladimir_pact,item_gladiator_guard,item_radiance_prc,item_great_crit_custom3,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 28{item_rattlecage,item_vladimir_pact,item_gladiator_guard,item_radiance_prc,item_great_crit_custom3,item_blade_midas,}{-,-,-,}{item_vampire_fangs,-,-,-,-,-,}{item_apex,};
-30{item_rattlecage,item_vladimir_pact,item_gladiator_guard,item_radiance_prc,item_great_crit_custom3,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
+31{item_rattlecage,item_vladimir_pact,item_gladiator_guard,item_radiance_prc,item_great_crit_custom3,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
