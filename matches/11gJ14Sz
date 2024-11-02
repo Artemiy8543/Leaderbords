@@ -8,4 +8,4 @@
 18{item_mjollnir,item_greater_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 20{item_mjollnir,item_greater_crit,item_lightning_sword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0023{item_mjollnir,item_greater_crit,-,item_lightning_sword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-0025{item_armlet_of_mjolnir,item_greater_crit,-,item_lightning_sword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0026{item_armlet_of_mjolnir,item_greater_crit,-,item_lightning_sword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
