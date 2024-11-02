@@ -3,4 +3,4 @@
 006{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 8{item_crimson_guard,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 10{item_crimson_guard,item_assault,item_vladimir_pact,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-0013{item_crimson_guard,item_lotus_cuirass,item_vladimir_pact,-,-,-,}{item_tier1_token,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
+0014{item_crimson_guard,item_lotus_cuirass,item_vladimir_pact,-,-,-,}{item_tier1_token,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
