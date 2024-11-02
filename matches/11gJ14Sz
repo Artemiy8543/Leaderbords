@@ -7,4 +7,4 @@
 15{item_mjollnir,item_greater_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 18{item_mjollnir,item_greater_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 20{item_mjollnir,item_greater_crit,item_lightning_sword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-0022{item_mjollnir,item_greater_crit,item_lightning_sword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0023{item_mjollnir,item_greater_crit,-,item_lightning_sword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
