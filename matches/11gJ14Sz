@@ -4,4 +4,4 @@
 7{item_mjollnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_mjollnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_mjollnir,item_greater_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-15{item_mjollnir,item_greater_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+16{item_mjollnir,item_greater_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
