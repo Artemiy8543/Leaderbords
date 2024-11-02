@@ -2,4 +2,4 @@
 4{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 8{item_crimson_guard,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-10{item_crimson_guard,item_assault,item_vladimir_pact,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+11{item_crimson_guard,item_assault,item_vladimir_pact,-,-,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
