@@ -4,4 +4,4 @@
 8{item_crimson_guard,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 10{item_crimson_guard,item_assault,item_vladimir_pact,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 0013{item_crimson_guard,item_lotus_cuirass,item_vladimir_pact,-,-,-,}{item_tier1_token,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
-15{item_crimson_guard,item_lotus_cuirass,item_vladimir_pact,-,-,-,}{item_tier1_token,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
+16{item_crimson_guard,item_lotus_cuirass,item_vladimir_pact,item_shivas_strom,-,-,}{item_tier1_token,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
