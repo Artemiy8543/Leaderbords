@@ -1,3 +1,4 @@
 108+76561198090339492=2{item_vitality_booster,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_crimson_guard,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+006{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+8{item_crimson_guard,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
