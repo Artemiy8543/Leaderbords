@@ -2,4 +2,5 @@
 4{item_rattlecage,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_rattlecage,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_rattlecage,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{item_rattlecage,item_vladmir,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_rattlecage,item_vladmir,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_rattlecage,item_vladimir_pact,item_gladiator_guard,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
