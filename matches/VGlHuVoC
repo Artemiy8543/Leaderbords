@@ -2,4 +2,5 @@
 004{item_attacker_midas_str,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 6{item_attacker_midas_str,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 008{item_attacker_midas_str,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-11{item_attacker_midas_str,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_great_magic_crit3,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+10{item_attacker_midas_str,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_great_magic_crit3,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+12{item_attacker_midas_str,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_great_magic_crit3,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
