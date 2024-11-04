@@ -1,2 +1,2 @@
 18+76561198107455061=2{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_attacker_midas_str,item_ring_of_tarrasque,-,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_attacker_midas_str,item_heart,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
