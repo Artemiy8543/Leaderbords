@@ -6,4 +6,5 @@
 0013{item_bloodstone_shield,item_gladiator_guard,-,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 0015{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 18{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
-21{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_strom,-,-,}{item_faded_broach,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
+20{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_shivas_strom,-,-,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+22{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_shivas_strom,item_radiance_prc,-,}{item_faded_broach,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
