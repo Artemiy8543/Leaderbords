@@ -3,4 +3,5 @@
 006{item_voodoo_mask,item_crimson_guard,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 009{item_bloodstone,item_crimson_guard,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 11{item_bloodstone,item_crimson_guard,item_heart,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
-0014{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+0013{item_bloodstone_shield,item_gladiator_guard,-,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+0015{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
