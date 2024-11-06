@@ -5,4 +5,4 @@
 9{item_power_treads,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_power_treads,item_radiance_prc,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 16{item_power_treads,item_radiance_prc,item_lotus_cuirass,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-18{item_power_treads,item_radiance_prc,item_lotus_cuirass,item_satanic,item_moon_shard,-,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+19{item_power_treads,item_radiance_prc,item_lotus_cuirass,item_satanic,item_moon_shard,-,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
