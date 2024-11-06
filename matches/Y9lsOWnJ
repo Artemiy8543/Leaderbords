@@ -20,4 +20,4 @@
 0035{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 37{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 0039{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_blade_midas,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-55{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_blade_midas,item_trident_custom,}{item_tier2_token,item_str_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+56{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_blade_midas,item_trident_custom,}{item_tier2_token,item_str_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
