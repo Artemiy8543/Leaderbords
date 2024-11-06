@@ -3,4 +3,5 @@
 5{item_power_treads,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_power_treads,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_power_treads,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_power_treads,item_radiance_prc,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+12{item_power_treads,item_radiance_prc,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+14{item_power_treads,item_radiance_prc,item_lotus_cuirass,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
