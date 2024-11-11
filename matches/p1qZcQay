@@ -3,5 +3,6 @@
 007{item_occult_bracelet,item_headdress,item_bracer,item_headdress,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 009{item_occult_bracelet,item_headdress,item_bracer,item_headdress,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 10{item_occult_bracelet,item_headdress,item_bracer,item_headdress,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
-13{item_occult_bracelet,item_guardian_greaves,item_bracer,item_headdress,item_gladiator_guard,item_bloodstone_shield,}{-,-,-,}{item_ironwood_tree,-,-,-,-,-,}{item_dragon_scale,};
-15{item_radiance_prc,item_guardian_greaves,item_bracer,item_headdress,item_gladiator_guard,item_bloodstone_shield,}{item_occult_bracelet,-,-,}{item_ironwood_tree,-,-,-,-,-,}{item_dragon_scale,};
+12{item_occult_bracelet,item_guardian_greaves,item_bracer,item_headdress,item_gladiator_guard,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+0014{item_occult_bracelet,item_guardian_greaves,item_bracer,item_headdress,item_gladiator_guard,item_bloodstone_shield,}{-,-,-,}{item_ironwood_tree,-,-,-,-,-,}{item_dragon_scale,};
+16{item_radiance_prc,item_guardian_greaves,item_bracer,item_headdress,item_gladiator_guard,item_bloodstone_shield,}{item_occult_bracelet,item_giants_ring,-,}{item_ironwood_tree,-,-,-,-,-,}{item_dragon_scale,};
