@@ -10,3 +10,4 @@
 20{item_radiance_prc,item_gladiator_guard,item_giants_ring,item_unwavering_condition,item_guardian_greaves,item_bloodstone_shield,}{-,-,-,}{item_ironwood_tree,-,-,-,-,-,}{item_dragon_scale,};
 21{item_radiance_prc,item_gladiator_guard,item_giants_ring,item_unwavering_condition,item_guardian_greaves,item_bloodstone_shield,}{-,-,-,}{item_ironwood_tree,-,-,-,-,-,}{item_dragon_scale,};
 22{item_radiance_prc,item_gladiator_guard,item_giants_ring,item_unwavering_condition,item_refresher_core,item_bloodstone_shield,}{item_guardian_greaves,-,-,}{item_ironwood_tree,-,-,-,-,-,}{item_dragon_scale,};
+23{item_radiance_prc,item_gladiator_guard,item_giants_ring,item_unwavering_condition,item_refresher_core,item_bloodstone_shield,}{item_guardian_greaves,-,-,}{item_ironwood_tree,item_dragon_scale,-,-,-,-,}{item_psychic_headband,};
