@@ -2,3 +2,4 @@
 005{item_occult_bracelet,item_headdress,item_bracer,item_headdress,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_occult_bracelet,item_headdress,item_bracer,item_headdress,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 009{item_occult_bracelet,item_headdress,item_bracer,item_headdress,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+10{item_occult_bracelet,item_headdress,item_bracer,item_headdress,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
