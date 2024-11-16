@@ -3,4 +3,4 @@
 5{item_ring_of_tarrasque,item_reaver,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 6{item_heart,-,item_ring_of_health,-,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 7{item_heart,item_helm_of_iron_will,item_vanguard,-,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-009{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+0010{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
