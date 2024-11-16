@@ -4,4 +4,4 @@
 7{item_crimson_guard,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 009{item_gladiator_guard,-,-,-,-,-,}{item_occult_bracelet,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0011{item_gladiator_guard,item_mirror_shield,-,-,-,-,}{item_occult_bracelet,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-0013{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
+0014{item_gladiator_guard,item_lightning_sword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
