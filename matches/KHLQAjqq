@@ -3,5 +3,5 @@
 008{item_bfury,item_lifesteal,item_assault,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_bfury,item_lifesteal,item_assault,item_veil_of_discord,item_maelstrom,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 14{item_bfury,item_vladmir,item_assault,item_shivas_strom,-,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
-0016{item_bfury,item_vladmir,item_assault,item_shivas_strom,item_great_crit_custom2,item_wraith_band,}{item_broom_handle,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-18{item_bfury,item_vladmir,item_assault,item_shivas_strom,item_great_crit_custom2,item_butterfly,}{item_broom_handle,item_wraith_band,-,}{item_vampire_fangs,-,-,-,-,-,}{item_tier3_token,};
+0017{item_bfury,item_vladmir,item_assault,item_shivas_strom,item_great_crit_custom2,item_butterfly,}{item_broom_handle,item_wraith_band,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+19{item_bfury,item_vladmir,item_assault,item_shivas_strom,item_great_crit_custom2,item_butterfly,}{item_broom_handle,item_wraith_band,item_desolator_2,}{item_vampire_fangs,-,-,-,-,-,}{item_vindicators_axe,};
