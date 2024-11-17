@@ -2,3 +2,4 @@
 6{item_bfury,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_bfury,item_lifesteal,-,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_bfury,item_vladimir_pact,-,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_bfury,item_vladimir_pact,item_assault,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
