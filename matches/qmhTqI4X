@@ -4,4 +4,4 @@
 9{item_radiance,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_radiance_prc,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,item_vitality_booster,item_helm_of_iron_will,-,}{item_recipe_crimson_guard,item_recipe_gladiator_guard,-,}{-,-,-,-,-,-,}{-,};
-14{item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
+15{item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
