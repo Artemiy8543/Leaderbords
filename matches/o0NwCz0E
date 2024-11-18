@@ -2,4 +2,4 @@
 4{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_str,item_bloodstone,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_attacker_midas_str,item_bloodstone,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-9{item_attacker_midas_str,item_bloodstone_shield,-,-,-,item_giants_ring,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+10{item_attacker_midas_str,item_bloodstone_shield,item_trident_custom,-,-,item_giants_ring,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
