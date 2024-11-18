@@ -9,4 +9,4 @@
 19{-,item_bloodstone_shield,item_trident_custom,-,item_vambrace,item_giants_ring,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 22{item_bloodstone_shield,item_manaback3,item_trident_custom,-,item_vambrace,item_giants_ring,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 25{item_bloodstone_shield,item_manaback3,item_trident_custom,item_great_magic_crit3,item_vambrace,item_giants_ring,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-28{item_bloodstone_shield,item_manaback3,item_trident_custom,item_great_magic_crit3,item_vambrace,item_giants_ring,}{item_timeless_relic,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
+29{item_bloodstone_shield,item_manaback3,item_trident_custom,item_great_magic_crit3,item_vambrace,item_giants_ring,}{item_force_boots,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
