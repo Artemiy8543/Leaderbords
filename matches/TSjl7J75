@@ -19,4 +19,4 @@
 00144{item_great_magic_crit3,item_gladiator_guard,item_trident_custom,item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_creep_desolator,};
 146{item_great_magic_crit3,item_gladiator_guard,item_trident_custom,item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_creep_desolator,};
 00148{item_great_magic_crit3,item_gladiator_guard,item_trident_custom,item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_creep_desolator,};
-149{item_great_magic_crit3,item_gladiator_guard,item_trident_custom,item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_creep_desolator,};
+150{item_great_magic_crit3,item_gladiator_guard,item_trident_custom,item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_creep_desolator,};
