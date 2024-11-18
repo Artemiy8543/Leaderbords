@@ -1,4 +1,4 @@
 4+76561198878877052=002{item_javelin,-,-,item_gloves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_javelin,-,-,item_gloves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_maelstrom,item_platemail,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_voodoo_mask,-,-,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_voodoo_mask,item_radiance,item_vitality_booster,item_shivas_strom,item_energy_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
