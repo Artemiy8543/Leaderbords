@@ -3,3 +3,4 @@
 006{item_maelstrom,item_platemail,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_voodoo_mask,-,-,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{-,item_radiance,-,item_shivas_strom,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
+0013{item_ultimate_scepter,item_radiance,-,item_shivas_strom,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
