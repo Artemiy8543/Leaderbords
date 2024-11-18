@@ -8,13 +8,4 @@
 0018{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 21{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 0024{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,-,-,}{item_ceremonial_robe,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-28{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,item_great_magic_crit3,-,}{-,-,-,}{item_ceremonial_robe,-,-,-,-,-,}{item_giants_ring,};
-0030{item_bloodstone_shield,item_manaback3,item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_radiance_prc,}{-,-,-,}{item_ceremonial_robe,-,-,-,-,-,}{item_giants_ring,};
-32{item_bloodstone_shield,item_manaback3,item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_radiance_prc,}{item_lesser_crit,-,-,}{item_ceremonial_robe,-,-,-,-,-,}{item_giants_ring,};
-34{item_bloodstone_shield,item_manaback3,item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_radiance_prc,}{item_lesser_crit,item_infinity_moon_shard,-,}{item_ceremonial_robe,-,-,-,-,-,}{item_giants_ring,};
-38{item_bloodstone_shield,item_manaback3,item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_radiance_prc,}{item_lesser_crit,-,-,}{item_ceremonial_robe,-,-,-,-,-,}{item_giants_ring,};
-41{item_bloodstone_shield,item_manaback3,item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_radiance_prc,}{item_lesser_crit,item_str_book,item_int_book,}{-,-,-,-,-,-,}{item_giants_ring,};
-0044{item_bloodstone_shield,item_manaback3,item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_radiance_prc,}{item_lesser_crit,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-46{item_bloodstone_shield,item_manaback3,item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_radiance_prc,}{item_lesser_crit,item_str_book,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-0048{item_bloodstone_shield,item_manaback3,item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_radiance_prc,}{item_lesser_crit,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-51{item_bloodstone_shield,item_manaback3,item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_radiance_prc,}{item_lesser_crit,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+52{item_bloodstone_shield,item_manaback3,item_trident_custom,item_shivas_strom,item_great_magic_crit3,item_radiance_prc,}{item_lesser_crit,item_str_book,-,}{-,-,-,-,-,-,}{item_giants_ring,};
