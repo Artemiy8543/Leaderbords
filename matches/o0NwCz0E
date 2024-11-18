@@ -24,4 +24,4 @@
 60{item_refresher_core,item_bloodstone_shield,item_vambrace,item_great_magic_crit3,item_manaback3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 105{item_refresher_core,item_bloodstone_shield,item_vambrace,item_great_magic_crit3,item_manaback3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 143{item_refresher_core,item_quickening_charm,item_spell_prism,item_great_magic_crit3,item_manaback3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-146{item_refresher_core,item_quickening_charm,item_spell_prism,item_great_magic_crit3,item_manaback3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
+147{item_refresher_core,item_quickening_charm,item_spell_prism,item_great_magic_crit3,item_manaback3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
