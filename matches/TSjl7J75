@@ -7,4 +7,4 @@
 16{-,item_radiance_prc,item_trident_custom,item_shivas_strom,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 0018{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 21{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-0022{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,-,-,}{item_ceremonial_robe,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0023{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_shivas_strom,-,-,}{item_ceremonial_robe,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
