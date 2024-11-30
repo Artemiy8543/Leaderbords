@@ -11,3 +11,4 @@
 0021{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_radiance_prc,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 24{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_radiance_prc,item_shivas_strom,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 26{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_radiance_prc,item_shivas_strom,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+27{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_radiance_prc,item_bloodstone_shield,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
