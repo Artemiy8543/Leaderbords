@@ -4,4 +4,5 @@
 006{-,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{-,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_lotus_cuirass,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{item_lotus_cuirass,-,-,-,item_gladiator_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_lotus_cuirass,item_heart,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_lotus_cuirass,-,-,-,item_gladiator_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
