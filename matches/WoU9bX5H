@@ -36,4 +36,4 @@
 81{item_lotus_cuirass,item_creep_desolator,item_great_crit_custom3,item_satanic_of_madness,item_gladiator_guard,item_infinity_moon_shard,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,item_skadi,-,-,}{item_desolator_2,};
 84{item_lotus_cuirass,item_creep_desolator,item_great_crit_custom3,item_satanic_of_madness,item_gladiator_guard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,item_skadi,-,-,}{item_desolator_2,};
 0088{item_lotus_cuirass,item_creep_desolator,item_great_crit_custom3,item_satanic_of_madness,item_gladiator_guard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,item_skadi,-,-,}{item_desolator_2,};
-0090{item_lotus_cuirass,item_creep_desolator,item_great_crit_custom3,item_satanic_of_madness,item_gladiator_guard,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,}{-,-,-,item_skadi,-,-,}{item_desolator_2,};
+0091{item_lotus_cuirass,item_creep_desolator,item_great_crit_custom3,item_satanic_of_madness,item_gladiator_guard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,item_skadi,-,-,}{item_desolator_2,};
