@@ -9,5 +9,6 @@
 16{item_lotus_cuirass,-,-,-,item_gladiator_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
 0018{item_lotus_cuirass,item_creep_desolator,-,item_satanic_of_madness,item_gladiator_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
 0020{item_lotus_cuirass,item_creep_desolator,item_great_crit_custom3,item_satanic_of_madness,item_gladiator_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_craggy_coat,};
-23{item_lotus_cuirass,item_creep_desolator,item_great_crit_custom3,item_satanic_of_madness,item_gladiator_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-0026{item_lotus_cuirass,item_creep_desolator,item_great_crit_custom3,item_satanic_of_madness,item_gladiator_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+21{item_lotus_cuirass,item_creep_desolator,item_great_crit_custom3,item_satanic_of_madness,item_gladiator_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0025{item_lotus_cuirass,item_creep_desolator,item_great_crit_custom3,item_satanic_of_madness,item_gladiator_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+27{item_lotus_cuirass,item_creep_desolator,item_great_crit_custom3,item_satanic_of_madness,item_gladiator_guard,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
