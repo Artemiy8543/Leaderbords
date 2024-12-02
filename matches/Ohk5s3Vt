@@ -2,3 +2,4 @@
 005{item_vanguard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_crimson_guard,item_blade_mail,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_crimson_guard,item_blade_mail,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+10{item_gladiator_guard,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
