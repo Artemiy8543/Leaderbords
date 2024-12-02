@@ -3,3 +3,4 @@
 5{item_lifesteal,item_gloves,item_vanguard,item_dragon_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_mask_of_madness,item_gloves,item_vanguard,-,item_hurricane_pike,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_satanic,item_gloves,item_vanguard,-,item_hurricane_pike,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_satanic,item_gloves,item_crimson_guard,-,item_hurricane_pike,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
