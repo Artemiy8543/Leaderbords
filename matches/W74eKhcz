@@ -40,3 +40,4 @@
 0080{item_blade_midas,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_bfury,-,}{-,item_giants_ring,item_gladiator_guard,}{item_lotus_cuirass,-,-,-,-,-,}{item_radiance_prc,};
 82{item_blade_midas,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_bfury,item_lotus_cuirass,}{-,item_giants_ring,item_gladiator_guard,}{item_creep_desolator,-,-,-,-,-,}{item_radiance_prc,};
 84{item_blade_midas,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_bfury,item_lotus_cuirass,}{-,item_giants_ring,item_gladiator_guard,}{item_creep_desolator,-,-,-,-,-,}{item_radiance_prc,};
+86{item_blade_midas,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_bfury,item_lotus_cuirass,}{-,item_giants_ring,item_gladiator_guard,}{-,-,-,-,-,-,}{item_radiance_prc,};
