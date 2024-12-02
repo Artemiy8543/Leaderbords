@@ -1,3 +1,4 @@
 22+76561198011802497=2{item_void_stone,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_void_stone,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_bloodstone,item_ring_of_health,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_bloodstone,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
