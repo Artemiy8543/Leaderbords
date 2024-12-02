@@ -3,3 +3,4 @@
 3{item_cornucopia,item_vanguard,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_bfury,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 7{item_bfury,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+8{item_bfury,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
