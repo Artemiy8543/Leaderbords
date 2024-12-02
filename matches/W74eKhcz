@@ -10,3 +10,4 @@
 25{item_blade_midas,item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_manaback3,item_giants_ring,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
 26{item_blade_midas,item_gladiator_guard,item_refresher_core,item_bloodstone_shield,item_manaback3,item_shivas_strom,}{item_giants_ring,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
 27{item_blade_midas,item_gladiator_guard,-,item_bloodstone_shield,item_great_crit_custom3,item_lotus_cuirass,}{item_giants_ring,item_refresher_core,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
+0028{item_blade_midas,item_gladiator_guard,item_giants_ring,item_bloodstone_shield,item_great_crit_custom3,item_lotus_cuirass,}{-,item_refresher_core,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
