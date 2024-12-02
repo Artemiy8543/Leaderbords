@@ -6,4 +6,4 @@
 15{item_blade_midas,item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
 18{item_blade_midas,item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_manaback3,item_rattlecage,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
 20{item_blade_midas,item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_manaback3,item_rattlecage,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
-0022{item_blade_midas,item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_manaback3,item_giants_ring,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
+0023{item_blade_midas,item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_manaback3,item_giants_ring,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
