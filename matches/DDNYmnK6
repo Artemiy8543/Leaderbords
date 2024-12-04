@@ -3,4 +3,4 @@
 006{item_vanguard,item_blade_mail,item_heart,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_vanguard,item_blade_mail,item_heart,item_radiance,-,-,}{item_broom_handle,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
 0012{item_vanguard,item_blade_mail,item_heart,item_radiance,item_bloodstone,-,}{item_broom_handle,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
-14{item_vanguard,item_blade_mail,item_heart,item_radiance,item_bloodstone,item_satanic,}{item_broom_handle,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
+15{item_vanguard,item_blade_mail,item_heart,item_radiance,item_bloodstone,item_satanic,}{item_broom_handle,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
