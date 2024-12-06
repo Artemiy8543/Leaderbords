@@ -2,3 +2,4 @@
 003{item_boots,item_attacker_midas_str,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_travel_boots,item_attacker_midas_str,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_travel_boots,item_attacker_midas_str,item_radiance,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_travel_boots,item_attacker_midas_str,item_radiance,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
