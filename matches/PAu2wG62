@@ -2,4 +2,4 @@
 5{item_bracer,item_boots,item_attacker_midas_int,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{-,item_travel_boots,item_attacker_midas_int,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bfury,item_travel_boots,item_attacker_midas_int,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_bfury,item_travel_boots,item_attacker_midas_int,item_radiance,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_bfury,item_travel_boots,item_attacker_midas_int,item_radiance,item_heart,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{-,};
