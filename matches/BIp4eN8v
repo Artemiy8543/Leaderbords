@@ -2,3 +2,4 @@
 002{item_blade_of_alacrity,-,item_enchanted_mango,item_clarity,item_wraith_band,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_blade_of_alacrity,item_staff_of_wizardry,item_enchanted_mango,item_clarity,item_wraith_band,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_blade_of_alacrity,item_staff_of_wizardry,item_enchanted_mango,item_clarity,item_wraith_band,item_boots,}{item_ogre_axe,item_staff_of_wizardry,-,}{-,-,-,-,-,-,}{-,};
+005{item_ultimate_scepter,-,item_enchanted_mango,-,item_wraith_band,item_boots,}{-,item_staff_of_wizardry,-,}{-,-,-,-,-,-,}{-,};
