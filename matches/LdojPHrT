@@ -3,3 +3,4 @@
 5{item_maelstrom,-,item_lifesteal,item_recipe_paladin_sword,item_attacker_midas_agi,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_maelstrom,-,item_lifesteal,item_blade_of_alacrity,item_attacker_midas_agi,item_boots,}{item_belt_of_strength,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_maelstrom,item_butterfly,item_lifesteal,item_hurricane_pike,item_attacker_midas_agi,item_boots,}{-,item_reaver,-,}{-,-,-,-,-,-,}{-,};
+9{item_hurricane_pike,item_butterfly,item_lifesteal,item_maelstrom,item_attacker_midas_agi,item_boots,}{-,item_reaver,-,}{-,-,-,-,-,-,}{-,};
