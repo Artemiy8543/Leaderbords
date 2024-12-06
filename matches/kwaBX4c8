@@ -2,3 +2,4 @@
 005{item_ogre_axe,-,-,-,item_attacker_midas_str,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_black_king_bar,item_lesser_crit,-,-,item_attacker_midas_str,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_black_king_bar,item_lesser_crit,item_flask,item_mask_of_madness,item_attacker_midas_str,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_lesser_crit,item_black_king_bar,-,item_satanic,item_attacker_midas_str,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{-,};
