@@ -1,2 +1,3 @@
 2+76561199392891066=002{item_attacker_midas_str,item_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_attacker_midas_str,item_boots,item_eternal_shroud,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_attacker_midas_str,item_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_attacker_midas_str,item_boots,item_eternal_shroud,item_vanguard,item_helm_of_iron_will,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
