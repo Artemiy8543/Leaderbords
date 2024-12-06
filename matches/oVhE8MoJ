@@ -2,3 +2,4 @@
 3{-,item_attacker_midas_int,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{-,item_attacker_midas_int,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ring_of_tarrasque,item_attacker_midas_int,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_heart,item_attacker_midas_int,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
