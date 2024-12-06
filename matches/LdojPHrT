@@ -1,4 +1,4 @@
 35+76561199392891066=2{-,-,-,-,item_wraith_band,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_mithril_hammer,-,-,-,item_attacker_midas_agi,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_maelstrom,-,item_lifesteal,item_recipe_paladin_sword,item_attacker_midas_agi,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_maelstrom,-,item_lifesteal,item_blade_of_alacrity,item_attacker_midas_agi,item_boots,}{item_belt_of_strength,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_maelstrom,item_butterfly,item_lifesteal,item_blade_of_alacrity,item_attacker_midas_agi,item_boots,}{item_belt_of_strength,-,-,}{-,-,-,-,-,-,}{-,};
