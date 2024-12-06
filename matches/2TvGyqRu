@@ -1,4 +1,4 @@
 94+76561199392891066=2{-,-,-,-,item_attacker_midas_int,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_dragon_lance,-,-,-,item_attacker_midas_int,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_dragon_lance,item_ultimate_orb,item_point_booster,-,item_attacker_midas_int,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_dragon_lance,item_skadi,item_mithril_hammer,-,item_attacker_midas_int,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_dragon_lance,item_skadi,-,item_maelstrom,item_attacker_midas_int,item_boots,}{item_enchanted_mango,-,-,}{-,-,-,-,-,-,}{-,};
