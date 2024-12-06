@@ -2,3 +2,4 @@
 4{item_null_talisman,item_relic,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_null_talisman,item_radiance,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_attacker_midas_int,item_radiance,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+10{item_attacker_midas_int,item_radiance,item_phase_boots,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
