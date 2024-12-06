@@ -2,4 +2,5 @@
 3{item_attacker_midas_int,-,-,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_int,item_radiance,-,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_attacker_midas_int,item_radiance,-,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0012{item_attacker_midas_int,item_radiance,item_crimson_guard,item_heart,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_attacker_midas_int,item_radiance,item_heart,item_crimson_guard,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_attacker_midas_int,item_radiance,item_crimson_guard,item_heart,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
