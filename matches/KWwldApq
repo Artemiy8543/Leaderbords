@@ -1,4 +1,5 @@
 61+76561199392891066=1{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_power_treads,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_power_treads,item_enchanted_mango,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_power_treads,item_bfury,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
