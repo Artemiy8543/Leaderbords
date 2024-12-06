@@ -3,3 +3,4 @@
 004{-,item_attacker_midas_int,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ring_of_tarrasque,item_attacker_midas_int,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_heart,item_attacker_midas_int,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_heart,item_attacker_midas_int,item_phase_boots,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
