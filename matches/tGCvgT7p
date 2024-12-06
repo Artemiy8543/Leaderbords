@@ -2,4 +2,5 @@
 3{-,-,-,-,item_attacker_midas_int,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_ultimate_orb,item_point_booster,-,-,item_attacker_midas_int,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_skadi,item_eagle,item_talisman_of_evasion,-,item_attacker_midas_int,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_skadi,item_butterfly,item_mjollnir,item_dragon_lance,item_attacker_midas_int,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_skadi,item_butterfly,item_dragon_lance,item_maelstrom,item_attacker_midas_int,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_skadi,item_butterfly,item_mjollnir,item_dragon_lance,item_attacker_midas_int,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
