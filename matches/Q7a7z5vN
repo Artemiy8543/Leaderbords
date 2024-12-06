@@ -2,3 +2,4 @@
 5{item_attacker_midas_str,item_bracer,item_bracer,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_str,item_bracer,item_bracer,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_str,item_bracer,item_bracer,item_heart,item_bracer,item_veil_of_discord,}{item_platemail,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_attacker_midas_str,item_shivas_guard,item_bracer,item_heart,item_bracer,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{-,};
