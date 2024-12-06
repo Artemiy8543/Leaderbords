@@ -1,4 +1,5 @@
 73+76561199392891066=2{item_bracer,item_boots,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bracer,item_boots,item_attacker_midas_int,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{-,item_travel_boots,item_attacker_midas_int,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_bfury,item_travel_boots,item_attacker_midas_int,item_radiance,item_ring_of_tarrasque,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_bfury,item_travel_boots,item_attacker_midas_int,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_bfury,item_travel_boots,item_attacker_midas_int,item_radiance,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
