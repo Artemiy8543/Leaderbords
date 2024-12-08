@@ -2,3 +2,4 @@
 5{item_vanguard,item_null_talisman,item_helm_of_iron_will,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_crimson_guard,item_null_talisman,-,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_crimson_guard,item_null_talisman,item_ring_of_tarrasque,-,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_crimson_guard,item_null_talisman,item_ring_of_tarrasque,item_reaver,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
