@@ -1,4 +1,4 @@
 42+76561199392891066=2{-,-,-,-,item_bracer,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{-,-,-,-,item_bracer,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_radiance,-,-,-,item_bracer,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_radiance,item_ring_of_tarrasque,item_phase_boots,-,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_radiance,item_heart,item_phase_boots,item_ring_of_health,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
