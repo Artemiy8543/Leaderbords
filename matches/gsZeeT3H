@@ -2,4 +2,4 @@
 004{-,-,-,-,item_bracer,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_radiance,-,-,-,item_bracer,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_radiance,item_heart,item_phase_boots,item_ring_of_health,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_radiance,item_gladiator_guard,item_phase_boots,-,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_radiance,item_gladiator_guard,item_phase_boots,-,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
