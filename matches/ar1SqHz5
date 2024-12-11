@@ -2,3 +2,4 @@
 2{item_flask,-,-,item_power_treads,item_wraith_band,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{-,item_belt_of_strength,item_blade_of_alacrity,item_power_treads,item_wraith_band,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{-,item_dragon_lance,-,item_power_treads,item_wraith_band,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_yasha,item_dragon_lance,item_flask,item_power_treads,item_wraith_band,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
