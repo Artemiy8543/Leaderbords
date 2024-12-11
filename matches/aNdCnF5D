@@ -2,3 +2,4 @@
 5{item_flask,item_wraith_band,-,item_power_treads,-,item_ward_observer,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_flask,item_maelstrom,item_wraith_band,item_hurricane_pike,item_power_treads,item_ward_observer,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{-,item_maelstrom,item_mask_of_madness,item_hurricane_pike,item_power_treads,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{-,item_maelstrom,item_satanic,item_hurricane_pike,item_power_treads,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
