@@ -7,3 +7,4 @@
 0012{item_bloodstone_shield,item_crimson_guard,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0014{item_bloodstone_shield,item_crimson_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 0017{item_bloodstone_shield,item_crimson_guard,item_shivas_strom,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+18{item_bloodstone_shield,item_crimson_guard,item_shivas_strom,item_radiance_prc,-,-,}{item_vampire_fangs,-,-,}{-,-,-,-,-,-,}{item_panic_button,};
