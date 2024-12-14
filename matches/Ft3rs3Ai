@@ -5,4 +5,4 @@
 8{item_bloodstone,item_crimson_guard,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_bloodstone_shield,item_crimson_guard,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_bloodstone_shield,item_crimson_guard,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0014{item_bloodstone_shield,item_crimson_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+0015{item_bloodstone_shield,item_crimson_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
