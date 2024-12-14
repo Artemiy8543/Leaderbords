@@ -3,4 +3,5 @@
 005{item_bloodstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bloodstone,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone,item_crimson_guard,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_bloodstone_shield,item_crimson_guard,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_bloodstone_shield,item_crimson_guard,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_bloodstone_shield,item_crimson_guard,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
