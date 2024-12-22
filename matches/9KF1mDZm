@@ -7,4 +7,5 @@
 15{item_phylactery_blade,item_bloodstone,item_radiance_prc,item_shivas_strom,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 18{item_phylactery_blade,item_bloodstone,item_radiance_prc,item_shivas_strom,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 21{item_phylactery_blade,item_bloodstone,item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,}{item_grove_bow,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-24{item_phylactery_blade,item_bloodstone,item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+23{item_phylactery_blade,item_bloodstone,item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+0025{item_phylactery_blade,item_bloodstone,item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
