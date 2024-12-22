@@ -1,3 +1,4 @@
 55+76561198941654798=2{item_aether_lens,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_aether_lens,item_voodoo_mask,item_ghost,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_phylactery_blade,item_voodoo_mask,-,-,item_flask,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+005{item_point_booster,item_voodoo_mask,item_ethereal_blade,item_diadem,item_flask,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_phylactery_blade,item_voodoo_mask,-,-,item_flask,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
