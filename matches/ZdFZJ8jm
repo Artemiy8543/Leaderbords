@@ -12,3 +12,4 @@
 20{item_tiara_of_selemene,item_soul_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 0022{-,-,item_desolator_2,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 0024{item_trident_custom,item_desolator_2,item_satanic_of_madness,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+0025{-,item_desolator_2,item_satanic_of_madness,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
