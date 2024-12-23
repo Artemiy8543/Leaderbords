@@ -9,4 +9,4 @@
 0015{item_trident_custom,item_satanic,item_gladiator_guard,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 17{item_trident_custom,item_satanic,item_gladiator_guard,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 19{item_trident_custom,item_satanic,item_bloodstone_shield,item_blade_mail,item_octarine_core,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-20{item_tiara_of_selemene,item_soul_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+21{item_tiara_of_selemene,-,item_desolator_2,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
