@@ -3,4 +3,5 @@
 5{item_bloodstone,item_void_stone,item_energy_booster,item_ghost,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_bloodstone,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 9{item_bloodstone_shield,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
-13{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,-,-,-,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
+12{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+0014{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_ultimate_scepter,-,-,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
