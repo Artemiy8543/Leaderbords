@@ -8,4 +8,4 @@
 0016{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_ultimate_scepter,item_trident_custom,-,}{item_royal_jelly,item_tier4_token,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
 0018{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_ultimate_scepter,item_trident_custom,-,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 21{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_shivas_strom,item_trident_custom,item_ultimate_scepter,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
-23{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_shivas_strom,item_trident_custom,-,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+24{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_shivas_strom,item_trident_custom,-,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
