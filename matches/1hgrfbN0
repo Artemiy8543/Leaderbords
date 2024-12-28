@@ -2,4 +2,4 @@
 4{item_bloodstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bloodstone,item_void_stone,item_energy_booster,item_ghost,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_bloodstone,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
-9{item_bloodstone_shield,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+10{item_bloodstone_shield,item_phylactery_blade,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
