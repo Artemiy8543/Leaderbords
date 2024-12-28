@@ -5,4 +5,4 @@
 9{item_bloodstone_shield,item_phylactery_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 12{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
 0014{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_ultimate_scepter,-,-,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
-0016{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_ultimate_scepter,item_trident_custom,-,}{item_royal_jelly,item_tier4_token,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
+0017{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_ultimate_scepter,item_trident_custom,-,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
