@@ -41,4 +41,4 @@
 97{item_phylactery_blade,item_bloodstone_shield,item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,}{item_royal_jelly,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 100{item_phylactery_blade,item_bloodstone_shield,item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,}{item_royal_jelly,item_giants_ring,-,}{-,-,-,-,-,-,}{item_shivas_guard,};
 102{item_phylactery_blade,item_bloodstone_shield,item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_shivas_guard,};
-109{item_phylactery_blade,item_bloodstone_shield,item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_shivas_guard,};
+110{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_shivas_strom,item_trident_custom,item_great_magic_crit3,}{item_phylactery_blade,-,-,}{-,-,-,-,-,-,}{item_shivas_guard,};
