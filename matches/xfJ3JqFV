@@ -24,3 +24,4 @@
 0053{item_trident_custom,item_gladiator_guard,item_butterfly,item_lotus_cuirass,item_satanic_of_madness,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 0056{item_trident_custom,item_gladiator_guard,item_butterfly,item_lotus_cuirass,item_satanic_of_madness,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 0060{item_trident_custom,item_gladiator_guard,item_butterfly,item_lotus_cuirass,item_satanic_of_madness,item_bloodstone_shield,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+0061{item_trident_custom,item_gladiator_guard,item_butterfly,item_lotus_cuirass,item_satanic_of_madness,item_bloodstone_shield,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_apex,};
