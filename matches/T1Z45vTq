@@ -2,3 +2,4 @@
 4{item_radiance,item_vitality_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_radiance,item_octarine_core,item_ring_of_tarrasque,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance,item_octarine_core,item_heart,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_radiance,item_octarine_core,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
