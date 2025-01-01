@@ -1,3 +1,4 @@
 4+76561198039087815=001{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+008{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+10{item_radiance_prc,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
