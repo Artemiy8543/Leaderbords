@@ -9,3 +9,4 @@
 19{item_radiance_prc,item_gladiator_guard,item_butterfly,item_lotus_cuirass,item_infinity_moon_shard,item_attacker_midas_int,}{item_satanic_of_madness,item_seeds_of_serenity,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 20{item_trident_custom,item_gladiator_guard,item_butterfly,item_lotus_cuirass,item_satanic_of_madness,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 21{item_trident_custom,item_gladiator_guard,item_blade_mail,item_lotus_cuirass,item_satanic_of_madness,item_infinity_moon_shard,}{item_butterfly,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+0022{item_trident_custom,item_gladiator_guard,item_blade_mail,item_lotus_cuirass,item_satanic_of_madness,item_infinity_moon_shard,}{item_butterfly,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
