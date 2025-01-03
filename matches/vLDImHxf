@@ -15,4 +15,4 @@
 0029{item_refresher_core,-,item_gladiator_guard,item_lotus_cuirass,item_lightning_sword,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0031{item_refresher_core,item_manaback3,item_gladiator_guard,item_lotus_cuirass,item_lightning_sword,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 32{item_refresher_core,item_manaback3,item_gladiator_guard,item_lotus_cuirass,item_lightning_sword,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-35{item_refresher_core,item_manaback3,item_gladiator_guard,item_lotus_cuirass,-,item_lightning_sword,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+36{item_refresher_core,item_manaback3,item_gladiator_guard,item_lotus_cuirass,item_holy_locket,item_lightning_sword,}{-,-,-,}{-,-,-,-,-,-,}{-,};
