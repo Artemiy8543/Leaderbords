@@ -4,4 +4,4 @@
 008{item_octarine_core,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_octarine_core,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_refresher_core,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_refresher_core,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_refresher_core,item_guardian_greaves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
