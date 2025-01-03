@@ -1,4 +1,5 @@
 67+76561199210205382=2{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{-,item_ring_of_tarrasque,-,-,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_reaver,item_ring_of_tarrasque,-,-,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{-,item_ring_of_tarrasque,-,-,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_reaver,item_ring_of_tarrasque,-,-,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
