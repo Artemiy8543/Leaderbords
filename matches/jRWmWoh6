@@ -1,3 +1,4 @@
 145+76561199020967160=2{item_claymore,item_broadsword,item_cornucopia,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bfury,-,-,-,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-008{item_bfury,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
+007{item_bfury,-,-,-,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+9{item_bfury,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
