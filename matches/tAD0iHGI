@@ -1,4 +1,5 @@
 86+76561198192808195=2{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 7{item_radiance,item_bloodstone,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-10{item_radiance_prc,item_bloodstone_shield,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+9{item_radiance,item_bloodstone_shield,item_kaya_and_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
+0011{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_royal_jelly,};
