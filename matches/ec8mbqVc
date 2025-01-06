@@ -2,4 +2,5 @@
 005{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-10{item_gladiator_guard,item_bloodstone_shield,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+9{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+0011{item_gladiator_guard,item_bloodstone_shield,-,-,-,item_blade_midas,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
