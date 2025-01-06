@@ -2,4 +2,4 @@
 3{item_vanguard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_vanguard,item_voodoo_mask,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_gladiator_guard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_gladiator_guard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+8{item_gladiator_guard,-,-,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
