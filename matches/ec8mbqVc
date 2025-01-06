@@ -7,4 +7,5 @@
 14{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,-,item_blade_midas,}{item_safety_bubble,item_bullwhip,-,}{-,-,-,-,-,-,}{item_tier3_token,};
 16{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,-,item_blade_midas,}{item_safety_bubble,item_bullwhip,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 18{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_bullwhip,-,item_blade_midas,}{item_safety_bubble,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-0021{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_bullwhip,-,item_blade_midas,}{item_safety_bubble,item_cloak_of_flames,-,}{-,-,-,-,-,-,}{item_seer_stone,};
+0020{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_bullwhip,-,item_blade_midas,}{item_safety_bubble,item_cloak_of_flames,-,}{-,-,-,-,-,-,}{item_tier5_token,};
+22{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_bullwhip,-,item_blade_midas,}{item_safety_bubble,item_seer_stone,item_tier4_token,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
