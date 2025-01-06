@@ -3,4 +3,4 @@
 0021{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_assault,item_satanic_of_madness,}{item_blade_midas,item_tier5_token,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 22{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{item_blade_midas,item_infinity_moon_shard,item_assault,}{item_moon_shard,item_hyperstone,-,-,-,-,}{item_elven_tunic,};
 24{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-26{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+27{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{item_elven_tunic,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
