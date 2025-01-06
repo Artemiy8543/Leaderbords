@@ -1,3 +1,4 @@
 44+76561198096117418=6{item_blade_midas,item_heart,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_blade_midas,item_heart,item_butterfly,item_broadsword,item_claymore,item_quelling_blade,}{item_recipe_bfury,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_blade_midas,item_heart,item_butterfly,item_bfury,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+008{item_blade_midas,item_heart,item_butterfly,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+10{item_blade_midas,item_heart,item_butterfly,item_bfury,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
