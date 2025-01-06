@@ -34,3 +34,4 @@
 0080{item_butterfly,item_creep_desolator,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
 0085{item_butterfly,item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_creep_desolator,item_blade_midas,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
 0088{item_butterfly,item_creep_desolator,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+0089{item_butterfly,item_creep_desolator,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
