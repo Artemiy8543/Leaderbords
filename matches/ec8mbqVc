@@ -2,3 +2,4 @@
 005{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+9{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
