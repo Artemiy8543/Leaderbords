@@ -46,4 +46,5 @@
 145{item_butterfly,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_timeless_relic,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
 149{item_butterfly,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,-,}{item_timeless_relic,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
 152{item_butterfly,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,-,}{item_timeless_relic,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
-00154{item_butterfly,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,-,}{item_timeless_relic,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+00153{item_butterfly,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,-,}{item_timeless_relic,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+00155{item_butterfly,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,-,}{item_timeless_relic,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
