@@ -28,3 +28,4 @@
 00108{item_creep_desolator,item_great_crit_custom3,item_great_crit_custom3,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{item_null_talisman,item_null_talisman,item_null_talisman,}{-,-,-,-,-,-,}{item_avianas_feather,};
 00110{item_creep_desolator,item_great_crit_custom3,item_great_crit_custom3,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{item_null_talisman,item_null_talisman,item_null_talisman,}{-,-,-,-,-,-,}{item_avianas_feather,};
 00112{item_creep_desolator,item_great_crit_custom3,item_great_crit_custom3,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{item_null_talisman,item_null_talisman,item_null_talisman,}{item_quicksilver_amulet,-,-,-,-,-,}{item_avianas_feather,};
+113{item_creep_desolator,item_great_crit_custom3,item_great_crit_custom3,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{item_null_talisman,item_null_talisman,item_null_talisman,}{-,-,-,-,-,-,}{item_quicksilver_amulet,};
