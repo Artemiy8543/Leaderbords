@@ -25,4 +25,4 @@
 0056{item_bloodstone_shield,item_devastator,item_attacker_midas_int,item_trident_custom,item_revenants_brooch,item_infinity_moon_shard,}{item_null_talisman,item_phylactery_blade,-,}{-,-,-,-,-,-,}{-,};
 0058{item_bloodstone_shield,item_devastator,item_attacker_midas_int,item_trident_custom,item_revenants_brooch,item_infinity_moon_shard,}{item_null_talisman,item_phylactery_blade,item_great_magic_crit,}{-,-,-,-,-,-,}{-,};
 60{item_bloodstone_shield,item_devastator,item_infinity_moon_shard,item_trident_custom,item_revenants_brooch,item_great_magic_crit,}{item_null_talisman,item_phylactery_blade,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
-61{item_bloodstone_shield,item_devastator,item_infinity_moon_shard,item_trident_custom,item_revenants_brooch,item_great_magic_crit3,}{item_null_talisman,item_phylactery_blade,item_null_talisman,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+62{item_bloodstone_shield,item_devastator,item_infinity_moon_shard,item_trident_custom,item_revenants_brooch,item_great_magic_crit3,}{item_null_talisman,item_phylactery_blade,item_null_talisman,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
