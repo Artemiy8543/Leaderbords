@@ -5,3 +5,4 @@
 006{item_corrosion_blade,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_corrosion_blade,item_satanic_of_madness,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_corrosion_blade,item_satanic_of_madness,item_moon_shard,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_corrosion_blade,item_satanic_of_madness,item_moon_shard,item_infinity_moon_shard,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
