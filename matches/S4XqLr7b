@@ -16,3 +16,4 @@
 36{item_bloodstone_shield,item_radiance_prc,item_attacker_midas_int,item_trident_custom,item_shivas_strom,item_infinity_moon_shard,}{item_null_talisman,item_null_talisman,item_null_talisman,}{-,-,-,-,-,-,}{item_faded_broach,};
 38{item_bloodstone_shield,item_radiance_prc,item_attacker_midas_int,item_trident_custom,item_shivas_strom,item_infinity_moon_shard,}{item_null_talisman,-,item_null_talisman,}{-,-,-,-,-,-,}{item_faded_broach,};
 41{item_bloodstone_shield,item_radiance_prc,item_attacker_midas_int,item_trident_custom,item_shivas_strom,item_infinity_moon_shard,}{item_null_talisman,-,item_null_talisman,}{-,-,-,-,-,-,}{item_faded_broach,};
+42{item_bloodstone_shield,item_radiance_prc,item_attacker_midas_int,item_trident_custom,item_shivas_strom,item_infinity_moon_shard,}{item_null_talisman,-,item_null_talisman,}{-,-,-,-,-,-,}{item_faded_broach,};
