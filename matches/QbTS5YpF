@@ -4,4 +4,4 @@
 006{item_gladiator_guard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 26{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,}{item_spark_of_courage,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 51{item_gladiator_guard,item_shivas_strom,item_radiance_prc,-,item_lotus_cuirass,item_blade_midas,}{item_bloodstone_shield,item_whisper_of_the_dread,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-52{item_gladiator_guard,item_shivas_strom,item_radiance_prc,-,item_lotus_cuirass,item_blade_midas,}{item_bloodstone_shield,item_whisper_of_the_dread,item_trident_custom,}{-,-,-,-,-,-,}{item_force_field,};
+53{item_gladiator_guard,item_shivas_strom,item_radiance_prc,item_trident_custom,item_lotus_cuirass,item_blade_midas,}{item_bloodstone_shield,item_whisper_of_the_dread,-,}{-,-,-,-,-,-,}{item_force_field,};
