@@ -6,4 +6,5 @@
 14{item_bloodstone_shield,item_radiance_prc,item_attacker_midas_int,item_trident_custom,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 16{item_bloodstone_shield,item_radiance_prc,item_attacker_midas_int,item_trident_custom,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 18{item_bloodstone_shield,item_radiance_prc,item_attacker_midas_int,item_trident_custom,item_shivas_strom,item_infinity_moon_shard,}{-,-,item_hyperstone,}{-,-,-,-,-,-,}{item_faded_broach,};
-0022{item_bloodstone_shield,item_radiance_prc,item_attacker_midas_int,item_trident_custom,item_shivas_strom,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+0021{item_bloodstone_shield,item_radiance_prc,item_attacker_midas_int,item_trident_custom,item_shivas_strom,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+23{item_bloodstone_shield,item_radiance_prc,item_attacker_midas_int,item_trident_custom,item_shivas_strom,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
