@@ -4,3 +4,4 @@
 7{item_bloodstone,item_bracer,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 009{item_bloodstone,item_bracer,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
 11{item_bloodstone,item_bracer,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+12{item_bloodstone,item_bracer,item_vanguard,item_heart,-,item_shivas_guard,}{item_broom_handle,-,-,}{-,-,-,-,-,-,}{item_pupils_gift,};
