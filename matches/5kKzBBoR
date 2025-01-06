@@ -1,4 +1,4 @@
 44+76561198096117418=18{item_blade_midas,item_heart,item_butterfly,item_bfury,item_assault,item_satanic_of_madness,}{item_creep_desolator,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 19{item_creep_desolator,item_heart,item_butterfly,item_bfury,item_assault,item_satanic_of_madness,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0021{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_assault,item_satanic_of_madness,}{item_blade_midas,item_tier5_token,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-22{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{item_blade_midas,item_infinity_moon_shard,item_assault,}{item_moon_shard,item_hyperstone,-,-,-,-,}{item_elven_tunic,};
+23{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
