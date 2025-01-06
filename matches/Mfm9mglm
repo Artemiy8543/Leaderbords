@@ -41,4 +41,4 @@
 00100{item_butterfly,item_creep_desolator,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_timeless_relic,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
 102{item_butterfly,item_creep_desolator,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_timeless_relic,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
 00104{item_butterfly,item_creep_desolator,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_timeless_relic,-,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
-115{item_butterfly,item_creep_desolator,-,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_timeless_relic,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
+116{item_butterfly,item_creep_desolator,-,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_timeless_relic,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_unwavering_condition,};
