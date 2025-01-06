@@ -1,4 +1,5 @@
 2+76561198380410137=001{item_voodoo_mask,item_bracer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_voodoo_mask,item_bracer,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_voodoo_mask,item_bracer,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_bloodstone,item_bracer,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+7{item_bloodstone,item_bracer,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
+009{item_bloodstone,item_bracer,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_broom_handle,};
