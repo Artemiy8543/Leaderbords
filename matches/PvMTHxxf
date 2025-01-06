@@ -2,4 +2,5 @@
 3{item_maelstrom,item_orb_of_corrosion,item_fluffy_hat,item_sobi_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_corrosion_blade,-,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_corrosion_blade,item_satanic_of_madness,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_corrosion_blade,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_lesser_crit,item_demon_edge,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_corrosion_blade,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_lesser_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_corrosion_blade,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_lesser_crit,item_demon_edge,}{-,-,-,}{-,-,-,-,-,-,}{-,};
