@@ -11,3 +11,4 @@
 0026{item_radiance_prc,item_creep_desolator,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{-,};
 28{item_radiance_prc,item_creep_desolator,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{-,};
 0029{item_radiance_prc,item_creep_desolator,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{-,};
+30{item_butterfly,item_creep_desolator,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
