@@ -13,4 +13,5 @@
 40{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 42{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{-,-,item_hyperstone,}{-,-,-,-,-,-,}{item_avianas_feather,};
 0044{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
-46{item_creep_desolator,item_gladiator_guard,item_great_crit_custom3,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+45{item_creep_desolator,item_gladiator_guard,item_butterfly,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+47{item_creep_desolator,item_gladiator_guard,item_great_crit_custom3,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
