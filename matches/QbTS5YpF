@@ -5,3 +5,4 @@
 26{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,}{item_spark_of_courage,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 41{item_gladiator_guard,item_shivas_strom,item_radiance_prc,item_int_book,item_lotus_cuirass,item_blade_midas,}{item_bloodstone_shield,item_whisper_of_the_dread,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 42{item_gladiator_guard,item_shivas_strom,item_radiance_prc,-,item_lotus_cuirass,item_blade_midas,}{item_bloodstone_shield,item_whisper_of_the_dread,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0043{item_gladiator_guard,item_shivas_strom,item_radiance_prc,item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,}{-,item_whisper_of_the_dread,-,}{-,-,-,-,-,-,}{item_trident_custom,};
