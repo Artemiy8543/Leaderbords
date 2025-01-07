@@ -23,4 +23,5 @@
 49{item_gladiator_guard,item_str_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,-,item_vampire_fangs,}{-,-,-,-,-,-,}{item_trident_custom,};
 50{item_gladiator_guard,item_str_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,-,item_vampire_fangs,}{-,-,-,-,-,-,}{item_trident_custom,};
 52{item_gladiator_guard,item_bloodstone,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,-,item_vampire_fangs,}{-,-,-,-,-,-,}{item_trident_custom,};
-54{item_gladiator_guard,item_agi_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,item_bloodstone,item_vampire_fangs,}{-,-,-,-,-,-,}{item_trident_custom,};
+53{item_gladiator_guard,item_bloodstone,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,-,item_vampire_fangs,}{-,-,-,-,-,-,}{item_trident_custom,};
+0055{item_gladiator_guard,item_agi_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,item_bloodstone,item_vampire_fangs,}{-,-,-,-,-,-,}{item_trident_custom,};
