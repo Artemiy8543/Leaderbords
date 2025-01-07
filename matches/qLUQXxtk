@@ -4,4 +4,5 @@
 10{item_bfury,item_satanic,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 13{item_satanic,item_bfury,item_lotus_cuirass,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 16{item_satanic,item_bfury,item_lotus_cuirass,item_creep_desolator,item_butterfly,item_great_crit_custom2,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-20{item_satanic,item_bfury,item_lotus_cuirass,item_creep_desolator,item_butterfly,item_great_crit_custom2,}{-,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
+19{item_satanic,item_bfury,item_lotus_cuirass,item_creep_desolator,item_butterfly,item_great_crit_custom2,}{item_elven_tunic,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
+21{item_satanic,item_bfury,item_lotus_cuirass,item_creep_desolator,item_butterfly,item_great_crit_custom2,}{item_elven_tunic,-,-,}{-,-,-,-,-,-,}{item_ninja_gear,};
