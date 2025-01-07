@@ -9,4 +9,5 @@
 20{item_gladiator_guard,item_ward_observer,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0023{item_gladiator_guard,item_ward_observer,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 25{item_gladiator_guard,item_int_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0028{item_gladiator_guard,-,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0027{item_gladiator_guard,item_int_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0029{item_gladiator_guard,item_str_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
