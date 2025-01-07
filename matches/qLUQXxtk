@@ -1,4 +1,4 @@
 29+76561198044723905=1{item_quelling_blade,item_cornucopia,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_bfury,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_bfury,item_lifesteal,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+5{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_bfury,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_bfury,item_satanic,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
