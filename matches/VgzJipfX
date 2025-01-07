@@ -11,7 +11,7 @@
 25{item_gladiator_guard,item_int_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0027{item_gladiator_guard,item_int_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0029{item_gladiator_guard,item_str_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0031{item_gladiator_guard,-,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0033{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-35{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-37{item_gladiator_guard,item_int_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,-,item_vampire_fangs,}{-,-,-,-,-,-,}{item_trident_custom,};
+0032{item_gladiator_guard,-,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+34{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+36{item_gladiator_guard,item_int_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,-,item_vampire_fangs,}{-,-,-,-,-,-,}{item_trident_custom,};
+38{item_gladiator_guard,item_int_book,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,item_shivas_strom,}{item_occult_bracelet,-,item_vampire_fangs,}{-,-,-,-,-,-,}{item_trident_custom,};
