@@ -27,3 +27,4 @@
 56{item_vladimir_pact,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 59{item_vladimir_pact,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 61{item_vladimir_pact,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+62{item_vladimir_pact,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{item_tier1_token,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
