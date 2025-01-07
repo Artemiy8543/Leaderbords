@@ -2,4 +2,5 @@
 3{item_crimson_guard,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_crimson_guard,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_gladiator_guard,item_ward_observer,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_gladiator_guard,item_ward_observer,item_bloodstone_shield,item_blade_midas,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+0010{item_gladiator_guard,item_ward_observer,item_bloodstone_shield,item_blade_midas,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+12{item_gladiator_guard,item_ward_observer,item_bloodstone_shield,item_blade_midas,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
