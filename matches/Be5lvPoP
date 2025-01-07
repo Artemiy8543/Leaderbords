@@ -3,4 +3,4 @@
 7{item_vladimir_pact,item_lotus_orb,item_platemail,item_buckler,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_vladimir_pact,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_vladimir_pact,-,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-15{item_vladimir_pact,-,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_vladimir_pact,item_creep_desolator,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
