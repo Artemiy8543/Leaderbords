@@ -2,4 +2,4 @@
 3{item_crimson_guard,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_crimson_guard,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_gladiator_guard,item_ward_observer,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-008{item_gladiator_guard,item_ward_observer,item_bloodstone,item_energy_booster,item_ring_of_protection,item_fluffy_hat,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+009{item_gladiator_guard,item_ward_observer,item_bloodstone,item_energy_booster,item_ring_of_protection,item_fluffy_hat,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
