@@ -8,4 +8,5 @@
 19{item_vladimir_pact,item_creep_desolator,item_great_magic_crit,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 22{item_vladimir_pact,item_creep_desolator,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 24{item_vladimir_pact,item_creep_desolator,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-27{item_vladimir_pact,item_creep_desolator,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
+26{item_vladimir_pact,item_creep_desolator,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
+28{item_vladimir_pact,item_creep_desolator,item_great_magic_crit,item_lotus_cuirass,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
