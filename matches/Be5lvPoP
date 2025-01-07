@@ -58,4 +58,5 @@
 00125{item_vladimir_pact,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 00126{item_vladimir_pact,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 00128{item_vladimir_pact,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
-00132{item_trident_custom,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{item_vladimir_pact,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+00131{item_vladimir_pact,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+00133{item_trident_custom,item_creep_desolator,item_great_magic_crit3,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{item_vladimir_pact,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
