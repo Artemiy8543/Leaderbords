@@ -4,4 +4,4 @@
 007{item_gladiator_guard,item_ward_observer,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_gladiator_guard,item_ward_observer,item_bloodstone_shield,item_blade_midas,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 13{item_gladiator_guard,item_ward_observer,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-16{item_gladiator_guard,item_ward_observer,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+17{item_gladiator_guard,item_ward_observer,item_bloodstone_shield,item_blade_midas,item_lotus_cuirass,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
