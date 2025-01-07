@@ -2,5 +2,5 @@
 5{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bfury,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_bfury,item_satanic,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-12{item_satanic,item_bfury,item_assault,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-14{item_satanic,item_bfury,item_lotus_cuirass,item_creep_desolator,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+13{item_satanic,item_bfury,item_lotus_cuirass,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+15{item_satanic,item_bfury,item_lotus_cuirass,item_creep_desolator,item_butterfly,item_great_crit_custom2,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
