@@ -28,4 +28,4 @@
 81{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_great_crit_custom3,item_shivas_strom,item_trident_custom,}{item_radiance_prc,item_lotus_cuirass,item_agi_book,}{item_faerie_fire,-,-,-,-,-,}{item_giants_ring,};
 83{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_shivas_strom,item_great_crit_custom3,}{item_radiance_prc,item_lotus_cuirass,item_faerie_fire,}{item_agi_book,-,-,-,-,-,}{item_giants_ring,};
 0085{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_shivas_strom,item_great_crit_custom3,}{item_agi_book,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-0086{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_shivas_strom,item_great_crit_custom3,}{item_agi_book,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0087{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_shivas_strom,item_great_crit_custom3,}{item_agi_book,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_giants_ring,};
