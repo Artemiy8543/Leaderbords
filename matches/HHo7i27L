@@ -25,3 +25,4 @@
 45{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_lightning_sword,item_great_crit_custom3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 51{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_lightning_sword,item_str_book,item_infinity_moon_shard,}{-,item_great_crit_custom3,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 60{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_lightning_sword,item_great_crit_custom3,item_infinity_moon_shard,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+61{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_lightning_sword,item_great_crit_custom3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
