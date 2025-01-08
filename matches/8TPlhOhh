@@ -5,4 +5,5 @@
 9{item_blade_midas,item_gladiator_guard,item_bloodstone,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_blade_midas,item_gladiator_guard,item_bloodstone,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
 13{item_blade_midas,item_gladiator_guard,item_bloodstone,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
-15{item_blade_midas,item_gladiator_guard,item_bloodstone,item_radiance,item_lotus_cuirass,-,}{item_faded_broach,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+14{item_blade_midas,item_gladiator_guard,item_bloodstone,item_radiance,item_lotus_cuirass,-,}{item_faded_broach,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+16{item_blade_midas,item_gladiator_guard,item_bloodstone,item_radiance,item_lotus_cuirass,-,}{item_faded_broach,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
