@@ -4,4 +4,4 @@
 009{item_gladiator_guard,item_bloodstone,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_gladiator_guard,item_bloodstone,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 59{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_lotus_cuirass,item_refresher_core,}{item_cloak_of_flames,item_str_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-90{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+91{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_lotus_cuirass,item_shivas_strom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
