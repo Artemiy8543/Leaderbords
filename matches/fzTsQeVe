@@ -1,4 +1,4 @@
 96+76561198850812159=2{item_cloak_of_flames,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_cloak_of_flames,item_talisman_of_evasion,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_cloak_of_flames,item_radiance,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_cloak_of_flames,item_radiance,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_cloak_of_flames,item_radiance,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_cloak_of_flames,item_radiance,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
