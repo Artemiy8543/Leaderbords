@@ -15,3 +15,4 @@
 29{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_great_crit_custom3,item_lightning_sword,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 31{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_great_crit_custom3,item_lightning_sword,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 33{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_lightning_sword,item_great_crit_custom3,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+34{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_lightning_sword,item_great_crit_custom3,item_basher_slardar,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
