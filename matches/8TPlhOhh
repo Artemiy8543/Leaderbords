@@ -24,4 +24,4 @@
 51{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 53{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_trident_custom,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 71{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_shivas_strom,item_trident_custom,}{-,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-73{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_shivas_strom,item_trident_custom,}{-,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+74{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_shivas_strom,item_trident_custom,}{-,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_giants_ring,};
