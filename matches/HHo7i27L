@@ -8,4 +8,5 @@
 17{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_great_crit_custom2,item_demon_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0019{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0024{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_great_crit_custom3,item_bloodthorn,item_mithril_hammer,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0023{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+25{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,item_great_crit_custom3,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
