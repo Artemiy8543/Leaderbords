@@ -15,4 +15,4 @@
 29{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 32{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 34{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-36{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+37{item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
