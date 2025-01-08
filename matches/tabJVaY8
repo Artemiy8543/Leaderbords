@@ -3,4 +3,4 @@
 006{item_vanguard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_gladiator_guard,item_bloodstone,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_gladiator_guard,item_bloodstone,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-18{item_gladiator_guard,item_bloodstone,item_radiance_prc,item_ultimate_scepter,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
+19{item_gladiator_guard,item_bloodstone,item_radiance_prc,item_ultimate_scepter,item_lotus_cuirass,-,}{item_dragon_scale,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
