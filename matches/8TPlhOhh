@@ -2,4 +2,4 @@
 3{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_blade_midas,item_gladiator_guard,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_blade_midas,item_gladiator_guard,item_bloodstone,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_blade_midas,item_gladiator_guard,item_bloodstone,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
