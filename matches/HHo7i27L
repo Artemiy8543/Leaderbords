@@ -4,4 +4,4 @@
 7{item_crimson_guard,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_gladiator_guard,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-14{item_gladiator_guard,item_armlet_of_mjolnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_gladiator_guard,item_armlet_of_mjolnir,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
