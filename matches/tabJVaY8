@@ -4,3 +4,4 @@
 009{item_gladiator_guard,item_bloodstone,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_gladiator_guard,item_bloodstone,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 25{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+0026{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_lotus_cuirass,-,}{item_cloak_of_flames,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
