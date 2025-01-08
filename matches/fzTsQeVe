@@ -3,4 +3,4 @@
 008{item_cloak_of_flames,item_radiance,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_cloak_of_flames,item_radiance,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 12{item_cloak_of_flames,item_radiance,item_gladiator_guard,item_bloodstone_shield,-,-,}{item_seeds_of_serenity,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
-14{item_cloak_of_flames,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,-,}{item_seeds_of_serenity,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
+15{item_cloak_of_flames,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,}{item_seeds_of_serenity,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
