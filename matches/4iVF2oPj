@@ -37,4 +37,4 @@
 104{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,item_great_crit_custom3,}{item_desolator_2,item_agi_book,item_trident_custom,}{-,-,-,-,-,-,}{item_creep_desolator,};
 107{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_infinity_moon_shard,item_satanic_of_madness,item_great_crit_custom3,}{item_desolator_2,-,item_trident_custom,}{-,-,-,-,-,-,}{item_creep_desolator,};
 109{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_moon_shard,item_infinity_moon_shard,item_great_crit_custom3,}{item_desolator_2,item_satanic_of_madness,item_trident_custom,}{-,-,-,-,-,-,}{item_creep_desolator,};
-111{item_bloodstone_shield,item_gladiator_guard,item_bfury,-,item_infinity_moon_shard,item_great_crit_custom3,}{item_desolator_2,item_satanic_of_madness,item_trident_custom,}{-,-,-,-,-,-,}{item_creep_desolator,};
+112{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_hyperstone,item_infinity_moon_shard,item_great_crit_custom3,}{item_desolator_2,item_satanic_of_madness,item_trident_custom,}{item_moon_shard,-,-,-,-,-,}{item_creep_desolator,};
