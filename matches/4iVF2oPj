@@ -49,4 +49,4 @@
 247{item_satanic_of_madness,item_gladiator_guard,item_basher_slardar,item_revenants_brooch,item_trident_custom,item_phylactery_blade,}{item_bfury,item_great_crit_custom3,item_lightning_sword,}{item_agi_book,-,-,-,-,-,}{item_creep_desolator,};
 276{item_satanic_of_madness,item_gladiator_guard,item_revenants_brooch,item_agi_book,item_trident_custom,item_phylactery_blade,}{item_lightning_sword,item_great_crit_custom3,item_basher_slardar,}{-,-,-,-,-,-,}{item_creep_desolator,};
 307{item_satanic_of_madness,item_gladiator_guard,item_revenants_brooch,-,item_trident_custom,item_phylactery_blade,}{item_lightning_sword,item_great_crit_custom3,item_basher_slardar,}{-,-,-,-,-,-,}{item_creep_desolator,};
-308{item_satanic_of_madness,item_gladiator_guard,item_revenants_brooch,-,item_trident_custom,item_phylactery_blade,}{item_lightning_sword,item_great_crit_custom3,item_basher_slardar,}{-,-,-,-,-,-,}{item_creep_desolator,};
+309{item_satanic_of_madness,item_gladiator_guard,item_revenants_brooch,item_agi_book,item_trident_custom,item_phylactery_blade,}{item_lightning_sword,item_great_crit_custom3,item_basher_slardar,}{-,-,-,-,-,-,}{item_creep_desolator,};
