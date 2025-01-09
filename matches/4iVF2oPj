@@ -46,3 +46,4 @@
 163{item_bfury,item_gladiator_guard,item_great_crit_custom3,item_trident_custom,item_satanic_of_madness,item_lightning_sword,}{item_desolator_2,item_agi_book,item_bloodstone_shield,}{-,-,-,-,-,-,}{item_creep_desolator,};
 199{item_bfury,item_gladiator_guard,item_great_crit_custom3,item_satanic_of_madness,item_trident_custom,item_lightning_sword,}{-,-,-,}{-,-,-,-,-,-,}{item_creep_desolator,};
 218{item_bfury,item_gladiator_guard,item_great_crit_custom3,item_satanic_of_madness,item_trident_custom,item_lightning_sword,}{item_radiance_prc,item_agi_book,-,}{-,-,-,-,-,-,}{item_creep_desolator,};
+219{item_bfury,item_gladiator_guard,item_great_crit_custom3,item_satanic_of_madness,item_trident_custom,item_lightning_sword,}{item_radiance_prc,item_agi_book,-,}{-,-,-,-,-,-,}{item_creep_desolator,};
