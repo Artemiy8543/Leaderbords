@@ -16,3 +16,4 @@
 31{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_agi_book,item_creep_desolator,item_radiance_prc,}{item_desolator_2,item_trident_custom,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 0033{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_desolator_2,item_creep_desolator,item_radiance_prc,}{-,item_trident_custom,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 34{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_desolator_2,item_creep_desolator,item_radiance_prc,}{-,item_trident_custom,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+0035{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_desolator_2,item_creep_desolator,item_radiance_prc,}{-,item_trident_custom,-,}{-,-,-,-,-,-,}{item_blade_midas,};
