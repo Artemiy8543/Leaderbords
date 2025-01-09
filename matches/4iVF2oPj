@@ -27,4 +27,4 @@
 0058{item_bloodstone_shield,item_gladiator_guard,item_bfury,-,item_creep_desolator,item_trident_custom,}{item_desolator_2,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 61{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_wraith_band,item_creep_desolator,item_trident_custom,}{item_desolator_2,item_radiance_prc,-,}{-,-,-,-,-,-,}{-,};
 0064{item_bloodstone_shield,item_gladiator_guard,item_bfury,-,item_creep_desolator,item_trident_custom,}{item_desolator_2,item_radiance_prc,item_wraith_band,}{-,-,-,-,-,-,}{-,};
-66{item_bloodstone_shield,item_gladiator_guard,item_bfury,-,item_creep_desolator,item_trident_custom,}{-,item_radiance_prc,item_wraith_band,}{-,-,-,-,-,-,}{item_desolator_2,};
+67{item_bloodstone_shield,item_gladiator_guard,item_bfury,-,item_creep_desolator,item_trident_custom,}{-,item_radiance_prc,item_wraith_band,}{-,-,-,-,-,-,}{item_desolator_2,};
