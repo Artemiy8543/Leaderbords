@@ -3,3 +3,4 @@
 007{item_voodoo_mask,item_vanguard,item_heart,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_voodoo_mask,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_voodoo_mask,item_gladiator_guard,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+11{item_bloodstone_shield,item_gladiator_guard,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
