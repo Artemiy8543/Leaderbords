@@ -5,4 +5,5 @@
 10{item_voodoo_mask,item_gladiator_guard,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 12{item_bloodstone_shield,item_gladiator_guard,item_bfury,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 13{item_bloodstone_shield,item_gladiator_guard,item_bfury,-,-,item_blade_midas,}{item_arcane_ring,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
-16{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_radiance_prc,item_butterfly,item_blade_midas,}{item_arcane_ring,item_tier3_token,item_dragon_scale,}{-,-,-,-,-,-,}{item_trident_custom,};
+15{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_radiance_prc,item_butterfly,item_blade_midas,}{item_arcane_ring,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
+17{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_radiance_prc,item_butterfly,item_blade_midas,}{item_arcane_ring,item_tier3_token,item_dragon_scale,}{-,-,-,-,-,-,}{item_trident_custom,};
