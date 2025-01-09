@@ -9,4 +9,4 @@
 17{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_radiance_prc,item_butterfly,item_blade_midas,}{item_arcane_ring,item_tier3_token,item_dragon_scale,}{-,-,-,-,-,-,}{item_trident_custom,};
 20{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_radiance_prc,item_creep_desolator,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 0022{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,item_bfury,item_creep_desolator,item_blade_midas,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-23{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_radiance_prc,item_creep_desolator,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+24{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_radiance_prc,item_creep_desolator,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
