@@ -30,4 +30,5 @@
 66{item_bloodstone_shield,item_gladiator_guard,item_bfury,-,item_creep_desolator,item_trident_custom,}{-,item_radiance_prc,item_wraith_band,}{-,-,-,-,-,-,}{item_desolator_2,};
 0069{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_satanic_of_madness,item_creep_desolator,item_trident_custom,}{-,item_radiance_prc,item_wraith_band,}{-,-,-,-,-,-,}{item_desolator_2,};
 72{item_bloodstone_shield,item_gladiator_guard,item_bfury,-,item_satanic_of_madness,item_trident_custom,}{item_desolator_2,item_radiance_prc,item_wraith_band,}{-,-,-,-,-,-,}{item_creep_desolator,};
-76{item_bloodstone_shield,item_gladiator_guard,item_bfury,item_agi_book,item_satanic_of_madness,item_trident_custom,}{item_desolator_2,item_radiance_prc,item_wraith_band,}{-,-,-,-,-,-,}{item_creep_desolator,};
+75{item_bloodstone_shield,item_gladiator_guard,item_bfury,-,item_satanic_of_madness,item_trident_custom,}{item_desolator_2,item_radiance_prc,item_wraith_band,}{-,-,-,-,-,-,}{item_creep_desolator,};
+77{item_bloodstone_shield,item_gladiator_guard,item_bfury,-,item_satanic_of_madness,item_trident_custom,}{item_desolator_2,item_radiance_prc,item_wraith_band,}{-,-,-,-,-,-,}{item_creep_desolator,};
