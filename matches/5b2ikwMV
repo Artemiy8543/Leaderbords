@@ -2,3 +2,4 @@
 4{item_ward_observer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ward_observer,item_radiance,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_ward_observer,item_radiance,item_voodoo_mask,item_soul_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_ward_observer,item_radiance,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
