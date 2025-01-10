@@ -3,4 +3,4 @@
 007{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
 009{-,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
 11{-,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
-12{item_blade_midas,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+13{item_blade_midas,-,item_gladiator_guard,-,-,-,}{item_tier2_token,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
