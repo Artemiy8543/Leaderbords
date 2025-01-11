@@ -8,4 +8,4 @@
 16{item_ultimate_scepter,item_great_magic_crit,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 0020{item_shivas_strom,item_great_magic_crit,item_heart,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 23{item_shivas_strom,item_great_magic_crit,item_heart,item_creep_desolator,item_basher_slardar,-,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-0025{item_shivas_strom,item_great_magic_crit,item_heart,item_creep_desolator,item_basher_slardar,-,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+0026{item_shivas_strom,item_great_magic_crit,item_heart,item_creep_desolator,item_basher_slardar,-,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
