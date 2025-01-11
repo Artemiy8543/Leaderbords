@@ -5,4 +5,5 @@
 10{item_vanguard,item_blade_mail,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_vanguard,item_blade_mail,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_vanguard,item_blade_mail,item_ultimate_scepter,item_bloodstone,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-18{item_vanguard,item_blade_midas,item_ultimate_scepter,item_bloodstone,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+17{item_vanguard,item_blade_midas,item_ultimate_scepter,item_bloodstone,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0019{item_gladiator_guard,item_blade_midas,item_ultimate_scepter,item_bloodstone_shield,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
