@@ -13,4 +13,5 @@
 26{item_gladiator_guard,item_blade_midas,item_ultimate_scepter,item_bloodstone_shield,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 0028{item_gladiator_guard,item_blade_midas,-,item_bloodstone_shield,item_shivas_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 30{item_gladiator_guard,item_blade_midas,-,item_bloodstone_shield,item_shivas_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
-35{item_gladiator_guard,item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_shivas_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+34{item_gladiator_guard,item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_shivas_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+36{item_gladiator_guard,item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_shivas_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
