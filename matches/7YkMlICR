@@ -11,3 +11,4 @@
 22{item_gladiator_guard,item_blade_midas,item_ultimate_scepter,item_bloodstone_shield,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 24{item_gladiator_guard,item_blade_midas,item_ultimate_scepter,item_bloodstone_shield,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 26{item_gladiator_guard,item_blade_midas,item_ultimate_scepter,item_bloodstone_shield,item_shivas_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+0027{item_gladiator_guard,item_blade_midas,-,item_bloodstone_shield,item_shivas_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
