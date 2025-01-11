@@ -6,4 +6,4 @@
 10{item_ultimate_scepter,item_great_magic_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 0013{item_ultimate_scepter,item_great_magic_crit,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 16{item_ultimate_scepter,item_great_magic_crit,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-0018{item_shivas_strom,item_great_magic_crit,item_heart,item_bloodthorn,item_maelstrom,item_rod_of_atos,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+0019{item_shivas_strom,item_great_magic_crit,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
