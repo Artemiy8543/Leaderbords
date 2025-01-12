@@ -2,3 +2,4 @@
 5{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_attacker_midas_int,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 10{item_attacker_midas_int,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+11{item_attacker_midas_int,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
