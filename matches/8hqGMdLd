@@ -14,5 +14,5 @@
 30{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_refresher_core,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 0031{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_refresher_core,item_great_magic_crit3,item_manaback3,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 33{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_refresher_core,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-0035{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_refresher_core,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-37{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_refresher_core,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+0036{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_refresher_core,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+38{item_trident_custom,item_bloodstone_shield,item_manaback3,item_refresher_core,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
