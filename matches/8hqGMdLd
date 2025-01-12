@@ -7,4 +7,4 @@
 0015{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_octarine_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0017{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_octarine_core,item_occult_bracelet,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 19{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_refresher_core,item_occult_bracelet,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-20{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_refresher_core,item_occult_bracelet,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+21{item_attacker_midas_int,item_bloodstone_shield,item_manaback3,item_refresher_core,item_occult_bracelet,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
