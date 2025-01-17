@@ -22,4 +22,4 @@
 54{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,item_ceremonial_robe,item_trident_custom,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
 56{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,item_ceremonial_robe,item_trident_custom,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
 59{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,item_ceremonial_robe,item_trident_custom,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
-62{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,item_meteor_rain,item_trident_custom,item_armlet_of_mjolnir,}{item_ceremonial_robe,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
+63{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_trident_custom,item_armlet_of_mjolnir,}{item_ceremonial_robe,item_meteor_rain,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
