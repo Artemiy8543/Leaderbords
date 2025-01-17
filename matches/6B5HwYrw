@@ -4,4 +4,5 @@
 9{item_bloodstone_shield,item_radiance_prc,-,item_ethereal_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 11{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 0013{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,item_great_magic_crit,item_demon_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-16{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,-,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+17{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_trident_custom,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{-,};
