@@ -2,3 +2,4 @@
 3{-,item_broadsword,item_chainmail,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{-,item_blade_mail,-,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_crimson_guard,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_crimson_guard,item_blade_midas,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
