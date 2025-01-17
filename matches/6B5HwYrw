@@ -10,4 +10,4 @@
 23{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,-,item_trident_custom,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
 0027{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,-,item_trident_custom,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
 29{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,-,item_trident_custom,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
-0031{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,-,item_trident_custom,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
+0032{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,item_ceremonial_robe,item_trident_custom,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
