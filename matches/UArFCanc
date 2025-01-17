@@ -3,5 +3,5 @@
 9{item_blade_midas,item_crimson_guard,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_blade_midas,item_gladiator_guard,item_bloodstone,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0018{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0020{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0019{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0021{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
