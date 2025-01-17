@@ -1,4 +1,4 @@
 30+76561199026572727=2{item_voodoo_mask,item_vitality_booster,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 4{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 7{item_bloodstone_shield,item_radiance,item_urn_of_shadows,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-9{item_bloodstone_shield,item_radiance_prc,-,item_ethereal_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+10{item_bloodstone_shield,item_radiance_prc,item_phylactery_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
