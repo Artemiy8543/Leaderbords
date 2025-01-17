@@ -4,4 +4,5 @@
 9{item_crimson_guard,item_blade_mail,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 12{item_crimson_guard,item_blade_mail,item_ring_of_tarrasque,item_yasha_and_kaya,item_staff_of_wizardry,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0014{item_crimson_guard,item_blade_mail,item_ring_of_tarrasque,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0017{item_gladiator_guard,item_blade_mail,-,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0016{item_crimson_guard,item_blade_mail,item_ring_of_tarrasque,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0018{item_gladiator_guard,item_blade_mail,item_lightning_sword,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
