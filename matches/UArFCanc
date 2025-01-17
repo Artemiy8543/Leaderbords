@@ -17,4 +17,5 @@
 0041{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_veil_of_dagon,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
 43{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,-,item_trident_custom,item_veil_of_dagon,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
 0046{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,-,item_trident_custom,item_veil_of_dagon,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
-49{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,item_meteor_rain,item_trident_custom,item_veil_of_dagon,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
+48{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,item_meteor_rain,item_trident_custom,item_veil_of_dagon,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
+0050{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,item_meteor_rain,item_trident_custom,item_veil_of_dagon,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
