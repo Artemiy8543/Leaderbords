@@ -2,4 +2,4 @@
 6{item_vanguard,item_broadsword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 007{item_crimson_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 9{item_crimson_guard,item_blade_mail,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-12{item_crimson_guard,item_blade_mail,item_ring_of_tarrasque,item_yasha_and_kaya,item_staff_of_wizardry,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+13{item_crimson_guard,item_blade_mail,item_ring_of_tarrasque,item_yasha_and_kaya,-,item_sange,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
