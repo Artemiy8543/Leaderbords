@@ -53,4 +53,5 @@
 00229{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_trident_custom,item_veil_of_dagon,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
 00231{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_trident_custom,item_veil_of_dagon,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
 271{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_trident_custom,item_veil_of_dagon,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
-310{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_trident_custom,item_armlet_of_mjolnir,}{item_blade_mail,item_veil_of_dagon,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
+283{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_trident_custom,item_armlet_of_mjolnir,}{item_blade_mail,item_veil_of_dagon,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
+311{item_great_magic_crit,item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_trident_custom,item_armlet_of_mjolnir,}{item_blade_mail,item_veil_of_dagon,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
