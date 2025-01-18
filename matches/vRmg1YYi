@@ -4,4 +4,4 @@
 6{item_vanguard,item_blade_mail,item_ring_of_tarrasque,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 10{-,item_blade_mail,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
-0013{item_radiance,item_blade_mail,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+0014{item_radiance,item_blade_mail,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
