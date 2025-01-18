@@ -7,4 +7,4 @@
 16{item_creep_desolator,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_crit_custom3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
 0018{item_creep_desolator,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_crit_custom3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_creep_desolator,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_crit_custom3,}{item_blade_mail,item_midas_component,-,}{-,-,-,-,-,-,}{-,};
-0023{item_creep_desolator,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_crit_custom3,}{item_blade_mail,item_midas_component,-,}{-,-,-,-,-,-,}{-,};
+0024{item_creep_desolator,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_crit_custom3,}{item_blade_mail,item_midas_component,-,}{-,-,-,-,-,-,}{item_vladimir_pact,};
