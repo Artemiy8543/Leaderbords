@@ -3,4 +3,5 @@
 005{item_lifesteal,item_philosophers_stone,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_lifesteal,item_philosophers_stone,item_talisman_of_evasion,item_eagle,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_lifesteal,item_philosophers_stone,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-15{item_lifesteal,item_philosophers_stone,item_butterfly,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_lifesteal,item_philosophers_stone,item_butterfly,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_lifesteal,item_philosophers_stone,item_butterfly,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
