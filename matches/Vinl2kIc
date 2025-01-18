@@ -1,4 +1,5 @@
 93+76561198025394827=2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
