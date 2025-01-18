@@ -19,4 +19,4 @@
 0031{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 0033{item_lotus_cuirass,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 0034{item_lotus_cuirass,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
-0035{item_lotus_cuirass,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
+0036{item_lotus_cuirass,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_radiance_prc,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_force_field,};
