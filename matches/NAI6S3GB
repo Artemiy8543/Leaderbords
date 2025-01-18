@@ -5,3 +5,4 @@
 8{item_voodoo_mask,item_talisman_of_evasion,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_voodoo_mask,item_radiance,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
 12{item_voodoo_mask,item_radiance,item_gladiator_guard,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
+13{item_voodoo_mask,item_radiance,item_gladiator_guard,item_blade_mail,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
