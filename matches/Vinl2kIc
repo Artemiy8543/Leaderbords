@@ -18,4 +18,5 @@
 40{item_creep_desolator,item_gladiator_guard,item_attacker_midas_agi,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_vladimir_pact,};
 43{item_creep_desolator,item_gladiator_guard,item_attacker_midas_agi,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_vladimir_pact,};
 0045{item_creep_desolator,item_gladiator_guard,item_attacker_midas_agi,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_vladimir_pact,};
-0049{item_creep_desolator,item_gladiator_guard,item_attacker_midas_agi,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_radiance_prc,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_vladimir_pact,};
+0048{item_creep_desolator,item_gladiator_guard,item_attacker_midas_agi,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_radiance_prc,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_vladimir_pact,};
+50{item_creep_desolator,item_gladiator_guard,item_attacker_midas_agi,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_radiance_prc,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_vladimir_pact,};
