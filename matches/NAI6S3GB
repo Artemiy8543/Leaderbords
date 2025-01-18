@@ -11,4 +11,4 @@
 20{item_gladiator_guard,item_blade_mail,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_radiance,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 23{item_gladiator_guard,item_blade_mail,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_radiance,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 25{item_gladiator_guard,item_blade_mail,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_radiance,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
-27{item_gladiator_guard,item_blade_mail,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_radiance,}{-,item_tier1_token,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+28{item_gladiator_guard,item_blade_mail,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
