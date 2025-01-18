@@ -3,5 +3,5 @@
 7{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-14{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_crit_custom3,}{item_creep_desolator,-,-,}{-,-,-,-,-,-,}{-,};
-16{item_creep_desolator,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_crit_custom3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_crit_custom3,}{item_creep_desolator,-,-,}{-,-,-,-,-,-,}{-,};
+17{item_creep_desolator,item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_infinity_moon_shard,item_great_crit_custom3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
