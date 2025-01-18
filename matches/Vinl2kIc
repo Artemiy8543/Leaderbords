@@ -25,4 +25,4 @@
 0059{item_creep_desolator,item_gladiator_guard,item_attacker_midas_agi,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_vladimir_pact,};
 119{item_creep_desolator,item_gladiator_guard,item_butterfly,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_vladimir_pact,};
 143{item_creep_desolator,item_lightning_sword,item_butterfly,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_gladiator_guard,item_agi_book,item_faerie_fire,}{-,-,-,-,-,-,}{item_vladimir_pact,};
-149{item_creep_desolator,item_lightning_sword,item_butterfly,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_vladimir_pact,};
+150{item_creep_desolator,item_lightning_sword,item_butterfly,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_vladimir_pact,};
