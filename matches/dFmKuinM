@@ -12,3 +12,4 @@
 18{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 0020{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_shivas_strom,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 0021{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_shivas_strom,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+0022{item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_shivas_strom,item_trident_custom,item_custom_necronomicon3,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
