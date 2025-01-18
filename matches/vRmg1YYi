@@ -7,4 +7,5 @@
 0013{item_radiance,item_blade_mail,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 16{item_radiance,item_blade_mail,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 18{item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
-21{item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+20{item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+22{item_radiance_prc,item_blade_midas,item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,}{item_tier5_token,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
