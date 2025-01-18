@@ -5,4 +5,5 @@
 8{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 10{-,item_blade_mail,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
 0013{item_radiance,item_blade_mail,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
-16{item_radiance,item_blade_mail,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+15{item_radiance,item_blade_mail,item_gladiator_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
+17{item_radiance_prc,item_blade_mail,item_bloodstone_shield,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ironwood_tree,};
