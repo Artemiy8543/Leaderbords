@@ -6,3 +6,4 @@
 9{item_platemail,item_hyperstone,item_gladiator_guard,item_ring_of_protection,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_platemail,item_blade_mail,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_assault,item_blade_mail,item_gladiator_guard,item_lotus_orb,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+13{item_lotus_cuirass,item_blade_mail,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
