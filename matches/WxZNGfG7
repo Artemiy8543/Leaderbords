@@ -1,4 +1,5 @@
 94+76561198335443827=2{item_philosophers_stone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_philosophers_stone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_philosophers_stone,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_philosophers_stone,item_mjollnir,item_satanic,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
+0010{item_philosophers_stone,item_mjollnir,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_philosophers_stone,item_mjollnir,item_satanic,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
