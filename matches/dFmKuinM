@@ -3,3 +3,4 @@
 006{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_vanguard,item_heart,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_platemail,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_platemail,item_hyperstone,item_gladiator_guard,item_ring_of_protection,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
