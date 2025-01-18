@@ -27,3 +27,4 @@
 143{item_creep_desolator,item_lightning_sword,item_butterfly,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_gladiator_guard,item_agi_book,item_faerie_fire,}{-,-,-,-,-,-,}{item_vladimir_pact,};
 150{item_creep_desolator,item_lightning_sword,item_butterfly,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_vladimir_pact,};
 151{item_creep_desolator,item_revenants_brooch,item_butterfly,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_gladiator_guard,item_lightning_sword,-,}{-,-,-,-,-,-,}{item_vladimir_pact,};
+152{item_creep_desolator,item_bfury,item_butterfly,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_vladimir_pact,};
