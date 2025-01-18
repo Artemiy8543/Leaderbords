@@ -2,3 +2,4 @@
 004{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_vanguard,item_heart,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_platemail,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
