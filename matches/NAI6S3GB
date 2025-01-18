@@ -9,4 +9,5 @@
 16{item_gladiator_guard,item_radiance,item_bloodstone_shield,item_blade_mail,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_specialists_array,};
 0018{item_gladiator_guard,item_radiance,item_bloodstone_shield,item_blade_mail,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 20{item_gladiator_guard,item_blade_mail,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_radiance,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
-24{item_gladiator_guard,item_blade_mail,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_radiance,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+23{item_gladiator_guard,item_blade_mail,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_radiance,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+25{item_gladiator_guard,item_blade_mail,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_radiance,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
