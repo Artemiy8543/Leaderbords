@@ -4,4 +4,4 @@
 009{item_attacker_midas_str,item_vanguard,item_shivas_guard,item_bloodstone,item_ring_of_tarrasque,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 0011{item_attacker_midas_str,item_crimson_guard,item_shivas_guard,item_bloodstone,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 0014{item_attacker_midas_str,item_gladiator_guard,item_shivas_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-16{item_attacker_midas_str,item_gladiator_guard,item_shivas_guard,item_bloodstone,item_rattlecage,-,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+17{item_attacker_midas_str,item_gladiator_guard,item_shivas_guard,item_bloodstone,item_rattlecage,-,}{item_havoc_hammer,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
