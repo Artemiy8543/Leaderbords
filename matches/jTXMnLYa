@@ -7,3 +7,4 @@
 17{item_gladiator_guard,item_radiance_prc,item_manaback,item_lotus_cuirass,item_vladimir_pact,-,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{-,};
 0019{item_gladiator_guard,item_radiance_prc,item_manaback,item_lotus_cuirass,item_vladimir_pact,-,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{-,};
 23{item_gladiator_guard,item_radiance_prc,item_manaback,item_lotus_cuirass,item_vladimir_pact,-,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{-,};
+0024{item_gladiator_guard,item_radiance_prc,item_manaback,item_lotus_cuirass,item_vladimir_pact,-,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
