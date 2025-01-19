@@ -1,3 +1,4 @@
 35+76561198287764326=2{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_agi,item_mjollnir,-,-,-,-,}{item_recipe_armlet,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_agi,item_mjollnir,item_dragon_lance,item_lifesteal,-,-,}{item_recipe_armlet,-,-,}{-,-,-,-,-,-,}{-,};
