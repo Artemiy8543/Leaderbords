@@ -1,4 +1,4 @@
 96+76561198045746216=1{item_gladiator_guard,item_radiance_prc,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_gladiator_guard,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_gladiator_guard,item_radiance_prc,item_manaback,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_gladiator_guard,item_radiance_prc,item_manaback,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+7{item_gladiator_guard,item_radiance_prc,item_manaback,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_gladiator_guard,item_radiance_prc,item_manaback,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
