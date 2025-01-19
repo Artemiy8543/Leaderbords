@@ -1,4 +1,4 @@
 47+76561198829885715=1{item_gloves,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hand_of_midas,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 7{item_hand_of_midas,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-8{item_hand_of_midas,item_radiance_prc,item_vampire_fangs,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+9{item_hand_of_midas,item_radiance_prc,item_vampire_fangs,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
