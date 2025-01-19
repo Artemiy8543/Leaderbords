@@ -4,4 +4,4 @@
 007{item_attacker_midas_str,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_str,item_shivas_guard,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_attacker_midas_str,item_shivas_guard,item_heart,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
-12{item_attacker_midas_str,item_shivas_guard,item_heart,item_moon_shard,item_mithril_hammer,item_javelin,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+13{item_attacker_midas_str,item_shivas_strom,item_heart,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
