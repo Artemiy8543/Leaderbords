@@ -2,4 +2,5 @@
 5{item_attacker_midas_str,item_vanguard,item_veil_of_discord,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_str,item_vanguard,item_shivas_guard,item_voodoo_mask,item_vitality_booster,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_attacker_midas_str,item_vanguard,item_shivas_guard,item_bloodstone,item_ring_of_tarrasque,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-0012{item_attacker_midas_str,item_crimson_guard,item_shivas_guard,item_bloodstone,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+0011{item_attacker_midas_str,item_crimson_guard,item_shivas_guard,item_bloodstone,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+0013{item_attacker_midas_str,item_gladiator_guard,item_shivas_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
