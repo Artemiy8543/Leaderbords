@@ -11,4 +11,4 @@
 27{item_lotus_cuirass,item_gladiator_guard,item_shivas_strom,item_bloodstone,item_rattlecage,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 29{item_lotus_cuirass,item_gladiator_guard,item_shivas_strom,item_bloodstone,item_rattlecage,item_butterfly,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{-,};
 45{item_lotus_cuirass,item_gladiator_guard,item_shivas_strom,item_bloodstone,item_rattlecage,item_blade_mail,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
-56{item_lotus_cuirass,item_gladiator_guard,item_shivas_strom,item_bloodstone,item_rattlecage,-,}{item_butterfly,-,item_hand_of_midas,}{-,-,-,-,-,-,}{item_mirror_shield,};
+57{item_lotus_cuirass,item_gladiator_guard,item_shivas_strom,item_bloodstone,item_rattlecage,-,}{item_butterfly,-,item_hand_of_midas,}{-,-,-,-,-,-,}{item_mirror_shield,};
