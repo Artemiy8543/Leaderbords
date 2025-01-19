@@ -5,4 +5,4 @@
 7{item_power_treads,item_quelling_blade,item_sange_and_yasha,item_lifesteal,item_vanguard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_power_treads,-,item_sange_and_yasha,item_lifesteal,item_vanguard,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 0010{item_power_treads,item_radiance_prc,item_sange_and_yasha,item_lifesteal,item_vanguard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-12{item_power_treads,item_radiance_prc,item_sange_and_yasha,item_lifesteal,item_vanguard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+13{item_power_treads,item_radiance_prc,item_sange_and_yasha,item_lifesteal,item_vanguard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
