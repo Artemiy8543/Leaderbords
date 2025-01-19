@@ -7,5 +7,5 @@
 14{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0016{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0018{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-20{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
-22{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+21{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
+23{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
