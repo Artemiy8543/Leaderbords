@@ -2,3 +2,4 @@
 004{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,-,-,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_agi,item_mask_of_madness,-,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+8{item_attacker_midas_agi,-,-,-,-,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
