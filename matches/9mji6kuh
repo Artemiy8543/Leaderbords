@@ -3,4 +3,4 @@
 6{item_attacker_midas_str,item_helm_of_iron_will,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_str,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_str,item_shivas_guard,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_attacker_midas_str,item_shivas_guard,item_heart,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+10{item_attacker_midas_str,item_shivas_guard,item_heart,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
