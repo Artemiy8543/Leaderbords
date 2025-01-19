@@ -3,4 +3,4 @@
 6{item_attacker_midas_str,-,-,item_crimson_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_str,-,-,item_crimson_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_attacker_midas_str,-,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0012{item_attacker_midas_str,item_rattlecage,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
