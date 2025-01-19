@@ -5,4 +5,5 @@
 0011{item_attacker_midas_str,item_crimson_guard,item_shivas_guard,item_bloodstone,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 0014{item_attacker_midas_str,item_gladiator_guard,item_shivas_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 17{item_attacker_midas_str,item_gladiator_guard,item_shivas_guard,item_bloodstone,item_rattlecage,-,}{item_havoc_hammer,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-20{item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,item_bloodstone,item_rattlecage,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+19{item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,item_bloodstone,item_rattlecage,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+21{item_attacker_midas_str,item_gladiator_guard,item_shivas_strom,item_bloodstone,item_rattlecage,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
