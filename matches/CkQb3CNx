@@ -24,4 +24,5 @@
 52{item_shivas_strom,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 54{item_shivas_strom,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 55{item_shivas_strom,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
-57{item_shivas_strom,item_helm_of_the_overlord,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+56{item_shivas_strom,item_helm_of_the_overlord,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+59{item_shivas_strom,item_helm_of_the_overlord,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
