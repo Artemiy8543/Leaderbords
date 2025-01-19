@@ -11,4 +11,4 @@
 22{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 0025{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_vampire_fangs,};
 26{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
-29{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+30{item_attacker_midas_str,item_rattlecage,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
