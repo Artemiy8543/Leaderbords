@@ -2,5 +2,6 @@
 3{item_gladiator_guard,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_gladiator_guard,item_radiance_prc,item_manaback,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_gladiator_guard,item_radiance_prc,item_manaback,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
-13{item_gladiator_guard,item_radiance_prc,item_manaback,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
-16{item_gladiator_guard,item_radiance_prc,item_manaback,item_lotus_cuirass,item_vladimir_pact,-,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_gladiator_guard,item_radiance_prc,item_manaback,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+14{item_gladiator_guard,item_radiance_prc,item_manaback,item_lotus_cuirass,item_vladimir_pact,-,}{-,-,-,}{-,-,-,-,-,-,}{item_duelist_gloves,};
+17{item_gladiator_guard,item_radiance_prc,item_manaback,item_lotus_cuirass,item_vladimir_pact,-,}{item_tier3_token,-,-,}{-,-,-,-,-,-,}{-,};
