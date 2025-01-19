@@ -7,3 +7,4 @@
 14{item_attacker_midas_str,item_shivas_strom,item_heart,item_moon_shard,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 0015{item_attacker_midas_str,item_shivas_strom,item_gladiator_guard,item_moon_shard,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 18{item_attacker_midas_str,item_shivas_strom,item_gladiator_guard,item_moon_shard,item_butterfly,-,}{item_arcane_ring,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+19{item_crimson_guard,item_shivas_strom,item_gladiator_guard,item_moon_shard,item_butterfly,item_butterfly,}{item_arcane_ring,item_havoc_hammer,item_attacker_midas_str,}{-,-,-,-,-,-,}{item_force_field,};
