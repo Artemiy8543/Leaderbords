@@ -3,3 +3,4 @@
 3{item_cornucopia,item_quelling_blade,item_broadsword,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_cornucopia,item_quelling_blade,item_broadsword,item_vanguard,item_claymore,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bfury,item_ring_of_tarrasque,-,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_bfury,item_heart,-,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
