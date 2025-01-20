@@ -13,3 +13,4 @@
 0029{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,item_manaback3,}{item_rattlecage,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
 0031{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 33{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,item_manaback3,}{item_ward_observer,item_int_book,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+34{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,item_manaback3,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
