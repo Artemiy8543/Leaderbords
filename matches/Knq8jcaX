@@ -10,4 +10,4 @@
 0024{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 28{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
 0031{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
-33{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+34{item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
