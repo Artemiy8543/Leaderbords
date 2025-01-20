@@ -3,3 +3,4 @@
 004{item_octarine_core,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 5{item_octarine_core,item_point_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 6{item_octarine_core,item_point_booster,item_staff_of_wizardry,item_ogre_axe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+007{item_octarine_core,item_ultimate_scepter,item_cornucopia,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
