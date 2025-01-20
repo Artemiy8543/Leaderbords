@@ -8,5 +8,5 @@
 15{item_radiance_prc,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 17{item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 21{item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-24{item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0026{item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+25{item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0027{item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
