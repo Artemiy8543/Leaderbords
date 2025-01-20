@@ -1,4 +1,5 @@
 99+76561198278144917=1{item_voodoo_mask,item_void_stone,item_ring_of_protection,item_fluffy_hat,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_bloodstone,-,item_ring_of_protection,item_fluffy_hat,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_bloodstone_shield,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+8{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+0010{item_bloodstone_shield,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
