@@ -5,3 +5,4 @@
 5{item_lifesteal,item_quelling_blade,item_cornucopia,item_vanguard,item_broadsword,-,}{item_recipe_bfury,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_lifesteal,item_bfury,-,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_lifesteal,item_bfury,-,item_vanguard,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_mask_of_madness,item_bfury,-,item_vanguard,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
