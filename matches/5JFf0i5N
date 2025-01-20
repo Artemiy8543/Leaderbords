@@ -19,4 +19,4 @@
 0046{item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0049{item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
 102{item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_trident_custom,}{item_str_book,item_smoke_of_deceit,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
-103{item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_trident_custom,}{item_str_book,item_smoke_of_deceit,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
+104{item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_gladiator_guard,item_trident_custom,}{item_str_book,item_smoke_of_deceit,-,}{-,-,-,-,-,-,}{item_nemesis_curse,};
