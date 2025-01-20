@@ -19,4 +19,4 @@
 0046{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_blade_midas,item_great_magic_crit3,item_shivas_strom,}{item_havoc_hammer,-,-,}{-,-,-,-,-,-,}{item_seer_stone,};
 0047{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_blade_midas,item_great_magic_crit3,item_shivas_strom,}{item_havoc_hammer,item_str_book,-,}{-,-,-,-,-,-,}{item_seer_stone,};
 0050{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_blade_midas,item_great_magic_crit3,item_shivas_strom,}{item_seer_stone,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
-0051{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_blade_midas,item_great_magic_crit3,item_shivas_strom,}{item_seer_stone,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+0052{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_magic_crit3,item_shivas_strom,}{item_seer_stone,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
