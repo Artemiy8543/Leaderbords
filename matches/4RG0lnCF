@@ -1,4 +1,4 @@
 44+76561198278144917=1{item_cornucopia,item_quelling_blade,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_cornucopia,item_quelling_blade,item_broadsword,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_cornucopia,item_quelling_blade,item_broadsword,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_cornucopia,item_quelling_blade,item_broadsword,item_vanguard,item_claymore,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_bfury,-,-,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
