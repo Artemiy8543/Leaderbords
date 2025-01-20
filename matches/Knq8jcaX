@@ -2,4 +2,5 @@
 5{item_heart,item_vanguard,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_relic,-,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_relic,-,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{item_radiance,item_bloodstone_shield,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_radiance,item_bloodstone_shield,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_radiance,item_bloodstone_shield,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
