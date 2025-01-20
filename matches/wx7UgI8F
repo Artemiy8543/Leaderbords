@@ -2,3 +2,4 @@
 2{item_lifesteal,item_quelling_blade,item_cornucopia,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_lifesteal,item_quelling_blade,item_cornucopia,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_lifesteal,item_quelling_blade,item_cornucopia,item_vanguard,-,-,}{item_recipe_bfury,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_lifesteal,item_quelling_blade,item_cornucopia,item_vanguard,item_broadsword,-,}{item_recipe_bfury,-,-,}{-,-,-,-,-,-,}{-,};
