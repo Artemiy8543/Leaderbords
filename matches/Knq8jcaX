@@ -3,4 +3,5 @@
 007{item_relic,-,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_relic,-,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_radiance,item_bloodstone_shield,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-15{item_radiance,item_bloodstone_shield,item_ultimate_scepter,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_radiance,item_bloodstone_shield,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_radiance_prc,item_bloodstone_shield,item_ultimate_scepter,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
