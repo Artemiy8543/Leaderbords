@@ -42,4 +42,4 @@
 74{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_manaback3,item_great_magic_crit3,item_trident_custom,}{item_force_field,-,item_blade_midas,}{-,-,-,-,-,-,}{item_timeless_relic,};
 77{item_gladiator_guard,item_rapier,item_lotus_cuirass,item_manaback3,item_great_magic_crit3,item_trident_custom,}{item_force_field,item_bloodstone_shield,item_blade_midas,}{-,-,-,-,-,-,}{item_timeless_relic,};
 0080{item_gladiator_guard,item_rapier,item_lotus_cuirass,item_manaback3,item_great_magic_crit3,item_trident_custom,}{item_force_field,item_bloodstone_shield,item_blade_midas,}{-,-,-,-,-,-,}{item_timeless_relic,};
-104{item_gladiator_guard,item_rapier,item_lotus_cuirass,item_manaback3,item_great_magic_crit3,item_trident_custom,}{item_bloodstone_shield,item_blade_midas,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+105{item_gladiator_guard,item_rapier,item_lotus_cuirass,item_manaback3,item_great_magic_crit3,item_trident_custom,}{item_bloodstone_shield,item_blade_midas,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
