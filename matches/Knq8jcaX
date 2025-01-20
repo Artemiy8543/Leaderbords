@@ -27,3 +27,4 @@
 0062{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_magic_crit3,item_shivas_strom,}{item_seer_stone,item_str_book,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 0064{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_magic_crit3,item_shivas_strom,}{item_seer_stone,item_str_book,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 0066{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_magic_crit3,item_shivas_strom,}{item_seer_stone,item_str_book,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+0067{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_magic_crit3,item_shivas_strom,}{item_seer_stone,-,item_smoke_of_deceit,}{-,-,-,-,-,-,}{item_havoc_hammer,};
