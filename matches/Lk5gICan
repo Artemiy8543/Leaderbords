@@ -8,4 +8,4 @@
 0020{item_gladiator_guard,item_infinity_moon_shard,item_great_crit_custom3,item_satanic_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0023{item_gladiator_guard,item_infinity_moon_shard,item_great_crit_custom3,item_satanic_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0026{item_gladiator_guard,item_infinity_moon_shard,item_great_crit_custom3,item_satanic_of_madness,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-32{item_gladiator_guard,item_infinity_moon_shard,item_great_crit_custom3,item_satanic_of_madness,item_lotus_cuirass,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+33{item_gladiator_guard,item_infinity_moon_shard,item_great_crit_custom3,item_satanic_of_madness,item_lotus_cuirass,item_attacker_midas_str,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
