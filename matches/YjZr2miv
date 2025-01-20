@@ -6,3 +6,4 @@
 13{item_gladiator_guard,item_bloodstone_shield,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 0015{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
 17{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_philosophers_stone,};
+18{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
