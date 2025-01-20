@@ -8,4 +8,5 @@
 0017{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0020{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0022{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_manaback3,item_str_book,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0024{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_manaback3,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0023{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_manaback3,item_str_book,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0025{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_manaback3,item_str_book,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
