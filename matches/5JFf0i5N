@@ -1,4 +1,4 @@
 4+76561198999690255=002{item_relic,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_relic,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_radiance,item_voodoo_mask,item_vitality_booster,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_radiance,item_voodoo_mask,item_vitality_booster,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
