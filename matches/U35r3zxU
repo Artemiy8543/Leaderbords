@@ -10,4 +10,4 @@
 23{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,item_int_book,}{item_tier1_token,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 25{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,-,}{item_tier1_token,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 27{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
-0028{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,item_manaback3,}{item_rattlecage,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
+0029{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,item_manaback3,}{item_rattlecage,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
