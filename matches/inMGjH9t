@@ -27,4 +27,5 @@
 45{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_manaback3,item_str_book,item_trident_custom,}{item_force_field,item_smoke_of_deceit,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 0047{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_manaback3,item_str_book,item_trident_custom,}{item_force_field,item_smoke_of_deceit,item_havoc_hammer,}{-,-,-,-,-,-,}{item_timeless_relic,};
 48{item_gladiator_guard,item_bloodstone_shield,item_infinity_moon_shard,item_manaback3,item_bfury,item_trident_custom,}{item_force_field,-,item_blade_midas,}{-,-,-,-,-,-,}{item_timeless_relic,};
-51{item_gladiator_guard,item_bloodstone_shield,-,item_manaback3,item_great_magic_crit3,item_trident_custom,}{item_force_field,-,item_blade_midas,}{-,-,-,-,-,-,}{item_timeless_relic,};
+50{item_gladiator_guard,item_bloodstone_shield,item_infinity_moon_shard,item_manaback3,item_great_magic_crit3,item_trident_custom,}{item_force_field,item_bfury,item_blade_midas,}{-,-,-,-,-,-,}{item_timeless_relic,};
+52{item_gladiator_guard,item_bloodstone_shield,item_str_book,item_manaback3,item_great_magic_crit3,item_trident_custom,}{item_force_field,-,item_blade_midas,}{-,-,-,-,-,-,}{item_timeless_relic,};
