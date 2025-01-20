@@ -2,4 +2,4 @@
 5{item_vanguard,item_bloodstone,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_vanguard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_vanguard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-12{item_vanguard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+13{item_vanguard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
