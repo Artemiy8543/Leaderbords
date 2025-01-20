@@ -4,5 +4,5 @@
 0010{item_vanguard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 12{item_vanguard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 14{item_vanguard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-16{item_vanguard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-18{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+17{item_vanguard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+19{item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
