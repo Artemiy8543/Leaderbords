@@ -17,3 +17,4 @@
 32{item_bloodstone_shield,item_rapier,item_trident_custom,item_vampire_fangs,item_rattlecage,item_blade_midas,}{item_int_book,-,item_stormcrafter,}{-,-,-,-,-,-,}{item_force_field,};
 0034{item_bloodstone_shield,item_rapier,item_trident_custom,item_manaback3,item_meteor_rain,item_blade_midas,}{item_int_book,item_str_book,-,}{-,-,-,-,-,-,}{item_force_field,};
 0036{item_bloodstone_shield,item_rapier,item_trident_custom,item_manaback3,item_meteor_rain,item_blade_midas,}{item_int_book,item_str_book,item_tier3_token,}{-,-,-,-,-,-,}{item_force_field,};
+0037{item_bloodstone_shield,item_rapier,item_trident_custom,item_manaback3,item_meteor_rain,item_blade_midas,}{item_int_book,-,item_tier3_token,}{-,-,-,-,-,-,}{item_force_field,};
