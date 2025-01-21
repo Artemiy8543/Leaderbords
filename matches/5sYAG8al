@@ -27,4 +27,4 @@
 0058{item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_lightning_sword,}{-,-,-,}{item_midas_component,-,-,-,-,-,}{item_great_crit_custom3,};
 60{item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_lightning_sword,}{-,-,-,}{item_midas_component,-,-,-,-,-,}{item_great_crit_custom3,};
 103{item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_lightning_sword,}{-,-,-,}{item_midas_component,-,-,-,-,-,}{item_great_crit_custom3,};
-127{item_shivas_strom,item_shivas_guard,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_skadi,}{item_lightning_sword,-,-,}{item_midas_component,-,-,-,-,-,}{item_corrosion_blade,};
+128{item_shivas_strom,item_shivas_guard,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_skadi,}{item_lightning_sword,-,-,}{item_midas_component,-,-,-,-,-,}{item_corrosion_blade,};
