@@ -6,4 +6,5 @@
 0015{item_bloodstone_shield,item_radiance_prc,item_manaback3,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0018{item_bloodstone_shield,item_radiance_prc,item_manaback3,item_trident_custom,item_great_magic_crit3,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 20{item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_great_magic_crit3,item_lotus_cuirass,}{-,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_rattlecage,};
-23{item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_great_magic_crit3,item_lotus_cuirass,}{-,item_radiance_prc,-,}{item_rattlecage,-,-,-,-,-,}{item_tier5_token,};
+22{item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_great_magic_crit3,item_lotus_cuirass,}{-,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0024{item_bloodstone_shield,item_blade_midas,item_manaback3,item_trident_custom,item_great_magic_crit3,item_lotus_cuirass,}{-,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
