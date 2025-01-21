@@ -3,5 +3,5 @@
 6{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone_shield,item_radiance_prc,item_arcane_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_bloodstone_shield,item_radiance_prc,item_manaback3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0014{item_bloodstone_shield,item_radiance_prc,item_manaback3,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0016{item_bloodstone_shield,item_radiance_prc,item_manaback3,item_trident_custom,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0015{item_bloodstone_shield,item_radiance_prc,item_manaback3,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0017{item_bloodstone_shield,item_radiance_prc,item_manaback3,item_trident_custom,item_great_magic_crit3,item_platemail,}{item_hyperstone,item_ring_of_protection,-,}{-,-,-,-,-,-,}{-,};
