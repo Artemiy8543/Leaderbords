@@ -18,4 +18,5 @@
 40{item_quicksilver_amulet,item_radiance_prc,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_lightning_sword,}{-,item_midas_component,-,}{-,-,-,-,-,-,}{item_great_crit_custom3,};
 42{item_quicksilver_amulet,item_radiance_prc,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_lightning_sword,}{-,item_midas_component,-,}{-,-,-,-,-,-,}{item_great_crit_custom3,};
 44{item_ballista,item_radiance_prc,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_lightning_sword,}{-,-,-,}{item_midas_component,-,-,-,-,-,}{item_great_crit_custom3,};
-0047{-,item_radiance_prc,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_lightning_sword,}{-,-,-,}{item_midas_component,-,-,-,-,-,}{item_great_crit_custom3,};
+0046{item_ballista,item_radiance_prc,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_lightning_sword,}{-,-,-,}{item_midas_component,-,-,-,-,-,}{item_great_crit_custom3,};
+48{item_corrosion_blade,item_radiance_prc,item_infinity_moon_shard,item_trident_custom,item_great_magic_crit3,item_lightning_sword,}{-,-,-,}{item_midas_component,-,-,-,-,-,}{item_great_crit_custom3,};
