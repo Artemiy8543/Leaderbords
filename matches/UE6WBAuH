@@ -1,6 +1,6 @@
 4+76561198050704289=002{item_vanguard,item_helm_of_iron_will,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_crimson_guard,item_ring_of_tarrasque,-,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-7{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
-10{item_gladiator_guard,item_attacker_midas_agi,item_bloodstone_shield,item_point_booster,item_staff_of_wizardry,item_ogre_axe,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
-13{item_gladiator_guard,item_attacker_midas_agi,item_bloodstone_shield,item_ultimate_scepter,-,-,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+8{item_gladiator_guard,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+12{item_gladiator_guard,item_attacker_midas_agi,item_bloodstone_shield,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+14{item_gladiator_guard,item_attacker_midas_agi,item_bloodstone_shield,item_ultimate_scepter,item_phylactery_blade,-,}{item_rattlecage,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
