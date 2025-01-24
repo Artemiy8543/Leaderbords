@@ -2,4 +2,4 @@
 7{item_vanguard,item_bloodstone_shield,item_ring_of_tarrasque,item_helm_of_iron_will,-,-,}{item_recipe_heart,item_recipe_gladiator_guard,-,}{-,-,-,-,-,-,}{-,};
 009{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_ultimate_scepter,item_str_book,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0014{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_ultimate_scepter,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0015{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_ultimate_scepter,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
