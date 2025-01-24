@@ -13,4 +13,4 @@
 0030{item_manaback3,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_lightning_sword,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 32{item_manaback3,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_lightning_sword,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0034{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-35{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_manaback3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
+36{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_manaback3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
