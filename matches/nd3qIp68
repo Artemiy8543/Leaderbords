@@ -5,4 +5,4 @@
 10{item_vanguard,item_ultimate_scepter,item_bloodstone_shield,item_sheepstick,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_vanguard,item_ultimate_scepter,item_bloodstone_shield,item_sheepstick,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 15{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_sheepstick,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0017{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_ultimate_scepter,item_sheepstick,}{-,-,-,}{-,-,-,-,-,-,}{item_tier2_token,};
+0018{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
