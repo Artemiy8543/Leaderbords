@@ -40,4 +40,5 @@
 0093{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_trident_custom,}{item_veil_of_dagon,item_phylactery_blade,item_dandelion_amulet,}{-,-,-,-,-,-,}{item_radiance_prc,};
 95{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_trident_custom,}{item_veil_of_dagon,item_phylactery_blade,item_dandelion_amulet,}{-,-,-,-,-,-,}{item_radiance_prc,};
 0098{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_trident_custom,}{item_veil_of_dagon,-,item_dandelion_amulet,}{-,-,-,-,-,-,}{item_radiance_prc,};
-102{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
+100{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
+104{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_trident_custom,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_radiance_prc,};
