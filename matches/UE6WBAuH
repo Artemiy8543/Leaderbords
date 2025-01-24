@@ -5,3 +5,4 @@
 12{item_gladiator_guard,item_attacker_midas_agi,item_bloodstone_shield,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 15{item_gladiator_guard,item_attacker_midas_agi,item_bloodstone_shield,item_ultimate_scepter,item_phylactery_blade,-,}{item_rattlecage,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 0017{item_gladiator_guard,item_attacker_midas_agi,item_bloodstone_shield,item_ultimate_scepter,item_phylactery_blade,-,}{item_rattlecage,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+0018{item_gladiator_guard,item_phylactery_blade,item_bloodstone_shield,-,-,-,}{-,item_attacker_midas_agi,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
