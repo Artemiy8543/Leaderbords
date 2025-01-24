@@ -15,5 +15,5 @@
 32{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_agi_book,item_rattlecage,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 33{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,-,item_rattlecage,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0035{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,-,item_rattlecage,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-0038{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-40{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_agi_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0039{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_agi_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+41{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_agi_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
