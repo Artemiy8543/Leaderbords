@@ -5,4 +5,5 @@
 9{item_bloodstone,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 12{item_bloodstone,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
 0014{item_bloodstone_shield,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
-17{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+16{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
+0018{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_safety_bubble,};
