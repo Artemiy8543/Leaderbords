@@ -9,4 +9,5 @@
 19{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_ultimate_scepter,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
 21{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dragon_scale,};
 23{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_dragon_scale,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
-26{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_dragon_scale,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+25{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_dragon_scale,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0027{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_dragon_scale,-,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
