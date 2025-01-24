@@ -1,4 +1,4 @@
 2+76561199767450320=002{item_chainmail,item_vanguard,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_chainmail,item_vanguard,item_voodoo_mask,item_soul_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_mail,item_vanguard,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_assault,item_pers,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
