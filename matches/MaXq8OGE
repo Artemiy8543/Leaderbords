@@ -33,4 +33,4 @@
 0075{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_armlet_of_mjolnir,}{item_manaback3,item_int_book,item_trident_custom,}{-,-,-,-,-,-,}{item_quickening_charm,};
 0076{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_trident_custom,}{item_manaback3,item_int_book,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_quickening_charm,};
 0079{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_trident_custom,}{item_manaback3,item_int_book,item_dandelion_amulet,}{-,-,-,-,-,-,}{item_quickening_charm,};
-84{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_trident_custom,}{-,-,item_dandelion_amulet,}{-,-,-,-,-,-,}{item_phylactery_blade,};
+85{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_trident_custom,}{item_int_book,-,item_dandelion_amulet,}{-,-,-,-,-,-,}{item_phylactery_blade,};
