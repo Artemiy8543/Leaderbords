@@ -5,4 +5,4 @@
 0011{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-19{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
+20{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
