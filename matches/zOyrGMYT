@@ -4,4 +4,4 @@
 34{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_refresher_core,item_str_book,item_shivas_guard,}{item_phase_boots,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0035{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_str_book,item_radiance_prc,item_shivas_guard,}{item_phase_boots,item_refresher_core,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 37{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_str_book,item_radiance_prc,item_shivas_guard,}{item_phase_boots,item_refresher_core,-,}{-,-,-,-,-,-,}{item_giants_ring,};
-41{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_shivas_guard,}{item_phase_boots,item_refresher_core,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+42{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_shivas_guard,}{item_phase_boots,item_refresher_core,item_str_book,}{-,-,-,-,-,-,}{item_giants_ring,};
