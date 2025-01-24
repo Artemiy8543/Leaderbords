@@ -6,3 +6,4 @@
 17{item_trident_custom,item_devastator,item_angels_demise,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 18{item_trident_custom,item_devastator,item_angels_demise,item_gladiator_guard,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_trident_custom,item_devastator,item_angels_demise,item_gladiator_guard,item_blade_mail,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+22{item_trident_custom,item_rapier,item_rapier,item_rapier,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
