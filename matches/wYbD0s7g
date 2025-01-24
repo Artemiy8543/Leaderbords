@@ -2,3 +2,4 @@
 003{item_chainmail,item_ring_of_tarrasque,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_chainmail,item_ring_of_tarrasque,item_energy_booster,item_vitality_booster,item_firecracker_small,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_chainmail,item_ring_of_tarrasque,item_energy_booster,item_vitality_booster,-,item_tiara_of_selemene,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_chainmail,item_heart,item_energy_booster,item_vitality_booster,-,item_tiara_of_selemene,}{-,-,-,}{-,-,-,-,-,-,}{-,};
