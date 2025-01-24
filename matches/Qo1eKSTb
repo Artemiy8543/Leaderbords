@@ -2,4 +2,5 @@
 4{item_chainmail,item_vanguard,item_voodoo_mask,item_soul_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_mail,item_vanguard,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0012{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
