@@ -5,3 +5,4 @@
 0010{item_arcane_boots,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_arcane_boots,item_shivas_strom,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_arcane_boots,item_shivas_strom,item_ultimate_scepter,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_arcane_boots,item_shivas_strom,item_ultimate_scepter,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
