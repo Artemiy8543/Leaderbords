@@ -15,4 +15,5 @@
 0038{item_gladiator_guard,item_phylactery_blade,item_bloodstone_shield,-,item_blade_midas,item_great_magic_crit3,}{item_lotus_cuirass,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 0040{item_radiance_prc,item_phylactery_blade,item_bloodstone_shield,-,item_blade_midas,item_great_magic_crit3,}{item_lotus_cuirass,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 43{item_radiance_prc,item_phylactery_blade,item_bloodstone_shield,item_agi_book,item_blade_midas,item_great_magic_crit3,}{item_lotus_cuirass,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
-0047{item_radiance_prc,item_phylactery_blade,item_bloodstone_shield,-,item_blade_midas,item_great_magic_crit3,}{item_lotus_cuirass,item_gladiator_guard,item_whisper_of_the_dread,}{-,-,-,-,-,-,}{item_tier5_token,};
+0046{item_radiance_prc,item_phylactery_blade,item_bloodstone_shield,-,item_blade_midas,item_great_magic_crit3,}{item_lotus_cuirass,item_gladiator_guard,item_whisper_of_the_dread,}{-,-,-,-,-,-,}{item_tier5_token,};
+48{item_radiance_prc,item_phylactery_blade,item_bloodstone_shield,item_str_book,item_blade_midas,item_great_magic_crit3,}{item_lotus_cuirass,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
