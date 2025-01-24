@@ -29,4 +29,5 @@
 65{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_armlet_of_mjolnir,}{item_manaback3,item_int_book,-,}{-,-,-,-,-,-,}{item_quickening_charm,};
 68{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_armlet_of_mjolnir,}{item_manaback3,item_int_book,-,}{-,-,-,-,-,-,}{item_quickening_charm,};
 0071{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_armlet_of_mjolnir,}{item_manaback3,item_int_book,-,}{-,-,-,-,-,-,}{item_quickening_charm,};
-0074{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_armlet_of_mjolnir,}{item_manaback3,item_int_book,item_trident_custom,}{-,-,-,-,-,-,}{item_quickening_charm,};
+0073{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_armlet_of_mjolnir,}{item_manaback3,item_int_book,-,}{-,-,-,-,-,-,}{item_quickening_charm,};
+0075{item_lightning_sword,item_shivas_strom,item_great_magic_crit3,item_refresher_core,item_bloodstone_shield,item_armlet_of_mjolnir,}{item_manaback3,item_int_book,item_trident_custom,}{-,-,-,-,-,-,}{item_quickening_charm,};
