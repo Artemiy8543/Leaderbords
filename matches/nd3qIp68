@@ -27,3 +27,4 @@
 61{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 0064{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
 69{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
+0070{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_agi_book,item_refresher_core,}{item_magic_stick,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
