@@ -3,4 +3,4 @@
 009{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_ultimate_scepter,item_str_book,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_ultimate_scepter,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-16{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_ultimate_scepter,item_heart,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+17{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_ultimate_scepter,item_heart,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
