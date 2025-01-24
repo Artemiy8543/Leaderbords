@@ -7,4 +7,4 @@
 0017{item_gladiator_guard,item_attacker_midas_agi,item_bloodstone_shield,item_ultimate_scepter,item_phylactery_blade,-,}{item_rattlecage,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 0019{item_gladiator_guard,item_phylactery_blade,item_bloodstone_shield,-,-,-,}{-,item_attacker_midas_agi,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 21{item_gladiator_guard,item_phylactery_blade,item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
-0023{item_gladiator_guard,item_phylactery_blade,item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+0024{item_gladiator_guard,item_phylactery_blade,item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
