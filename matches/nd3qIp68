@@ -37,3 +37,4 @@
 0089{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_int_book,item_refresher_core,}{item_magic_stick,-,item_revenants_brooch,}{-,-,-,-,-,-,}{item_giants_ring,};
 0091{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_int_book,item_refresher_core,}{item_magic_stick,-,item_revenants_brooch,}{-,-,-,-,-,-,}{item_giants_ring,};
 0093{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_int_book,item_refresher_core,}{item_magic_stick,-,item_revenants_brooch,}{-,-,-,-,-,-,}{item_giants_ring,};
+0094{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_revenants_brooch,item_refresher_core,}{item_magic_stick,-,-,}{-,-,-,-,-,-,}{item_giants_ring,};
