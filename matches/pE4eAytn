@@ -2,4 +2,5 @@
 4{-,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_heart,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0012{item_gladiator_guard,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_gladiator_guard,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_gladiator_guard,item_bloodstone_shield,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
