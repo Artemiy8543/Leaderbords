@@ -3,4 +3,5 @@
 6{item_heart,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_gladiator_guard,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-14{item_gladiator_guard,item_bloodstone_shield,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+13{item_gladiator_guard,item_bloodstone_shield,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+0015{item_gladiator_guard,item_bloodstone_shield,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
