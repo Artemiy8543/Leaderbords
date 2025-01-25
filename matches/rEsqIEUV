@@ -18,5 +18,5 @@
 43{item_phylactery_blade,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_apex,};
 47{item_phylactery_blade,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_apex,};
 0049{item_phylactery_blade,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_apex,};
-51{item_phylactery_blade,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_apex,};
-0053{item_phylactery_blade,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_shivas_strom,}{item_gladiator_guard,item_manaback3,-,}{-,-,-,-,-,-,}{item_apex,};
+52{item_phylactery_blade,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_gladiator_guard,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_apex,};
+54{item_phylactery_blade,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_shivas_strom,}{item_gladiator_guard,item_manaback3,-,}{-,-,-,-,-,-,}{item_apex,};
