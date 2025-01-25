@@ -2,3 +2,4 @@
 43{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_trident_custom,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_force_field,};
 59{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,item_radiance_prc,item_gladiator_guard,}{item_trident_custom,item_tier2_token,-,}{-,-,-,-,-,-,}{item_force_field,};
 75{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,item_radiance_prc,item_gladiator_guard,}{item_trident_custom,item_tier2_token,-,}{-,-,-,-,-,-,}{item_force_field,};
+76{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,item_radiance_prc,item_gladiator_guard,}{item_trident_custom,item_tier2_token,-,}{-,-,-,-,-,-,}{item_force_field,};
