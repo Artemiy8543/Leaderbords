@@ -10,4 +10,4 @@
 24{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_armlet_of_mjolnir,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
 0026{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_trident_custom,-,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_tier4_token,};
 0028{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
-30{item_gladiator_guard,item_bloodstone_shield,-,item_trident_custom,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
+31{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
