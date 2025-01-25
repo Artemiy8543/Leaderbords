@@ -12,4 +12,4 @@
 28{item_gladiator_guard,item_shivas_guard,item_rattlecage,item_ultimate_scepter,item_satanic_of_madness,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
 32{item_gladiator_guard,item_shivas_strom,item_rattlecage,item_ultimate_scepter,item_satanic_of_madness,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
 58{item_gladiator_guard,item_shivas_strom,item_radiance_prc,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_apex,};
-59{item_gladiator_guard,item_shivas_strom,item_radiance_prc,item_trident_custom,item_lotus_cuirass,item_blade_midas,}{-,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_apex,};
+60{item_gladiator_guard,item_shivas_strom,item_radiance_prc,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,}{item_str_book,item_blade_midas,-,}{-,-,-,-,-,-,}{item_apex,};
