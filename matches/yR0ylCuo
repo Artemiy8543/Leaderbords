@@ -2,4 +2,5 @@
 4{item_vanguard,item_voodoo_mask,item_vitality_booster,item_pavise,item_energy_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vanguard,item_bloodstone_shield,item_ring_of_tarrasque,-,-,-,}{item_recipe_gladiator_guard,item_recipe_heart,-,}{-,-,-,-,-,-,}{-,};
 009{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
