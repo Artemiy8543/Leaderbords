@@ -4,4 +4,4 @@
 009{item_crimson_guard,item_bloodstone_shield,item_ring_of_tarrasque,-,-,-,}{item_recipe_heart,item_recipe_gladiator_guard,-,}{-,-,-,-,-,-,}{-,};
 12{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_gladiator_guard,item_bloodstone_shield,item_octarine_core,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-18{item_gladiator_guard,item_bloodstone_shield,item_octarine_core,item_trident_custom,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+19{item_gladiator_guard,item_bloodstone_shield,item_octarine_core,item_trident_custom,item_armlet_of_mjolnir,item_revenants_brooch,}{-,-,-,}{-,-,-,-,-,-,}{-,};
