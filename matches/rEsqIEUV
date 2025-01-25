@@ -15,4 +15,4 @@
 36{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
 38{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
 40{item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
-43{item_phylactery_blade,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_apex,};
+44{item_phylactery_blade,item_bloodstone_shield,item_refresher_core,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_apex,};
