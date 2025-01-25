@@ -1,3 +1,3 @@
 91+76561198953358813=2{item_ward_observer,item_headdress,item_flask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 4{item_ward_observer,item_headdress,item_ogre_axe,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
-5{item_ward_observer,item_headdress,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+6{item_ghost,item_headdress,item_ultimate_scepter,item_ward_observer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
