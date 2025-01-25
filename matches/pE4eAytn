@@ -10,3 +10,4 @@
 0020{item_gladiator_guard,item_bloodstone_shield,item_ultimate_scepter,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 0022{item_gladiator_guard,item_bloodstone_shield,item_ultimate_scepter,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
 0024{item_gladiator_guard,item_bloodstone_shield,item_ultimate_scepter,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_arcane_ring,};
+0025{item_gladiator_guard,item_bloodstone_shield,item_ultimate_scepter,-,item_blade_mail,-,}{-,-,-,}{item_arcane_ring,-,-,-,-,-,}{item_tier5_token,};
