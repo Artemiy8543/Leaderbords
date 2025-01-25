@@ -14,4 +14,5 @@
 33{item_shivas_strom,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_radiance_prc,}{item_gladiator_guard,item_tier5_token,-,}{-,-,-,-,-,-,}{item_tier3_token,};
 0035{item_shivas_strom,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_radiance_prc,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
 0037{item_shivas_strom,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_radiance_prc,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
-0040{item_shivas_strom,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_radiance_prc,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_force_field,};
+0039{item_shivas_strom,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_radiance_prc,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_force_field,};
+0041{item_shivas_strom,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_radiance_prc,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_force_field,};
