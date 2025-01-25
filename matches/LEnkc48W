@@ -7,4 +7,5 @@
 0015{item_gladiator_guard,item_shivas_guard,item_rattlecage,item_ultimate_scepter,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 18{item_gladiator_guard,item_shivas_guard,item_rattlecage,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 21{item_gladiator_guard,item_shivas_guard,item_rattlecage,item_ultimate_scepter,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-24{item_gladiator_guard,item_shivas_guard,item_rattlecage,item_ultimate_scepter,item_satanic_of_madness,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+23{item_gladiator_guard,item_shivas_guard,item_rattlecage,item_ultimate_scepter,item_satanic_of_madness,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+25{item_gladiator_guard,item_shivas_guard,item_rattlecage,item_ultimate_scepter,item_satanic_of_madness,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_tier5_token,};
