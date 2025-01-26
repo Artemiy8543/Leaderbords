@@ -4,4 +4,5 @@
 7{item_yasha_and_kaya,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_yasha_and_kaya,item_octarine_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 12{item_yasha_and_kaya,item_octarine_core,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
-14{item_trident_custom,item_octarine_core,item_sange_and_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+13{item_kaya,item_octarine_core,item_sange_and_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
+0015{item_trident_custom,item_octarine_core,item_sange_and_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_faded_broach,};
