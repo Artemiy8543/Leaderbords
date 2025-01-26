@@ -5,4 +5,5 @@
 12{item_butterfly,item_satanic,item_lesser_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0014{item_butterfly,item_satanic_of_madness,item_great_crit_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0017{item_butterfly,item_satanic_of_madness,item_great_crit_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0020{item_butterfly,item_satanic_of_madness,item_great_crit_custom,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0019{item_butterfly,item_satanic_of_madness,item_great_crit_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0021{item_butterfly,item_satanic_of_madness,item_great_crit_custom3,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
