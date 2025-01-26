@@ -1,4 +1,5 @@
 11+76561198269224274=2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_mask_of_madness,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_mask_of_madness,item_sange_and_yasha,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+8{item_mask_of_madness,item_sange_and_yasha,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0010{item_mask_of_madness,item_sange_and_yasha,item_blink,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
