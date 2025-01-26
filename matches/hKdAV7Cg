@@ -24,4 +24,4 @@
 82{item_ballista,item_satanic_of_madness,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_lotus_cuirass,}{item_agi_book,item_hurricane_pike,-,}{-,-,-,-,-,-,}{item_apex,};
 115{item_bloodstone_shield,item_satanic_of_madness,item_lightning_sword,item_trident_custom,item_creep_desolator,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
 154{item_butterfly,item_satanic_of_madness,item_helm_of_the_overlord,item_trident_custom,item_creep_desolator,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
-157{item_butterfly,item_satanic_of_madness,-,item_trident_custom,item_creep_desolator,item_great_crit_custom3,}{item_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_apex,};
+158{item_butterfly,item_satanic_of_madness,-,item_trident_custom,item_creep_desolator,item_great_crit_custom3,}{item_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_apex,};
