@@ -3,3 +3,4 @@
 006{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_butterfly,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_butterfly,item_satanic,item_lesser_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_butterfly,item_satanic_of_madness,item_great_crit_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
