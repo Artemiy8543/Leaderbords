@@ -10,3 +10,4 @@
 24{item_butterfly,item_satanic_of_madness,item_great_crit_custom3,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0026{item_butterfly,item_satanic_of_madness,item_great_crit_custom3,item_trident_custom,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 38{item_butterfly,item_satanic_of_madness,item_great_crit_custom3,item_trident_custom,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+39{item_infinity_moon_shard,item_satanic_of_madness,item_great_magic_crit3,item_trident_custom,item_creep_desolator,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_apex,};
