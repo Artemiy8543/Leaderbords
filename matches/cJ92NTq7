@@ -2,3 +2,4 @@
 004{-,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_radiance,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_radiance,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_radiance_prc,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
