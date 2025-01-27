@@ -2,3 +2,4 @@
 2{item_ward_observer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_ward_observer,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 4{-,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+5{item_radiance,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
