@@ -4,4 +4,5 @@
 006{item_radiance,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_radiance_prc,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance_prc,item_attacker_midas_str,-,-,-,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
-11{item_radiance_prc,item_attacker_midas_str,item_heart,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+10{item_radiance_prc,item_attacker_midas_str,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+0012{item_radiance_prc,item_attacker_midas_str,item_gladiator_guard,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
