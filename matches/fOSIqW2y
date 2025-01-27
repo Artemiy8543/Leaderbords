@@ -1,4 +1,4 @@
 54+76561198109173233=1{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_str,item_relic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
-5{-,item_radiance,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+6{item_radiance_prc,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
