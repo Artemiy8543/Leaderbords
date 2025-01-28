@@ -5,4 +5,5 @@
 10{item_wraith_band,item_radiance_prc,item_ultimate_scepter,item_voodoo_mask,item_vitality_booster,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-0018{item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+0017{item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+19{item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
