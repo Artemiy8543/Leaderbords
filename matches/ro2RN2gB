@@ -8,4 +8,5 @@
 0017{item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 19{item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
 0021{item_bloodstone_shield,item_shivas_strom,item_ultimate_scepter,item_wraith_band,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
-24{item_bloodstone_shield,item_shivas_strom,item_ultimate_scepter,item_wraith_band,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+23{item_bloodstone_shield,item_shivas_strom,item_ultimate_scepter,item_wraith_band,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
+25{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_wraith_band,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_seeds_of_serenity,};
