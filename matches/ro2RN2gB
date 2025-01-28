@@ -35,4 +35,5 @@
 77{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_gladiator_guard,item_radiance_prc,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 78{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_gladiator_guard,item_radiance_prc,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 81{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_gladiator_guard,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-84{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_gladiator_guard,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+83{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_gladiator_guard,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+85{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_gladiator_guard,item_radiance_prc,item_trident_custom,}{item_tier4_token,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
