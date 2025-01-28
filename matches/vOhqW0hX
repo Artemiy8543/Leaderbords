@@ -2,4 +2,4 @@
 003{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_agi,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_attacker_midas_agi,item_radiance,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_attacker_midas_agi,item_radiance,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_attacker_midas_agi,item_radiance,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
