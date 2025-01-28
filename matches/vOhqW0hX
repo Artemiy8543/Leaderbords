@@ -1,4 +1,4 @@
 4+76561199435970439=001{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_attacker_midas_agi,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_attacker_midas_agi,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_attacker_midas_agi,item_radiance,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
