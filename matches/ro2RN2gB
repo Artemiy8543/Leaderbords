@@ -3,4 +3,5 @@
 006{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_wraith_band,item_radiance,item_urn_of_shadows,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_wraith_band,item_radiance_prc,item_ultimate_scepter,item_voodoo_mask,item_vitality_booster,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+0012{item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_bloodstone_shield,item_radiance_prc,item_ultimate_scepter,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
