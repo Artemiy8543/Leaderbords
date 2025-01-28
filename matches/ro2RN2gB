@@ -46,4 +46,4 @@
 109{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_gladiator_guard,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 00111{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_gladiator_guard,item_radiance_prc,item_trident_custom,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
 00113{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_gladiator_guard,item_radiance_prc,item_trident_custom,}{item_agi_book,item_str_book,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
-00114{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_gladiator_guard,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
+00115{item_bloodstone_shield,item_shivas_strom,item_manaback3,item_gladiator_guard,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
