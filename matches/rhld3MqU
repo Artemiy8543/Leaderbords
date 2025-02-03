@@ -4,3 +4,4 @@
 008{item_bloodstone_shield,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_bloodstone_shield,item_crimson_guard,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_bloodstone_shield,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0015{item_bloodstone_shield,item_gladiator_guard,item_shivas_strom,item_manaback3,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
