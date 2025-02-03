@@ -2,3 +2,4 @@
 3{item_broadsword,item_quelling_blade,item_cornucopia,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
 6{item_bfury,item_vladmir,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
+007{item_bfury,item_vladimir_pact,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_unstable_wand,};
