@@ -3,4 +3,4 @@
 6{item_bloodstone_shield,item_helm_of_iron_will,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_bloodstone_shield,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_bloodstone_shield,item_crimson_guard,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-27{item_bloodstone_shield,item_gladiator_guard,item_shivas_strom,item_manaback3,item_radiance_prc,item_lotus_cuirass,}{item_cloak_of_flames,-,-,}{-,-,-,-,-,-,}{item_apex,};
+28{item_bloodstone_shield,item_gladiator_guard,item_shivas_strom,item_manaback3,item_radiance_prc,item_lotus_cuirass,}{item_cloak_of_flames,-,-,}{-,-,-,-,-,-,}{item_apex,};
