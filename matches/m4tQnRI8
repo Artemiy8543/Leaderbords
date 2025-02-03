@@ -2,3 +2,4 @@
 002{-,-,-,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_kaya,-,-,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_kaya,item_gloves,item_null_talisman,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_kaya,item_gloves,item_attacker_midas_int,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
