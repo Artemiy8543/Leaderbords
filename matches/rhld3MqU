@@ -7,4 +7,4 @@
 0016{item_bloodstone_shield,item_gladiator_guard,item_shivas_strom,item_manaback3,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 18{item_bloodstone_shield,item_gladiator_guard,item_shivas_strom,item_manaback3,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 19{item_bloodstone_shield,item_gladiator_guard,item_shivas_strom,item_manaback3,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier3_token,};
-21{item_bloodstone_shield,item_gladiator_guard,item_shivas_strom,item_manaback3,item_radiance_prc,item_lotus_cuirass,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+22{item_bloodstone_shield,item_gladiator_guard,item_shivas_strom,item_manaback3,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
