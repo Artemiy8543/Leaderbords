@@ -2,3 +2,4 @@
 006{item_attacker_midas_str,item_crimson_guard,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_attacker_midas_str,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_attacker_midas_str,item_gladiator_guard,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
+11{item_attacker_midas_str,item_gladiator_guard,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_tier1_token,};
