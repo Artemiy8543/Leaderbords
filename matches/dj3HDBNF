@@ -10,4 +10,4 @@
 21{item_attacker_midas_str,item_gladiator_guard,item_refresher_core,item_vampire_fangs,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_doubloon,};
 22{item_attacker_midas_str,item_gladiator_guard,item_refresher_core,item_vampire_fangs,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_doubloon,};
 24{item_radiance_prc,item_gladiator_guard,item_refresher_core,item_vampire_fangs,item_trident_custom,item_phylactery_blade,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{item_doubloon,};
-25{item_attacker_midas_str,item_gladiator_guard,item_refresher_core,item_bloodstone_shield,item_trident_custom,-,}{-,-,item_phylactery_blade,}{-,-,-,-,-,-,}{item_doubloon,};
+26{item_attacker_midas_str,item_gladiator_guard,item_refresher_core,item_bloodstone_shield,item_trident_custom,-,}{-,-,item_phylactery_blade,}{-,-,-,-,-,-,}{item_doubloon,};
