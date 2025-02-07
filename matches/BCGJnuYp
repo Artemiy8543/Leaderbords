@@ -2,4 +2,4 @@
 4{item_smoke_of_deceit,-,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_smoke_of_deceit,item_kaya,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{-,item_magic_crit,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{-,item_magic_crit,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_aether_lens,item_magic_crit,item_phase_boots,item_ghost,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
