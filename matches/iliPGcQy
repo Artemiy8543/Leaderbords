@@ -7,4 +7,4 @@
 0014{item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0017{item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0019{item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-21{item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+22{item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_timeless_relic,};
