@@ -2,3 +2,4 @@
 003{item_orb_of_corrosion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_corrosion_blade,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_corrosion_blade,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_corrosion_blade,item_maelstrom,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
