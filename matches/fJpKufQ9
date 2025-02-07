@@ -3,4 +3,5 @@
 4{item_corrosion_blade,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_corrosion_blade,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_corrosion_blade,item_maelstrom,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_corrosion_blade,item_maelstrom,item_voodoo_mask,item_energy_booster,item_point_booster,item_void_stone,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_corrosion_blade,item_maelstrom,item_voodoo_mask,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_corrosion_blade,item_maelstrom,item_bloodstone,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
