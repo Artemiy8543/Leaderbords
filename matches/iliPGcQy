@@ -4,4 +4,5 @@
 006{item_ghost,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_ghost,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_phylactery_blade,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0015{item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_phylactery_blade,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_great_magic_crit2,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
