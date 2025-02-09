@@ -8,4 +8,4 @@
 20{item_radiance_prc,item_refresher_core,item_ultimate_scepter,item_gladiator_guard,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0023{item_radiance_prc,item_refresher_core,item_ultimate_scepter,item_gladiator_guard,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0025{item_radiance_prc,item_refresher_core,item_shivas_strom,item_gladiator_guard,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-27{item_radiance_prc,item_refresher_core,item_shivas_strom,item_gladiator_guard,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+28{item_radiance_prc,item_refresher_core,item_shivas_strom,item_gladiator_guard,item_great_magic_crit3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_octarine_core,};
