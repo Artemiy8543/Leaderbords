@@ -3,4 +3,4 @@
 006{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_radiance_prc,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_radiance_prc,item_refresher_core,item_ultimate_scepter,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_radiance_prc,item_refresher_core,item_ultimate_scepter,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
