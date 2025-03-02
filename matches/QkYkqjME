@@ -3,4 +3,4 @@
 4{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bloodstone_shield,item_javelin,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_bloodstone_shield,item_maelstrom,item_gloves,item_helm_of_iron_will,item_blades_of_attack,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_bloodstone_shield,item_maelstrom,item_armlet,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_bloodstone_shield,item_armlet_of_mjolnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
