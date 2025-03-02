@@ -5,4 +5,4 @@
 006{item_bloodstone_shield,item_maelstrom,item_gloves,item_helm_of_iron_will,item_blades_of_attack,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone_shield,item_armlet_of_mjolnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_bloodstone_shield,item_armlet_of_mjolnir,item_revenants_brooch,item_kaya_and_sange,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0012{item_bloodstone_shield,item_armlet_of_mjolnir,item_trident_custom,item_revenants_brooch,item_moon_shard,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_bloodstone_shield,item_armlet_of_mjolnir,item_trident_custom,item_revenants_brooch,item_infinity_moon_shard,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{-,};
