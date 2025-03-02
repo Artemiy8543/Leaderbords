@@ -2,3 +2,4 @@
 002{item_voodoo_mask,item_energy_booster,item_vitality_booster,item_void_stone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bloodstone_shield,item_javelin,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_bloodstone_shield,item_maelstrom,item_gloves,item_helm_of_iron_will,item_blades_of_attack,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
