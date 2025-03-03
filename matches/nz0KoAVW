@@ -2,4 +2,4 @@
 2{item_attacker_midas_agi,item_blade_of_alacrity,item_boots_of_elves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_agi,item_trident_custom,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-008{item_attacker_midas_agi,item_trident_custom,item_ultimate_scepter,item_great_magic_crit,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_attacker_midas_agi,item_trident_custom,item_ultimate_scepter,item_great_magic_crit,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
