@@ -20,4 +20,4 @@
 0038{item_radiance_prc,item_bloodstone_shield,item_manaback,item_gladiator_guard,item_phylactery_blade,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 41{item_radiance_prc,item_bloodstone_shield,item_manaback,item_gladiator_guard,item_phylactery_blade,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 0045{item_radiance_prc,item_bloodstone_shield,item_manaback,item_gladiator_guard,item_phylactery_blade,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
-47{item_radiance_prc,item_bloodstone_shield,item_manaback,item_gladiator_guard,item_phylactery_blade,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_doubloon,};
+48{item_radiance_prc,item_bloodstone_shield,item_manaback,item_gladiator_guard,item_phylactery_blade,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_doubloon,};
