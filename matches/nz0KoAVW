@@ -5,5 +5,5 @@
 009{item_attacker_midas_agi,item_trident_custom,item_ultimate_scepter,item_great_magic_crit,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit,item_creep_desolator,item_satanic_of_madness,}{item_hyperstone,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit3,item_creep_desolator,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit3,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-14{item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit3,item_creep_desolator,-,}{item_psychic_headband,-,-,}{-,-,-,-,-,-,}{item_ballista,};
+13{item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit3,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+15{item_attacker_midas_agi,item_trident_custom,item_infinity_moon_shard,item_great_magic_crit3,item_creep_desolator,-,}{item_ballista,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
