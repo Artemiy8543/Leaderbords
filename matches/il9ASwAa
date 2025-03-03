@@ -6,3 +6,4 @@
 009{item_vanguard,item_bloodstone,item_assault,item_pers,item_platemail,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_vanguard,item_bloodstone_shield,item_lotus_cuirass,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_vanguard,item_bloodstone_shield,item_lotus_cuirass,item_ultimate_scepter,item_ring_of_tarrasque,item_reaver,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_vanguard,item_bloodstone_shield,item_lotus_cuirass,item_ultimate_scepter,item_heart,item_helm_of_iron_will,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
