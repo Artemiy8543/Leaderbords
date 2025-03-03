@@ -6,4 +6,5 @@
 009{item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,item_great_crit_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,item_great_crit_custom2,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,item_great_crit_custom2,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0016{item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,item_great_crit_custom2,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+0015{item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,item_great_crit_custom2,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+17{item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,item_great_crit_custom2,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
