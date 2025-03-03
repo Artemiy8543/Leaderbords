@@ -24,4 +24,5 @@
 00137{item_attacker_midas_agi,item_trident_custom,item_satanic_of_madness,item_revenants_brooch,item_great_magic_crit3,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 00140{item_attacker_midas_agi,item_trident_custom,item_satanic_of_madness,item_revenants_brooch,item_great_magic_crit3,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
 00141{item_attacker_midas_agi,item_trident_custom,item_satanic_of_madness,item_revenants_brooch,item_great_magic_crit3,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
-00144{item_attacker_midas_agi,item_trident_custom,item_devastator,item_revenants_brooch,item_great_magic_crit3,item_great_crit_custom3,}{-,-,item_paladin_sword,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+00143{item_attacker_midas_agi,item_trident_custom,item_devastator,item_revenants_brooch,item_great_magic_crit3,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+145{item_attacker_midas_agi,item_trident_custom,item_devastator,item_revenants_brooch,item_great_magic_crit3,item_great_crit_custom3,}{-,-,item_paladin_sword,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
