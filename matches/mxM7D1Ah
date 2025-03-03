@@ -32,4 +32,4 @@
 159{item_attacker_midas_agi,item_trident_custom,item_devastator,item_revenants_brooch,item_great_magic_crit3,item_great_crit_custom3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 162{item_attacker_midas_agi,item_trident_custom,item_devastator,item_revenants_brooch,item_great_magic_crit3,item_great_crit_custom3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 165{item_attacker_midas_agi,item_trident_custom,item_devastator,item_revenants_brooch,item_great_magic_crit3,item_great_crit_custom3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-00168{item_attacker_midas_agi,item_trident_custom,item_devastator,item_revenants_brooch,item_great_magic_crit3,item_skadi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+00169{item_attacker_midas_agi,item_trident_custom,item_devastator,item_revenants_brooch,item_great_magic_crit3,item_skadi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
