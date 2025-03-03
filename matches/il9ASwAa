@@ -9,4 +9,4 @@
 13{item_vanguard,item_bloodstone_shield,item_lotus_cuirass,item_ultimate_scepter,item_heart,item_helm_of_iron_will,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 15{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 17{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0019{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0020{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,-,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
