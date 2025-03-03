@@ -4,3 +4,4 @@
 004{item_attacker_midas_int,item_ogre_axe,item_point_booster,item_staff_of_wizardry,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_attacker_midas_int,item_ultimate_scepter,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_int,item_ultimate_scepter,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_attacker_midas_int,item_ultimate_scepter,item_heart,item_radiance,item_urn_of_shadows,item_vitality_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
