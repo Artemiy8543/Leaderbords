@@ -38,5 +38,6 @@
 176{item_attacker_midas_agi,item_trident_custom,item_shivas_strom,item_revenants_brooch,item_great_magic_crit3,item_skadi,}{item_agi_book,item_devastator,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 00177{item_devastator,item_trident_custom,item_shivas_strom,item_revenants_brooch,item_great_magic_crit3,item_skadi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 178{item_devastator,item_trident_custom,item_shivas_strom,item_revenants_brooch,item_great_magic_crit3,item_skadi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
-180{item_devastator,item_trident_custom,item_shivas_strom,item_revenants_brooch,item_great_magic_crit3,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
-182{item_devastator,item_trident_custom,item_shivas_strom,item_revenants_brooch,item_great_magic_crit3,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+179{item_devastator,item_trident_custom,item_shivas_strom,item_revenants_brooch,item_great_magic_crit3,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+181{item_devastator,item_trident_custom,item_shivas_strom,item_revenants_brooch,item_great_magic_crit3,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+183{item_devastator,item_trident_custom,item_shivas_strom,item_revenants_brooch,item_great_magic_crit3,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
