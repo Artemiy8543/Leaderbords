@@ -4,4 +4,4 @@
 7{item_vanguard,item_bloodstone,item_platemail,item_hyperstone,item_buckler,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_vanguard,item_bloodstone,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_vanguard,item_bloodstone,item_assault,item_pers,item_platemail,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_vanguard,item_bloodstone,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_vanguard,item_bloodstone_shield,item_lotus_cuirass,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
