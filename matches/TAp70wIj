@@ -2,3 +2,4 @@
 2{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_attacker_midas_int,item_ogre_axe,item_point_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_int,item_ogre_axe,item_point_booster,item_staff_of_wizardry,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_attacker_midas_int,item_ultimate_scepter,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
