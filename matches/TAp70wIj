@@ -5,5 +5,6 @@
 005{item_attacker_midas_int,item_ultimate_scepter,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_int,item_ultimate_scepter,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_int,item_ultimate_scepter,item_heart,item_radiance,item_urn_of_shadows,item_vitality_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_attacker_midas_int,item_ultimate_scepter,item_heart,item_radiance_prc,-,item_ethereal_blade,}{item_recipe_phylactery,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_attacker_midas_int,item_ultimate_scepter,item_heart,item_radiance_prc,item_phylactery_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_int,item_ultimate_scepter,item_heart,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_attacker_midas_int,item_ultimate_scepter,item_heart,item_radiance_prc,item_phylactery_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_attacker_midas_int,item_ultimate_scepter,item_heart,item_radiance_prc,item_phylactery_blade,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
