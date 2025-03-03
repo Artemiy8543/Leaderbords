@@ -8,4 +8,5 @@
 8{item_attacker_midas_int,item_ultimate_scepter,item_heart,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_attacker_midas_int,item_ultimate_scepter,item_heart,item_radiance_prc,item_phylactery_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_attacker_midas_int,item_ultimate_scepter,item_heart,item_radiance_prc,item_phylactery_blade,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-15{item_attacker_midas_int,item_bloodstone_shield,item_heart,item_radiance_prc,item_phylactery_blade,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_attacker_midas_int,item_bloodstone,item_heart,item_radiance_prc,item_phylactery_blade,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_attacker_midas_int,item_bloodstone_shield,item_heart,item_radiance_prc,item_phylactery_blade,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
