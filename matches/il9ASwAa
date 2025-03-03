@@ -2,3 +2,4 @@
 002{item_vanguard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_vanguard,item_voodoo_mask,item_vitality_booster,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_vanguard,item_bloodstone,item_platemail,item_hyperstone,item_buckler,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_vanguard,item_bloodstone,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
