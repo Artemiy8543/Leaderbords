@@ -32,3 +32,4 @@
 00113{item_gladiator_guard,item_blade_midas,item_lotus_cuirass,item_manaback3,item_trident_custom,item_bloodstone_shield,}{item_lightning_sword,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 157{item_gladiator_guard,item_blade_midas,item_lotus_cuirass,item_lightning_sword,item_trident_custom,item_bloodstone_shield,}{item_manaback3,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 159{item_gladiator_guard,item_blade_midas,item_lotus_cuirass,item_lightning_sword,item_trident_custom,item_bloodstone_shield,}{item_manaback3,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+160{item_gladiator_guard,item_blade_midas,item_lotus_cuirass,item_lightning_sword,item_trident_custom,item_bloodstone_shield,}{item_manaback3,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
