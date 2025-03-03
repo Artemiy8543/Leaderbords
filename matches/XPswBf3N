@@ -2,3 +2,4 @@
 3{item_attacker_midas_agi,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_mask_of_madness,item_mask_of_madness,item_platemail,item_buckler,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_attacker_midas_agi,item_mask_of_madness,item_mask_of_madness,item_assault,item_pers,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
