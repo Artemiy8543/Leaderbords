@@ -3,4 +3,5 @@
 4{item_attacker_midas_agi,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_mask_of_madness,item_mask_of_madness,item_platemail,item_buckler,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_agi,item_mask_of_madness,item_mask_of_madness,item_assault,item_pers,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_attacker_midas_agi,item_satanic_of_madness,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_attacker_midas_agi,item_satanic_of_madness,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_attacker_midas_agi,item_satanic_of_madness,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
