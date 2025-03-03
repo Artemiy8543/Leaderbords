@@ -1,4 +1,5 @@
 94+76561198892134970=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_agi,item_blade_of_alacrity,item_boots_of_elves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_attacker_midas_agi,item_trident_custom,item_ultimate_scepter,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_attacker_midas_agi,item_trident_custom,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_attacker_midas_agi,item_trident_custom,item_ultimate_scepter,item_great_magic_crit,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
