@@ -7,3 +7,4 @@
 8{item_radiance_prc,item_manaback2,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance_prc,item_manaback3,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_radiance_prc,item_manaback3,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_radiance_prc,item_manaback3,item_bloodstone_shield,item_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
