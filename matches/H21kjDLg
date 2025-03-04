@@ -9,4 +9,5 @@
 10{item_radiance_prc,item_manaback3,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_radiance_prc,item_manaback3,item_bloodstone_shield,item_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_radiance_prc,item_manaback3,item_bloodstone_shield,item_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-14{item_radiance_prc,item_manaback3,item_bloodstone_shield,item_trident_custom,item_maelstrom,item_helm_of_iron_will,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+13{item_radiance_prc,item_manaback3,item_bloodstone_shield,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+0015{item_radiance_prc,item_manaback3,item_bloodstone_shield,item_shivas_strom,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
