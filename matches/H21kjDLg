@@ -6,3 +6,4 @@
 007{item_radiance_prc,item_manaback,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_radiance_prc,item_manaback2,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance_prc,item_manaback3,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_radiance_prc,item_manaback3,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
