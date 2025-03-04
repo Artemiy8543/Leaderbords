@@ -17,4 +17,4 @@
 0024{item_radiance_prc,item_manaback3,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 26{item_radiance_prc,item_manaback3,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 0028{item_radiance_prc,item_manaback3,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-30{item_radiance_prc,item_manaback3,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+31{item_radiance_prc,item_manaback3,item_bloodstone_shield,item_infinity_moon_shard,item_lotus_cuirass,item_trident_custom,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
