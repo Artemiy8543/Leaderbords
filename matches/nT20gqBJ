@@ -15,4 +15,5 @@
 0023{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_infinity_moon_shard,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_hyperstone,-,-,}{item_lotus_cuirass,};
 0027{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
 32{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
-0038{item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
+0037{item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
+39{item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_infinity_moon_shard,}{item_bfury,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
