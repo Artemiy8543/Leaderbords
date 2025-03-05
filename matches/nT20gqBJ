@@ -8,4 +8,4 @@
 9{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
-0014{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
+0015{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
