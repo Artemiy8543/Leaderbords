@@ -21,4 +21,5 @@
 53{item_bfury,item_satanic_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_infinity_moon_shard,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
 136{item_bfury,item_satanic_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
 00139{item_bfury,item_satanic_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
-144{item_bfury,item_satanic_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
+143{item_bfury,item_satanic_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_armlet,}{item_maelstrom,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
+145{item_bfury,item_satanic_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit3,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_lotus_cuirass,};
