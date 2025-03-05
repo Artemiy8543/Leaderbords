@@ -4,3 +4,4 @@
 4{item_attacker_midas_agi,item_mask_of_madness,item_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,item_revenants_brooch,item_lesser_crit,item_staff_of_wizardry,}{item_robe,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,item_revenants_brooch,item_great_magic_crit2,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
