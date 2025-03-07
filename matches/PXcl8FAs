@@ -6,4 +6,4 @@
 8{item_heart,item_ultimate_scepter,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_heart,item_ultimate_scepter,item_vladmir,item_voodoo_mask,item_void_stone,item_vitality_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_bloodstone,item_ultimate_scepter,item_vladmir,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_bloodstone,item_ultimate_scepter,item_vladmir,item_heart,item_radiance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_bloodstone,item_ultimate_scepter,item_vladmir,item_heart,item_radiance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
