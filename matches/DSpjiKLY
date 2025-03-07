@@ -6,3 +6,4 @@
 7{item_branches,item_tango,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_branches,item_tango,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_branches,item_tango,item_vladmir,item_hyperstone,item_buckler,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_branches,item_tango,item_vladmir,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
