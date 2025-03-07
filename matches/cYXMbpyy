@@ -4,3 +4,4 @@
 5{item_midas_component,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_midas_component,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_midas_component,item_heart,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_midas_component,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
