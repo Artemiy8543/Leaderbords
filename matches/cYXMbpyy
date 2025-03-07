@@ -65,4 +65,4 @@
 00167{item_great_crit_custom3,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_manaback3,-,item_blade_midas,}{-,-,-,-,-,-,}{item_desolator_2,};
 00168{item_great_crit_custom3,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_manaback3,-,item_blade_midas,}{-,-,-,-,-,-,}{item_desolator_2,};
 00170{item_great_crit_custom3,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_manaback3,-,item_blade_midas,}{-,-,-,-,-,-,}{item_desolator_2,};
-00171{item_great_crit_custom3,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_manaback3,item_desolator_2,item_blade_midas,}{-,-,-,-,-,-,}{item_rattlecage,};
+00173{item_great_crit_custom3,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_manaback3,item_desolator_2,item_blade_midas,}{-,-,-,-,-,-,}{item_rattlecage,};
