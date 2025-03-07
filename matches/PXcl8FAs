@@ -8,4 +8,4 @@
 10{item_bloodstone,item_ultimate_scepter,item_vladmir,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_bloodstone,item_ultimate_scepter,item_vladmir,item_heart,item_radiance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_gladiator_guard,item_bloodstone,item_vladmir,item_ultimate_scepter,item_radiance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-15{item_gladiator_guard,item_bloodstone,item_vladimir_pact,item_ultimate_scepter,item_radiance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_gladiator_guard,item_bloodstone,item_vladimir_pact,item_ultimate_scepter,item_radiance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
