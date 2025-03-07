@@ -4,4 +4,4 @@
 7{item_blade_midas,item_vladimir_pact,item_heart,item_vanguard,item_helm_of_iron_will,-,}{-,item_recipe_gladiator_guard,-,}{-,-,-,-,-,-,}{-,};
 009{item_blade_midas,item_vladimir_pact,item_gladiator_guard,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_blade_midas,item_vladimir_pact,item_gladiator_guard,item_creep_desolator,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-14{item_blade_midas,item_vladimir_pact,item_gladiator_guard,item_creep_desolator,item_great_crit_custom3,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_blade_midas,item_vladimir_pact,item_gladiator_guard,item_creep_desolator,item_great_crit_custom3,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
