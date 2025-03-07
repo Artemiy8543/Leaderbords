@@ -4,3 +4,4 @@
 006{item_heart,item_ogre_axe,item_staff_of_wizardry,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_heart,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_heart,item_ultimate_scepter,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_heart,item_ultimate_scepter,item_vladmir,item_voodoo_mask,item_void_stone,item_vitality_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
