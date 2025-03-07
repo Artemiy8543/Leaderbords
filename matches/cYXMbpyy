@@ -74,5 +74,6 @@
 190{item_radiance_prc,item_creep_desolator,item_great_magic_crit3,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_great_magic_crit3,-,item_blade_midas,}{-,-,-,-,-,-,}{item_bloodstone_shield,};
 192{item_radiance_prc,item_creep_desolator,item_great_magic_crit3,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_great_magic_crit3,-,item_blade_midas,}{-,-,-,-,-,-,}{item_bloodstone_shield,};
 196{item_radiance_prc,item_creep_desolator,item_great_magic_crit3,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_great_magic_crit3,-,item_blade_midas,}{-,-,-,-,-,-,}{item_bloodstone_shield,};
-201{item_radiance_prc,item_creep_desolator,item_great_magic_crit3,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_great_magic_crit3,-,item_blade_midas,}{-,-,-,-,-,-,}{item_bloodstone_shield,};
-203{item_radiance_prc,item_creep_desolator,item_great_magic_crit3,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_great_magic_crit3,-,item_blade_midas,}{-,-,-,-,-,-,}{item_bloodstone_shield,};
+199{item_radiance_prc,item_creep_desolator,item_great_magic_crit3,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_great_magic_crit3,-,item_blade_midas,}{-,-,-,-,-,-,}{item_bloodstone_shield,};
+202{item_radiance_prc,item_creep_desolator,item_great_magic_crit3,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_great_magic_crit3,-,item_blade_midas,}{-,-,-,-,-,-,}{item_bloodstone_shield,};
+204{item_radiance_prc,item_creep_desolator,item_great_magic_crit3,item_trident_custom,item_great_magic_crit3,item_manaback3,}{item_great_magic_crit3,-,item_blade_midas,}{-,-,-,-,-,-,}{item_bloodstone_shield,};
