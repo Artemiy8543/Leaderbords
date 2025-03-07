@@ -7,3 +7,4 @@
 008{item_midas_component,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_midas_component,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_midas_component,item_gladiator_guard,item_ultimate_scepter,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_midas_component,item_gladiator_guard,item_ultimate_scepter,item_trident_custom,item_vladmir,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
