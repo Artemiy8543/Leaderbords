@@ -16,5 +16,5 @@
 0024{item_midas_component,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_vladimir_pact,item_bfury,-,}{-,-,-,-,-,-,}{-,};
 0027{item_midas_component,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_vladimir_pact,item_bfury,-,}{-,-,-,-,-,-,}{-,};
 0029{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_vladimir_pact,item_bfury,-,}{-,-,-,-,-,-,}{-,};
-31{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_vladimir_pact,item_bfury,-,}{-,-,-,-,-,-,}{-,};
-33{item_bfury,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_vladimir_pact,item_blade_midas,-,}{-,-,-,-,-,-,}{-,};
+32{item_bfury,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_vladimir_pact,item_blade_midas,-,}{-,-,-,-,-,-,}{-,};
+34{item_manaback3,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_vladimir_pact,item_blade_midas,-,}{-,-,-,-,-,-,}{-,};
