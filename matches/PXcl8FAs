@@ -12,4 +12,5 @@
 18{item_gladiator_guard,item_bloodstone,item_vladimir_pact,item_ultimate_scepter,item_radiance,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0019{item_gladiator_guard,item_bloodstone_shield,item_vladimir_pact,item_bfury,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_gladiator_guard,item_bloodstone_shield,item_vladimir_pact,item_bfury,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-24{item_gladiator_guard,item_bloodstone_shield,item_vladimir_pact,-,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+23{item_gladiator_guard,item_bloodstone_shield,item_vladimir_pact,-,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+25{item_gladiator_guard,item_bloodstone_shield,item_vladimir_pact,-,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
