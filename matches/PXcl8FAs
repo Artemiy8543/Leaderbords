@@ -30,4 +30,4 @@
 52{item_gladiator_guard,item_bloodstone_shield,item_vladimir_pact,item_trident_custom,item_radiance_prc,item_great_magic_crit3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 54{item_gladiator_guard,item_bloodstone_shield,item_vladimir_pact,item_trident_custom,item_radiance_prc,item_great_magic_crit3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 56{item_gladiator_guard,item_bloodstone_shield,item_vladimir_pact,item_trident_custom,item_radiance_prc,item_great_magic_crit3,}{item_agi_book,item_creep_desolator,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-0057{item_gladiator_guard,item_bloodstone_shield,item_vladimir_pact,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{item_agi_book,-,-,}{item_radiance_prc,-,-,-,-,-,}{item_desolator_2,};
+0058{item_gladiator_guard,item_bloodstone_shield,item_vladimir_pact,item_trident_custom,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
