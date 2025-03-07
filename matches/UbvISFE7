@@ -1,4 +1,5 @@
 108+76561198173587522=1{-,-,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_vladmir,-,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_vladmir,-,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_vladimir_pact,item_ring_of_tarrasque,item_midas_component,item_vanguard,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_vladimir_pact,-,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_vladimir_pact,item_ring_of_tarrasque,item_midas_component,item_vanguard,item_helm_of_iron_will,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
