@@ -2,4 +2,5 @@
 3{item_vladmir,-,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_vladmir,-,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vladimir_pact,-,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_vladimir_pact,item_gladiator_guard,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_vladimir_pact,item_ring_of_tarrasque,item_midas_component,item_vanguard,item_helm_of_iron_will,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_vladimir_pact,item_gladiator_guard,item_midas_component,item_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
