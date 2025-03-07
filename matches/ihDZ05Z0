@@ -4,5 +4,5 @@
 6{item_quelling_blade,item_vladmir,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_quelling_blade,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_quelling_blade,item_vladmir,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_quelling_blade,item_vladmir,item_assault,item_maelstrom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_bfury,item_vladmir,item_assault,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_quelling_blade,item_vladmir,item_assault,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{-,item_vladmir,item_assault,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
