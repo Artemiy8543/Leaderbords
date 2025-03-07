@@ -48,3 +48,4 @@
 82{item_manaback3,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{-,item_blade_midas,item_shivas_strom,}{-,-,-,-,-,-,}{-,};
 85{item_manaback3,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{-,item_blade_midas,item_shivas_strom,}{-,-,-,-,-,-,}{-,};
 93{item_manaback3,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{-,item_blade_midas,item_shivas_strom,}{-,-,-,-,-,-,}{-,};
+95{item_manaback3,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_creep_desolator,}{item_agi_book,item_blade_midas,item_shivas_strom,}{-,-,-,-,-,-,}{item_desolator_2,};
