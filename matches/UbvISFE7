@@ -3,4 +3,4 @@
 4{item_vladmir,-,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vladimir_pact,-,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_vladimir_pact,item_gladiator_guard,item_midas_component,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_vladimir_pact,item_gladiator_guard,item_midas_component,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_vladimir_pact,item_gladiator_guard,item_midas_component,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
