@@ -5,4 +5,4 @@
 006{item_midas_component,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_midas_component,item_heart,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_midas_component,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_midas_component,item_gladiator_guard,item_ogre_axe,item_staff_of_wizardry,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_midas_component,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
