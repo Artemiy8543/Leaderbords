@@ -7,4 +7,4 @@
 9{item_attacker_midas_int,item_sange_and_yasha,item_trident_custom,-,-,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
 11{item_attacker_midas_int,item_sange_and_yasha,item_trident_custom,item_phylactery_blade,-,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
 13{item_attacker_midas_int,item_sange_and_yasha,item_trident_custom,item_phylactery_blade,-,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
-16{item_attacker_midas_int,item_sange_and_yasha,item_trident_custom,item_phylactery_blade,item_bloodstone_shield,item_armlet_of_mjolnir,}{item_infinity_moon_shard,item_infinity_moon_shard,item_moon_shard,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
+17{item_attacker_midas_int,item_sange_and_yasha,item_trident_custom,item_phylactery_blade,item_bloodstone_shield,item_armlet_of_mjolnir,}{-,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
