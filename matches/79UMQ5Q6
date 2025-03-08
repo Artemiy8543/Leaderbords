@@ -6,4 +6,4 @@
 9{item_gladiator_guard,item_bloodstone_shield,item_desolator,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 11{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 15{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-19{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+20{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
