@@ -2,4 +2,4 @@
 3{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 5{item_creep_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 7{item_creep_desolator,item_vladimir_pact,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
-9{item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+10{item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
