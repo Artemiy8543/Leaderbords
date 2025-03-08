@@ -2,6 +2,6 @@
 3{-,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{-,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{-,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_butterfly,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_butterfly,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_butterfly,item_moon_shard,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_butterfly,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_butterfly,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_butterfly,item_moon_shard,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
