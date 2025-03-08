@@ -1,3 +1,4 @@
 73+76561198370465414=1{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_attacker_midas_str,item_broadsword,item_chainmail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_attacker_midas_str,-,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_attacker_midas_str,-,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_attacker_midas_str,item_heart,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
