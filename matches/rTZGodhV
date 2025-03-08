@@ -3,3 +3,4 @@
 3{item_attacker_midas_str,-,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_str,item_heart,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_str,item_heart,item_kaya_and_sange,item_blade_mail,item_blade_of_alacrity,-,}{item_recipe_trident_custom,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_str,item_heart,item_trident_custom,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
