@@ -1,3 +1,4 @@
 93+76561198173587522=5{item_attacker_midas_agi,item_gladiator_guard,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_bfury,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_bfury,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
