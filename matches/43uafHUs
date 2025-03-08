@@ -4,4 +4,4 @@
 006{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 8{item_gladiator_guard,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 10{item_gladiator_guard,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
-21{item_gladiator_guard,item_creep_desolator,item_shivas_strom,item_great_crit_custom3,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+22{item_gladiator_guard,item_creep_desolator,item_shivas_strom,item_great_crit_custom3,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
