@@ -1,4 +1,4 @@
 108+76561198173587522=1{item_midas_component,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_midas_component,item_broadsword,item_chainmail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_mithril_hammer,item_blight_stone,item_helm_of_iron_will,-,-,-,}{item_recipe_helm_of_the_dominator,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
-006{item_creep_desolator,item_vladmir,item_buckler,item_ring_of_basilius,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+3{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+5{item_creep_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+7{item_creep_desolator,item_vladimir_pact,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
