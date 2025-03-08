@@ -6,4 +6,4 @@
 0010{item_attacker_midas_str,item_vladimir_pact,item_creep_desolator,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_attacker_midas_str,item_vladimir_pact,item_creep_desolator,item_gladiator_guard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_attacker_midas_str,item_vladimir_pact,item_creep_desolator,item_gladiator_guard,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-20{item_attacker_midas_str,item_vladimir_pact,item_creep_desolator,item_gladiator_guard,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+21{item_attacker_midas_str,item_vladimir_pact,item_creep_desolator,item_gladiator_guard,item_infinity_moon_shard,item_lesser_crit,}{item_demon_edge,-,-,}{-,-,-,-,-,-,}{-,};
