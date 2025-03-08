@@ -5,4 +5,4 @@
 9{item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 0012{item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,item_infinity_moon_shard,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 15{item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
-0019{item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,item_infinity_moon_shard,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+0020{item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,item_infinity_moon_shard,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
