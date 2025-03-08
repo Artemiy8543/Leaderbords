@@ -1,4 +1,5 @@
 96+76561198173587522=1{item_midas_component,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 004{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
-007{item_gladiator_guard,item_desolator,item_helm_of_iron_will,item_diadem,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+006{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+8{item_gladiator_guard,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
