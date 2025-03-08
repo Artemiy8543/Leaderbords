@@ -14,3 +14,4 @@
 23{item_butterfly,item_moon_shard,item_great_crit_custom3,item_phylactery_blade,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0025{item_butterfly,item_moon_shard,item_great_crit_custom3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{item_phylactery_blade,-,-,}{-,-,-,-,-,-,}{-,};
 0027{item_butterfly,-,item_great_crit_custom3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{item_phylactery_blade,-,-,}{-,-,-,-,-,-,}{-,};
+28{item_butterfly,-,item_great_crit_custom3,item_trident_custom,item_creep_desolator,item_attacker_midas_agi,}{item_phylactery_blade,-,-,}{-,-,-,-,-,-,}{-,};
