@@ -3,4 +3,5 @@
 003{item_ring_of_tarrasque,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 5{item_heart,item_vanguard,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 007{item_gladiator_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-10{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+9{item_gladiator_guard,item_bloodstone_shield,item_desolator,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+11{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
