@@ -4,4 +4,4 @@
 006{item_mjollnir,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_mjollnir,item_sange_and_yasha,item_kaya,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_mjollnir,item_sange_and_yasha,item_trident_custom,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
-9{item_attacker_midas_int,item_sange_and_yasha,item_trident_custom,-,-,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
+10{item_attacker_midas_int,item_sange_and_yasha,item_trident_custom,item_phylactery_blade,-,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
