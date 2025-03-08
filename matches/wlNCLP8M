@@ -5,3 +5,4 @@
 006{item_trident_custom,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 8{item_trident_custom,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 10{item_trident_custom,item_creep_desolator,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+11{item_trident_custom,item_creep_desolator,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
