@@ -15,4 +15,4 @@
 33{item_attacker_midas_str,item_gladiator_guard,item_trident_custom,item_bfury,item_lotus_cuirass,item_refresher_core,}{item_blade_mail,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{-,};
 40{item_attacker_midas_str,item_gladiator_guard,item_trident_custom,item_bfury,item_lotus_cuirass,item_refresher_core,}{item_blade_mail,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 0048{item_attacker_midas_str,item_gladiator_guard,item_trident_custom,item_infinity_moon_shard,item_lotus_cuirass,item_refresher_core,}{item_blade_mail,-,item_bfury,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-54{item_attacker_midas_str,item_gladiator_guard,item_trident_custom,item_infinity_moon_shard,item_lotus_cuirass,item_refresher_core,}{item_blade_mail,item_str_book,item_bfury,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+55{item_attacker_midas_str,item_gladiator_guard,item_trident_custom,item_infinity_moon_shard,item_lotus_cuirass,item_refresher_core,}{item_blade_mail,item_str_book,item_bfury,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
