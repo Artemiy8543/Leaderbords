@@ -2,3 +2,4 @@
 002{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 4{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 005{item_sange_and_yasha,item_boots_of_elves,-,-,-,-,}{item_recipe_trident_custom,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+006{item_trident_custom,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
