@@ -10,4 +10,4 @@
 22{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 49{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 50{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_sange_and_yasha,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-51{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_black_king_bar,}{item_sange_and_yasha,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+52{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_black_king_bar,}{item_sange_and_yasha,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
