@@ -24,4 +24,5 @@
 0042{item_attacker_midas_int,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_armlet_of_mjolnir,item_bloodstone_shield,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
 0043{item_attacker_midas_int,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_armlet_of_mjolnir,item_bloodstone_shield,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
 0045{item_attacker_midas_int,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_armlet_of_mjolnir,item_bloodstone_shield,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
-0048{item_attacker_midas_int,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_armlet_of_mjolnir,item_bloodstone_shield,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
+0047{item_attacker_midas_int,item_phylactery_blade,item_infinity_moon_shard,item_trident_custom,item_armlet_of_mjolnir,item_bloodstone_shield,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
+0049{item_attacker_midas_int,-,item_infinity_moon_shard,item_trident_custom,item_armlet_of_mjolnir,item_bloodstone_shield,}{item_phylactery_blade,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
