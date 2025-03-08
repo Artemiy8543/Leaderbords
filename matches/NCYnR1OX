@@ -2,3 +2,4 @@
 2{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_mjollnir,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_mjollnir,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_mjollnir,item_sange_and_yasha,item_kaya,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
