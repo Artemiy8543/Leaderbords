@@ -2,3 +2,4 @@
 002{item_attacker_midas_int,item_voodoo_mask,item_ring_of_protection,item_fluffy_hat,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_int,item_voodoo_mask,item_ring_of_protection,item_fluffy_hat,item_faerie_fire,item_vitality_booster,}{-,item_energy_booster,item_faerie_fire,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_int,item_bloodstone,item_ring_of_protection,item_fluffy_hat,item_faerie_fire,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_attacker_midas_int,item_bloodstone_shield,item_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
