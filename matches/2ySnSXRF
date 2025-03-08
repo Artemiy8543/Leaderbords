@@ -4,4 +4,4 @@
 6{item_attacker_midas_str,item_vladimir_pact,item_desolator,item_helm_of_iron_will,item_diadem,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_str,item_vladimir_pact,item_creep_desolator,item_heart,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_attacker_midas_str,item_vladimir_pact,item_creep_desolator,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{item_attacker_midas_str,item_vladimir_pact,item_creep_desolator,item_gladiator_guard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_attacker_midas_str,item_vladimir_pact,item_creep_desolator,item_gladiator_guard,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
