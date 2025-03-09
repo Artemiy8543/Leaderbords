@@ -3,3 +3,4 @@
 4{item_bloodstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_bloodstone_shield,item_soul_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_bloodstone_shield,item_octarine_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
