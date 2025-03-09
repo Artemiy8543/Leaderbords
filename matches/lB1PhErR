@@ -2,4 +2,5 @@
 003{item_attacker_midas_agi,item_voodoo_mask,item_vitality_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_agi,item_voodoo_mask,item_soul_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_agi,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_radiance,item_spirit_vessel,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
