@@ -4,5 +4,5 @@
 006{item_armlet_of_mjolnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_armlet_of_mjolnir,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_armlet_of_mjolnir,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_armlet_of_mjolnir,item_creep_desolator,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_armlet_of_mjolnir,item_creep_desolator,item_vladmir,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_armlet_of_mjolnir,item_creep_desolator,item_vladmir,item_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_armlet_of_mjolnir,item_creep_desolator,item_vladimir_pact,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
