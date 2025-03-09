@@ -4,4 +4,5 @@
 14{item_lotus_cuirass,item_gladiator_guard,item_radiance,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_lotus_cuirass,item_gladiator_guard,item_radiance,item_ultimate_scepter,item_refresher_core,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0019{item_lotus_cuirass,item_gladiator_guard,item_radiance,item_ultimate_scepter,item_refresher_core,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0023{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,-,item_refresher_core,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0022{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,-,item_refresher_core,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+24{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,-,item_refresher_core,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
