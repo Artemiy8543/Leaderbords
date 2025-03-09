@@ -1,3 +1,4 @@
 12+76561198173587522=1{item_midas_component,item_circlet,item_slippers,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_agi,item_buckler,item_ring_of_basilius,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_attacker_midas_agi,item_vladimir_pact,item_desolator,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_attacker_midas_agi,item_vladmir,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_attacker_midas_agi,item_vladimir_pact,item_creep_desolator,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
