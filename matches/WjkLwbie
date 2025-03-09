@@ -4,5 +4,5 @@
 6{item_moon_shard,item_yasha_and_kaya,item_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_moon_shard,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_moon_shard,item_trident_custom,item_maelstrom,item_helm_of_iron_will,item_gloves,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_moon_shard,item_trident_custom,item_maelstrom,item_armlet,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_moon_shard,item_trident_custom,item_armlet_of_mjolnir,item_enchanted_mango,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_moon_shard,item_trident_custom,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_moon_shard,item_trident_custom,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
