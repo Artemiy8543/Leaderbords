@@ -13,5 +13,5 @@
 0017{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
 0018{item_armlet_of_mjolnir,item_lotus_cuirass,item_satanic_of_madness,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
 0019{item_armlet_of_mjolnir,item_lotus_cuirass,item_satanic_of_madness,item_great_crit_custom3,item_trident_custom,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
-20{item_armlet_of_mjolnir,item_lotus_cuirass,item_satanic_of_madness,item_great_crit_custom3,item_trident_custom,item_creep_desolator,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_vindicators_axe,};
-22{item_armlet_of_mjolnir,item_lotus_cuirass,item_satanic_of_madness,item_great_crit_custom3,item_trident_custom,item_creep_desolator,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+21{item_armlet_of_mjolnir,item_lotus_cuirass,item_satanic_of_madness,item_great_crit_custom3,item_trident_custom,item_creep_desolator,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
+0023{item_armlet_of_mjolnir,item_lotus_cuirass,item_satanic_of_madness,item_great_crit_custom3,item_trident_custom,item_creep_desolator,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
