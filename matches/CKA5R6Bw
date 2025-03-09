@@ -5,4 +5,5 @@
 51{item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 0058{item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 63{item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
-0067{item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,item_great_crit_custom3,}{item_recipe_great_crit_custom,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+0066{item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+68{item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,item_great_crit_custom2,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
