@@ -25,4 +25,4 @@
 0052{item_skadi,item_vladimir_pact,item_creep_desolator,item_infinity_moon_shard,item_gladiator_guard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 0054{item_skadi,item_vladimir_pact,item_creep_desolator,item_infinity_moon_shard,item_gladiator_guard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 0057{item_skadi,item_vladimir_pact,item_creep_desolator,item_infinity_moon_shard,item_gladiator_guard,item_great_crit_custom3,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_bfury,};
-0059{item_skadi,item_vladimir_pact,item_creep_desolator,item_infinity_moon_shard,item_gladiator_guard,item_great_crit_custom3,}{item_attacker_midas_agi,item_agi_book,-,}{-,-,-,-,-,-,}{item_bfury,};
+0060{item_skadi,item_vladimir_pact,item_creep_desolator,item_infinity_moon_shard,item_gladiator_guard,item_great_crit_custom3,}{item_attacker_midas_agi,item_agi_book,-,}{-,-,-,-,-,-,}{item_bfury,};
