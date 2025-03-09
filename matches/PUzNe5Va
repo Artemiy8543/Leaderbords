@@ -6,3 +6,4 @@
 007{item_assault,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_assault,item_satanic_of_madness,item_javelin,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_assault,item_satanic_of_madness,item_javelin,item_gloves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+11{item_assault,item_satanic_of_madness,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
