@@ -8,4 +8,4 @@
 009{item_gladiator_guard,-,-,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_gladiator_guard,item_sange_and_yasha,-,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 12{item_gladiator_guard,item_trident_custom,item_talisman_of_evasion,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-13{item_gladiator_guard,item_trident_custom,item_radiance_prc,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+14{item_gladiator_guard,item_trident_custom,item_radiance_prc,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
