@@ -8,4 +8,5 @@
 9{item_satanic_of_madness,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
 10{item_satanic_of_madness,item_platemail,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
 11{item_satanic_of_madness,item_assault,item_pers,item_platemail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
-0013{item_satanic_of_madness,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+0012{item_satanic_of_madness,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
+14{item_satanic_of_madness,item_lotus_cuirass,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
