@@ -22,3 +22,4 @@
 0052{item_radiance_prc,item_trident_custom,item_manaback3,item_veil_of_dagon,item_refresher_core,item_bloodstone_shield,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{-,};
 0054{item_radiance_prc,item_trident_custom,item_manaback3,item_veil_of_dagon,item_refresher_core,item_bloodstone_shield,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{-,};
 0055{item_radiance_prc,item_trident_custom,item_manaback3,item_shivas_strom,item_refresher_core,item_bloodstone_shield,}{item_veil_of_dagon,-,-,}{-,-,-,-,-,-,}{-,};
+0056{item_radiance,item_trident_custom,item_manaback3,item_veil_of_dagon,item_refresher_core,item_bloodstone_shield,}{item_shivas_strom,item_radiance_prc,-,}{-,-,-,-,-,-,}{-,};
