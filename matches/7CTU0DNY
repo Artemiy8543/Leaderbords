@@ -2,3 +2,4 @@
 2{item_voodoo_mask,item_vitality_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_bloodstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_bloodstone_shield,item_soul_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
