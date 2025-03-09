@@ -2,3 +2,4 @@
 3{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_voodoo_mask,item_soul_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_bloodstone_shield,item_tiara_of_selemene,item_vitality_booster,item_energy_booster,-,-,}{-,-,-,}{item_point_booster,-,-,-,-,-,}{-,};
