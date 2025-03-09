@@ -5,4 +5,5 @@
 8{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_radiance,item_spirit_vessel,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit2,item_demon_edge,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-17{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0018{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
