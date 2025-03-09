@@ -3,5 +3,5 @@
 5{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_lotus_cuirass,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_lotus_cuirass,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_lotus_cuirass,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_lotus_cuirass,item_mask_of_madness,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_lotus_cuirass,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
