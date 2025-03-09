@@ -3,3 +3,4 @@
 3{item_force_staff,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_hurricane_pike,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_hurricane_pike,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_mask_of_madness,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
