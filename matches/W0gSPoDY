@@ -2,4 +2,4 @@
 3{item_platemail,item_buckler,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_lotus_cuirass,item_gladiator_guard,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_lotus_cuirass,item_gladiator_guard,item_radiance,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-17{item_lotus_cuirass,item_gladiator_guard,item_radiance,item_ultimate_scepter,item_refresher_core,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+18{item_lotus_cuirass,item_gladiator_guard,item_radiance,item_ultimate_scepter,item_refresher_core,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
