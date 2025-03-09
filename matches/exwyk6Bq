@@ -6,3 +6,4 @@
 9{item_bloodstone_shield,item_octarine_core,item_arcane_boots,item_staff_of_wizardry,item_robe,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_bloodstone_shield,item_octarine_core,item_manaback,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_bloodstone_shield,item_octarine_core,item_manaback3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_bloodstone_shield,item_octarine_core,item_manaback3,item_radiance,item_urn_of_shadows,item_vitality_booster,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
