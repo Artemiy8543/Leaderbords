@@ -1,3 +1,4 @@
 75+76561198219263779=1{item_null_talisman,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_attacker_midas_int,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_attacker_midas_int,item_mask_of_madness,-,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
