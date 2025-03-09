@@ -3,4 +3,4 @@
 3{item_attacker_midas_agi,item_voodoo_mask,item_vitality_booster,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 43{item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 51{item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
-0057{item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+0058{item_infinity_moon_shard,item_bloodstone_shield,item_radiance_prc,item_creep_desolator,-,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
