@@ -4,3 +4,4 @@
 5{item_bfury,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_bfury,item_satanic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bfury,item_satanic,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_bfury,item_satanic,item_assault,item_mithril_hammer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
