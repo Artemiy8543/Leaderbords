@@ -7,4 +7,4 @@
 13{item_radiance_prc,item_trident_custom,item_holy_locket,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_radiance_prc,item_trident_custom,item_holy_locket,item_shivas_strom,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0017{item_radiance_prc,item_trident_custom,item_holy_locket,item_shivas_strom,item_refresher_core,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-19{item_radiance_prc,item_trident_custom,item_holy_locket,item_shivas_strom,item_refresher_core,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+20{item_radiance_prc,item_trident_custom,item_holy_locket,item_shivas_strom,item_refresher_core,item_manaback3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
