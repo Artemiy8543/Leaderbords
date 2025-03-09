@@ -8,4 +8,5 @@
 10{item_bfury,item_satanic,item_assault,item_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_bfury,item_satanic,item_assault,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_bfury,item_satanic,item_lotus_cuirass,item_creep_desolator,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-16{item_bfury,item_satanic,item_lotus_cuirass,item_creep_desolator,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_bfury,item_satanic,item_lotus_cuirass,item_creep_desolator,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0017{item_agi_book,item_satanic,item_lotus_cuirass,item_creep_desolator,item_butterfly,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{-,};
