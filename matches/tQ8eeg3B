@@ -3,4 +3,5 @@
 003{item_void_stone,item_ring_of_protection,item_fluffy_hat,item_voodoo_mask,item_vitality_booster,-,}{item_recipe_pavise,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 4{item_void_stone,item_pavise,item_energy_booster,item_voodoo_mask,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 5{item_bloodstone_shield,item_yasha,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
-7{item_bloodstone_shield,item_trident_custom,item_manaback,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+6{item_bloodstone_shield,item_trident_custom,item_arcane_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+8{item_bloodstone_shield,item_trident_custom,item_manaback,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
