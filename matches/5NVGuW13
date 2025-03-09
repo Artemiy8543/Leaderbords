@@ -12,4 +12,5 @@
 21{-,item_vladimir_pact,item_creep_desolator,item_infinity_moon_shard,item_gladiator_guard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 0024{-,item_vladimir_pact,item_creep_desolator,item_infinity_moon_shard,item_gladiator_guard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 0027{-,item_vladimir_pact,item_creep_desolator,item_infinity_moon_shard,item_gladiator_guard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
-0030{item_armlet_of_mjolnir,item_vladimir_pact,item_creep_desolator,item_infinity_moon_shard,item_gladiator_guard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+0029{-,item_vladimir_pact,item_creep_desolator,item_infinity_moon_shard,item_gladiator_guard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+0031{item_armlet_of_mjolnir,item_vladimir_pact,item_creep_desolator,item_infinity_moon_shard,item_gladiator_guard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
