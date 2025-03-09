@@ -23,4 +23,4 @@
 0065{item_lotus_cuirass,item_gladiator_guard,item_str_book,item_blade_mail,item_attacker_midas_str,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 107{item_lotus_cuirass,item_str_book,item_radiance_prc,item_gladiator_guard,item_attacker_midas_str,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 149{item_lotus_cuirass,item_str_book,item_radiance_prc,item_gladiator_guard,item_attacker_midas_str,item_bloodstone_shield,}{item_quelling_blade,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-167{item_lotus_cuirass,item_str_book,item_radiance_prc,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,}{item_quelling_blade,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+168{item_lotus_cuirass,item_str_book,item_radiance_prc,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,}{item_quelling_blade,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
