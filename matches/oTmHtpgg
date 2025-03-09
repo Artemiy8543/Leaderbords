@@ -4,4 +4,4 @@
 6{item_ring_of_health,item_ring_of_tarrasque,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_vanguard,item_heart,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_vanguard,item_heart,-,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_gladiator_guard,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_gladiator_guard,-,item_hyperstone,item_buckler,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
