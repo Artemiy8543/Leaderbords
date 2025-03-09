@@ -9,4 +9,4 @@
 0020{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 25{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0031{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-36{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+37{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_magic_crit3,item_manaback3,}{item_ultimate_scepter,-,-,}{-,-,-,-,-,-,}{-,};
