@@ -1,4 +1,5 @@
 35+76561198351363012=1{item_hyperstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_hyperstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{-,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_lifesteal,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_hyperstone,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_lifesteal,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_satanic_of_madness,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
