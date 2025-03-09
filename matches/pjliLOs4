@@ -1,4 +1,5 @@
 35+76561198056988793=1{item_claymore,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_claymore,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_mask_of_madness,item_attacker_midas_agi,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_mask_of_madness,item_attacker_midas_agi,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_mask_of_madness,item_attacker_midas_agi,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_mask_of_madness,item_attacker_midas_agi,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
