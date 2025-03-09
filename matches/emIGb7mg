@@ -5,3 +5,4 @@
 9{item_lotus_cuirass,item_gladiator_guard,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_lotus_cuirass,item_gladiator_guard,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_lotus_cuirass,item_gladiator_guard,item_bloodstone_shield,item_kaya_and_sange,item_yasha,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
