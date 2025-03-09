@@ -8,5 +8,5 @@
 9{item_bloodstone,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_bloodstone,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-16{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_manaback3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-18{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+17{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_manaback3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+20{item_bloodstone_shield,item_gladiator_guard,item_trident_custom,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
