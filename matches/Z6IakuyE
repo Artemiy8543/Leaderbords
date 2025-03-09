@@ -1,3 +1,4 @@
 94+76561198219263779=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_attacker_midas_agi,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_attacker_midas_agi,item_creep_desolator,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+2{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_attacker_midas_agi,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_attacker_midas_agi,item_creep_desolator,item_assault,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
