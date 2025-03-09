@@ -13,4 +13,4 @@
 27{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_shivas_strom,item_trident_custom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 31{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_shivas_strom,item_trident_custom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 34{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_shivas_strom,item_trident_custom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-36{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_shivas_strom,item_trident_custom,item_manaback3,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+37{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_shivas_strom,item_trident_custom,item_manaback3,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
