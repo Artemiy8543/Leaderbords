@@ -2,4 +2,4 @@
 2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance_prc,item_sange,item_staff_of_wizardry,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_radiance_prc,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_radiance_prc,item_trident_custom,item_holy_locket,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
