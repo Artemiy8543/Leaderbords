@@ -8,4 +8,4 @@
 17{item_bloodstone_shield,item_octarine_core,item_radiance_prc,item_manaback3,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 19{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_manaback3,item_trident_custom,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0021{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_manaback3,item_trident_custom,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-23{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_manaback3,item_trident_custom,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+24{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_manaback3,item_trident_custom,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
