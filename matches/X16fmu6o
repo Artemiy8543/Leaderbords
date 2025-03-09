@@ -10,4 +10,5 @@
 11{item_satanic_of_madness,item_assault,item_pers,item_platemail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
 0012{item_satanic_of_madness,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
 14{item_satanic_of_madness,item_lotus_cuirass,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-17{item_satanic_of_madness,item_lotus_cuirass,item_armlet_of_mjolnir,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+16{item_satanic_of_madness,item_lotus_cuirass,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+18{item_satanic_of_madness,item_lotus_cuirass,item_armlet_of_mjolnir,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
