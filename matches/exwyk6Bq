@@ -9,4 +9,4 @@
 13{item_bloodstone_shield,item_octarine_core,item_manaback3,item_radiance,item_urn_of_shadows,item_vitality_booster,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0015{item_bloodstone_shield,item_octarine_core,item_manaback3,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0017{item_bloodstone_shield,item_octarine_core,item_manaback3,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-0020{item_bloodstone_shield,item_octarine_core,item_manaback3,item_radiance_prc,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+0021{item_bloodstone_shield,item_octarine_core,item_manaback3,item_radiance_prc,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
