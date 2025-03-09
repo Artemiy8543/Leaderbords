@@ -3,5 +3,5 @@
 4{item_attacker_midas_str,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_str,item_crimson_guard,item_ring_of_tarrasque,-,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_str,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_attacker_midas_str,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_blade_mail,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
