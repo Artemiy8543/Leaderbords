@@ -7,3 +7,4 @@
 8{item_satanic_of_madness,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
 9{item_satanic_of_madness,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
 10{item_satanic_of_madness,item_platemail,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
+11{item_satanic_of_madness,item_assault,item_pers,item_platemail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
