@@ -14,3 +14,4 @@
 30{item_radiance_prc,item_shivas_strom,item_armlet_of_mjolnir,item_bloodstone_shield,item_refresher_core,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0031{item_creep_desolator,item_shivas_strom,item_armlet_of_mjolnir,item_bloodstone_shield,item_refresher_core,item_manaback3,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{-,};
 32{item_radiance_prc,item_shivas_strom,item_armlet_of_mjolnir,item_bloodstone_shield,item_refresher_core,item_manaback3,}{item_creep_desolator,-,-,}{-,-,-,-,-,-,}{-,};
+33{item_trident_custom,item_shivas_strom,item_armlet_of_mjolnir,item_bloodstone_shield,item_refresher_core,item_manaback3,}{item_creep_desolator,item_radiance_prc,-,}{-,-,-,-,-,-,}{-,};
