@@ -2,3 +2,4 @@
 002{item_hyperstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hyperstone,item_platemail,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_assault,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
