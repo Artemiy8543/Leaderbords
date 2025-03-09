@@ -7,4 +7,5 @@
 008{item_assault,item_satanic_of_madness,item_javelin,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_assault,item_satanic_of_madness,item_javelin,item_gloves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 11{item_assault,item_satanic_of_madness,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-13{item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+12{item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+14{item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
