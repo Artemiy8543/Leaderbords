@@ -5,4 +5,5 @@
 5{-,-,-,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_ring_of_tarrasque,-,-,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_ring_of_tarrasque,-,-,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_gladiator_guard,-,-,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_heart,item_vanguard,-,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_gladiator_guard,item_sange_and_yasha,-,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
