@@ -25,4 +25,4 @@
 309{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_manaback3,item_great_magic_crit3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 314{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_manaback3,item_great_magic_crit3,item_bloodstone_shield,}{item_havoc_hammer,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 00315{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_manaback3,item_great_magic_crit3,item_bloodstone_shield,}{item_havoc_hammer,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-00321{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_manaback3,item_great_magic_crit3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+00322{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_manaback3,item_great_magic_crit3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
