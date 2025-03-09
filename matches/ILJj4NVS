@@ -5,4 +5,4 @@
 8{item_bfury,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_bfury,item_gladiator_guard,item_great_crit_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_bfury,item_gladiator_guard,item_great_crit_custom,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0012{item_bfury,item_gladiator_guard,item_great_crit_custom,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_bfury,item_gladiator_guard,item_great_crit_custom,item_assault,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
