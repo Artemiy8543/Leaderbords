@@ -15,4 +15,5 @@
 0032{item_attacker_midas_str,item_gladiator_guard,-,item_blade_mail,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 0038{item_attacker_midas_str,item_gladiator_guard,-,item_blade_mail,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 0040{item_attacker_midas_str,item_gladiator_guard,-,item_blade_mail,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
-0044{item_attacker_midas_str,item_gladiator_guard,item_str_book,item_blade_mail,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0043{item_attacker_midas_str,item_gladiator_guard,item_str_book,item_blade_mail,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0045{item_attacker_midas_str,item_gladiator_guard,item_str_book,item_blade_mail,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
