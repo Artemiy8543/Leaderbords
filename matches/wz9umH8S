@@ -2,3 +2,4 @@
 002{item_voodoo_mask,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 4{item_voodoo_mask,item_vitality_booster,item_pavise,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 005{item_bloodstone_shield,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+006{item_bloodstone_shield,item_radiance,item_urn_of_shadows,item_vitality_booster,-,-,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
