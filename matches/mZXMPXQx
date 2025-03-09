@@ -4,3 +4,4 @@
 006{item_desolator,item_hyperstone,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_desolator,item_moon_shard,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_desolator,item_moon_shard,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_desolator,item_moon_shard,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
