@@ -9,3 +9,4 @@
 0020{item_radiance,item_trident_custom,item_ultimate_scepter,item_shivas_strom,item_refresher_core,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 24{item_radiance,item_trident_custom,item_manaback3,item_shivas_strom,item_refresher_core,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 27{item_radiance,item_trident_custom,item_manaback3,item_shivas_strom,item_refresher_core,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0028{item_radiance_prc,item_trident_custom,item_manaback3,item_shivas_strom,item_refresher_core,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
