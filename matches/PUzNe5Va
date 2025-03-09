@@ -10,4 +10,5 @@
 12{item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 14{item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0016{item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0019{item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,item_shivas_strom,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0018{item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,item_shivas_strom,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0020{item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,item_shivas_strom,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
