@@ -3,3 +3,4 @@
 004{item_vanguard,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_gladiator_guard,item_bracer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_gladiator_guard,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
