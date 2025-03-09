@@ -4,4 +4,4 @@
 006{item_bfury,item_vanguard,item_helm_of_iron_will,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bfury,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_bfury,item_gladiator_guard,item_great_crit_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_bfury,item_gladiator_guard,item_great_crit_custom,item_platemail,item_hyperstone,item_buckler,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_bfury,item_gladiator_guard,item_great_crit_custom,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
