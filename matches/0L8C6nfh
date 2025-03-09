@@ -5,4 +5,5 @@
 7{item_lotus_cuirass,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_lotus_cuirass,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_lotus_cuirass,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_lotus_cuirass,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
