@@ -12,4 +12,4 @@
 82{item_shivas_strom,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,item_radiance_prc,item_bloodstone_shield,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 86{item_shivas_strom,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,item_trident_custom,item_bloodstone_shield,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 89{item_shivas_strom,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,item_trident_custom,item_bloodstone_shield,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-0091{item_shivas_strom,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,item_trident_custom,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+0092{item_shivas_strom,item_creep_desolator,item_lotus_cuirass,item_great_magic_crit3,item_trident_custom,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
