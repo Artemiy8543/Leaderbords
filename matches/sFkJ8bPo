@@ -6,3 +6,4 @@
 7{item_bfury,item_satanic,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_bfury,item_satanic,item_assault,item_mithril_hammer,item_blight_stone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_bfury,item_satanic,item_assault,item_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_bfury,item_satanic,item_assault,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
