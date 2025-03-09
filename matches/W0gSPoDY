@@ -2,4 +2,5 @@
 3{item_platemail,item_buckler,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 49{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 100{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-103{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+102{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+104{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
