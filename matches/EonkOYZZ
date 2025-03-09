@@ -3,3 +3,4 @@
 004{item_mjollnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_armlet_of_mjolnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_armlet_of_mjolnir,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_armlet_of_mjolnir,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
