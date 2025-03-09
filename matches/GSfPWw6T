@@ -3,3 +3,4 @@
 003{item_attacker_midas_int,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_int,item_mask_of_madness,-,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_attacker_midas_int,-,-,-,-,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_attacker_midas_int,item_hyperstone,item_platemail,item_buckler,-,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
