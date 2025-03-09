@@ -5,3 +5,4 @@
 5{item_bloodstone_shield,item_yasha,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 6{item_bloodstone_shield,item_trident_custom,item_arcane_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 8{item_bloodstone_shield,item_trident_custom,item_manaback,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+9{item_bloodstone_shield,item_trident_custom,item_manaback,item_infinity_moon_shard,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
