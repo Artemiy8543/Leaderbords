@@ -3,4 +3,5 @@
 5{item_radiance,item_sange,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_radiance,item_trident_custom,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_radiance,item_trident_custom,item_ultimate_scepter,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_radiance,item_trident_custom,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_radiance,item_trident_custom,item_ultimate_scepter,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
