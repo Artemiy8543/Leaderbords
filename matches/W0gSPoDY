@@ -8,3 +8,4 @@
 109{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_trident_custom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 00111{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 138{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_trident_custom,}{item_str_book,item_agi_book,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+139{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_trident_custom,}{item_str_book,item_agi_book,-,}{-,-,-,-,-,-,}{item_searing_signet,};
