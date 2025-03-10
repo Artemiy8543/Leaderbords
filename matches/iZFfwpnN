@@ -1,3 +1,4 @@
 49+76561199251585142=1{item_falcon_blade,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_falcon_blade,item_hand_of_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-005{item_falcon_blade,item_hand_of_midas,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+2{item_falcon_blade,item_hand_of_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_falcon_blade,item_hand_of_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+6{item_falcon_blade,item_hand_of_midas,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
