@@ -3,3 +3,4 @@
 4{item_gloves,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_hand_of_midas,item_attacker_midas_str,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_hand_of_midas,item_attacker_midas_str,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_hand_of_midas,item_attacker_midas_str,item_mjollnir,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
