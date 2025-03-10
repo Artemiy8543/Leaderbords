@@ -3,4 +3,4 @@
 003{item_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_desolator,item_helm_of_iron_will,item_diadem,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_creep_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_creep_desolator,item_moon_shard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_creep_desolator,item_moon_shard,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
