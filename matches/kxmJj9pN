@@ -10,5 +10,5 @@
 13{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{-,};
 0016{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0018{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0020{-,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-22{item_lightning_sword,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0021{-,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+23{item_lightning_sword,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
