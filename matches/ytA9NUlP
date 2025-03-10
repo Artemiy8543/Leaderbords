@@ -9,6 +9,7 @@
 11{item_mjollnir,item_great_crit_custom,item_blade_midas,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_mjollnir,item_great_crit_custom,item_blade_midas,item_satanic_of_madness,item_sange_and_yasha,item_staff_of_wizardry,}{item_robe,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 0013{item_mjollnir,item_great_crit_custom,item_blade_midas,item_satanic_of_madness,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-0015{item_mjollnir,item_great_crit_custom,item_blade_midas,item_satanic_of_madness,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-0017{item_mjollnir,item_great_crit_custom,item_blade_midas,item_satanic_of_madness,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-19{item_mjollnir,item_great_crit_custom3,-,item_satanic_of_madness,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+0014{item_mjollnir,item_great_crit_custom,item_blade_midas,item_satanic_of_madness,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+0016{item_mjollnir,item_great_crit_custom,item_blade_midas,item_satanic_of_madness,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+0018{item_mjollnir,item_great_crit_custom,item_blade_midas,item_satanic_of_madness,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+20{item_mjollnir,item_great_crit_custom3,-,item_satanic_of_madness,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
