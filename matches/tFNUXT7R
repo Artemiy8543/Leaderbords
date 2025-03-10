@@ -5,4 +5,5 @@
 8{item_gladiator_guard,item_assault,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_gladiator_guard,item_lotus_cuirass,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_gladiator_guard,item_lotus_cuirass,item_blade_mail,item_shivas_strom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-17{item_gladiator_guard,item_lotus_cuirass,item_blade_mail,item_shivas_strom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_gladiator_guard,item_lotus_cuirass,item_blade_mail,item_shivas_strom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0018{item_gladiator_guard,item_lotus_cuirass,item_blade_mail,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
