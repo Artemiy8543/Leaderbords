@@ -1,3 +1,4 @@
 96+76561198054216853=1{item_vanguard,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_vanguard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_crimson_guard,-,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+002{item_vanguard,item_chainmail,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_crimson_guard,-,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_gladiator_guard,-,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
