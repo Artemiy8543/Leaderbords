@@ -23,4 +23,5 @@
 0044{item_manaback3,item_refresher_core,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0045{item_manaback3,item_refresher_core,item_bloodstone_shield,item_lightning_sword,item_gladiator_guard,item_great_magic_crit3,}{item_trident_custom,item_phylactery_blade,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0047{item_manaback3,item_refresher_core,item_veil_of_dagon,item_bloodstone_shield,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-50{item_manaback3,item_refresher_core,item_veil_of_dagon,item_bloodstone_shield,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+49{item_manaback3,item_refresher_core,item_veil_of_dagon,item_bloodstone_shield,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+51{item_manaback3,item_refresher_core,item_veil_of_dagon,item_bloodstone_shield,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
