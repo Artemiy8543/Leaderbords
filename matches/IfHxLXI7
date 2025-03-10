@@ -6,4 +6,4 @@
 008{item_manaback2,item_octarine_core,item_cornucopia,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_manaback2,item_refresher_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 12{item_manaback2,item_refresher_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-14{item_manaback2,item_refresher_core,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+15{item_manaback2,item_refresher_core,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
