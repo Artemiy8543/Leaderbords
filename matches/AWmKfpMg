@@ -3,4 +3,5 @@
 3{item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_manaback3,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_manaback3,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_manaback3,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_manaback3,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_manaback3,item_gladiator_guard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_manaback3,item_gladiator_guard,item_great_magic_crit3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
