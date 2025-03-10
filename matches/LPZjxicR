@@ -4,5 +4,5 @@
 5{item_power_treads,item_vladimir_pact,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_power_treads,item_vladimir_pact,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_power_treads,item_vladimir_pact,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_power_treads,item_vladimir_pact,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_power_treads,item_vladimir_pact,item_lotus_cuirass,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_power_treads,item_vladimir_pact,item_lotus_cuirass,item_broadsword,item_broadsword,item_cornucopia,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_power_treads,item_vladimir_pact,item_lotus_cuirass,item_bfury,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
