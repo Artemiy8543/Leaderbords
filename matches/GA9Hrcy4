@@ -3,4 +3,4 @@
 99{item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 00108{item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 111{item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-228{item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+229{item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit3,item_blade_midas,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
