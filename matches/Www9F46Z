@@ -22,3 +22,4 @@
 47{item_gladiator_guard,item_overwhelming_blink,item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 0048{item_shivas_strom,item_overwhelming_blink,item_blade_midas,item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 49{item_shivas_strom,item_overwhelming_blink,item_blade_midas,item_bloodstone_shield,item_gladiator_guard,item_lotus_cuirass,}{item_int_book,item_str_book,item_agi_book,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+0050{item_shivas_strom,item_bloodstone_shield,item_blade_midas,item_overwhelming_blink,item_gladiator_guard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
