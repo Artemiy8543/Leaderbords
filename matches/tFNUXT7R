@@ -24,4 +24,4 @@
 37{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_shivas_strom,item_bloodstone_shield,item_bfury,}{-,item_rattlecage,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 38{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_shivas_strom,item_bloodstone_shield,item_bfury,}{item_str_book,item_rattlecage,item_agi_book,}{-,-,-,-,-,-,}{item_rippers_lash,};
 39{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_shivas_strom,item_bloodstone_shield,item_great_magic_crit,}{item_bfury,item_rattlecage,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-41{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_shivas_strom,item_bloodstone_shield,item_great_magic_crit3,}{item_bfury,item_rattlecage,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+42{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_shivas_strom,item_bloodstone_shield,item_great_magic_crit3,}{item_bfury,item_rattlecage,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
