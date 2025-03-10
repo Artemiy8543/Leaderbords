@@ -5,3 +5,4 @@
 7{item_vanguard,item_heart,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_vanguard,item_heart,item_enchanted_mango,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_crimson_guard,item_heart,item_enchanted_mango,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_crimson_guard,item_heart,item_enchanted_mango,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
