@@ -48,4 +48,4 @@
 0083{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_refresher_core,item_bloodstone_shield,item_great_magic_crit3,}{item_shivas_strom,item_str_book,item_flask,}{-,-,-,-,-,-,}{item_rippers_lash,};
 0089{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_refresher_core,item_bloodstone_shield,item_great_magic_crit3,}{item_shivas_strom,item_str_book,item_flask,}{-,-,-,-,-,-,}{item_rippers_lash,};
 00101{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,item_refresher_core,item_bloodstone_shield,item_great_magic_crit3,}{item_shivas_strom,-,item_flask,}{-,-,-,-,-,-,}{item_rippers_lash,};
-103{item_gladiator_guard,item_overwhelming_blink,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_great_magic_crit3,}{item_blade_midas,-,item_flask,}{-,-,-,-,-,-,}{item_rippers_lash,};
+105{item_gladiator_guard,item_overwhelming_blink,item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_great_magic_crit3,}{item_blade_midas,-,item_flask,}{-,-,-,-,-,-,}{item_rippers_lash,};
