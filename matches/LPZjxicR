@@ -31,4 +31,4 @@
 76{-,item_vladimir_pact,item_lotus_cuirass,item_infinity_moon_shard,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_bfury,};
 83{-,item_vladimir_pact,item_lotus_cuirass,item_infinity_moon_shard,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_bfury,};
 90{-,item_vladimir_pact,item_lotus_cuirass,item_infinity_moon_shard,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_bfury,};
-114{item_ogre_axe,item_vladimir_pact,item_lotus_cuirass,-,item_creep_desolator,item_great_magic_crit3,}{item_recipe_sange,item_infinity_moon_shard,item_recipe_yasha,}{-,-,-,-,-,-,}{item_bfury,};
+115{item_ogre_axe,item_vladimir_pact,item_lotus_cuirass,-,item_creep_desolator,item_great_magic_crit3,}{item_recipe_sange,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_bfury,};
