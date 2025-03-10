@@ -8,4 +8,5 @@
 9{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{-,};
-0017{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0018{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
