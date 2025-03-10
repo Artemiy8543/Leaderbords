@@ -5,4 +5,4 @@
 7{item_manaback2,item_tiara_of_selemene,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_manaback2,item_octarine_core,item_cornucopia,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_manaback2,item_refresher_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-12{item_manaback2,item_refresher_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+13{item_manaback2,item_refresher_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
