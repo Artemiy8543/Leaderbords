@@ -1,3 +1,4 @@
 4+76561198064251650=001{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_attacker_midas_agi,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_attacker_midas_agi,item_hyperstone,item_platemail,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_attacker_midas_agi,item_assault,item_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
