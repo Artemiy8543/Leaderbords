@@ -6,4 +6,4 @@
 7{item_bfury,item_phase_boots,item_flask,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_bfury,item_phase_boots,item_flask,item_satanic,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_satanic,item_phase_boots,item_butterfly,item_bfury,item_assault,item_great_crit_custom,}{item_flask,-,-,}{-,-,-,-,-,-,}{-,};
-0014{item_satanic,item_phase_boots,item_butterfly,item_bfury,item_assault,item_great_crit_custom,}{item_flask,-,-,}{-,-,-,-,-,-,}{-,};
+0015{item_satanic,item_phase_boots,item_butterfly,item_bfury,item_assault,item_great_crit_custom,}{item_flask,-,-,}{-,-,-,-,-,-,}{-,};
