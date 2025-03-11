@@ -1,3 +1,4 @@
 2+76561198173587522=001{item_midas_component,item_circlet,item_gauntlets,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_str,-,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_attacker_midas_str,item_heart,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_attacker_midas_str,item_ring_of_tarrasque,item_ring_of_health,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_attacker_midas_str,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
