@@ -4,4 +4,4 @@
 005{item_bloodstone,item_enchanted_mango,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 8{item_bloodstone_shield,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 11{item_bloodstone_shield,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
-12{item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit,item_demon_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+13{item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
