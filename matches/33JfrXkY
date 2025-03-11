@@ -2,3 +2,4 @@
 2{item_quelling_blade,item_cornucopia,item_flask,item_broadsword,item_broadsword,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_bfury,-,item_flask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_bfury,-,item_flask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_bfury,item_phase_boots,item_flask,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
