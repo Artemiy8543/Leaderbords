@@ -4,4 +4,5 @@
 5{item_attacker_midas_agi,item_assault,item_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_agi,item_assault,item_sange_and_yasha,item_lotus_orb,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_agi,item_lotus_cuirass,item_sange_and_yasha,item_great_crit_custom,item_demon_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_attacker_midas_agi,item_lotus_cuirass,item_sange_and_yasha,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_attacker_midas_agi,item_lotus_cuirass,item_sange_and_yasha,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_attacker_midas_agi,item_lotus_cuirass,item_sange_and_yasha,item_great_crit_custom3,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
