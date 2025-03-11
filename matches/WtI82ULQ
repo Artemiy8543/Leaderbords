@@ -6,4 +6,5 @@
 11{-,item_gladiator_guard,item_trident_custom,item_midas_component,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_blade_midas,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_blade_midas,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-19{item_blade_midas,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+18{item_blade_midas,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+20{item_blade_midas,item_gladiator_guard,item_trident_custom,item_manaback3,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
