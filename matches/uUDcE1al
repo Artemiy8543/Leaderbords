@@ -1,3 +1,4 @@
 52+76561198173587522=1{item_midas_component,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_midas_component,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_voodoo_mask,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+3{item_voodoo_mask,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
+005{item_bloodstone,item_enchanted_mango,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
