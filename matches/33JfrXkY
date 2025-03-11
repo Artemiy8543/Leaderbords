@@ -5,4 +5,4 @@
 006{item_bfury,item_phase_boots,item_flask,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bfury,item_phase_boots,item_flask,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_bfury,item_phase_boots,item_flask,item_satanic,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_satanic,item_phase_boots,item_flask,item_bfury,item_assault,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_satanic,item_phase_boots,item_butterfly,item_bfury,item_assault,item_great_crit_custom,}{item_flask,-,-,}{-,-,-,-,-,-,}{-,};
