@@ -8,3 +8,4 @@
 0010{item_attacker_midas_agi,item_lotus_cuirass,item_bfury,item_vladmir,item_heart,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 11{item_attacker_midas_agi,item_lotus_cuirass,item_bfury,item_vladmir,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0012{item_attacker_midas_agi,item_lotus_cuirass,item_bfury,item_vladimir_pact,item_gladiator_guard,item_talisman_of_evasion,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+13{item_attacker_midas_agi,item_lotus_cuirass,item_bfury,item_vladimir_pact,item_gladiator_guard,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
