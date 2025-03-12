@@ -8,3 +8,4 @@
 10{item_radiance,item_guardian_greaves,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_radiance,item_guardian_greaves,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_radiance,item_guardian_greaves,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_radiance_prc,item_guardian_greaves,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
