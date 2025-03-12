@@ -17,4 +17,4 @@
 0055{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
 0061{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
 147{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-150{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+151{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
