@@ -2,3 +2,4 @@
 2{item_attacker_midas_int,item_belt_of_strength,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_int,item_sange,item_staff_of_wizardry,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_int,item_kaya_and_sange,item_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_attacker_midas_int,item_trident_custom,item_voodoo_mask,item_energy_booster,item_void_stone,item_vitality_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
