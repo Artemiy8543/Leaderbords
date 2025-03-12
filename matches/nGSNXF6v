@@ -6,3 +6,4 @@
 9{item_crimson_guard,item_power_treads,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_crimson_guard,item_power_treads,item_bloodstone_shield,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_crimson_guard,item_power_treads,item_bloodstone_shield,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_crimson_guard,item_power_treads,item_bloodstone_shield,item_heart,item_hand_of_midas,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
