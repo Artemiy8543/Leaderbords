@@ -15,4 +15,4 @@
 24{item_butterfly,item_satanic_of_madness,item_attacker_midas_agi,item_bfury,item_great_crit_custom3,item_gladiator_guard,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 26{item_butterfly,item_satanic_of_madness,item_attacker_midas_agi,item_infinity_moon_shard,item_great_crit_custom3,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 28{item_butterfly,item_satanic_of_madness,item_attacker_midas_agi,item_infinity_moon_shard,item_great_crit_custom3,item_gladiator_guard,}{item_trident_custom,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-30{item_gladiator_guard,item_satanic_of_madness,item_attacker_midas_agi,item_infinity_moon_shard,item_great_crit_custom3,item_butterfly,}{-,-,item_trident_custom,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+31{item_gladiator_guard,item_satanic_of_madness,item_attacker_midas_agi,item_infinity_moon_shard,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
