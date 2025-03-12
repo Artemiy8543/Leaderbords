@@ -49,3 +49,4 @@
 0079{item_veil_of_dagon,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,item_shivas_strom,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 80{item_veil_of_dagon,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,item_shivas_strom,}{item_gladiator_guard,item_str_book,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 82{item_veil_of_dagon,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,item_shivas_strom,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+83{item_veil_of_dagon,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,item_shivas_strom,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
