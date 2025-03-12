@@ -5,3 +5,4 @@
 007{item_arcane_boots,item_bloodstone,item_mekansm,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_guardian_greaves,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_guardian_greaves,item_bloodstone,item_ring_of_tarrasque,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_guardian_greaves,item_bloodstone,item_heart,item_vanguard,item_helm_of_iron_will,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
