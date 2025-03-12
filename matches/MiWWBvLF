@@ -16,4 +16,5 @@
 0057{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_str_book,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 0059{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_str_book,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 0061{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_str_book,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
-0065{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_shivas_strom,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0064{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_str_book,item_lotus_cuirass,item_great_magic_crit3,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+66{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_shivas_strom,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
