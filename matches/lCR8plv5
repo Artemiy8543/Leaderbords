@@ -11,4 +11,4 @@
 0016{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 18{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 22{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-24{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+25{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,item_refresher_core,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
