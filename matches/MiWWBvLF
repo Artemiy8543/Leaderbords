@@ -6,4 +6,5 @@
 0013{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_great_magic_crit3,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 20{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_great_magic_crit3,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0026{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_great_magic_crit3,item_lotus_cuirass,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0025{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_great_magic_crit3,item_lotus_cuirass,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+27{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_great_magic_crit3,item_lotus_cuirass,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
