@@ -26,4 +26,4 @@
 44{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_manaback3,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0045{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_manaback3,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 47{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-48{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,item_shivas_strom,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+49{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
