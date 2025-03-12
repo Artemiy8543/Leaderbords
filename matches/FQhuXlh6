@@ -7,4 +7,5 @@
 8{item_attacker_midas_int,item_trident_custom,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_attacker_midas_int,item_trident_custom,item_bloodstone_shield,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_attacker_midas_int,item_trident_custom,item_bloodstone_shield,item_infinity_moon_shard,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
-13{item_armlet_of_mjolnir,item_trident_custom,item_bloodstone_shield,item_infinity_moon_shard,item_manaback3,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
+12{item_attacker_midas_int,item_trident_custom,item_bloodstone_shield,item_infinity_moon_shard,item_manaback3,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
+14{item_armlet_of_mjolnir,item_trident_custom,item_bloodstone_shield,item_infinity_moon_shard,item_manaback3,item_attacker_midas_int,}{item_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{item_ballista,};
