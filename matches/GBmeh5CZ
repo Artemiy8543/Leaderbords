@@ -16,4 +16,4 @@
 25{item_attacker_midas_agi,item_armlet_of_mjolnir,item_creep_desolator,item_trident_custom,item_gladiator_guard,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0027{item_attacker_midas_agi,item_armlet_of_mjolnir,item_creep_desolator,item_trident_custom,item_gladiator_guard,item_bfury,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{-,};
 28{item_attacker_midas_agi,item_armlet_of_mjolnir,item_creep_desolator,item_trident_custom,item_gladiator_guard,item_bfury,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{-,};
-0030{item_attacker_midas_agi,item_armlet_of_mjolnir,item_creep_desolator,item_trident_custom,item_gladiator_guard,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0031{item_attacker_midas_agi,item_armlet_of_mjolnir,item_creep_desolator,item_trident_custom,item_gladiator_guard,item_bfury,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{-,};
