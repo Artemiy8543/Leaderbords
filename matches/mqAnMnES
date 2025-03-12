@@ -11,4 +11,4 @@
 0015{item_butterfly,item_satanic_of_madness,item_attacker_midas_agi,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 18{item_butterfly,item_satanic_of_madness,item_attacker_midas_agi,item_bfury,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 20{item_butterfly,item_satanic_of_madness,item_attacker_midas_agi,item_bfury,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-21{item_butterfly,item_satanic_of_madness,item_attacker_midas_agi,item_bfury,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+22{item_butterfly,item_satanic_of_madness,item_attacker_midas_agi,item_bfury,item_great_crit_custom3,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
