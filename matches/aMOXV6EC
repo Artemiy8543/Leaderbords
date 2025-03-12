@@ -4,3 +4,4 @@
 5{item_attacker_midas_agi,item_buckler,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_agi,item_assault,item_bfury,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_agi,item_assault,item_bfury,item_vladmir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+009{item_attacker_midas_agi,item_assault,item_bfury,item_vladmir,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
