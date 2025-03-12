@@ -4,4 +4,5 @@
 006{item_blade_midas,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_blade_midas,item_bloodstone_shield,item_kaya_and_sange,item_blade_of_alacrity,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_blade_midas,item_bloodstone_shield,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-14{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_blade_midas,item_bloodstone_shield,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0015{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
