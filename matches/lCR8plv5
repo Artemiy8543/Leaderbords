@@ -21,4 +21,4 @@
 52{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,item_refresher_core,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 56{item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_manaback3,item_refresher_core,item_great_magic_crit3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 58{item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_manaback3,item_refresher_core,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-0061{item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_manaback3,item_refresher_core,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+0062{item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_manaback3,item_refresher_core,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
