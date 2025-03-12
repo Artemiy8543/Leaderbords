@@ -4,3 +4,4 @@
 5{item_talisman_of_evasion,item_arcane_boots,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_talisman_of_evasion,item_arcane_boots,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance,item_arcane_boots,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_radiance,item_arcane_boots,item_ring_of_tarrasque,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
