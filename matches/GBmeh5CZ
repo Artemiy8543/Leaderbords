@@ -6,4 +6,4 @@
 7{item_attacker_midas_agi,item_bfury,item_butterfly,item_sange,item_robe,-,}{item_recipe_trident_custom,item_recipe_kaya,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_agi,item_bfury,item_butterfly,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_attacker_midas_agi,item_bfury,item_butterfly,item_trident_custom,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_attacker_midas_agi,item_armlet_of_mjolnir,item_butterfly,item_trident_custom,item_gladiator_guard,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_attacker_midas_agi,item_armlet_of_mjolnir,item_butterfly,item_trident_custom,item_gladiator_guard,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{-,};
