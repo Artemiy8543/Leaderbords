@@ -13,3 +13,4 @@
 17{item_radiance_prc,item_guardian_greaves,item_ultimate_scepter,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0018{item_radiance_prc,item_guardian_greaves,item_ultimate_scepter,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 19{item_radiance_prc,item_guardian_greaves,item_ultimate_scepter,item_gladiator_guard,item_octarine_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+20{item_radiance_prc,item_guardian_greaves,item_ultimate_scepter,item_gladiator_guard,item_octarine_core,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
