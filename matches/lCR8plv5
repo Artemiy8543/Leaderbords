@@ -29,4 +29,4 @@
 0079{item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_manaback3,item_veil_of_dagon,item_great_magic_crit3,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 0080{item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_manaback3,item_veil_of_dagon,item_great_magic_crit3,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 0081{item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_manaback3,item_veil_of_dagon,item_great_magic_crit3,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-82{item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_manaback3,item_veil_of_dagon,item_great_magic_crit3,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+83{item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_veil_of_dagon,item_great_magic_crit3,}{item_manaback3,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
