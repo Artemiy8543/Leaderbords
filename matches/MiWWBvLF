@@ -4,4 +4,4 @@
 007{item_gladiator_guard,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-15{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_great_magic_crit3,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_great_magic_crit3,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
