@@ -11,4 +11,5 @@
 0013{item_gladiator_guard,item_lotus_cuirass,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 14{item_gladiator_guard,item_lotus_cuirass,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 0016{item_gladiator_guard,item_lotus_cuirass,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
-19{item_gladiator_guard,item_lotus_cuirass,item_great_crit_custom3,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+18{item_gladiator_guard,item_lotus_cuirass,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0020{item_gladiator_guard,item_lotus_cuirass,item_great_crit_custom3,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
