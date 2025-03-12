@@ -7,4 +7,5 @@
 008{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_arcane_boots,item_robe,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,item_clarity,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-15{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,item_clarity,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
