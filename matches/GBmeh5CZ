@@ -2,3 +2,4 @@
 002{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_agi,item_cornucopia,item_quelling_blade,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_attacker_midas_agi,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
