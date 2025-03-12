@@ -10,3 +10,4 @@
 0013{item_guardian_greaves,item_bloodstone,item_gladiator_guard,item_octarine_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_guardian_greaves,item_bloodstone,item_gladiator_guard,item_octarine_core,-,-,}{item_spell_prism,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 0015{item_guardian_greaves,item_bloodstone,item_gladiator_guard,item_octarine_core,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spell_prism,};
+16{item_guardian_greaves,item_bloodstone,item_gladiator_guard,item_octarine_core,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spell_prism,};
