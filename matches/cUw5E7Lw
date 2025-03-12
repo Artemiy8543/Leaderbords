@@ -2,3 +2,4 @@
 002{item_arcane_boots,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_arcane_boots,item_void_stone,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_arcane_boots,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_arcane_boots,item_bloodstone,item_mekansm,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
