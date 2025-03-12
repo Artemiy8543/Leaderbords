@@ -24,5 +24,5 @@
 166{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 168{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
 170{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-171{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
-173{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{item_veil_of_dagon,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+172{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
+174{item_veil_of_dagon,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_manaback3,item_great_magic_crit3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_ceremonial_robe,};
