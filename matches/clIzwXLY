@@ -3,4 +3,5 @@
 4{item_ring_of_health,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vanguard,item_heart,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_gladiator_guard,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_gladiator_guard,item_eternal_shroud,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_gladiator_guard,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_gladiator_guard,item_eternal_shroud,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
