@@ -8,3 +8,4 @@
 8{item_gladiator_guard,item_hyperstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 10{item_gladiator_guard,item_assault,item_pers,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 12{item_gladiator_guard,item_lotus_cuirass,item_great_crit_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0013{item_gladiator_guard,item_lotus_cuirass,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
