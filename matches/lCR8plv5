@@ -4,5 +4,5 @@
 5{item_blade_midas,item_voodoo_mask,item_void_stone,item_energy_booster,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_midas,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_blade_midas,item_bloodstone_shield,item_kaya_and_sange,item_boots_of_elves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-008{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_arcane_boots,item_robe,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback2,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_blade_midas,item_bloodstone_shield,item_trident_custom,item_manaback3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
