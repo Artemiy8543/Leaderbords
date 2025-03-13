@@ -7,4 +7,4 @@
 0013{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_satanic_of_madness,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 20{item_str_book,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_satanic_of_madness,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-25{-,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_satanic_of_madness,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+26{-,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_satanic_of_madness,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
