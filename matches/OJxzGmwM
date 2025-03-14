@@ -3,3 +3,4 @@
 4{item_point_booster,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ultimate_scepter,item_gloves,item_null_talisman,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_ultimate_scepter,item_gloves,item_null_talisman,item_tiara_of_selemene,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_ultimate_scepter,item_gloves,item_null_talisman,item_tiara_of_selemene,item_vitality_booster,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
