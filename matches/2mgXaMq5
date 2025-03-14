@@ -4,4 +4,4 @@
 6{item_bracer,item_gloves,item_lesser_crit,item_eagle,item_talisman_of_evasion,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_bracer,item_gloves,item_lesser_crit,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_bracer,item_gloves,item_lesser_crit,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_bracer,item_gloves,item_lesser_crit,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0010{item_bracer,item_gloves,item_lesser_crit,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
