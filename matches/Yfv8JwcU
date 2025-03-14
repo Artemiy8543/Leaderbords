@@ -2,3 +2,4 @@
 2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,item_vanguard,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_blade_midas,item_vanguard,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
