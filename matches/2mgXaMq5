@@ -7,5 +7,5 @@
 009{item_bracer,item_gloves,item_lesser_crit,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0011{item_bracer,item_gloves,item_lesser_crit,item_butterfly,item_lifesteal,item_demon_edge,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 12{item_bracer,item_gloves,item_great_crit_custom,item_butterfly,item_mask_of_madness,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-13{item_bracer,item_gloves,item_great_crit_custom,item_butterfly,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-15{item_bracer,item_gloves,item_great_crit_custom3,item_butterfly,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+14{item_bracer,item_gloves,item_great_crit_custom,item_butterfly,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+16{item_bracer,item_mjollnir,item_great_crit_custom3,item_butterfly,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
