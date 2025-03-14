@@ -25,4 +25,4 @@
 54{item_blade_midas,item_gladiator_guard,item_butterfly,item_trident_custom,item_bloodstone_shield,item_agi_book,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 0058{item_blade_midas,item_gladiator_guard,item_butterfly,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 62{item_blade_midas,item_gladiator_guard,item_butterfly,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-0065{item_blade_midas,item_gladiator_guard,item_butterfly,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+0066{item_blade_midas,item_gladiator_guard,item_butterfly,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
