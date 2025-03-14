@@ -14,4 +14,5 @@
 21{item_blade_midas,item_gladiator_guard,item_moon_shard,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 23{item_blade_midas,item_gladiator_guard,-,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 0025{item_blade_midas,item_gladiator_guard,-,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-0028{item_blade_midas,item_gladiator_guard,-,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+0027{item_blade_midas,item_gladiator_guard,item_str_book,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+0029{item_blade_midas,item_gladiator_guard,-,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
