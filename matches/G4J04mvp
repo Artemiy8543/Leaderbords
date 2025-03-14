@@ -13,3 +13,4 @@
 0048{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 0049{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 0050{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0051{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
