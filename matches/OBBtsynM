@@ -13,4 +13,5 @@
 305{item_blade_midas,item_infinity_moon_shard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_butterfly,}{-,item_gladiator_guard,item_devastator,}{item_moon_shard,-,-,-,-,-,}{item_trusty_shovel,};
 392{item_blade_midas,item_infinity_moon_shard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_devastator,}{-,item_gladiator_guard,-,}{-,item_butterfly,-,-,-,-,}{item_misericorde,};
 458{item_blade_midas,item_infinity_moon_shard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_devastator,}{-,item_gladiator_guard,-,}{-,item_butterfly,-,-,-,-,}{item_misericorde,};
-00462{item_blade_midas,item_infinity_moon_shard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_devastator,}{-,item_gladiator_guard,-,}{-,item_butterfly,-,-,-,-,}{item_misericorde,};
+00461{item_blade_midas,item_infinity_moon_shard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_devastator,}{-,item_gladiator_guard,-,}{-,item_butterfly,-,-,-,-,}{item_misericorde,};
+463{item_blade_midas,item_infinity_moon_shard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_devastator,}{-,item_gladiator_guard,-,}{-,item_butterfly,-,-,-,-,}{item_misericorde,};
