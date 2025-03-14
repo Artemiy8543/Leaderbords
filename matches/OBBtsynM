@@ -11,4 +11,4 @@
 104{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,-,item_trident_custom,item_butterfly,}{item_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 109{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 00113{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_butterfly,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
-00117{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_butterfly,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+00118{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_butterfly,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
