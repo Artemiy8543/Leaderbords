@@ -3,4 +3,4 @@
 004{item_vanguard,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_gladiator_guard,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_gladiator_guard,item_shivas_strom,item_kaya_and_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_gladiator_guard,item_shivas_strom,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
