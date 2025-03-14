@@ -9,4 +9,5 @@
 11{item_gladiator_guard,item_blade_midas,item_ultimate_scepter,item_shivas_strom,item_kaya_and_sange,item_blade_of_alacrity,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 13{item_gladiator_guard,item_blade_midas,item_ultimate_scepter,item_shivas_strom,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0015{item_gladiator_guard,item_blade_midas,-,item_shivas_strom,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-18{item_gladiator_guard,item_blade_midas,item_refresher_core,item_shivas_strom,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+17{item_gladiator_guard,item_blade_midas,item_refresher_core,item_shivas_strom,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+19{item_gladiator_guard,item_blade_midas,item_refresher_core,item_shivas_strom,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
