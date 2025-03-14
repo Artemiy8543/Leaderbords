@@ -15,4 +15,4 @@
 68{item_gladiator_guard,item_blade_midas,item_refresher_core,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 0071{item_gladiator_guard,item_blade_midas,item_refresher_core,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 91{item_gladiator_guard,item_blade_midas,item_trident_custom,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,}{-,-,item_refresher_core,}{-,-,-,-,-,-,}{item_searing_signet,};
-92{item_gladiator_guard,item_blade_midas,item_trident_custom,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,}{item_agi_book,-,item_refresher_core,}{-,-,-,-,-,-,}{item_searing_signet,};
+93{item_gladiator_guard,item_blade_midas,item_trident_custom,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,}{-,-,item_refresher_core,}{-,-,-,-,-,-,}{item_searing_signet,};
