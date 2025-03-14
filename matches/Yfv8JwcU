@@ -7,4 +7,4 @@
 7{item_blade_midas,item_gladiator_guard,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_blade_midas,item_gladiator_guard,item_moon_shard,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_blade_midas,item_gladiator_guard,item_moon_shard,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-13{item_blade_midas,item_gladiator_guard,item_moon_shard,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+14{item_blade_midas,item_gladiator_guard,item_moon_shard,item_trident_custom,item_agi_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
