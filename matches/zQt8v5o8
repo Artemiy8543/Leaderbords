@@ -2,4 +2,5 @@
 3{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_vanguard,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_vanguard,item_ring_of_tarrasque,item_reaver,item_flask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_gladiator_guard,-,-,item_flask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_gladiator_guard,-,-,item_flask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_gladiator_guard,-,-,item_flask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
