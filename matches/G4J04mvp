@@ -9,3 +9,4 @@
 19{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0022{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 28{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_blade_mail,}{item_platemail,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+29{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
