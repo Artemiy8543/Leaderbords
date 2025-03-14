@@ -5,4 +5,4 @@
 5{item_blade_midas,item_ring_of_tarrasque,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_blade_midas,item_heart,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+9{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
