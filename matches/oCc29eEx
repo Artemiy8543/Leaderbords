@@ -8,4 +8,4 @@
 11{item_quelling_blade,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,item_basher_slardar,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_quelling_blade,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,item_basher_slardar,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_bfury,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,item_basher_slardar,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0017{item_bfury,item_creep_desolator,item_armlet_of_mjolnir,item_gladiator_guard,item_basher_slardar,item_trident_custom,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{-,};
+0018{item_bfury,item_creep_desolator,item_armlet_of_mjolnir,item_gladiator_guard,item_basher_slardar,item_trident_custom,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{-,};
