@@ -2,4 +2,4 @@
 2{item_claymore,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_claymore,item_eagle,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_butterfly,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_butterfly,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_butterfly,item_armlet_of_mjolnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
