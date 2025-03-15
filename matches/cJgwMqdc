@@ -6,4 +6,4 @@
 008{item_trident_custom,-,-,item_attacker_midas_agi,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_trident_custom,-,item_moon_shard,item_attacker_midas_agi,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_trident_custom,item_butterfly,item_moon_shard,item_attacker_midas_agi,item_refresher_core,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_trident_custom,item_butterfly,item_infinity_moon_shard,item_attacker_midas_agi,item_refresher_core,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_trident_custom,item_butterfly,item_infinity_moon_shard,item_attacker_midas_agi,item_creep_desolator,item_armlet_of_mjolnir,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{-,};
