@@ -4,4 +4,4 @@
 005{item_mjollnir,item_mask_of_madness,item_ward_observer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_mjollnir,item_mask_of_madness,item_ward_observer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_armlet_of_mjolnir,item_satanic_of_madness,item_ward_observer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_armlet_of_mjolnir,item_satanic_of_madness,item_ward_observer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_armlet_of_mjolnir,item_satanic_of_madness,item_ward_observer,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
