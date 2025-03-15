@@ -6,4 +6,4 @@
 6{item_bfury,item_attacker_midas_agi,-,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bfury,item_attacker_midas_agi,item_satanic_of_madness,item_armlet_of_mjolnir,item_blight_stone,item_helm_of_iron_will,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_bfury,item_attacker_midas_agi,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-9{item_bfury,item_attacker_midas_agi,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+10{item_bfury,item_attacker_midas_agi,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
