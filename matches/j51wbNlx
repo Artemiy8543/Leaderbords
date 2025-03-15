@@ -4,4 +4,4 @@
 006{item_attacker_midas_agi,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_agi,item_armlet_of_mjolnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_attacker_midas_agi,item_armlet_of_mjolnir,item_revenants_brooch,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_attacker_midas_agi,item_armlet_of_mjolnir,item_revenants_brooch,item_great_crit_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_attacker_midas_agi,item_armlet_of_mjolnir,item_revenants_brooch,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
