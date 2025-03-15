@@ -13,4 +13,4 @@
 0021{item_bfury,item_creep_desolator,item_armlet_of_mjolnir,item_gladiator_guard,item_basher_slardar,item_trident_custom,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{-,};
 22{item_bfury,item_creep_desolator,item_armlet_of_mjolnir,item_gladiator_guard,item_basher_slardar,item_trident_custom,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{-,};
 0023{item_bfury,item_creep_desolator,item_armlet_of_mjolnir,item_gladiator_guard,item_basher_slardar,item_trident_custom,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
-24{item_bfury,item_creep_desolator,item_armlet_of_mjolnir,item_gladiator_guard,item_lotus_cuirass,item_trident_custom,}{item_attacker_midas_str,item_basher_slardar,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+26{item_bfury,item_creep_desolator,item_armlet_of_mjolnir,item_gladiator_guard,item_lotus_cuirass,item_trident_custom,}{item_attacker_midas_str,item_basher_slardar,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
