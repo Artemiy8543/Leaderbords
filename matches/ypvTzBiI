@@ -17,4 +17,5 @@
 0031{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 32{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 35{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-39{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+38{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0040{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
