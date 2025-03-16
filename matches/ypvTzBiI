@@ -5,4 +5,5 @@
 8{item_ward_observer,item_gladiator_guard,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_ward_observer,item_gladiator_guard,item_assault,item_lotus_orb,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_octarine_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_octarine_core,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{-,};
