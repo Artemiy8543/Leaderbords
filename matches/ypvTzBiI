@@ -16,4 +16,5 @@
 0029{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0031{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 32{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-36{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+35{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+38{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
