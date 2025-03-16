@@ -2,4 +2,4 @@
 2{item_ward_observer,item_reaver,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_ward_observer,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ward_observer,item_heart,item_vanguard,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_ward_observer,item_gladiator_guard,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_ward_observer,item_gladiator_guard,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
