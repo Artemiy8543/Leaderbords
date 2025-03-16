@@ -4,3 +4,4 @@
 5{item_ward_observer,item_heart,item_vanguard,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_ward_observer,item_gladiator_guard,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_ward_observer,item_gladiator_guard,item_assault,item_lotus_orb,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
