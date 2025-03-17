@@ -7,3 +7,4 @@
 0010{item_gladiator_guard,item_blade_midas,item_kaya_and_sange,item_yasha,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_gladiator_guard,item_blade_midas,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_gladiator_guard,item_blade_midas,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+0013{item_gladiator_guard,item_blade_midas,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
