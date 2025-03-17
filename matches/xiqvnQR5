@@ -13,3 +13,4 @@
 0020{item_gladiator_guard,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 22{item_gladiator_guard,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 24{item_gladiator_guard,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_mithril_hammer,}{item_javelin,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+25{item_gladiator_guard,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
