@@ -5,3 +5,4 @@
 8{item_gladiator_guard,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,item_blade_midas,item_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_gladiator_guard,item_blade_midas,item_kaya_and_sange,item_yasha,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_gladiator_guard,item_blade_midas,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
