@@ -2,4 +2,5 @@
 2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,item_vanguard,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_blade_midas,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_blade_midas,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_blade_midas,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
