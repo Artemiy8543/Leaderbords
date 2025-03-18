@@ -7,4 +7,4 @@
 009{item_assault,item_platemail,item_ring_of_health,-,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 11{item_lotus_cuirass,-,-,-,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 13{item_lotus_cuirass,item_creep_desolator,-,-,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-0014{item_lotus_cuirass,item_creep_desolator,-,-,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+0015{item_lotus_cuirass,item_creep_desolator,item_trident_custom,-,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
