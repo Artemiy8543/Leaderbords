@@ -8,3 +8,4 @@
 11{item_lotus_cuirass,-,-,-,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 13{item_lotus_cuirass,item_creep_desolator,-,-,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0015{item_lotus_cuirass,item_creep_desolator,item_trident_custom,-,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+0016{item_lotus_cuirass,item_creep_desolator,item_trident_custom,item_great_crit_custom,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
