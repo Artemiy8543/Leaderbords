@@ -10,4 +10,5 @@
 0020{-,item_gladiator_guard,item_armlet_of_mjolnir,item_trident_custom,item_lotus_cuirass,item_shivas_strom,}{item_blade_midas,item_radiance_prc,-,}{-,-,-,-,-,-,}{-,};
 0022{item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_trident_custom,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
 0025{item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_trident_custom,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_blade_midas,};
-0030{item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_trident_custom,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
+0029{item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_trident_custom,item_lotus_cuirass,item_shivas_strom,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
+0031{item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_trident_custom,item_lotus_cuirass,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
