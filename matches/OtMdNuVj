@@ -26,3 +26,4 @@
 0048{item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_trident_custom,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
 0050{item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_trident_custom,item_shivas_strom,item_lotus_cuirass,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
 0052{item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_trident_custom,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
+0053{item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_trident_custom,item_shivas_strom,item_lotus_cuirass,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
