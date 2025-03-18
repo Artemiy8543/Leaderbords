@@ -3,4 +3,4 @@
 003{item_bracer,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_bracer,item_blade_midas,item_voodoo_mask,item_soul_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bracer,item_blade_midas,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-008{item_bracer,item_blade_midas,item_bloodstone,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_bracer,item_blade_midas,item_bloodstone,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
