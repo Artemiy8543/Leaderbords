@@ -3,3 +3,4 @@
 3{item_sange_and_yasha,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_sange_and_yasha,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_trident_custom,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_trident_custom,item_lifesteal,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
