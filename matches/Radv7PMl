@@ -3,3 +3,4 @@
 4{item_bfury,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bfury,-,item_lifesteal,-,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{-,-,-,item_lifesteal,item_satanic,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_platemail,item_ring_of_protection,-,-,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{-,};
