@@ -16,4 +16,5 @@
 30{item_lotus_cuirass,item_creep_desolator,item_trident_custom,item_great_crit_custom3,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0033{item_lotus_cuirass,item_creep_desolator,item_trident_custom,item_great_crit_custom3,item_satanic_of_madness,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 37{item_lotus_cuirass,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,item_satanic_of_madness,item_bfury,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-43{item_lotus_cuirass,item_creep_desolator,item_trident_custom,item_great_crit_custom3,item_satanic_of_madness,item_bfury,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+41{item_lotus_cuirass,item_creep_desolator,item_trident_custom,item_great_crit_custom3,item_satanic_of_madness,item_bfury,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+45{item_lotus_cuirass,item_creep_desolator,item_trident_custom,item_great_crit_custom3,item_satanic_of_madness,item_bfury,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
