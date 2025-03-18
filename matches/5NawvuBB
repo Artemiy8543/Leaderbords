@@ -5,3 +5,4 @@
 5{item_trident_custom,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_trident_custom,item_lifesteal,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_trident_custom,item_vladmir,item_hyperstone,item_vladmir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_trident_custom,item_vladimir_pact,item_hyperstone,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
