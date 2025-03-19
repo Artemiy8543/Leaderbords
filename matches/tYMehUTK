@@ -6,4 +6,4 @@
 007{item_creep_desolator,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_creep_desolator,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_creep_desolator,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_creep_desolator,item_lotus_cuirass,item_vladimir_pact,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_creep_desolator,item_lotus_cuirass,item_vladimir_pact,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
