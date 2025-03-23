@@ -21,3 +21,4 @@
 37{item_bloodstone_shield,item_radiance_prc,item_blade_mail,item_gladiator_guard,item_manaback3,item_shivas_strom,}{-,-,item_phylactery_blade,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 39{item_bloodstone_shield,item_radiance_prc,item_blade_mail,item_gladiator_guard,item_manaback3,item_shivas_strom,}{-,-,item_phylactery_blade,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 41{item_bloodstone_shield,item_radiance_prc,item_blade_mail,item_gladiator_guard,item_manaback3,item_shivas_strom,}{item_str_book,-,item_phylactery_blade,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+42{item_bloodstone_shield,item_radiance_prc,item_blade_mail,item_gladiator_guard,item_manaback3,item_shivas_strom,}{item_str_book,-,item_phylactery_blade,}{-,-,-,-,-,-,}{item_spark_of_courage,};
