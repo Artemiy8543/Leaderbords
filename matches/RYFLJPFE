@@ -7,3 +7,4 @@
 0010{item_bloodstone_shield,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_bloodstone_shield,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_bloodstone_shield,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0013{item_bloodstone_shield,item_radiance,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
