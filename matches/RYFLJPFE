@@ -11,4 +11,5 @@
 16{item_bloodstone_shield,item_radiance,item_ultimate_scepter,item_gladiator_guard,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 18{item_bloodstone_shield,item_radiance,-,item_gladiator_guard,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 20{item_bloodstone_shield,item_radiance,-,item_gladiator_guard,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-23{item_bloodstone_shield,item_radiance,-,item_gladiator_guard,-,item_shivas_strom,}{-,-,item_phylactery_blade,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+22{item_bloodstone_shield,item_radiance,item_phylactery_blade,item_gladiator_guard,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0024{item_bloodstone_shield,item_radiance,-,item_gladiator_guard,-,item_shivas_strom,}{-,-,item_phylactery_blade,}{-,-,-,-,-,-,}{item_spark_of_courage,};
