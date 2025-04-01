@@ -13,4 +13,5 @@
 18{item_gladiator_guard,item_blade_mail,item_great_magic_crit,item_shivas_strom,item_radiance_prc,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_gladiator_guard,item_blade_mail,item_great_magic_crit3,item_shivas_strom,item_radiance_prc,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 24{item_gladiator_guard,item_blade_mail,item_great_magic_crit3,item_shivas_strom,item_radiance_prc,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0027{item_gladiator_guard,item_blade_mail,item_great_magic_crit3,item_shivas_strom,item_radiance_prc,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0026{item_gladiator_guard,item_blade_mail,item_great_magic_crit3,item_shivas_strom,item_radiance_prc,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+28{item_gladiator_guard,item_blade_mail,item_great_magic_crit3,item_shivas_strom,item_radiance_prc,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
