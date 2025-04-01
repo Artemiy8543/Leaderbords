@@ -7,4 +7,5 @@
 008{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_gladiator_guard,item_blade_mail,item_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{item_gladiator_guard,item_blade_mail,item_magic_crit,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_gladiator_guard,item_blade_mail,item_magic_crit,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_gladiator_guard,item_blade_mail,item_great_magic_crit,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
