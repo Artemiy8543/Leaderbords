@@ -2,3 +2,4 @@
 002{item_firecracker_small,item_gloves,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_firecracker_small,item_gloves,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_firecracker_small,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_firecracker_small,item_maelstrom,item_dragon_lance,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
