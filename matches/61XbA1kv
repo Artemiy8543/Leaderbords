@@ -7,5 +7,5 @@
 8{item_attacker_midas_int,item_mjollnir,item_octarine_core,item_revenants_brooch,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_attacker_midas_int,item_mjollnir,item_octarine_core,item_revenants_brooch,item_vladimir_pact,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 11{item_attacker_midas_int,item_mjollnir,item_octarine_core,item_revenants_brooch,item_vladimir_pact,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-13{item_attacker_midas_int,item_mjollnir,item_octarine_core,item_revenants_brooch,item_vladimir_pact,item_lotus_cuirass,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-0015{item_attacker_midas_int,item_mjollnir,item_octarine_core,item_revenants_brooch,item_vladimir_pact,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+14{item_attacker_midas_int,item_mjollnir,item_octarine_core,item_revenants_brooch,item_vladimir_pact,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+16{item_attacker_midas_int,item_mjollnir,item_octarine_core,item_revenants_brooch,item_vladimir_pact,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
