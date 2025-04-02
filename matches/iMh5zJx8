@@ -5,4 +5,4 @@
 8{item_trident_custom,item_vladimir_pact,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_trident_custom,item_vladimir_pact,item_refresher_core,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0014{item_trident_custom,item_vladimir_pact,item_refresher_core,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-16{item_trident_custom,item_vladimir_pact,item_refresher_core,item_great_magic_crit,item_lotus_cuirass,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+17{item_trident_custom,item_vladimir_pact,item_refresher_core,item_great_magic_crit,item_lotus_cuirass,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
