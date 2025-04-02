@@ -11,4 +11,5 @@
 14{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0016{item_gladiator_guard,item_lotus_cuirass,item_satanic_of_madness,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 18{item_gladiator_guard,item_lotus_cuirass,item_satanic_of_madness,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0022{item_gladiator_guard,item_lotus_cuirass,item_satanic_of_madness,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0021{item_gladiator_guard,item_lotus_cuirass,item_satanic_of_madness,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+23{item_gladiator_guard,item_lotus_cuirass,item_satanic_of_madness,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
