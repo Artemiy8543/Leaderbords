@@ -13,4 +13,4 @@
 0032{item_trident_custom,item_lotus_cuirass,item_refresher_core,item_great_magic_crit,item_vladimir_pact,item_ultimate_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 36{item_trident_custom,item_lotus_cuirass,item_refresher_core,item_great_magic_crit,item_vladimir_pact,item_ultimate_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 39{item_trident_custom,item_lotus_cuirass,item_refresher_core,item_great_magic_crit,item_vladimir_pact,item_ultimate_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-90{item_trident_custom,item_lotus_cuirass,item_refresher_core,item_great_magic_crit,item_vladimir_pact,item_ultimate_boots,}{item_satanic_of_madness,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
+91{item_trident_custom,item_lotus_cuirass,item_refresher_core,item_great_magic_crit,item_satanic_of_madness,item_ultimate_boots,}{item_vladimir_pact,-,-,}{-,-,-,-,-,-,}{item_paladin_sword,};
