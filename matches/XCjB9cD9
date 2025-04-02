@@ -3,4 +3,5 @@
 5{item_assault,-,item_power_treads,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_assault,-,item_power_treads,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_assault,-,item_power_treads,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_assault,-,item_power_treads,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_assault,-,item_power_treads,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_assault,-,item_power_treads,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
