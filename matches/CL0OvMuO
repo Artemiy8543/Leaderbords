@@ -5,3 +5,4 @@
 006{item_vanguard,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_gladiator_guard,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_gladiator_guard,item_assault,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_gladiator_guard,item_lotus_cuirass,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
