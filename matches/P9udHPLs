@@ -3,3 +3,4 @@
 4{item_wraith_band,item_wraith_band,item_maelstrom,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_wraith_band,item_wraith_band,item_maelstrom,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_wraith_band,item_wraith_band,item_maelstrom,item_lifesteal,item_hyperstone,item_lesser_crit,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_wraith_band,item_wraith_band,item_maelstrom,item_lifesteal,item_moon_shard,item_lesser_crit,}{item_gloves,-,-,}{-,-,-,-,-,-,}{-,};
