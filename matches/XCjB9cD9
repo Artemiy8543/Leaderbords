@@ -4,4 +4,5 @@
 6{item_assault,-,item_power_treads,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_assault,-,item_power_treads,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_assault,-,item_power_treads,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_assault,item_trident_custom,item_power_treads,item_great_magic_crit,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_assault,-,item_power_treads,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+13{item_assault,item_trident_custom,item_power_treads,item_great_magic_crit,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
