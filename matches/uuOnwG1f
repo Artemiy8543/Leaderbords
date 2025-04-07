@@ -25,4 +25,5 @@
 00117{item_shivas_strom,item_attacker_midas_str,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 120{item_shivas_strom,item_attacker_midas_str,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 00123{item_shivas_strom,item_attacker_midas_str,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-127{item_shivas_strom,item_attacker_midas_str,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+126{item_shivas_strom,-,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+00128{item_shivas_strom,item_attacker_midas_str,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
