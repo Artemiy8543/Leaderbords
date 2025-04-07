@@ -50,3 +50,4 @@
 00171{item_shivas_strom,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_armlet_of_mjolnir,item_great_magic_crit3,}{item_radiance_prc,item_str_book,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 00174{item_shivas_strom,item_blade_midas,item_trident_custom,item_bloodstone_shield,-,item_great_magic_crit3,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 176{item_shivas_strom,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+177{item_shivas_strom,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
