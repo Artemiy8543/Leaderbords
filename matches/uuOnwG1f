@@ -32,4 +32,5 @@
 00136{item_shivas_strom,item_attacker_midas_str,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 138{item_shivas_strom,item_attacker_midas_str,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 00140{item_shivas_strom,item_blade_mail,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-00143{item_shivas_strom,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+00142{item_shivas_strom,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+00144{item_shivas_strom,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
