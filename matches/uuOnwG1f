@@ -61,3 +61,4 @@
 193{item_shivas_strom,item_overwhelming_blink,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{item_radiance_prc,item_blade_midas,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 00194{item_shivas_strom,item_overwhelming_blink,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{item_radiance_prc,item_blade_midas,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 196{item_shivas_strom,item_overwhelming_blink,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{item_radiance_prc,item_blade_midas,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+00197{item_octarine_core,item_overwhelming_blink,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{-,-,item_recipe_refresher,}{item_blade_midas,item_radiance_prc,-,-,-,-,}{item_havoc_hammer,};
