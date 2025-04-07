@@ -58,4 +58,4 @@
 185{item_shivas_strom,item_overwhelming_blink,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{item_str_book,-,-,}{item_blade_midas,item_radiance_prc,-,-,-,-,}{item_havoc_hammer,};
 00187{item_shivas_strom,item_overwhelming_blink,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 00189{item_shivas_strom,item_overwhelming_blink,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{item_radiance_prc,item_blade_midas,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
-192{item_shivas_strom,item_overwhelming_blink,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{item_radiance_prc,item_blade_midas,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+193{item_shivas_strom,item_overwhelming_blink,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{item_radiance_prc,item_blade_midas,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
