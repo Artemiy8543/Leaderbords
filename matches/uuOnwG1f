@@ -53,3 +53,4 @@
 177{item_shivas_strom,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 178{item_shivas_strom,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
 180{item_shivas_strom,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
+00181{item_shivas_strom,item_blade_midas,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_havoc_hammer,};
