@@ -5,4 +5,4 @@
 005{item_lifesteal,-,-,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{-,-,item_mjollnir,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_ward_observer,item_attacker_midas_agi,item_mjollnir,item_satanic,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_ward_observer,item_attacker_midas_agi,item_mjollnir,item_satanic,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_ward_observer,item_attacker_midas_agi,item_mjollnir,item_satanic,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
