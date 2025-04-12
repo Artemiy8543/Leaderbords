@@ -2,3 +2,4 @@
 002{item_broadsword,item_broadsword,item_cornucopia,item_quelling_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bfury,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bfury,item_lifesteal,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_bfury,item_mask_of_madness,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
