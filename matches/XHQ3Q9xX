@@ -32,4 +32,4 @@
 0063{item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_vladimir_pact,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0072{item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_vladimir_pact,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0080{item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_vladimir_pact,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-122{item_bloodstone_shield,item_gladiator_guard,item_refresher_core,-,item_radiance_prc,item_great_magic_crit3,}{item_vladimir_pact,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+123{item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_int_book,item_radiance_prc,item_great_magic_crit3,}{item_vladimir_pact,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
