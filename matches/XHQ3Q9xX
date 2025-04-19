@@ -6,4 +6,4 @@
 8{item_radiance,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 009{item_radiance,item_null_talisman,item_octarine_core,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 10{item_radiance,item_null_talisman,item_octarine_core,item_bloodstone,item_buckler,item_ring_of_basilius,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-11{item_radiance,item_null_talisman,item_octarine_core,item_bloodstone,item_vladimir_pact,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+12{item_bloodstone,item_null_talisman,item_octarine_core,item_radiance,item_vladimir_pact,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
