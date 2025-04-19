@@ -14,3 +14,4 @@
 0020{item_bloodstone_shield,item_null_talisman,item_refresher_core,item_vladimir_pact,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 22{item_bloodstone_shield,item_null_talisman,item_refresher_core,item_vladimir_pact,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0024{item_bloodstone_shield,-,item_refresher_core,item_vladimir_pact,item_radiance_prc,item_great_magic_crit3,}{-,item_null_talisman,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+25{item_bloodstone_shield,-,item_refresher_core,item_vladimir_pact,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
