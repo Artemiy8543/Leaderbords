@@ -4,5 +4,5 @@
 7{item_mjollnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_mjollnir,item_satanic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{-,item_satanic,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{-,item_satanic,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0012{item_great_crit_custom3,item_satanic,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{-,item_satanic,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_great_crit_custom3,item_satanic,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
