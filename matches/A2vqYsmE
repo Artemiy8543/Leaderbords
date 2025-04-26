@@ -35,4 +35,4 @@
 0091{item_arcane_blink,item_refresher_core,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 152{item_bloodstone_shield,item_refresher_core,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{item_arcane_blink,item_armlet_of_mjolnir,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 193{item_refresher_core,item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{item_arcane_blink,item_armlet_of_mjolnir,item_shivas_strom,}{-,-,-,-,-,-,}{item_searing_signet,};
-194{item_refresher_core,item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{item_arcane_blink,-,-,}{item_shivas_strom,item_armlet_of_mjolnir,-,-,-,-,}{item_searing_signet,};
+195{item_refresher_core,item_bloodstone_shield,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{item_arcane_blink,item_int_book,-,}{-,-,-,-,-,-,}{item_searing_signet,};
