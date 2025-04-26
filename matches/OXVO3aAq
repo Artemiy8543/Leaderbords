@@ -47,3 +47,4 @@
 114{item_shivas_strom,-,-,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{-,item_gladiator_guard,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 00115{item_shivas_strom,-,-,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{-,item_gladiator_guard,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 117{item_shivas_strom,-,-,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{-,item_gladiator_guard,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+00118{item_shivas_strom,item_radiance_prc,-,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{-,item_gladiator_guard,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_polliwog_charm,};
