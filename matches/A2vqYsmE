@@ -9,4 +9,5 @@
 0010{item_arcane_blink,item_boots,item_bottle,item_null_talisman,item_meteor_rain,item_hand_of_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 0013{item_arcane_blink,item_octarine_core,item_bottle,item_null_talisman,item_meteor_rain,item_hand_of_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 15{item_arcane_blink,item_octarine_core,item_bottle,-,item_meteor_rain,item_hand_of_midas,}{item_null_talisman,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
-19{item_arcane_blink,item_refresher_core,item_bottle,-,item_meteor_rain,item_hand_of_midas,}{item_null_talisman,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+18{item_arcane_blink,item_refresher_core,item_bottle,-,item_meteor_rain,item_hand_of_midas,}{item_null_talisman,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+0020{item_arcane_blink,item_refresher_core,item_bottle,-,item_meteor_rain,item_hand_of_midas,}{item_null_talisman,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
