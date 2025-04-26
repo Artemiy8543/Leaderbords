@@ -22,3 +22,4 @@
 0052{item_arcane_blink,item_refresher_core,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{item_null_talisman,item_bottle,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 0056{item_arcane_blink,item_refresher_core,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{item_null_talisman,item_bottle,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 0058{item_arcane_blink,item_refresher_core,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{item_null_talisman,item_bottle,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+0059{item_arcane_blink,item_refresher_core,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
