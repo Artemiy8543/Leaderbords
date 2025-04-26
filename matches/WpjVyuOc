@@ -4,3 +4,4 @@
 005{item_gauntlets,item_gauntlets,item_ring_of_protection,item_gauntlets,item_bloodstone,item_ring_of_protection,}{item_ring_of_tarrasque,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_gauntlets,item_ring_of_tarrasque,item_ring_of_protection,item_gauntlets,item_bloodstone,item_ring_of_protection,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_gauntlets,item_heart,item_ring_of_protection,item_gauntlets,item_bloodstone,item_ring_of_protection,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_gauntlets,item_heart,item_vanguard,item_ring_of_protection,item_bloodstone,item_ring_of_protection,}{item_gauntlets,item_helm_of_iron_will,-,}{-,-,-,-,-,-,}{-,};
