@@ -2,3 +2,4 @@
 002{item_null_talisman,item_flask,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 3{item_null_talisman,-,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 4{item_null_talisman,item_boots,item_hand_of_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+005{item_soul_ring,item_boots,item_hand_of_midas,item_null_talisman,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
