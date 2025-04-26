@@ -33,4 +33,4 @@
 0079{item_arcane_blink,item_refresher_core,item_phylactery_blade,item_trident_custom,item_veil_of_dagon,item_great_magic_crit3,}{item_meteor_rain,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 85{item_arcane_blink,item_refresher_core,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 0091{item_arcane_blink,item_refresher_core,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
-134{item_arcane_blink,item_refresher_core,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{item_manaback3,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+135{item_arcane_blink,item_refresher_core,item_phylactery_blade,item_trident_custom,item_meteor_rain,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
