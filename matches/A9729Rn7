@@ -8,3 +8,4 @@
 9{item_gladiator_guard,item_sange,item_chainmail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_gladiator_guard,item_sange,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_gladiator_guard,item_sange,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+12{item_gladiator_guard,item_sange,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
