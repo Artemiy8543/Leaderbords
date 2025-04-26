@@ -11,4 +11,4 @@
 15{item_arcane_blink,item_octarine_core,item_bottle,-,item_meteor_rain,item_hand_of_midas,}{item_null_talisman,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 18{item_arcane_blink,item_refresher_core,item_bottle,-,item_meteor_rain,item_hand_of_midas,}{item_null_talisman,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 0021{item_arcane_blink,item_refresher_core,item_bottle,-,item_meteor_rain,item_hand_of_midas,}{item_null_talisman,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
-0024{item_arcane_blink,item_refresher_core,item_bottle,item_trident_custom,item_meteor_rain,item_hand_of_midas,}{item_null_talisman,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+0025{item_arcane_blink,item_refresher_core,item_bottle,item_trident_custom,item_meteor_rain,item_hand_of_midas,}{item_null_talisman,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
