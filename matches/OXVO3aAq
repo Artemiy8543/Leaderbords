@@ -51,3 +51,4 @@
 119{item_shivas_strom,item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 120{item_shivas_strom,item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 121{item_shivas_strom,item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{item_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+122{item_shivas_strom,item_radiance_prc,item_trident_custom,item_bloodstone_shield,item_manaback3,item_great_magic_crit3,}{item_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
