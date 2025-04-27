@@ -6,3 +6,4 @@
 008{item_hand_of_midas,-,item_heart,-,-,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_hand_of_midas,-,item_heart,-,-,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0010{item_hand_of_midas,-,item_heart,-,-,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+11{item_hand_of_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
