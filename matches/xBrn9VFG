@@ -5,3 +5,4 @@
 007{item_hand_of_midas,-,item_heart,item_enchanted_mango,-,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_hand_of_midas,-,item_heart,-,-,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_hand_of_midas,-,item_heart,-,-,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+0010{item_hand_of_midas,-,item_heart,-,-,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
