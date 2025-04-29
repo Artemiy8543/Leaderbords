@@ -5,3 +5,4 @@
 007{item_mjollnir,-,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_mjollnir,item_talisman_of_evasion,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_mjollnir,item_talisman_of_evasion,item_satanic,item_lesser_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_mjollnir,item_butterfly,item_satanic,item_lesser_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
