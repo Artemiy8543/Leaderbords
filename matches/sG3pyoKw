@@ -5,3 +5,4 @@
 007{item_ward_observer,item_maelstrom,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_ward_observer,item_maelstrom,item_satanic,item_eagle,item_claymore,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_satanic,item_maelstrom,item_butterfly,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_satanic,item_butterfly,item_mjollnir,item_point_booster,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
