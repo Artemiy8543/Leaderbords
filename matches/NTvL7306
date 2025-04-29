@@ -4,4 +4,4 @@
 6{item_maelstrom,-,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_mjollnir,item_blight_stone,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_mjollnir,item_blight_stone,item_satanic,item_mithril_hammer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_mjollnir,item_desolator,item_satanic,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_mjollnir,item_creep_desolator,item_satanic,item_ward_observer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
