@@ -7,3 +7,4 @@
 9{item_satanic,item_maelstrom,item_butterfly,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_satanic,item_butterfly,item_mjollnir,item_point_booster,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_satanic,item_butterfly,item_mjollnir,item_ultimate_scepter,item_great_crit_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+13{item_satanic,item_butterfly,item_mjollnir,item_ultimate_scepter,item_great_crit_custom2,item_ward_observer,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
