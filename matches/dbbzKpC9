@@ -2,3 +2,4 @@
 2{item_javelin,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_maelstrom,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_maelstrom,item_mask_of_madness,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_maelstrom,item_talisman_of_evasion,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
