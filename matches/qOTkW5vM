@@ -27,4 +27,4 @@
 61{item_lightning_sword,item_refresher_core,item_satanic,item_armlet_of_mjolnir,item_great_crit_custom3,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0064{item_lightning_sword,item_refresher_core,item_satanic,item_armlet_of_mjolnir,item_great_crit_custom3,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 65{item_lightning_sword,item_refresher_core,item_satanic,item_armlet_of_mjolnir,item_great_crit_custom3,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-0066{item_lightning_sword,item_refresher_core,item_satanic,item_armlet_of_mjolnir,item_great_crit_custom3,item_creep_desolator,}{item_agi_book,item_wraith_band,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+0067{item_lightning_sword,item_refresher_core,item_satanic,item_armlet_of_mjolnir,item_great_crit_custom3,item_creep_desolator,}{item_agi_book,item_wraith_band,-,}{-,-,-,-,-,-,}{item_mana_draught,};
