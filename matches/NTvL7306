@@ -2,3 +2,4 @@
 3{item_maelstrom,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_maelstrom,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_maelstrom,-,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_mjollnir,item_blight_stone,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
