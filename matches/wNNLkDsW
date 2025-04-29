@@ -3,3 +3,4 @@
 004{item_bfury,item_blight_stone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bfury,item_blight_stone,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bfury,item_desolator,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_bfury,item_desolator,item_lifesteal,item_helm_of_iron_will,item_diadem,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
