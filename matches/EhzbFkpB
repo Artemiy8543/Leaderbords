@@ -2,3 +2,4 @@
 2{item_hyperstone,item_mithril_hammer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hyperstone,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{-,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_reaver,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
