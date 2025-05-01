@@ -6,3 +6,4 @@
 9{item_vanguard,item_lotus_cuirass,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_vanguard,item_heart,item_lotus_cuirass,item_bloodstone,item_helm_of_iron_will,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_gladiator_guard,-,item_lotus_cuirass,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_gladiator_guard,item_octarine_core,item_lotus_cuirass,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
