@@ -11,3 +11,4 @@
 18{item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 20{item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
 23{item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
+0024{item_gladiator_guard,item_refresher_core,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_rattlecage,};
