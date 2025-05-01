@@ -2,4 +2,5 @@
 2{item_hyperstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hyperstone,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_agi_book,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_demon_edge,item_mjollnir,item_javelin,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_agi_book,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_monkey_king_bar,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
