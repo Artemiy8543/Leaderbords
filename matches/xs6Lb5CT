@@ -4,3 +4,4 @@
 5{item_vanguard,item_assault,item_pers,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_vanguard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_vanguard,item_lotus_cuirass,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_vanguard,item_heart,item_lotus_cuirass,item_bloodstone,item_helm_of_iron_will,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
