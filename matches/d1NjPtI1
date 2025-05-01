@@ -4,3 +4,4 @@
 004{-,item_kaya,-,-,item_phylactery,item_hand_of_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{-,-,-,item_phylactery,item_kaya_and_sange,item_hand_of_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_hand_of_midas,-,-,item_kaya_and_sange,item_phylactery,item_blink,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_hand_of_midas,item_mystic_staff,-,item_kaya_and_sange,item_phylactery,item_blink,}{-,-,-,}{-,-,-,-,-,-,}{-,};
