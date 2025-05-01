@@ -1,4 +1,5 @@
 99+76561198081136966=1{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_vanguard,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_vanguard,item_platemail,item_hyperstone,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_vanguard,item_assault,item_lotus_orb,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_vanguard,item_platemail,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_vanguard,item_assault,item_pers,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_vanguard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
