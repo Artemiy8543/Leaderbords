@@ -2,5 +2,5 @@
 2{item_hyperstone,item_mithril_hammer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hyperstone,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{-,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_reaver,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_heart,item_mjollnir,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_heart,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_heart,item_mjollnir,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
