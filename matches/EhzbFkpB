@@ -4,4 +4,4 @@
 4{-,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_reaver,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_heart,item_mjollnir,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_heart,item_mjollnir,item_infinity_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_heart,item_mjollnir,item_infinity_moon_shard,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
