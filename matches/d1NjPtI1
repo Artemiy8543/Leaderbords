@@ -2,3 +2,4 @@
 2{-,-,-,-,-,item_hand_of_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{-,-,-,-,item_phylactery,item_hand_of_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{-,item_kaya,-,-,item_phylactery,item_hand_of_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{-,-,-,item_phylactery,item_kaya_and_sange,item_hand_of_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
