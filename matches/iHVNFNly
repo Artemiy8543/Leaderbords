@@ -8,3 +8,4 @@
 11{item_voodoo_mask,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 13{item_veil_of_dagon,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 14{item_veil_of_dagon,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0015{item_veil_of_dagon,item_radiance_prc,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
