@@ -4,3 +4,4 @@
 4{item_power_treads,item_mask_of_madness,item_lifesteal,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_power_treads,item_mask_of_madness,item_lifesteal,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_power_treads,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_power_treads,item_satanic_of_madness,item_armlet,item_javelin,-,-,}{item_recipe_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{-,};
