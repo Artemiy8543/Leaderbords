@@ -8,3 +8,4 @@
 0012{item_bloodstone_shield,item_octarine_core,-,-,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_bloodstone_shield,item_refresher_core,item_manaback,-,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 18{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_manaback,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+19{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_manaback,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
