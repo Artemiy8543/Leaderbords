@@ -4,3 +4,4 @@
 6{item_radiance,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bloodstone,-,item_energy_booster,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone,item_tiara_of_selemene,item_energy_booster,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_bloodstone,item_octarine_core,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
