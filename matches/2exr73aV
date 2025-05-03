@@ -5,3 +5,4 @@
 006{item_mask_of_madness,item_basher_slardar,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_satanic_of_madness,item_basher_slardar,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 8{item_satanic_of_madness,item_basher_slardar,item_hyperstone,item_buckler,item_quelling_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+009{item_satanic_of_madness,item_basher_slardar,item_hyperstone,item_buckler,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
