@@ -3,3 +3,4 @@
 004{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance,item_kaya,-,-,-,item_urn_of_shadows,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_radiance,item_kaya,-,-,-,item_urn_of_shadows,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
