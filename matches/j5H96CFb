@@ -5,4 +5,4 @@
 6{item_heart,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_gladiator_guard,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_gladiator_guard,item_radiance,item_urn_of_shadows,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_gladiator_guard,item_radiance_prc,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_gladiator_guard,item_radiance_prc,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
