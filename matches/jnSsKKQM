@@ -8,4 +8,5 @@
 0011{item_radiance_prc,item_kaya,item_heart,item_point_booster,item_ogre_axe,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 12{item_radiance_prc,item_kaya,item_heart,item_ultimate_scepter,item_veil_of_discord,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 14{item_radiance_prc,item_kaya,item_heart,item_ultimate_scepter,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-17{item_radiance_prc,item_great_magic_crit,item_heart,item_ultimate_scepter,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+16{item_radiance_prc,item_kaya,item_heart,item_ultimate_scepter,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+18{item_radiance_prc,item_great_magic_crit3,item_heart,item_ultimate_scepter,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
