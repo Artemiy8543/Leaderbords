@@ -10,3 +10,4 @@
 12{item_bloodstone_shield,item_refresher_core,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_bloodstone_shield,item_refresher_core,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_veil_of_dagon,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0017{item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_veil_of_dagon,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
