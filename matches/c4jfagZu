@@ -2,3 +2,4 @@
 2{-,-,-,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_ring_of_tarrasque,-,-,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_heart,-,-,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_heart,item_crimson_guard,-,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
