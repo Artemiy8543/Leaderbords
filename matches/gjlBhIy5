@@ -3,3 +3,4 @@
 005{item_attacker_midas_int,item_revenants_brooch,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_int,item_revenants_brooch,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_int,item_revenants_brooch,item_bloodstone,item_manaback,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_attacker_midas_int,item_bloodstone,item_revenants_brooch,item_manaback2,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
