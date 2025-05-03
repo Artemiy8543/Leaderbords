@@ -3,5 +3,5 @@
 005{item_attacker_midas_int,item_revenants_brooch,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_int,item_revenants_brooch,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_int,item_revenants_brooch,item_bloodstone,item_manaback,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_attacker_midas_int,item_bloodstone,item_revenants_brooch,item_manaback2,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_attacker_midas_int,item_bloodstone_shield,item_khandas_brooch,item_manaback2,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_attacker_midas_int,item_bloodstone,item_revenants_brooch,item_manaback2,item_infinity_moon_shard,item_energy_booster,}{item_ring_of_protection,item_fluffy_hat,-,}{-,-,-,-,-,-,}{-,};
+0012{item_attacker_midas_int,item_bloodstone_shield,item_khandas_brooch,item_manaback2,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
