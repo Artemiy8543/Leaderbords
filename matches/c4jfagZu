@@ -4,5 +4,6 @@
 6{item_heart,-,-,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_heart,item_crimson_guard,-,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_gladiator_guard,item_voodoo_mask,-,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_gladiator_guard,item_bloodstone,item_ultimate_scepter,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_gladiator_guard,item_bloodstone,item_ultimate_scepter,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+009{item_gladiator_guard,item_bloodstone,-,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_gladiator_guard,item_bloodstone,item_ultimate_scepter,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_gladiator_guard,item_bloodstone,item_ultimate_scepter,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
