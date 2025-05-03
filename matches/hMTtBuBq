@@ -1,4 +1,4 @@
 2+76561198082755150=001{item_midas_component,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_midas_component,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_blade_midas,item_vanguard,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_blade_midas,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
