@@ -3,4 +3,4 @@
 004{-,-,-,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 7{-,-,item_paladin_sword,-,item_vampire_fangs,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 10{item_khandas_brooch,-,item_paladin_sword,-,item_vampire_fangs,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-11{item_khandas_brooch,item_bloodstone_shield,item_paladin_sword,-,item_vampire_fangs,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+12{item_khandas_brooch,item_bloodstone_shield,item_paladin_sword,-,item_vampire_fangs,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
