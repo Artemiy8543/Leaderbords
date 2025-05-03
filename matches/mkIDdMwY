@@ -18,4 +18,4 @@
 0035{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 43{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0051{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-57{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+59{item_blade_midas,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
