@@ -4,4 +4,5 @@
 7{item_platemail,item_maelstrom,item_attacker_midas_str,item_veil_of_discord,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_shivas_strom,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_shivas_strom,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-15{item_shivas_strom,item_vampire_fangs,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_shivas_strom,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0017{item_shivas_strom,item_vampire_fangs,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
