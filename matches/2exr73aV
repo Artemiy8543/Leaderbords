@@ -3,3 +3,4 @@
 003{item_lifesteal,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_mask_of_madness,item_basher_slardar,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_mask_of_madness,item_basher_slardar,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_satanic_of_madness,item_basher_slardar,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
