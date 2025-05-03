@@ -1,3 +1,4 @@
 99+76561198055303159=1{item_voodoo_mask,item_void_stone,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_voodoo_mask,item_void_stone,item_energy_booster,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_bloodstone,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+003{item_bloodstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_bloodstone,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
