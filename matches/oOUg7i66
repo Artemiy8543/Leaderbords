@@ -7,5 +7,5 @@
 9{item_bloodstone,item_octarine_core,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_bloodstone_shield,item_octarine_core,item_cornucopia,-,-,item_radiance,}{item_recipe_refresher,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_bloodstone_shield,item_refresher_core,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_bloodstone_shield,item_refresher_core,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-14{item_bloodstone_shield,item_refresher_core,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_bloodstone_shield,item_refresher_core,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_bloodstone_shield,item_refresher_core,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
