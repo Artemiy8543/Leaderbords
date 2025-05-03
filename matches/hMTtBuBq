@@ -6,3 +6,4 @@
 0010{item_blade_midas,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_blade_midas,item_gladiator_guard,item_ultimate_scepter,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_blade_midas,item_gladiator_guard,item_bloodstone,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_panic_button,};
+13{item_blade_midas,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_panic_button,};
