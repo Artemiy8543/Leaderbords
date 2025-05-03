@@ -5,3 +5,4 @@
 8{item_octarine_core,-,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_octarine_core,item_bloodstone,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_bloodstone_shield,item_octarine_core,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_bloodstone_shield,item_octarine_core,-,-,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
