@@ -2,4 +2,5 @@
 2{-,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{-,item_maelstrom,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_platemail,item_maelstrom,item_attacker_midas_str,item_veil_of_discord,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_shivas_strom,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_shivas_strom,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_shivas_strom,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
