@@ -4,4 +4,5 @@
 7{item_radiance,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_radiance_prc,item_bloodstone_shield,-,-,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0017{item_bloodstone_shield,item_dagon_4,item_veil_of_discord,-,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0015{item_radiance_prc,item_bloodstone_shield,item_veil_of_discord,item_dagon_4,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0018{item_bloodstone_shield,item_veil_of_dagon,-,-,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
