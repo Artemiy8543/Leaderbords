@@ -2,4 +2,4 @@
 3{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_radiance,item_voodoo_mask,item_energy_booster,item_void_stone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_radiance,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_radiance,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_radiance_prc,item_bloodstone_shield,item_maelstrom,item_veil_of_discord,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
