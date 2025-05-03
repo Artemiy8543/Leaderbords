@@ -7,4 +7,4 @@
 0012{item_attacker_midas_int,item_bloodstone_shield,item_khandas_brooch,item_manaback2,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_attacker_midas_int,item_bloodstone_shield,item_khandas_brooch,item_manaback2,item_infinity_moon_shard,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
 0017{item_attacker_midas_int,item_bloodstone_shield,item_khandas_brooch,item_manaback2,item_moon_shard,item_shivas_strom,}{item_infinity_moon_shard,-,item_refresher_core,}{-,-,-,-,-,-,}{item_ballista,};
-18{item_attacker_midas_int,item_bloodstone_shield,item_khandas_brooch,item_manaback2,item_refresher_core,item_shivas_strom,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_ballista,};
+19{item_attacker_midas_int,item_bloodstone_shield,item_khandas_brooch,item_manaback2,item_refresher_core,item_shivas_strom,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_ballista,};
