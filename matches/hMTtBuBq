@@ -4,3 +4,4 @@
 5{item_blade_midas,item_vanguard,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_blade_midas,item_gladiator_guard,item_ogre_axe,item_staff_of_wizardry,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_blade_midas,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_blade_midas,item_gladiator_guard,item_ultimate_scepter,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
