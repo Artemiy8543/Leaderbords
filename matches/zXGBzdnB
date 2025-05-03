@@ -7,3 +7,4 @@
 8{item_armlet_of_mjolnir,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_armlet_of_mjolnir,item_satanic_of_madness,item_moon_shard,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_armlet_of_mjolnir,item_satanic_of_madness,item_moon_shard,item_hyperstone,item_vampire_fangs,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_armlet_of_mjolnir,item_satanic_of_madness,item_infinity_moon_shard,-,item_vampire_fangs,-,}{-,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
