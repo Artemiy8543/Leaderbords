@@ -7,4 +7,4 @@
 009{item_gladiator_guard,item_bloodstone,-,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_gladiator_guard,item_bloodstone,item_ultimate_scepter,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_gladiator_guard,item_bloodstone,-,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-16{item_gladiator_guard,item_bloodstone,item_shivas_strom,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+17{item_gladiator_guard,item_bloodstone,item_shivas_strom,-,item_hand_of_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
