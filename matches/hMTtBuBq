@@ -22,4 +22,4 @@
 59{item_blade_midas,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,item_armlet_of_mjolnir,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_panic_button,};
 62{item_blade_midas,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,item_armlet_of_mjolnir,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_panic_button,};
 86{item_blade_midas,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,item_armlet_of_mjolnir,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_panic_button,};
-346{item_blade_midas,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_panic_button,};
+349{item_blade_midas,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_panic_button,};
