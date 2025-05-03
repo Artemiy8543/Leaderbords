@@ -5,4 +5,5 @@
 008{item_bloodthorn,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 10{item_bloodstone,item_lightning_sword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 12{item_bloodstone,item_lightning_sword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
-15{item_bloodstone,item_lightning_sword,item_refresher_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+14{item_bloodstone,item_lightning_sword,item_refresher_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+16{item_bloodstone,item_lightning_sword,item_refresher_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
