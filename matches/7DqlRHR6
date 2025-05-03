@@ -8,4 +8,5 @@
 0018{item_bloodstone_shield,item_veil_of_dagon,-,-,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 22{item_bloodstone_shield,item_veil_of_dagon,item_refresher_core,-,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 25{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_veil_of_dagon,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-0028{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_veil_of_dagon,item_radiance_prc,item_shivas_strom,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0027{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_veil_of_dagon,item_radiance_prc,item_shivas_strom,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0029{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_veil_of_dagon,item_radiance_prc,item_shivas_strom,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
