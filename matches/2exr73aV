@@ -2,3 +2,4 @@
 2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_lifesteal,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_mask_of_madness,item_basher_slardar,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_mask_of_madness,item_basher_slardar,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
