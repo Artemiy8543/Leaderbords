@@ -2,5 +2,6 @@
 2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_reaver,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_heart,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_gladiator_guard,item_radiance,item_urn_of_shadows,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_heart,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_gladiator_guard,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_gladiator_guard,item_radiance,item_urn_of_shadows,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
