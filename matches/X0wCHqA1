@@ -5,4 +5,4 @@
 10{item_khandas_brooch,-,item_paladin_sword,-,item_vampire_fangs,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 13{item_khandas_brooch,item_bloodstone_shield,item_paladin_sword,-,item_vampire_fangs,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
 0016{item_khandas_brooch,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_paladin_sword,item_attacker_midas_str,}{item_vampire_fangs,-,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
-0020{item_khandas_brooch,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_great_magic_crit2,item_attacker_midas_str,}{item_vampire_fangs,item_paladin_sword,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
+0021{item_khandas_brooch,item_bloodstone_shield,item_shivas_strom,item_lotus_cuirass,item_great_magic_crit2,item_attacker_midas_str,}{item_vampire_fangs,item_paladin_sword,-,}{-,-,-,-,-,-,}{item_elven_tunic,};
