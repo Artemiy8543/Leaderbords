@@ -2,4 +2,5 @@
 2{item_talisman_of_evasion,item_boots,item_voodoo_mask,-,-,-,}{item_recipe_avianas_feather,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_vitality_booster,item_energy_booster,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 006{-,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
-009{item_bloodthorn,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+008{item_bloodthorn,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+10{item_bloodstone,item_lightning_sword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
