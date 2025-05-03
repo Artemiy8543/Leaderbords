@@ -2,4 +2,5 @@
 2{item_midas_component,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_blade_midas,item_vanguard,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_blade_midas,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_blade_midas,item_gladiator_guard,item_ogre_axe,item_staff_of_wizardry,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_blade_midas,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
