@@ -6,4 +6,4 @@
 8{item_radiance,item_kaya,-,-,-,item_urn_of_shadows,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0010{item_radiance_prc,item_kaya,item_reaver,item_ring_of_tarrasque,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0011{item_radiance_prc,item_kaya,item_heart,item_point_booster,item_ogre_axe,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-12{item_radiance_prc,item_kaya,item_heart,item_ultimate_scepter,item_veil_of_discord,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+13{item_radiance_prc,item_kaya,item_heart,item_ultimate_scepter,item_veil_of_discord,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
