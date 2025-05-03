@@ -12,3 +12,4 @@
 27{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,item_str_book,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 29{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
 31{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
+32{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,item_radiance_prc,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{item_trusty_shovel,};
