@@ -1,3 +1,3 @@
 108+76561197993090608=1{item_talisman_of_evasion,item_boots,-,-,-,-,}{item_recipe_avianas_feather,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_talisman_of_evasion,item_boots,item_voodoo_mask,-,-,-,}{item_recipe_avianas_feather,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_vitality_booster,item_energy_booster,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+3{item_talisman_of_evasion,item_boots,item_voodoo_mask,-,-,-,}{item_recipe_avianas_feather,-,-,}{-,-,-,-,-,-,}{-,};
+005{-,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
