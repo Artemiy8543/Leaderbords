@@ -4,3 +4,4 @@
 6{item_vitality_booster,-,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_octarine_core,-,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_octarine_core,item_bloodstone,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_bloodstone_shield,item_octarine_core,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
