@@ -13,4 +13,5 @@
 26{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_radiance_prc,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 28{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_radiance_prc,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
 30{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_radiance_prc,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
-32{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_radiance_prc,item_khandas_brooch,item_shivas_strom,}{item_khandas_brooch,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+31{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_radiance_prc,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
+33{item_bloodstone_shield,item_lightning_sword,item_refresher_core,item_radiance_prc,item_khandas_brooch,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_avianas_feather,};
