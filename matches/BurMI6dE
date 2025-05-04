@@ -9,3 +9,4 @@
 0011{item_attacker_midas_int,item_power_treads,item_witch_blade,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0013{item_attacker_midas_int,item_power_treads,item_devastator,item_heart,item_vladimir_pact,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 15{item_attacker_midas_int,item_power_treads,item_devastator,item_heart,item_vladimir_pact,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+16{item_attacker_midas_int,item_power_treads,item_devastator,item_gladiator_guard,item_vladimir_pact,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
