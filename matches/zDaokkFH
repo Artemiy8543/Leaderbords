@@ -16,6 +16,7 @@
 0028{item_armlet_of_mjolnir,item_satanic,item_great_crit_custom3,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0032{item_armlet_of_mjolnir,item_satanic,item_great_crit_custom3,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0034{item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-0037{item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-39{item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-0041{item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+0036{item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0038{item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+0040{item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+0042{item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,item_moon_shard,item_rapier,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
