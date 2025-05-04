@@ -5,3 +5,4 @@
 7{item_mjollnir,item_satanic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_mjollnir,item_satanic,item_lesser_crit,item_demon_edge,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_mjollnir,item_satanic,item_great_crit_custom2,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_mjollnir,item_satanic,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
