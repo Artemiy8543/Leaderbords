@@ -6,3 +6,4 @@
 007{item_satanic_of_madness,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_satanic_of_madness,item_attacker_midas_agi,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_satanic_of_madness,item_attacker_midas_agi,item_butterfly,item_assault,item_desolator,item_helm_of_iron_will,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_satanic_of_madness,item_attacker_midas_agi,item_butterfly,item_assault,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
