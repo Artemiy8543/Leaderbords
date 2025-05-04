@@ -36,4 +36,4 @@
 0090{item_lotus_cuirass,item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,item_agi_book,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
 0094{item_lotus_cuirass,item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,item_agi_book,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
 0098{item_lotus_cuirass,item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
-0099{item_lotus_cuirass,item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
+00100{item_lotus_cuirass,item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,item_str_book,}{-,-,-,}{-,-,-,-,-,-,}{item_gossamer_cape,};
