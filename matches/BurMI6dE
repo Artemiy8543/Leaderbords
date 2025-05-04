@@ -12,4 +12,4 @@
 16{item_attacker_midas_int,item_power_treads,item_devastator,item_gladiator_guard,item_vladimir_pact,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 17{item_gladiator_guard,item_power_treads,item_devastator,item_attacker_midas_int,item_vladimir_pact,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0018{item_gladiator_guard,item_power_treads,item_devastator,item_attacker_midas_int,item_vladimir_pact,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-19{item_gladiator_guard,item_armlet_of_mjolnir,item_devastator,item_attacker_midas_int,item_vladimir_pact,item_infinity_moon_shard,}{item_power_treads,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+20{item_gladiator_guard,item_armlet_of_mjolnir,item_devastator,item_attacker_midas_int,item_vladimir_pact,item_infinity_moon_shard,}{item_power_treads,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
