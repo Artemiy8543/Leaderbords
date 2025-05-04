@@ -3,3 +3,4 @@
 5{item_mjollnir,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_mjollnir,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_mjollnir,item_satanic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_mjollnir,item_satanic,item_lesser_crit,item_demon_edge,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
