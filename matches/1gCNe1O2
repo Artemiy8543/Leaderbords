@@ -4,3 +4,4 @@
 005{item_attacker_midas_agi,item_mask_of_madness,item_blight_stone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_agi,item_mask_of_madness,item_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,-,-,-,}{-,-,-,}{item_talisman_of_evasion,-,-,-,-,-,}{-,};
