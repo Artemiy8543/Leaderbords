@@ -10,3 +10,4 @@
 11{item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_butterfly,item_travel_boots,item_great_crit_custom2,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 12{item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_butterfly,-,item_great_crit_custom2,}{item_avianas_feather,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 13{item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_butterfly,-,item_great_crit_custom2,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+0014{item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_butterfly,item_travel_boots_2,item_great_crit_custom3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
