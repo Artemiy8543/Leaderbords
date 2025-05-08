@@ -10,4 +10,5 @@
 11{item_attacker_midas_agi,item_infinity_moon_shard,item_satanic_of_madness,item_bfury,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_attacker_midas_agi,item_infinity_moon_shard,item_satanic_of_madness,item_bfury,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 0015{item_attacker_midas_agi,item_infinity_moon_shard,item_satanic_of_madness,item_bfury,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-18{item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_bfury,item_armlet_of_mjolnir,item_creep_desolator,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+17{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_bfury,item_butterfly,item_creep_desolator,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0019{item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_bfury,item_armlet_of_mjolnir,item_creep_desolator,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
