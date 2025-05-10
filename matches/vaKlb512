@@ -15,4 +15,4 @@
 29{item_trident_custom,item_manaback3,item_lotus_cuirass,item_great_magic_crit3,item_armlet_of_mjolnir,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0035{item_trident_custom,item_manaback3,item_lotus_cuirass,item_great_magic_crit3,item_armlet_of_mjolnir,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 40{item_trident_custom,item_manaback3,item_lotus_cuirass,item_str_book,item_armlet_of_mjolnir,item_gladiator_guard,}{item_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0048{item_trident_custom,item_manaback3,item_lotus_cuirass,-,item_armlet_of_mjolnir,item_gladiator_guard,}{item_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0049{item_trident_custom,item_manaback3,item_lotus_cuirass,item_str_book,item_armlet_of_mjolnir,item_gladiator_guard,}{item_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
