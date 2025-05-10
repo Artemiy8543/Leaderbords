@@ -3,3 +3,4 @@
 3{item_quelling_blade,item_orb_of_corrosion,item_power_treads,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_quelling_blade,item_orb_of_corrosion,item_power_treads,item_yasha,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_quelling_blade,item_orb_of_corrosion,item_power_treads,item_sange_and_yasha,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_mask_of_madness,item_orb_of_corrosion,item_power_treads,item_sange_and_yasha,item_quelling_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
