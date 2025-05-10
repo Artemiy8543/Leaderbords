@@ -1,3 +1,4 @@
 54+76561198064510493=2{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_agi,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_talisman_of_evasion,-,item_platemail,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
