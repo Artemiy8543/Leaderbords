@@ -3,3 +3,4 @@
 004{item_bloodstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bloodstone,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone_shield,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_bloodstone_shield,item_blade_midas,item_heart,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
