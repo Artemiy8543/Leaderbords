@@ -2,4 +2,4 @@
 3{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_str,item_satanic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_attacker_midas_str,item_satanic,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_attacker_midas_str,item_satanic,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
