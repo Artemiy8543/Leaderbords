@@ -16,4 +16,4 @@
 37{item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_shivas_strom,};
 0040{item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,item_gladiator_guard,item_veil_of_dagon,}{-,-,-,}{-,-,-,-,-,-,}{item_shivas_strom,};
 0043{item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,item_refresher_core,item_veil_of_dagon,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_shivas_strom,};
-44{item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,item_refresher_core,item_veil_of_dagon,}{-,-,-,}{-,-,-,-,-,-,}{item_shivas_strom,};
+45{item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,item_refresher_core,item_veil_of_dagon,}{-,-,-,}{-,-,-,-,-,-,}{item_shivas_strom,};
