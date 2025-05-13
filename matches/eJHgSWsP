@@ -15,4 +15,4 @@
 0030{item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 32{item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0035{item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,}{-,-,item_radiance_prc,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-37{item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,}{-,-,item_radiance_prc,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+38{item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,}{-,-,item_radiance_prc,}{-,-,-,-,-,-,}{item_spark_of_courage,};
