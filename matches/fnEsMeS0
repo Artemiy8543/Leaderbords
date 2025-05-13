@@ -3,4 +3,4 @@
 5{item_bloodstone,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 7{item_bloodstone_shield,item_blade_midas,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 9{item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-11{item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,item_heart,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+12{item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
