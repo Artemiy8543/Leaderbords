@@ -2,4 +2,4 @@
 3{item_null_talisman,item_blade_midas,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 5{item_bloodstone,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 7{item_bloodstone_shield,item_blade_midas,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-9{item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+10{item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
