@@ -24,4 +24,4 @@
 49{item_gladiator_guard,item_blade_midas,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,}{item_str_book,-,item_radiance_prc,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 52{item_lotus_cuirass,item_blade_midas,item_trident_custom,item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,}{-,-,item_radiance_prc,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 56{item_lotus_cuirass,item_blade_midas,item_trident_custom,item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,}{-,-,item_radiance_prc,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-85{item_lotus_cuirass,item_blade_midas,item_trident_custom,item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,}{item_str_book,-,item_radiance_prc,}{-,-,-,-,-,-,}{item_searing_signet,};
+86{item_lotus_cuirass,item_blade_midas,item_trident_custom,item_gladiator_guard,item_bloodstone_shield,item_shivas_strom,}{item_str_book,-,item_radiance_prc,}{-,-,-,-,-,-,}{item_searing_signet,};
