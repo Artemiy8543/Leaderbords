@@ -3,4 +3,4 @@
 007{item_attacker_midas_int,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 8{item_attacker_midas_int,item_bloodstone,item_radiance,item_urn_of_shadows,item_vitality_booster,-,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 9{item_attacker_midas_int,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-10{item_attacker_midas_int,item_bloodstone_shield,item_radiance_prc,item_heart,item_ring_of_health,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+11{item_attacker_midas_int,item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
