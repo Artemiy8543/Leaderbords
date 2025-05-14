@@ -3,5 +3,5 @@
 004{item_voodoo_mask,item_void_stone,item_energy_booster,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 5{item_bloodstone_shield,item_circlet,item_mantle,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 6{item_bloodstone_shield,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-7{item_bloodstone_shield,item_attacker_midas_int,item_relic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-9{item_bloodstone_shield,item_attacker_midas_int,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+8{item_bloodstone_shield,item_attacker_midas_int,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+10{item_bloodstone_shield,item_attacker_midas_int,item_radiance_prc,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
