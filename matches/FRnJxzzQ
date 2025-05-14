@@ -17,4 +17,4 @@
 73{item_bloodstone_shield,item_attacker_midas_int,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 83{item_bloodstone_shield,item_attacker_midas_int,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 89{item_bloodstone_shield,item_attacker_midas_int,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-150{item_bloodstone_shield,item_attacker_midas_int,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+151{item_bloodstone_shield,item_attacker_midas_int,item_radiance_prc,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
