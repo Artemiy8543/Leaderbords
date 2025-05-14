@@ -5,4 +5,5 @@
 007{item_blade_midas,item_radiance,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 008{item_blade_midas,item_radiance_prc,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 10{item_blade_midas,item_radiance_prc,item_bloodstone_shield,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-0013{item_blade_midas,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+0012{item_blade_midas,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+14{item_blade_midas,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
