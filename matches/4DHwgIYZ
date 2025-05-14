@@ -9,5 +9,6 @@
 20{item_lotus_cuirass,item_satanic_of_madness,item_lightning_sword,item_butterfly,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 22{item_lotus_cuirass,item_satanic_of_madness,item_lightning_sword,item_butterfly,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 24{item_lotus_cuirass,item_satanic_of_madness,item_lightning_sword,item_butterfly,item_great_magic_crit3,item_infinity_moon_shard,}{item_int_book,-,-,}{-,-,-,-,-,-,}{-,};
-27{item_butterfly,item_satanic_of_madness,item_lightning_sword,item_lotus_cuirass,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-29{item_lotus_cuirass,item_satanic_of_madness,item_lightning_sword,item_butterfly,item_great_magic_crit3,item_infinity_moon_shard,}{item_str_book,-,-,}{-,-,-,-,-,-,}{-,};
+26{item_butterfly,item_satanic_of_madness,item_lightning_sword,item_lotus_cuirass,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+28{item_lotus_cuirass,item_satanic_of_madness,item_lightning_sword,item_butterfly,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+30{item_lotus_cuirass,item_satanic_of_madness,item_lightning_sword,item_butterfly,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_ballista,};
