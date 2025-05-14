@@ -3,3 +3,4 @@
 3{item_kaya,item_ogre_axe,item_belt_of_strength,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_kaya_and_sange,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_trident_custom,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_trident_custom,item_voodoo_mask,item_vitality_booster,item_smoke_of_deceit,item_ring_of_protection,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
