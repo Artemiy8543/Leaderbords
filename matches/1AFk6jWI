@@ -5,3 +5,4 @@
 6{item_desolator,item_hand_of_midas,item_mask_of_madness,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_desolator,item_hand_of_midas,item_mask_of_madness,item_moon_shard,item_lesser_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
 9{item_desolator,item_hand_of_midas,item_mask_of_madness,item_moon_shard,item_lesser_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
+0010{item_desolator,item_hand_of_midas,item_mask_of_madness,item_moon_shard,item_magic_crit,item_demon_edge,}{-,-,-,}{-,-,-,-,-,-,}{item_grove_bow,};
