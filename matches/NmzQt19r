@@ -1,3 +1,4 @@
 94+76561199145962017=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_attacker_midas_agi,item_desolator,item_helm_of_iron_will,item_diadem,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_attacker_midas_agi,item_mithril_hammer,item_blight_stone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_attacker_midas_agi,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
