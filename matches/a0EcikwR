@@ -17,4 +17,4 @@
 0051{item_blade_midas,item_trident_custom,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
 0062{item_blade_midas,item_trident_custom,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_mithril_hammer,}{-,-,-,}{item_mithril_hammer,-,-,-,-,-,}{item_great_magic_crit3,};
 134{item_blade_midas,item_trident_custom,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_doubloon,};
-136{item_blade_midas,item_trident_custom,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_doubloon,};
+137{item_blade_midas,item_trident_custom,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_doubloon,};
