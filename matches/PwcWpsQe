@@ -14,5 +14,5 @@
 31{item_ultimate_scepter,item_radiance_prc,item_trident_custom,item_blade_midas,item_refresher_core,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 35{item_ultimate_scepter,item_radiance_prc,item_trident_custom,item_shivas_strom,item_refresher_core,item_gladiator_guard,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
 0037{item_ultimate_scepter,item_radiance_prc,item_trident_custom,item_shivas_strom,item_refresher_core,item_gladiator_guard,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
-0039{item_ultimate_scepter,item_radiance_prc,item_trident_custom,item_shivas_strom,item_refresher_core,item_gladiator_guard,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
-0041{item_ultimate_scepter,item_radiance_prc,item_trident_custom,item_shivas_strom,item_refresher_core,item_gladiator_guard,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
+0040{item_ultimate_scepter,item_radiance_prc,item_trident_custom,item_shivas_strom,item_refresher_core,item_gladiator_guard,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
+0042{item_ultimate_scepter,item_radiance_prc,item_trident_custom,item_shivas_strom,item_refresher_core,item_gladiator_guard,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
