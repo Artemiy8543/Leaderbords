@@ -7,4 +7,4 @@
 9{item_attacker_midas_agi,item_bfury,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_attacker_midas_agi,item_bfury,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_attacker_midas_agi,item_bfury,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_infinity_moon_shard,}{item_moon_shard,-,-,}{-,-,-,-,-,-,}{-,};
-0016{item_attacker_midas_agi,item_bfury,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0017{item_attacker_midas_agi,item_bfury,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
