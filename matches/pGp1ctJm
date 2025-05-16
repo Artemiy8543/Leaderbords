@@ -3,5 +3,6 @@
 3{item_talisman_of_evasion,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_talisman_of_evasion,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_talisman_of_evasion,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_radiance,item_gladiator_guard,item_buckler,item_platemail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_radiance,item_gladiator_guard,item_assault,item_pers,item_voodoo_mask,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_talisman_of_evasion,item_gladiator_guard,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_radiance,item_gladiator_guard,item_buckler,item_platemail,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_radiance,item_gladiator_guard,item_assault,item_pers,item_voodoo_mask,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
