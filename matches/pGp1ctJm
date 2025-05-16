@@ -7,4 +7,5 @@
 10{item_radiance,item_gladiator_guard,item_assault,item_pers,item_voodoo_mask,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_radiance,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 14{item_radiance,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-17{item_radiance_prc,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+16{item_radiance_prc,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+0018{item_radiance_prc,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
