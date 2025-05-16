@@ -3,4 +3,4 @@
 3{item_talisman_of_evasion,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_talisman_of_evasion,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_talisman_of_evasion,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_talisman_of_evasion,item_gladiator_guard,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_radiance,item_gladiator_guard,item_buckler,item_platemail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
