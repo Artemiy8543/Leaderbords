@@ -6,4 +6,5 @@
 10{item_ultimate_scepter,-,-,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_ultimate_scepter,item_radiance_prc,-,-,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_ultimate_scepter,item_radiance_prc,-,-,item_refresher_core,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-22{item_ultimate_scepter,item_radiance_prc,item_trident_custom,-,item_refresher_core,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+21{item_ultimate_scepter,item_radiance_prc,item_trident_custom,-,item_refresher_core,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+23{item_ultimate_scepter,item_radiance_prc,item_trident_custom,-,item_refresher_core,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
