@@ -3,3 +3,4 @@
 4{item_attacker_midas_int,item_lifesteal,item_maelstrom,item_ward_sentry,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_int,item_mjollnir,item_mask_of_madness,item_ward_sentry,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_int,item_mask_of_madness,item_mjollnir,item_ward_sentry,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_int,item_ward_sentry,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
