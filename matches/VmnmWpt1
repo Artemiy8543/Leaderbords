@@ -5,4 +5,5 @@
 7{item_blade_midas,item_ultimate_scepter,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_blade_midas,item_ultimate_scepter,item_satanic_of_madness,item_creep_desolator,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_blade_midas,item_ultimate_scepter,item_satanic_of_madness,item_creep_desolator,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-15{item_blade_midas,-,item_satanic_of_madness,item_creep_desolator,item_bfury,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_blade_midas,-,item_satanic_of_madness,item_creep_desolator,item_bfury,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_blade_midas,-,item_satanic_of_madness,item_creep_desolator,item_bfury,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
