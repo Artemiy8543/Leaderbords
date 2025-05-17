@@ -47,4 +47,4 @@
 00133{item_skadi,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_battle_lance,item_great_crit_custom3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
 136{item_skadi,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_battle_lance,item_great_crit_custom3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{-,};
 00138{item_skadi,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_battle_lance,item_great_crit_custom3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-140{item_skadi,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_battle_lance,item_great_crit_custom3,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+141{item_skadi,item_battle_lance,item_satanic_of_madness,item_creep_desolator,item_battle_lance,item_great_crit_custom3,}{item_blade_midas,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_desolator_2,};
