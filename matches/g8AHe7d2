@@ -8,4 +8,5 @@
 0011{item_radiance_prc,item_heart,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
 0013{item_radiance_prc,item_heart,item_butterfly,item_mjollnir,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
 16{item_radiance_prc,item_heart,item_butterfly,item_mjollnir,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
-19{item_radiance_prc,item_heart,item_butterfly,item_mjollnir,item_bloodstone,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
+18{item_radiance_prc,item_heart,item_butterfly,item_mjollnir,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
+20{item_radiance_prc,item_heart,item_butterfly,item_mjollnir,item_bloodstone,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
