@@ -4,4 +4,4 @@
 4{item_radiance,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_radiance,item_ring_of_tarrasque,item_urn_of_shadows,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance_prc,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_radiance_prc,item_heart,item_shivas_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_radiance_prc,item_heart,item_shivas_guard,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
