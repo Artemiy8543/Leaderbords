@@ -5,3 +5,4 @@
 007{item_armlet_of_mjolnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_moon_shard,item_lesser_crit,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
 9{item_moon_shard,item_lesser_crit,item_armlet_of_mjolnir,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
+10{item_infinity_moon_shard,item_lesser_crit,item_armlet_of_mjolnir,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
