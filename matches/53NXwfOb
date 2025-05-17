@@ -3,3 +3,4 @@
 4{item_mjollnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_armlet_of_mjolnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_armlet_of_mjolnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_moon_shard,item_lesser_crit,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
