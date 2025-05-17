@@ -37,4 +37,4 @@
 89{item_blade_midas,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_battle_lance,item_great_crit_custom3,}{item_str_book,item_recipe_great_crit_custom2,-,}{-,-,-,-,-,-,}{item_ballista,};
 93{item_blade_midas,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_battle_lance,item_great_crit_custom3,}{-,item_recipe_great_crit_custom2,-,}{-,-,-,-,-,-,}{item_ballista,};
 98{item_blade_midas,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_battle_lance,item_great_crit_custom3,}{-,item_recipe_great_crit_custom2,-,}{-,-,-,-,-,-,}{item_ballista,};
-99{item_blade_midas,item_gladiator_guard,item_satanic_of_madness,item_creep_desolator,item_battle_lance,item_great_crit_custom3,}{item_str_book,item_recipe_great_crit_custom2,-,}{-,-,-,-,-,-,}{item_ballista,};
+101{item_blade_midas,item_gladiator_guard,item_satanic_of_madness,-,item_battle_lance,item_great_crit_custom3,}{item_creep_desolator,item_recipe_great_crit_custom2,-,}{-,-,-,-,-,-,}{item_ballista,};
