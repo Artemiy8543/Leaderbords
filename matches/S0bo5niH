@@ -3,3 +3,4 @@
 4{item_mjollnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
 6{item_mjollnir,item_talisman_of_evasion,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
 9{item_mjollnir,item_talisman_of_evasion,item_moon_shard,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
+10{item_mjollnir,item_talisman_of_evasion,item_moon_shard,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
