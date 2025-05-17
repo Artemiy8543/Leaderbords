@@ -5,4 +5,4 @@
 005{item_radiance,item_ring_of_tarrasque,item_urn_of_shadows,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance_prc,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_radiance_prc,item_heart,item_shivas_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_radiance_prc,item_heart,item_shivas_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
+12{item_radiance_prc,item_heart,item_shivas_guard,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
