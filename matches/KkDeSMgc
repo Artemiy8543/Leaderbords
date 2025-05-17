@@ -12,3 +12,4 @@
 17{item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_int,item_trident_custom,item_great_crit_custom3,item_battle_lance,}{item_ward_sentry,-,-,}{-,-,-,-,-,-,}{item_ballista,};
 20{item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_int,item_trident_custom,item_great_crit_custom3,item_battle_lance,}{item_ward_sentry,-,-,}{-,-,-,-,-,-,}{item_ballista,};
 21{item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_int,item_trident_custom,item_great_crit_custom3,item_battle_lance,}{item_ward_sentry,item_ultimate_scepter,-,}{-,-,-,-,-,-,}{item_ballista,};
+22{item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_int,item_trident_custom,item_great_crit_custom3,item_battle_lance,}{item_ward_sentry,item_ultimate_orb,item_point_booster,}{-,-,-,-,-,-,}{item_ballista,};
