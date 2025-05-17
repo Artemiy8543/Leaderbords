@@ -2,5 +2,6 @@
 2{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_radiance,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_radiance_prc,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_radiance_prc,item_heart,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_radiance,item_ring_of_tarrasque,item_urn_of_shadows,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_radiance_prc,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_radiance_prc,item_heart,item_shivas_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
