@@ -2,4 +2,4 @@
 2{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_radiance,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_radiance,item_vanguard,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-008{item_radiance,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
+009{item_radiance,item_vanguard,item_heart,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
