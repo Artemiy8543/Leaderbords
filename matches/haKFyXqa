@@ -1,3 +1,4 @@
 2+76561198230001576=001{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_radiance,item_vanguard,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+2{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_radiance,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_radiance,item_vanguard,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
