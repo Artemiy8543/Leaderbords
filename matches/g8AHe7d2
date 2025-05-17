@@ -6,3 +6,4 @@
 008{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
 009{item_radiance,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
 0011{item_radiance_prc,item_heart,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
+0012{item_radiance_prc,item_heart,item_butterfly,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
