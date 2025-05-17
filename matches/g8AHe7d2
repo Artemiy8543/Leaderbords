@@ -4,3 +4,4 @@
 004{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
+009{item_radiance,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
