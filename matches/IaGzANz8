@@ -22,4 +22,5 @@
 43{item_trident_custom,item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_lotus_cuirass,item_radiance_prc,}{item_horizons_equilibrium,-,-,}{-,-,-,-,-,-,}{item_mirror_shield,};
 44{item_trident_custom,item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
 45{item_trident_custom,item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_horizons_equilibrium,};
-0047{item_trident_custom,item_great_magic_crit3,item_shivas_strom,item_bloodstone_shield,item_lotus_cuirass,item_radiance_prc,}{item_horizons_equilibrium,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_vambrace,};
+0046{item_trident_custom,-,item_shivas_strom,item_bloodstone_shield,item_lotus_cuirass,item_radiance_prc,}{item_horizons_equilibrium,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_vambrace,};
+0048{item_trident_custom,item_great_magic_crit3,item_shivas_strom,item_bloodstone_shield,item_lotus_cuirass,item_radiance_prc,}{item_horizons_equilibrium,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_vambrace,};
