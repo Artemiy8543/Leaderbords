@@ -23,4 +23,5 @@
 0031{item_satanic_of_madness,item_creep_desolator,item_armlet_of_mjolnir,item_battle_lance,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 0034{item_satanic_of_madness,item_creep_desolator,item_armlet_of_mjolnir,item_battle_lance,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 0037{item_satanic_of_madness,item_creep_desolator,item_armlet_of_mjolnir,item_battle_lance,item_great_crit_custom3,-,}{-,-,-,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_moon_shard,-,-,}{item_orb_of_destruction,};
-39{item_satanic_of_madness,item_creep_desolator,item_armlet_of_mjolnir,item_battle_lance,item_great_crit_custom3,-,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+38{item_satanic_of_madness,item_creep_desolator,item_armlet_of_mjolnir,item_battle_lance,item_great_crit_custom3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+40{item_satanic_of_madness,item_creep_desolator,item_armlet_of_mjolnir,item_battle_lance,item_great_crit_custom3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
