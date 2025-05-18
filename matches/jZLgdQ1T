@@ -6,3 +6,4 @@
 008{item_desolator,item_bfury,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_desolator,item_bfury,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_creep_desolator,item_bfury,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_creep_desolator,item_battle_lance,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
