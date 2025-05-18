@@ -6,5 +6,6 @@
 006{item_attacker_midas_agi,item_vladmir,item_great_crit_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_agi,item_vladmir,item_great_crit_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_attacker_midas_agi,item_vladmir,item_great_crit_custom,item_creep_desolator,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_attacker_midas_agi,item_vladmir,item_great_crit_custom,item_creep_desolator,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
-12{item_attacker_midas_agi,item_vladmir,item_great_crit_custom,item_creep_desolator,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+009{item_attacker_midas_agi,item_vladmir,item_great_crit_custom,item_creep_desolator,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+0011{item_attacker_midas_agi,item_vladmir,item_great_crit_custom,item_creep_desolator,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+13{item_attacker_midas_agi,item_vladmir,item_great_crit_custom,item_creep_desolator,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
