@@ -2,3 +2,4 @@
 2{item_kaya,item_boots,item_ring_of_basilius,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_manaback,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_manaback,item_voodoo_mask,item_void_stone,item_soul_ring,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_manaback,item_voodoo_mask,item_void_stone,item_soul_ring,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
