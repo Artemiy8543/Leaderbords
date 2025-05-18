@@ -12,3 +12,4 @@
 14{item_battle_lance,item_great_crit_custom3,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 0015{item_battle_lance,item_great_crit_custom3,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
 17{item_battle_lance,item_great_crit_custom3,item_mjollnir,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+18{item_battle_lance,item_great_crit_custom3,item_mjollnir,item_satanic,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
