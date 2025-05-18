@@ -7,3 +7,4 @@
 8{item_manaback2,item_bloodstone,-,item_soul_ring,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_manaback3,item_bloodstone,-,item_soul_ring,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 10{item_manaback3,item_bloodstone,item_robe,item_soul_ring,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+11{item_manaback3,item_bloodstone,item_kaya,item_soul_ring,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
