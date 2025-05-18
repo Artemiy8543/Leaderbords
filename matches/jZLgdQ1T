@@ -2,3 +2,4 @@
 3{item_mithril_hammer,item_blight_stone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_desolator,item_broadsword,item_broadsword,item_cornucopia,item_quelling_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_desolator,item_bfury,item_wraith_band,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
