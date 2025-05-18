@@ -4,4 +4,5 @@
 005{item_dragon_lance,item_broadsword,item_broadsword,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_battle_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_battle_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_battle_lance,item_great_magic_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_battle_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_battle_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
