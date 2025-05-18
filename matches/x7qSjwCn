@@ -6,3 +6,4 @@
 007{item_battle_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_battle_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_battle_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_battle_lance,item_great_crit_custom2,-,-,-,-,}{item_recipe_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{-,};
