@@ -5,3 +5,4 @@
 006{item_manaback,item_voodoo_mask,item_void_stone,item_soul_ring,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_manaback,item_bloodstone,item_robe,item_soul_ring,item_staff_of_wizardry,-,}{item_recipe_manaback2,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_manaback2,item_bloodstone,-,item_soul_ring,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_manaback3,item_bloodstone,-,item_soul_ring,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
