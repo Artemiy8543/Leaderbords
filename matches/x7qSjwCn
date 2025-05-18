@@ -9,3 +9,4 @@
 11{item_battle_lance,item_great_crit_custom2,-,-,-,-,}{item_recipe_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_battle_lance,item_great_crit_custom3,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_battle_lance,item_great_crit_custom3,-,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
+14{item_battle_lance,item_great_crit_custom3,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_orb_of_destruction,};
