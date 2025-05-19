@@ -8,4 +8,4 @@
 0012{item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_battle_lance,item_creep_desolator,item_infinity_moon_shard,}{item_hyperstone,-,-,}{-,-,-,-,-,-,}{item_moon_shard,};
 0014{item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_battle_lance,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_great_crit_custom,};
 16{item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_battle_lance,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_great_crit_custom3,};
-0018{item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_battle_lance,item_creep_desolator,item_infinity_moon_shard,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_great_crit_custom3,};
+0019{item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_battle_lance,item_creep_desolator,item_infinity_moon_shard,}{item_branches,item_branches,item_branches,}{-,-,-,-,-,-,}{item_great_crit_custom3,};
