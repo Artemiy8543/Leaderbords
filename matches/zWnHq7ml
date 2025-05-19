@@ -4,3 +4,4 @@
 007{item_trident_custom,item_blade_midas,item_voodoo_mask,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_trident_custom,item_blade_midas,item_bloodstone,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_trident_custom,item_blade_midas,item_bloodstone_shield,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_trident_custom,item_blade_midas,item_bloodstone_shield,item_gladiator_guard,item_assault,item_veil_of_discord,}{-,-,-,}{-,-,-,-,-,-,}{-,};
