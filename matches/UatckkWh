@@ -3,4 +3,5 @@
 003{item_attacker_midas_str,item_quelling_blade,item_broadsword,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_str,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_str,item_bfury,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_attacker_midas_str,item_bfury,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
