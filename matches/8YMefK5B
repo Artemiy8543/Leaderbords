@@ -7,4 +7,5 @@
 11{item_attacker_midas_agi,item_bloodstone_shield,item_satanic_of_madness,item_corrosion_blade,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_attacker_midas_agi,item_bloodstone_shield,item_satanic_of_madness,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_corrosion_blade,};
 16{item_attacker_midas_agi,item_bloodstone_shield,item_satanic_of_madness,item_radiance_prc,item_great_crit_custom3,item_great_magic_crit2,}{item_demon_edge,-,-,}{-,-,-,-,-,-,}{item_corrosion_blade,};
-20{item_attacker_midas_agi,item_bloodstone_shield,item_satanic_of_madness,item_radiance_prc,item_great_crit_custom3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_corrosion_blade,};
+19{item_attacker_midas_agi,item_bloodstone_shield,item_satanic_of_madness,item_radiance_prc,item_great_crit_custom3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_corrosion_blade,};
+0021{item_creep_desolator,item_bloodstone_shield,item_satanic_of_madness,item_radiance_prc,item_great_crit_custom3,item_great_magic_crit3,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_corrosion_blade,};
