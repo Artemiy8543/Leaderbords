@@ -5,3 +5,4 @@
 5{item_hand_of_midas,item_corrosion_blade,item_lifesteal,item_maelstrom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
 7{item_hand_of_midas,item_corrosion_blade,item_lifesteal,item_maelstrom,item_bracer,item_midas_component,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
 8{item_hand_of_midas,item_corrosion_blade,item_lifesteal,item_mjollnir,item_attacker_midas_agi,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
+9{item_hand_of_midas,item_attacker_midas_agi,item_lifesteal,item_armlet_of_mjolnir,item_corrosion_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
