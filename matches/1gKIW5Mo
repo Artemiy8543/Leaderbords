@@ -3,3 +3,4 @@
 3{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
 4{item_hand_of_midas,item_corrosion_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
 5{item_hand_of_midas,item_corrosion_blade,item_lifesteal,item_maelstrom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
+6{item_hand_of_midas,item_corrosion_blade,item_lifesteal,item_maelstrom,item_midas_component,-,}{-,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
