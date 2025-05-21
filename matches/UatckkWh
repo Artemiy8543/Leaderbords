@@ -11,4 +11,5 @@
 0021{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,item_radiance_prc,item_satanic_of_madness,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0023{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,item_radiance_prc,item_satanic_of_madness,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{-,};
 25{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,item_radiance_prc,item_satanic_of_madness,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,}{item_rapier,-,-,-,-,-,}{-,};
-0028{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,item_radiance_prc,item_satanic_of_madness,item_rapier,}{item_infinity_moon_shard,item_str_book,-,}{-,-,-,-,-,-,}{-,};
+0027{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,item_radiance_prc,item_satanic_of_madness,item_rapier,}{item_infinity_moon_shard,item_str_book,-,}{-,-,-,-,-,-,}{-,};
+29{item_str_book,item_battle_lance,item_lotus_cuirass,item_radiance_prc,item_satanic_of_madness,item_rapier,}{item_infinity_moon_shard,item_attacker_midas_str,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
