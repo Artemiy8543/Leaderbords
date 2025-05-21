@@ -11,4 +11,4 @@
 0022{item_creep_desolator,item_bloodstone_shield,item_satanic_of_madness,item_radiance_prc,item_great_crit_custom3,item_great_magic_crit3,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_corrosion_blade,};
 24{item_creep_desolator,item_bloodstone_shield,item_satanic_of_madness,item_radiance_prc,item_great_crit_custom3,item_great_magic_crit3,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_khandas_brooch,};
 26{item_creep_desolator,item_bloodstone_shield,item_satanic_of_madness,item_radiance_prc,item_great_crit_custom3,item_great_magic_crit3,}{item_attacker_midas_agi,item_trident_custom,item_branches,}{-,-,-,-,-,-,}{item_khandas_brooch,};
-0028{item_creep_desolator,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_crit_custom3,item_great_magic_crit3,}{item_attacker_midas_agi,item_satanic_of_madness,item_branches,}{-,-,-,-,-,-,}{item_khandas_brooch,};
+0029{item_creep_desolator,item_bloodstone_shield,item_trident_custom,item_radiance_prc,item_great_crit_custom3,item_great_magic_crit3,}{item_attacker_midas_agi,item_satanic_of_madness,item_branches,}{-,-,-,-,-,-,}{item_khandas_brooch,};
