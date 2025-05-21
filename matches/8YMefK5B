@@ -29,4 +29,5 @@
 108{item_creep_desolator,item_trident_custom,item_bloodstone_shield,item_great_crit_custom3,item_battle_lance,item_great_magic_crit3,}{-,-,-,}{-,-,item_khandas_brooch,-,-,-,}{item_armlet_of_mjolnir,};
 110{item_creep_desolator,item_trident_custom,item_bloodstone_shield,item_great_crit_custom3,item_battle_lance,item_great_magic_crit3,}{-,-,-,}{-,-,item_khandas_brooch,-,-,-,}{item_armlet_of_mjolnir,};
 113{item_creep_desolator,item_trident_custom,item_bloodstone_shield,item_great_crit_custom3,item_battle_lance,item_great_magic_crit3,}{-,-,-,}{-,-,item_khandas_brooch,-,-,-,}{-,};
-117{item_infinity_moon_shard,item_trident_custom,item_bloodstone_shield,item_great_crit_custom3,item_battle_lance,item_great_magic_crit3,}{item_branches,item_branches,-,}{-,-,item_khandas_brooch,-,-,-,}{item_creep_desolator,};
+116{item_infinity_moon_shard,item_trident_custom,item_bloodstone_shield,item_great_crit_custom3,item_battle_lance,item_great_magic_crit3,}{item_infinity_moon_shard,-,-,}{-,-,item_khandas_brooch,-,-,-,}{item_creep_desolator,};
+00118{item_infinity_moon_shard,item_trident_custom,item_bloodstone_shield,item_great_crit_custom3,item_battle_lance,item_great_magic_crit3,}{item_branches,item_branches,item_branches,}{item_infinity_moon_shard,item_infinity_moon_shard,item_moon_shard,-,-,-,}{item_creep_desolator,};
