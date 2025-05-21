@@ -2,3 +2,4 @@
 003{item_mask_of_madness,item_corrosion_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_satanic,item_corrosion_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_satanic_of_madness,item_corrosion_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_satanic_of_madness,item_talisman_of_evasion,item_corrosion_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
