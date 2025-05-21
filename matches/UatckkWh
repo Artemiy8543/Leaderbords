@@ -5,4 +5,5 @@
 5{item_attacker_midas_str,item_bfury,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,item_radiance_prc,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,item_radiance_prc,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,item_radiance_prc,item_satanic_of_madness,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
