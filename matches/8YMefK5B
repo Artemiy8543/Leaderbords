@@ -25,4 +25,4 @@
 69{item_creep_desolator,item_trident_custom,item_bloodstone_shield,item_great_crit_custom3,item_battle_lance,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_khandas_brooch,};
 97{item_creep_desolator,item_trident_custom,item_bloodstone_shield,item_great_crit_custom3,item_battle_lance,item_great_magic_crit3,}{-,-,-,}{-,-,item_khandas_brooch,-,-,-,}{item_armlet_of_mjolnir,};
 101{item_creep_desolator,item_trident_custom,item_bloodstone_shield,item_great_crit_custom3,item_battle_lance,item_great_magic_crit3,}{-,-,-,}{-,-,item_khandas_brooch,-,-,-,}{item_armlet_of_mjolnir,};
-104{item_creep_desolator,item_trident_custom,item_bloodstone_shield,item_great_crit_custom3,item_battle_lance,item_great_magic_crit3,}{-,-,-,}{-,-,item_khandas_brooch,-,-,-,}{item_armlet_of_mjolnir,};
+105{item_creep_desolator,item_trident_custom,item_bloodstone_shield,item_great_crit_custom3,item_battle_lance,item_great_magic_crit3,}{-,-,-,}{-,-,item_khandas_brooch,-,-,-,}{item_armlet_of_mjolnir,};
