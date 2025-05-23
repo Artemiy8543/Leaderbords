@@ -3,4 +3,4 @@
 5{item_bloodstone_shield,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bloodstone_shield,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_bloodstone_shield,item_radiance_prc,item_kaya_and_sange,item_enchanted_mango,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0012{item_bloodstone_shield,item_radiance_prc,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_bloodstone_shield,item_radiance_prc,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
