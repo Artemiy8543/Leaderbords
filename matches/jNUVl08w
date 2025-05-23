@@ -7,4 +7,4 @@
 008{item_maelstrom,item_desolator,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_maelstrom,-,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 10{item_maelstrom,item_desolator,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-11{item_maelstrom,item_desolator,item_satanic,item_lesser_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+12{item_maelstrom,item_desolator,item_satanic,item_great_crit_custom,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
