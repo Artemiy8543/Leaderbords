@@ -12,4 +12,5 @@
 16{item_maelstrom,item_desolator,item_satanic,item_great_crit_custom3,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 18{item_maelstrom,item_desolator,item_satanic,item_great_crit_custom3,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 21{item_maelstrom,item_desolator,item_satanic,item_great_crit_custom3,item_moon_shard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0025{item_maelstrom,item_desolator,item_satanic,item_great_crit_custom3,item_moon_shard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0024{item_maelstrom,item_desolator,item_satanic,item_great_crit_custom3,item_moon_shard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+26{item_maelstrom,item_desolator,item_satanic,item_great_crit_custom3,item_infinity_moon_shard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
