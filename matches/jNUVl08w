@@ -14,4 +14,4 @@
 21{item_maelstrom,item_desolator,item_satanic,item_great_crit_custom3,item_moon_shard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0024{item_maelstrom,item_desolator,item_satanic,item_great_crit_custom3,item_moon_shard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 27{item_maelstrom,item_desolator,item_satanic,item_great_crit_custom3,item_infinity_moon_shard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0028{item_armlet_of_mjolnir,-,item_satanic,item_great_crit_custom3,item_infinity_moon_shard,item_lotus_cuirass,}{item_infinity_moon_shard,item_desolator_2,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0029{item_armlet_of_mjolnir,-,item_satanic,item_great_crit_custom3,item_infinity_moon_shard,item_lotus_cuirass,}{item_infinity_moon_shard,item_desolator_2,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
