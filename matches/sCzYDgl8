@@ -2,4 +2,5 @@
 3{item_bloodstone,item_ring_of_protection,item_fluffy_hat,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bloodstone_shield,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bloodstone_shield,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_bloodstone_shield,item_radiance_prc,item_kaya_and_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_bloodstone_shield,item_radiance_prc,item_kaya_and_sange,item_enchanted_mango,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_bloodstone_shield,item_radiance_prc,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
