@@ -36,4 +36,5 @@
 89{item_armlet_of_mjolnir,item_radiance_prc,item_trident_custom,item_shivas_strom,item_shivas_guard,item_phylactery_blade,}{item_meteor_hammer,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
 91{item_armlet_of_mjolnir,item_radiance_prc,item_trident_custom,item_shivas_strom,item_shivas_guard,item_phylactery_blade,}{item_meteor_hammer,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
 93{item_armlet_of_mjolnir,item_radiance_prc,item_trident_custom,item_shivas_strom,item_shivas_guard,item_phylactery_blade,}{item_meteor_hammer,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
-95{item_armlet_of_mjolnir,item_radiance_prc,item_trident_custom,item_shivas_strom,item_corrosion_blade,item_phylactery_blade,}{item_meteor_hammer,item_shivas_guard,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
+94{item_armlet_of_mjolnir,item_radiance_prc,item_trident_custom,item_shivas_strom,item_corrosion_blade,item_phylactery_blade,}{item_meteor_hammer,item_shivas_guard,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
+0096{item_armlet_of_mjolnir,item_radiance_prc,item_trident_custom,item_shivas_strom,item_corrosion_blade,item_phylactery_blade,}{item_meteor_hammer,item_shivas_guard,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
