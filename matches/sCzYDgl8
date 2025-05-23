@@ -16,3 +16,4 @@
 50{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_kaya_and_sange,item_phylactery_blade,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
 0053{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_kaya_and_sange,item_phylactery_blade,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
 56{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_kaya_and_sange,item_phylactery_blade,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_great_magic_crit3,};
+0057{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_kaya_and_sange,item_phylactery_blade,item_great_magic_crit3,}{-,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{-,};
