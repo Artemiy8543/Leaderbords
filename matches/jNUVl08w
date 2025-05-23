@@ -5,3 +5,4 @@
 6{item_maelstrom,item_desolator,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_maelstrom,item_desolator,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_maelstrom,item_desolator,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_maelstrom,-,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
