@@ -5,4 +5,5 @@
 0011{item_blade_midas,item_radiance,item_bloodstone,item_heart,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0014{item_blade_midas,item_radiance_prc,item_gladiator_guard,-,item_ultimate_scepter,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0016{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_shivas_strom,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-19{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_shivas_strom,item_phylactery_blade,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+18{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_shivas_strom,item_phylactery_blade,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+20{item_blade_midas,item_radiance_prc,item_gladiator_guard,item_shivas_strom,item_phylactery_blade,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
