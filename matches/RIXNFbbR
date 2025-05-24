@@ -3,4 +3,4 @@
 5{item_blade_mail,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 009{item_blade_midas,item_radiance,item_bloodstone,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 0011{item_blade_midas,item_radiance,item_bloodstone,item_heart,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
-0012{item_blade_midas,item_radiance,item_bloodstone_shield,item_heart,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+0013{item_blade_midas,item_radiance,-,item_heart,item_ultimate_scepter,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
