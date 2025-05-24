@@ -14,4 +14,4 @@
 0033{item_blade_midas,item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 34{item_blade_midas,item_radiance_prc,item_phylactery_blade,item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_pirate_hat,};
 36{item_blade_midas,item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,}{item_str_book,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-0039{item_blade_midas,item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0040{item_blade_midas,item_radiance_prc,item_phylactery_blade,item_great_magic_crit3,item_gladiator_guard,item_bloodstone_shield,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
