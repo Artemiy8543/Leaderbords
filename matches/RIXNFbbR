@@ -2,3 +2,4 @@
 003{item_blade_mail,-,item_bracer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 5{item_blade_mail,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
 009{item_blade_midas,item_radiance,item_bloodstone,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
+0010{item_blade_midas,item_radiance,item_bloodstone,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_cloak_of_flames,};
