@@ -2,5 +2,6 @@
 003{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_blade_midas,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_blade_midas,item_gladiator_guard,item_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_blade_midas,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_blade_midas,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_blade_midas,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_blade_midas,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_blade_midas,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
