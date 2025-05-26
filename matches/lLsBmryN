@@ -12,4 +12,5 @@
 24{-,-,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0027{-,-,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 31{item_great_magic_crit3,-,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0039{item_great_magic_crit3,-,-,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0038{item_great_magic_crit3,-,-,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+40{item_great_magic_crit3,-,-,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
