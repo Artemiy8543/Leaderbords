@@ -26,4 +26,4 @@
 91{item_trident_custom,item_great_magic_crit3,item_great_magic_crit3,item_great_magic_crit3,item_bloodstone_shield,item_shivas_strom,}{item_battle_lance,item_int_book,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 93{item_trident_custom,item_great_magic_crit3,item_great_magic_crit3,item_great_magic_crit3,item_bloodstone_shield,item_shivas_strom,}{item_battle_lance,item_int_book,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 96{item_trident_custom,item_great_magic_crit3,item_great_magic_crit3,item_great_magic_crit3,item_bloodstone_shield,item_shivas_strom,}{item_battle_lance,item_int_book,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-98{item_trident_custom,item_great_magic_crit3,item_great_magic_crit3,item_great_magic_crit3,item_bloodstone_shield,-,}{item_battle_lance,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+99{item_trident_custom,item_great_magic_crit3,item_great_magic_crit3,item_great_magic_crit3,item_bloodstone_shield,item_shivas_strom,}{item_battle_lance,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
