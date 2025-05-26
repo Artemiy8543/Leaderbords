@@ -5,4 +5,5 @@
 9{item_holy_locket,item_mjollnir,-,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_holy_locket,item_mjollnir,-,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_mjollnir,item_holy_locket,-,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{item_mjollnir,item_holy_locket,item_great_crit_custom,item_butterfly,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_mjollnir,item_holy_locket,item_great_crit_custom,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_mjollnir,item_holy_locket,item_great_crit_custom,item_butterfly,item_moon_shard,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
