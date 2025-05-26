@@ -9,4 +9,4 @@
 14{item_trident_custom,item_battle_lance,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0016{item_trident_custom,item_battle_lance,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0018{item_trident_custom,item_battle_lance,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-47{item_trident_custom,item_int_book,item_moon_shard,item_great_magic_crit3,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+48{item_trident_custom,-,item_moon_shard,item_great_magic_crit3,item_bloodstone_shield,item_int_book,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
