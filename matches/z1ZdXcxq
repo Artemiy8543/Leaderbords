@@ -4,5 +4,6 @@
 7{item_trident_custom,item_voodoo_mask,item_point_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_trident_custom,-,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_trident_custom,-,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_trident_custom,-,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-13{item_trident_custom,-,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_trident_custom,-,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_trident_custom,-,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+14{item_trident_custom,item_battle_lance,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
