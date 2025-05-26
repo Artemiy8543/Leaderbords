@@ -1,4 +1,4 @@
 91+76561198241077412=1{item_javelin,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_maelstrom,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{-,item_satanic,-,-,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{-,item_maelstrom,-,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
