@@ -2,3 +2,4 @@
 3{item_kaya,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_trident_custom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_trident_custom,item_voodoo_mask,item_point_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_trident_custom,-,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
