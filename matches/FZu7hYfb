@@ -26,4 +26,4 @@
 0048{item_armlet_of_mjolnir,item_holy_urn,item_great_crit_custom3,item_butterfly,item_creep_desolator,item_satanic_of_madness,}{item_phylactery_blade,-,-,}{-,-,-,-,-,-,}{-,};
 50{item_armlet_of_mjolnir,item_devastator,item_great_crit_custom3,item_butterfly,item_creep_desolator,item_satanic_of_madness,}{item_phylactery_blade,item_holy_urn,-,}{-,-,-,-,-,-,}{-,};
 52{item_armlet_of_mjolnir,item_devastator,item_great_crit_custom3,item_butterfly,item_creep_desolator,item_satanic_of_madness,}{item_phylactery_blade,item_holy_urn,item_str_book,}{-,-,-,-,-,-,}{-,};
-0053{item_armlet_of_mjolnir,item_devastator,item_great_crit_custom3,item_butterfly,item_creep_desolator,item_satanic_of_madness,}{item_phylactery_blade,item_holy_urn,item_str_book,}{-,-,-,-,-,-,}{-,};
+0054{item_armlet_of_mjolnir,item_devastator,item_great_crit_custom3,item_butterfly,item_creep_desolator,item_satanic_of_madness,}{item_phylactery_blade,item_holy_urn,item_str_book,}{-,-,-,-,-,-,}{item_polliwog_charm,};
