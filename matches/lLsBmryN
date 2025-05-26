@@ -5,4 +5,5 @@
 8{item_assault,-,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_assault,-,-,-,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_assault,-,-,-,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0014{item_assault,-,-,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_assault,-,-,-,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0015{item_assault,-,-,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
