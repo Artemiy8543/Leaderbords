@@ -9,4 +9,4 @@
 15{item_mjollnir,item_holy_locket,item_great_crit_custom,item_butterfly,item_moon_shard,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_mjollnir,item_holy_locket,item_great_crit_custom3,item_butterfly,item_moon_shard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0019{item_mjollnir,item_holy_urn,item_great_crit_custom3,item_butterfly,item_moon_shard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0022{item_mjollnir,item_holy_urn,item_great_crit_custom3,item_butterfly,item_moon_shard,item_satanic_of_madness,}{item_creep_desolator,-,-,}{-,-,-,-,-,-,}{-,};
+0023{item_mjollnir,item_holy_urn,item_great_crit_custom3,item_butterfly,item_creep_desolator,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
