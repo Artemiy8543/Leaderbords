@@ -3,3 +3,4 @@
 5{item_maelstrom,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{-,item_satanic,-,-,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_holy_locket,item_mjollnir,-,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_holy_locket,item_mjollnir,-,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
