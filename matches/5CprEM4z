@@ -2,3 +2,4 @@
 3{item_urn_of_shadows,item_magic_wand,item_diadem,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_holy_urn,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_holy_urn,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_holy_urn,-,-,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
