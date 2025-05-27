@@ -23,4 +23,5 @@
 33{item_attacker_midas_int,item_lotus_cuirass,item_infinity_moon_shard,item_vladimir_pact,item_great_crit_custom3,item_bloodstone_shield,}{item_trident_custom,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 36{item_attacker_midas_int,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,item_great_crit_custom3,item_bloodstone_shield,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 39{item_attacker_midas_int,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,item_great_crit_custom3,item_bloodstone_shield,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-44{item_attacker_midas_int,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,item_great_crit_custom3,item_bloodstone_shield,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+43{item_attacker_midas_int,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,item_great_crit_custom3,item_bloodstone_shield,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+45{item_attacker_midas_int,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,item_great_crit_custom3,item_bloodstone_shield,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
