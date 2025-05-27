@@ -7,3 +7,4 @@
 007{item_radiance_prc,-,-,item_phase_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_radiance_prc,item_witch_blade,-,item_phase_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_radiance_prc,item_witch_blade,-,item_phase_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_radiance_prc,item_witch_blade,item_magic_crit,item_phase_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
