@@ -28,3 +28,4 @@
 84{item_vladimir_pact,item_creep_desolator,item_great_crit_custom3,-,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 88{item_vladimir_pact,item_creep_desolator,item_great_crit_custom3,-,-,item_battle_lance,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 0089{item_vladimir_pact,item_creep_desolator,item_great_crit_custom3,item_armlet_of_mjolnir,-,item_battle_lance,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_gunpowder_gauntlets,};
+0090{item_vladimir_pact,item_creep_desolator,item_great_crit_custom3,item_armlet_of_mjolnir,item_monkey_king_bar,item_battle_lance,}{item_agi_book,-,-,}{item_rapier,-,-,-,-,-,}{item_gunpowder_gauntlets,};
