@@ -14,3 +14,4 @@
 0016{item_attacker_midas_int,item_ultimate_scepter,item_infinity_moon_shard,item_vladimir_pact,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 17{item_attacker_midas_int,item_ultimate_scepter,item_infinity_moon_shard,item_vladimir_pact,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 19{item_attacker_midas_int,item_ultimate_scepter,item_infinity_moon_shard,item_vladimir_pact,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+20{item_attacker_midas_int,-,item_infinity_moon_shard,item_vladimir_pact,item_great_crit_custom3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
