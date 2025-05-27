@@ -7,3 +7,4 @@
 007{item_satanic,item_attacker_midas_str,item_power_treads,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_satanic,item_attacker_midas_str,item_power_treads,item_blade_mail,item_basher,item_sange,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_satanic,item_attacker_midas_str,item_power_treads,item_blade_mail,item_abyssal_blade,item_sange_and_yasha,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_satanic_of_madness,item_attacker_midas_str,item_power_treads,item_blade_mail,item_abyssal_blade,item_sange_and_yasha,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
