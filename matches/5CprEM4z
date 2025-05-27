@@ -4,3 +4,4 @@
 005{item_holy_urn,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_holy_urn,-,-,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_holy_urn,item_energy_booster,-,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_holy_urn,item_energy_booster,item_tiara_of_selemene,item_arcane_boots,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
