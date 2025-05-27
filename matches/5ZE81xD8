@@ -33,4 +33,5 @@
 60{item_attacker_midas_int,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,item_gladiator_guard,-,}{item_shivas_strom,item_great_crit_custom3,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_searing_signet,};
 64{item_attacker_midas_int,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,item_gladiator_guard,item_great_crit_custom3,}{item_shivas_strom,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_searing_signet,};
 68{item_attacker_midas_int,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,item_gladiator_guard,item_great_crit_custom3,}{item_shivas_strom,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_searing_signet,};
-73{item_attacker_midas_int,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,item_gladiator_guard,item_great_crit_custom3,}{item_shivas_strom,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_searing_signet,};
+72{item_attacker_midas_int,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,item_gladiator_guard,item_great_crit_custom3,}{item_shivas_strom,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_searing_signet,};
+74{item_attacker_midas_int,item_lotus_cuirass,item_trident_custom,item_vladimir_pact,item_gladiator_guard,item_great_crit_custom3,}{item_shivas_strom,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_searing_signet,};
