@@ -6,4 +6,4 @@
 7{item_attacker_midas_agi,item_satanic_of_madness,item_buckler,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,item_hand_of_midas,item_great_magic_crit2,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,item_hand_of_midas,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,item_hand_of_midas,item_great_magic_crit3,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{-,};
