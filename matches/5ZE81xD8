@@ -7,3 +7,4 @@
 8{item_attacker_midas_int,item_ultimate_scepter,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_attacker_midas_int,item_ultimate_scepter,item_infinity_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0010{item_attacker_midas_int,item_ultimate_scepter,item_infinity_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_attacker_midas_int,item_ultimate_scepter,item_infinity_moon_shard,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
