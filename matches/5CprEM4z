@@ -24,3 +24,4 @@
 32{item_holy_urn,item_refresher_core,item_solar_crest,item_ultimate_boots,item_crimson_guard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0036{item_holy_urn,item_refresher_core,item_solar_crest,item_ultimate_boots,item_crimson_guard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 39{item_holy_urn,item_refresher_core,item_solar_crest,item_ultimate_boots,item_crimson_guard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0040{item_holy_urn,item_refresher_core,item_solar_crest,item_ultimate_boots,item_crimson_guard,item_lotus_cuirass,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
