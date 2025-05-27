@@ -3,3 +3,4 @@
 004{item_holy_urn,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_holy_urn,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_holy_urn,-,-,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_holy_urn,item_energy_booster,-,item_arcane_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
