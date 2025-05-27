@@ -2,3 +2,4 @@
 2{item_gloves,item_chainmail,item_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_gloves,item_chainmail,item_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_gloves,item_chainmail,item_boots,item_attacker_midas_str,item_broadsword,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_gloves,item_attacker_midas_str,item_boots,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
