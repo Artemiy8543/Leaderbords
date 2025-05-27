@@ -2,3 +2,4 @@
 003{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_hand_of_midas,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+007{item_hand_of_midas,item_creep_desolator,item_claymore,item_blades_of_attack,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
