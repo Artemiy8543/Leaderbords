@@ -5,5 +5,5 @@
 005{item_claymore,-,-,-,-,-,}{-,-,-,}{item_eagle,item_talisman_of_evasion,-,-,-,-,}{item_spark_of_courage,};
 6{item_butterfly,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_butterfly,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-8{item_butterfly,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-10{item_butterfly,item_mjollnir,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_butterfly,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_butterfly,item_mjollnir,item_ultimate_scepter,item_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
