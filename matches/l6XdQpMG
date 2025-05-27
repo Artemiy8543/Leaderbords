@@ -5,3 +5,4 @@
 005{-,-,-,item_phase_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_relic,-,-,item_phase_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_radiance_prc,-,-,item_phase_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_radiance_prc,item_witch_blade,-,item_phase_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
