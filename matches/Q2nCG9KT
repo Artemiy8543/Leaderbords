@@ -6,4 +6,4 @@
 6{item_butterfly,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_butterfly,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_butterfly,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-11{item_butterfly,item_mjollnir,item_ultimate_scepter,item_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+12{item_butterfly,item_mjollnir,item_ultimate_scepter,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
