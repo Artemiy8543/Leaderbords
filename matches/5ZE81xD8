@@ -4,3 +4,4 @@
 005{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_attacker_midas_int,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_attacker_midas_int,item_ultimate_scepter,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
