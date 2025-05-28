@@ -5,5 +5,5 @@
 8{item_armlet_of_mjolnir,item_mask_of_madness,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 9{item_armlet_of_mjolnir,item_mask_of_madness,item_moon_shard,item_hyperstone,-,-,}{item_recipe_mjollnir,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0010{item_armlet_of_mjolnir,item_mask_of_madness,item_infinity_moon_shard,item_dragon_lance,-,-,}{item_recipe_mjollnir,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-11{item_armlet_of_mjolnir,item_mask_of_madness,item_infinity_moon_shard,item_dragon_lance,item_bfury,-,}{item_recipe_mjollnir,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0013{item_armlet_of_mjolnir,item_mask_of_madness,item_infinity_moon_shard,item_battle_lance,item_moon_shard,item_hyperstone,}{item_recipe_mjollnir,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+12{item_armlet_of_mjolnir,item_mask_of_madness,item_infinity_moon_shard,item_battle_lance,item_hyperstone,-,}{item_recipe_mjollnir,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+14{item_armlet_of_mjolnir,item_satanic_of_madness,item_infinity_moon_shard,item_battle_lance,item_infinity_moon_shard,-,}{item_recipe_mjollnir,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
