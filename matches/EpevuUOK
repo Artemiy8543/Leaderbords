@@ -3,4 +3,5 @@
 004{item_voodoo_mask,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_voodoo_mask,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone_shield,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_bloodstone_shield,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
