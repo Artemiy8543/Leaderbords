@@ -1,4 +1,4 @@
 99+76561199838933587=1{item_voodoo_mask,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_voodoo_mask,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_voodoo_mask,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_voodoo_mask,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_voodoo_mask,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_voodoo_mask,item_heart,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_voodoo_mask,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
