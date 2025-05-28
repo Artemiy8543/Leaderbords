@@ -3,3 +3,4 @@
 4{item_mjollnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_mjollnir,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 8{item_armlet_of_mjolnir,item_mask_of_madness,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+9{item_armlet_of_mjolnir,item_mask_of_madness,item_moon_shard,item_hyperstone,-,-,}{item_recipe_mjollnir,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
