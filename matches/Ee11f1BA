@@ -5,4 +5,4 @@
 8{item_battle_lance,item_infinity_moon_shard,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 009{item_battle_lance,item_infinity_moon_shard,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_battle_lance,item_infinity_moon_shard,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-11{item_battle_lance,item_infinity_moon_shard,item_satanic_of_madness,item_relic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+12{item_battle_lance,item_infinity_moon_shard,item_satanic_of_madness,item_rapier,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
