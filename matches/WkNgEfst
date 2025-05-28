@@ -23,4 +23,4 @@
 58{item_battle_lance,item_bloodstone_shield,item_radiance_prc,item_great_crit_custom,item_khandas_brooch,item_great_magic_crit,}{item_manaback3,item_blade_midas,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 62{item_battle_lance,item_bloodstone_shield,item_radiance_prc,item_great_crit_custom,item_khandas_brooch,item_great_magic_crit,}{item_manaback3,item_blade_midas,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 65{item_battle_lance,item_bloodstone_shield,item_radiance_prc,item_great_crit_custom,item_khandas_brooch,item_great_magic_crit,}{item_manaback3,item_blade_midas,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-67{item_battle_lance,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom,item_khandas_brooch,item_great_magic_crit,}{item_manaback3,item_blade_midas,item_radiance_prc,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+68{item_battle_lance,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom,item_khandas_brooch,item_great_magic_crit,}{item_manaback3,item_blade_midas,item_radiance_prc,}{-,-,-,-,-,-,}{item_spark_of_courage,};
