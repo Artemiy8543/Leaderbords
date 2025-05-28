@@ -7,5 +7,5 @@
 8{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-11{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-13{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_khandas_brooch,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+12{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+14{item_gladiator_guard,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_khandas_brooch,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
