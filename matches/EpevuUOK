@@ -5,4 +5,4 @@
 8{item_bloodstone_shield,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_bloodstone_shield,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+14{item_bloodstone_shield,item_gladiator_guard,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
