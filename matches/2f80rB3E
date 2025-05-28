@@ -5,3 +5,4 @@
 7{item_gladiator_guard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_gladiator_guard,item_revenants_brooch,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_gladiator_guard,item_khandas_brooch,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_gladiator_guard,item_khandas_brooch,item_relic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
