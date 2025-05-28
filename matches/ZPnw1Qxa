@@ -4,4 +4,4 @@
 4{item_bfury,-,item_dragon_lance,-,item_lifesteal,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_battle_lance,-,-,-,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_battle_lance,-,-,-,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-009{item_battle_lance,item_satanic_of_madness,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0010{item_battle_lance,item_satanic_of_madness,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
