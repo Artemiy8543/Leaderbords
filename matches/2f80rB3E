@@ -3,3 +3,4 @@
 004{item_heart,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_gladiator_guard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_gladiator_guard,item_revenants_brooch,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
