@@ -15,3 +15,4 @@
 29{-,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_khandas_brooch,item_great_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0031{item_battle_lance,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_khandas_brooch,item_great_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 33{item_battle_lance,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_khandas_brooch,item_great_magic_crit,}{item_manaback3,item_str_book,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+34{item_battle_lance,item_bloodstone_shield,item_radiance_prc,item_blade_midas,item_khandas_brooch,item_great_magic_crit,}{item_manaback3,item_str_book,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
