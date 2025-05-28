@@ -7,4 +7,4 @@
 009{item_battle_lance,item_satanic_of_madness,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 11{item_battle_lance,item_satanic_of_madness,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0013{item_battle_lance,item_satanic_of_madness,item_butterfly,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0015{item_battle_lance,item_satanic_of_madness,item_butterfly,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0016{item_battle_lance,item_satanic_of_madness,item_butterfly,item_armlet_of_mjolnir,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
