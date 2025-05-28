@@ -15,3 +15,4 @@
 26{item_gladiator_guard,item_khandas_brooch,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_great_magic_crit,}{item_recipe_ultimate_scepter_2,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 28{item_gladiator_guard,item_khandas_brooch,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_great_magic_crit,}{item_recipe_ultimate_scepter_2,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 31{item_gladiator_guard,item_khandas_brooch,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_great_magic_crit,}{item_recipe_ultimate_scepter_2,item_str_book,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+32{item_gladiator_guard,item_khandas_brooch,item_radiance_prc,item_bloodstone_shield,item_refresher_core,item_great_magic_crit,}{item_recipe_ultimate_scepter_2,item_str_book,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
