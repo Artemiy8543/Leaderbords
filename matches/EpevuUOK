@@ -43,3 +43,4 @@
 0076{item_bloodstone_shield,item_battle_lance,item_radiance_prc,item_khandas_brooch,item_skadi,item_great_magic_crit,}{item_attacker_midas_int,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0077{item_bloodstone_shield,item_battle_lance,item_radiance_prc,item_khandas_brooch,item_skadi,item_great_magic_crit,}{item_attacker_midas_int,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0078{item_bloodstone_shield,item_battle_lance,item_radiance_prc,item_khandas_brooch,item_skadi,item_great_magic_crit,}{item_attacker_midas_int,item_gladiator_guard,item_str_book,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0079{item_bloodstone_shield,item_battle_lance,item_radiance_prc,item_khandas_brooch,item_skadi,item_great_magic_crit,}{-,-,item_str_book,}{-,-,-,-,-,-,}{item_spark_of_courage,};
