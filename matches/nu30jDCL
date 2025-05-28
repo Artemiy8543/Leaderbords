@@ -1,4 +1,5 @@
 35+76561199838933587=1{item_javelin,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_mjollnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_mjollnir,item_mask_of_madness,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+6{item_mjollnir,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+8{item_armlet_of_mjolnir,item_mask_of_madness,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
