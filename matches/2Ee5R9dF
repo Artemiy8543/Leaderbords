@@ -2,4 +2,5 @@
 002{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 4{item_radiance,item_helm_of_iron_will,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 006{item_radiance,item_attacker_midas_agi,item_armlet,item_maelstrom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-9{item_radiance_prc,item_attacker_midas_agi,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_radiance,item_attacker_midas_agi,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_radiance_prc,item_attacker_midas_agi,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
