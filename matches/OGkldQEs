@@ -15,5 +15,5 @@
 17{item_bracer,item_gladiator_guard,item_shivas_strom,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0021{item_bracer,item_gladiator_guard,item_shivas_strom,item_blade_mail,item_ultimate_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 22{item_meteor_rain,item_gladiator_guard,item_shivas_strom,item_blade_mail,item_ultimate_boots,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-23{item_meteor_rain,item_gladiator_guard,item_shivas_strom,item_blade_mail,item_ultimate_boots,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0025{item_meteor_rain,item_gladiator_guard,item_shivas_strom,item_blade_mail,item_ultimate_boots,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+24{item_meteor_rain,item_gladiator_guard,item_shivas_strom,item_blade_mail,item_ultimate_boots,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0026{item_meteor_rain,item_gladiator_guard,item_shivas_strom,item_blade_mail,item_ultimate_boots,item_refresher_core,}{item_fallen_sky,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
