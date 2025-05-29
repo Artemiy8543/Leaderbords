@@ -5,4 +5,5 @@
 8{item_radiance,item_attacker_midas_agi,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_radiance_prc,item_attacker_midas_agi,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{item_radiance_prc,item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_agi,item_boots_of_bearing,item_travel_boots_2,}{item_ring_of_regen,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0013{item_radiance_prc,item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ultimate_boots,};
+0012{item_radiance_prc,item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_agi,-,item_ultimate_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+14{item_radiance_prc,item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_ultimate_boots,};
