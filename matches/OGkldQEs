@@ -12,4 +12,5 @@
 12{item_bracer,item_gladiator_guard,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0013{item_bracer,item_gladiator_guard,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0015{item_bracer,item_gladiator_guard,item_shivas_strom,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-18{item_bracer,item_gladiator_guard,item_shivas_strom,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+17{item_bracer,item_gladiator_guard,item_shivas_strom,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0019{item_bracer,item_gladiator_guard,item_shivas_strom,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
