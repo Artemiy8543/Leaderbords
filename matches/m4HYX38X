@@ -4,3 +4,4 @@
 4{item_voodoo_mask,item_vitality_booster,item_blade_midas,item_energy_booster,item_ring_of_protection,item_fluffy_hat,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bloodstone_shield,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 6{item_bloodstone_shield,item_heart,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+7{item_bloodstone_shield,item_heart,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
