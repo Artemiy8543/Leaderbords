@@ -20,3 +20,4 @@
 0037{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_great_magic_crit,item_great_crit_custom3,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 39{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_great_magic_crit,item_great_crit_custom3,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 42{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_great_magic_crit,item_great_crit_custom3,item_battle_lance,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+43{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_infinity_moon_shard,item_great_crit_custom3,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
