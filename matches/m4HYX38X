@@ -28,3 +28,4 @@
 0065{item_bloodstone_shield,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_battle_lance,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 104{item_bloodstone_shield,item_gladiator_guard,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,item_battle_lance,}{item_blade_midas,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 106{item_bloodstone_shield,item_gladiator_guard,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,item_battle_lance,}{item_blade_midas,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+107{item_bloodstone_shield,item_lightning_sword,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,item_battle_lance,}{item_blade_midas,item_infinity_moon_shard,item_gladiator_guard,}{-,-,-,-,-,-,}{item_spark_of_courage,};
