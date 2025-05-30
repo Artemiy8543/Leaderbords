@@ -7,5 +7,6 @@
 9{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0011{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0014{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_great_magic_crit,item_str_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0016{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_great_magic_crit,item_str_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0018{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_great_magic_crit,item_str_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0015{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_great_magic_crit,item_str_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0017{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_great_magic_crit,item_str_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0019{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_great_magic_crit,item_str_book,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
