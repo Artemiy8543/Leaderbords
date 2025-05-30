@@ -31,4 +31,4 @@
 107{item_bloodstone_shield,item_lightning_sword,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,item_battle_lance,}{item_blade_midas,item_infinity_moon_shard,item_gladiator_guard,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 109{item_bloodstone_shield,item_manaback3,item_creep_desolator,item_lotus_cuirass,item_khandas_brooch,item_battle_lance,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 00110{item_bloodstone_shield,item_manaback3,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,item_battle_lance,}{item_khandas_brooch,item_recipe_great_crit_custom,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-111{item_bloodstone_shield,item_manaback3,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,item_battle_lance,}{item_khandas_brooch,item_recipe_great_crit_custom,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+112{item_bloodstone_shield,item_manaback3,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,item_battle_lance,}{item_khandas_brooch,item_recipe_great_crit_custom,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
