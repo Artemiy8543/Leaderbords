@@ -3,4 +3,4 @@
 4{item_quelling_blade,item_heart,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_quelling_blade,item_heart,item_vanguard,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_quelling_blade,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-9{item_quelling_blade,item_gladiator_guard,item_blade_midas,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_quelling_blade,item_gladiator_guard,item_blade_midas,item_vladimir_pact,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
