@@ -6,4 +6,5 @@
 10{item_quelling_blade,item_gladiator_guard,item_blade_midas,item_vladimir_pact,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_quelling_blade,item_gladiator_guard,item_blade_midas,item_vladimir_pact,item_radiance_prc,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0014{item_quelling_blade,item_gladiator_guard,item_blade_midas,item_vladimir_pact,item_radiance_prc,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0016{item_quelling_blade,item_gladiator_guard,item_blade_midas,item_vladimir_pact,item_radiance_prc,item_bloodstone_shield,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0015{item_quelling_blade,item_gladiator_guard,item_blade_midas,item_vladimir_pact,item_radiance_prc,item_bloodstone_shield,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0017{item_battle_lance,item_gladiator_guard,item_blade_midas,item_vladimir_pact,item_radiance_prc,item_bloodstone_shield,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
