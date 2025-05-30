@@ -2,5 +2,5 @@
 003{item_quelling_blade,item_ring_of_tarrasque,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_quelling_blade,item_heart,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_quelling_blade,item_heart,item_vanguard,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-6{item_quelling_blade,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-008{item_quelling_blade,item_gladiator_guard,item_blade_midas,item_vladmir,item_buckler,item_ring_of_basilius,}{item_lifesteal,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_quelling_blade,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_quelling_blade,item_gladiator_guard,item_blade_midas,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
