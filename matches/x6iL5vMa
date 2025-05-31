@@ -5,3 +5,4 @@
 9{item_attacker_midas_agi,item_mjollnir,item_satanic,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+14{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_battle_lance,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
