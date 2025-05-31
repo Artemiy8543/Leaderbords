@@ -6,3 +6,4 @@
 8{item_attacker_midas_str,item_heart,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 10{item_attacker_midas_str,item_heart,item_trident_custom,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 12{item_attacker_midas_str,item_heart,item_trident_custom,item_bloodstone_shield,-,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+13{item_attacker_midas_str,item_heart,item_trident_custom,item_bloodstone_shield,-,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
