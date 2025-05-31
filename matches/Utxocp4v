@@ -56,4 +56,4 @@
 00137{item_ultimate_boots,item_satanic_of_madness,item_creep_desolator,item_attacker_midas_agi,item_revenants_brooch,item_battle_lance,}{item_great_crit_custom3,item_khandas_brooch,item_agi_book,}{-,-,-,-,-,-,}{item_divine_regalia,};
 00139{item_ultimate_boots,item_satanic_of_madness,item_creep_desolator,item_attacker_midas_agi,item_revenants_brooch,item_battle_lance,}{item_great_crit_custom3,item_khandas_brooch,item_agi_book,}{-,-,-,-,-,-,}{item_divine_regalia,};
 00141{item_great_crit_custom3,item_satanic_of_madness,item_creep_desolator,item_attacker_midas_agi,item_revenants_brooch,item_battle_lance,}{-,item_khandas_brooch,item_ultimate_boots,}{-,-,-,-,-,-,}{item_divine_regalia,};
-00142{item_great_crit_custom3,item_satanic_of_madness,item_creep_desolator,item_attacker_midas_agi,item_revenants_brooch,item_battle_lance,}{item_agi_book,item_khandas_brooch,item_ultimate_boots,}{-,-,-,-,-,-,}{item_divine_regalia,};
+00143{item_great_crit_custom3,item_satanic_of_madness,item_creep_desolator,item_attacker_midas_agi,item_revenants_brooch,item_battle_lance,}{item_agi_book,item_khandas_brooch,item_ultimate_boots,}{-,-,-,-,-,-,}{item_divine_regalia,};
