@@ -2,4 +2,5 @@
 3{item_attacker_midas_agi,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_mjollnir,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 007{item_attacker_midas_agi,item_mjollnir,item_battle_lance,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-10{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_attacker_midas_agi,item_mjollnir,item_satanic,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
