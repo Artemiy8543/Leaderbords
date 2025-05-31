@@ -1,4 +1,4 @@
 35+76561198436716440=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_attacker_midas_agi,item_gloves,item_javelin,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_attacker_midas_agi,item_maelstrom,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_attacker_midas_agi,item_mjollnir,item_dragon_lance,item_cornucopia,item_broadsword,item_broadsword,}{item_quelling_blade,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+3{item_attacker_midas_agi,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_attacker_midas_agi,item_mjollnir,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+007{item_attacker_midas_agi,item_mjollnir,item_battle_lance,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
