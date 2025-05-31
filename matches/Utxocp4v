@@ -30,5 +30,5 @@
 0050{item_ultimate_boots,item_satanic_of_madness,item_infinity_moon_shard,item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 53{item_ultimate_boots,item_satanic_of_madness,item_infinity_moon_shard,item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 54{item_ultimate_boots,item_satanic_of_madness,item_infinity_moon_shard,item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
-55{item_ultimate_boots,item_satanic_of_madness,item_infinity_moon_shard,item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
-57{item_ultimate_boots,item_satanic_of_madness,item_infinity_moon_shard,item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,}{item_int_book,item_agi_book,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
+56{item_ultimate_boots,item_satanic_of_madness,item_infinity_moon_shard,item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
+58{item_ultimate_boots,item_satanic_of_madness,item_infinity_moon_shard,item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,}{item_int_book,item_agi_book,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
