@@ -2,3 +2,4 @@
 2{item_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_desolator,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_desolator,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_desolator,item_mask_of_madness,item_eagle,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
