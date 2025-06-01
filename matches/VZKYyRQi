@@ -5,3 +5,4 @@
 006{item_blade_mail,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_blade_mail,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 008{item_blade_mail,item_gladiator_guard,item_ghost,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_blade_mail,item_gladiator_guard,item_ghost,item_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
