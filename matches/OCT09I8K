@@ -6,4 +6,4 @@
 008{item_crimson_guard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_crimson_guard,item_heart,item_ultimate_scepter,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_gladiator_guard,-,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-13{item_gladiator_guard,-,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+14{item_gladiator_guard,-,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
