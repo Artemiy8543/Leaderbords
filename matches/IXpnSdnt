@@ -4,5 +4,6 @@
 7{item_ultimate_scepter,item_heart,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_ultimate_scepter,item_gladiator_guard,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_ultimate_scepter,item_gladiator_guard,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0011{item_ultimate_scepter,item_gladiator_guard,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_ultimate_scepter,item_gladiator_guard,item_trident_custom,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_ultimate_scepter,item_gladiator_guard,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_ultimate_scepter,item_gladiator_guard,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_ultimate_scepter,item_gladiator_guard,item_trident_custom,item_manaback3,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
