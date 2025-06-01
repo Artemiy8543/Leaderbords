@@ -21,4 +21,4 @@
 86{item_blade_midas,item_gladiator_guard,item_manaback3,item_bloodstone_shield,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 108{item_blade_midas,item_gladiator_guard,item_manaback3,item_bloodstone_shield,item_lightning_sword,item_trident_custom,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 121{item_blade_midas,item_gladiator_guard,item_manaback3,item_bloodstone_shield,item_lightning_sword,item_trident_custom,}{item_refresher_core,item_divine_regalia,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-150{item_blade_midas,item_gladiator_guard,item_manaback3,item_bloodstone_shield,item_radiance_prc,item_trident_custom,}{item_refresher_core,-,item_lightning_sword,}{-,-,-,-,-,-,}{item_divine_regalia,};
+151{item_blade_midas,item_gladiator_guard,item_manaback3,item_bloodstone_shield,item_radiance_prc,item_trident_custom,}{item_refresher_core,item_magic_crit,item_lightning_sword,}{item_demon_edge,item_recipe_great_magic_crit2,item_demon_edge,item_recipe_great_magic_crit3,-,-,}{item_divine_regalia,};
