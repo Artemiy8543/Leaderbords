@@ -1,4 +1,5 @@
 2+76561198123977758=001{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_vanguard,item_helm_of_iron_will,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_crimson_guard,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_gladiator_guard,item_platemail,item_hyperstone,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_gladiator_guard,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
