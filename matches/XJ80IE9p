@@ -3,4 +3,5 @@
 4{item_blade_mail,item_ring_of_tarrasque,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_blade_mail,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_blade_mail,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-11{item_blade_mail,item_gladiator_guard,item_manaback3,item_enchanted_mango,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_blade_mail,item_gladiator_guard,item_manaback3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_blade_mail,item_gladiator_guard,item_manaback3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
