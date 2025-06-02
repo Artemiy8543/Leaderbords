@@ -11,4 +11,4 @@
 0017{item_battle_lance,item_satanic_of_madness,item_attacker_midas_agi,item_gladiator_guard,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0019{item_battle_lance,item_satanic_of_madness,item_great_crit_custom3,item_butterfly,item_gladiator_guard,item_trident_custom,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_battle_lance,item_satanic_of_madness,item_great_crit_custom3,item_butterfly,item_gladiator_guard,item_trident_custom,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-23{item_battle_lance,item_satanic_of_madness,item_great_crit_custom3,item_gladiator_guard,item_butterfly,item_trident_custom,}{item_infinity_moon_shard,item_agi_book,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+24{item_battle_lance,item_satanic_of_madness,item_great_crit_custom3,item_gladiator_guard,item_butterfly,item_trident_custom,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
