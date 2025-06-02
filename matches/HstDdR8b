@@ -3,4 +3,5 @@
 003{item_power_treads,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_power_treads,item_mask_of_madness,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_dragon_lance,item_mask_of_madness,item_attacker_midas_agi,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_battle_lance,item_mask_of_madness,item_attacker_midas_agi,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_dragon_lance,item_mask_of_madness,item_attacker_midas_agi,item_power_treads,item_broadsword,item_broadsword,}{item_cornucopia,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_battle_lance,item_mask_of_madness,item_attacker_midas_agi,item_power_treads,item_butterfly,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{-,};
