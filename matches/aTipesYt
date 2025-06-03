@@ -29,3 +29,4 @@
 195{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_manaback3,item_lightning_sword,item_infinity_moon_shard,}{item_helm_of_the_overlord,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 00198{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_manaback3,item_lightning_sword,item_helm_of_the_overlord,}{-,item_shivas_strom,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
 00200{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_manaback3,item_lightning_sword,item_helm_of_the_overlord,}{-,item_shivas_strom,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
+00201{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_manaback3,item_lightning_sword,item_helm_of_the_overlord,}{-,item_shivas_strom,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
