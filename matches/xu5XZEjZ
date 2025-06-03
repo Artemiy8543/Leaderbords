@@ -1,8 +1,3 @@
 55+76561198173587522=1{-,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{-,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{-,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_relic,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_radiance_prc,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_radiance_prc,item_attacker_midas_int,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_radiance_prc,item_attacker_midas_int,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_radiance_prc,item_attacker_midas_int,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_radiance_prc,item_attacker_midas_int,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
