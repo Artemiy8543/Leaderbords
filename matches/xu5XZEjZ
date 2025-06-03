@@ -2,4 +2,4 @@
 2{-,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{-,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_relic,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_radiance_prc,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_radiance_prc,item_attacker_midas_int,item_pavise,item_voodoo_mask,item_vitality_booster,item_energy_booster,}{item_void_stone,-,-,}{-,-,-,-,-,-,}{-,};
