@@ -1,4 +1,4 @@
 55+76561198173587522=1{-,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{-,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{-,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_relic,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_radiance,item_attacker_midas_int,item_urn_of_shadows,item_diadem,-,-,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{-,};
