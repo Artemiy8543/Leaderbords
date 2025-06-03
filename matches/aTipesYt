@@ -10,4 +10,5 @@
 0023{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,item_shivas_strom,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0026{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,item_shivas_strom,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0028{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-32{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,item_shivas_strom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+31{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,item_shivas_strom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+34{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,item_shivas_strom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
