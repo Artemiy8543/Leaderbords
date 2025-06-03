@@ -3,3 +3,4 @@
 4{item_falcon_blade,item_blight_stone,item_power_treads,item_dragon_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_falcon_blade,item_desolator,item_power_treads,item_dragon_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_falcon_blade,item_desolator,item_power_treads,item_dragon_lance,item_cornucopia,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_falcon_blade,item_desolator,item_power_treads,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
