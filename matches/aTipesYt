@@ -3,4 +3,5 @@
 004{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_ultimate_scepter,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_ultimate_scepter,item_radiance_prc,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{item_ultimate_scepter,item_radiance_prc,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_ultimate_scepter,item_radiance_prc,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_ultimate_scepter,item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
