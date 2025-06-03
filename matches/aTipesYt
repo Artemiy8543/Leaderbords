@@ -15,3 +15,4 @@
 43{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,item_shivas_strom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 50{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,item_shivas_strom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 54{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,item_shivas_strom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+0055{item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,item_shivas_strom,item_helm_of_the_overlord,}{item_manaback3,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
