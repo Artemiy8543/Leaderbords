@@ -2,3 +2,4 @@
 002{item_chainmail,item_boots,item_quelling_blade,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{-,item_phase_boots,item_quelling_blade,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{-,item_phase_boots,item_quelling_blade,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_assault,item_phase_boots,item_quelling_blade,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
