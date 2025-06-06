@@ -13,4 +13,4 @@
 23{item_battle_lance,item_attacker_midas_agi,item_satanic_of_madness,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,}{-,item_great_crit_custom3,-,}{-,-,-,-,-,-,}{item_misericorde,};
 25{item_battle_lance,item_attacker_midas_agi,item_satanic_of_madness,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,}{-,item_great_crit_custom3,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0026{item_battle_lance,item_attacker_midas_agi,item_satanic_of_madness,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,}{-,item_great_crit_custom3,-,}{-,-,-,-,-,-,}{item_misericorde,};
-0028{item_battle_lance,item_attacker_midas_agi,item_satanic_of_madness,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,}{item_infinity_moon_shard,item_great_crit_custom3,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,-,-,-,}{item_misericorde,};
+0029{item_battle_lance,item_attacker_midas_agi,item_satanic_of_madness,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,}{item_infinity_moon_shard,item_great_crit_custom3,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_misericorde,};
