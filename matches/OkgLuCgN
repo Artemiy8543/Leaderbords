@@ -38,3 +38,4 @@
 93{item_great_magic_crit3,item_armlet_of_mjolnir,item_bloodstone_shield,item_corrosion_blade,item_creep_desolator,item_infinity_moon_shard,}{item_attacker_midas_agi,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0094{item_great_magic_crit3,item_armlet_of_mjolnir,item_bloodstone_shield,item_corrosion_blade,item_creep_desolator,item_infinity_moon_shard,}{item_attacker_midas_agi,item_gladiator_guard,item_trident_custom,}{-,-,-,-,-,-,}{item_misericorde,};
 95{item_great_magic_crit3,item_armlet_of_mjolnir,item_bloodstone_shield,item_creep_desolator,item_trident_custom,item_infinity_moon_shard,}{item_attacker_midas_agi,item_gladiator_guard,item_corrosion_blade,}{-,-,-,-,-,-,}{item_misericorde,};
+0096{item_great_magic_crit3,item_armlet_of_mjolnir,item_bloodstone_shield,item_corrosion_blade,item_trident_custom,item_infinity_moon_shard,}{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,}{-,-,-,-,-,-,}{item_misericorde,};
