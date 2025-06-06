@@ -7,4 +7,4 @@
 7{item_battle_lance,item_attacker_midas_agi,item_mask_of_madness,item_butterfly,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 9{item_battle_lance,item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 0012{item_battle_lance,item_attacker_midas_agi,item_satanic_of_madness,item_gladiator_guard,item_creep_desolator,item_butterfly,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-15{item_battle_lance,item_attacker_midas_agi,item_satanic_of_madness,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+16{item_battle_lance,item_attacker_midas_agi,item_satanic_of_madness,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,}{item_butterfly,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_rippers_lash,};
