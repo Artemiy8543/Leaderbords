@@ -19,4 +19,4 @@
 0039{item_great_magic_crit3,item_armlet_of_mjolnir,item_satanic_of_madness,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,}{item_attacker_midas_agi,item_great_crit_custom3,item_battle_lance,}{-,-,-,-,-,-,}{item_misericorde,};
 0042{item_great_magic_crit3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,}{item_attacker_midas_agi,item_satanic_of_madness,-,}{-,-,-,-,-,-,}{item_misericorde,};
 46{item_great_magic_crit3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,}{item_attacker_midas_agi,item_satanic_of_madness,-,}{-,-,-,-,-,-,}{item_misericorde,};
-0050{item_great_magic_crit3,item_armlet_of_mjolnir,item_bloodstone_shield,item_khandas_brooch,item_creep_desolator,item_infinity_moon_shard,}{item_attacker_midas_agi,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_misericorde,};
+0051{item_great_magic_crit3,item_armlet_of_mjolnir,item_bloodstone_shield,item_khandas_brooch,item_creep_desolator,item_infinity_moon_shard,}{item_attacker_midas_agi,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_misericorde,};
