@@ -4,3 +4,4 @@
 4{item_lifesteal,item_attacker_midas_agi,item_dragon_lance,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 005{item_battle_lance,item_attacker_midas_agi,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 6{item_battle_lance,item_attacker_midas_agi,item_mask_of_madness,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+7{item_battle_lance,item_attacker_midas_agi,item_mask_of_madness,item_butterfly,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
