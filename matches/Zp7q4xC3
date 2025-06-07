@@ -2,3 +2,4 @@
 002{item_mithril_hammer,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_mithril_hammer,item_armlet,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_maelstrom,item_armlet,item_ring_of_protection,-,-,-,}{item_recipe_mjollnir,item_recipe_armlet_of_mjolnir,-,}{-,-,-,-,-,-,}{-,};
+5{item_armlet_of_mjolnir,-,item_ring_of_protection,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
