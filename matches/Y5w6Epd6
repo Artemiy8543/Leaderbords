@@ -1,3 +1,4 @@
 51+76561198201093370=1{item_chainmail,item_chainmail,item_ring_of_protection,item_branches,item_branches,item_branches,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_chainmail,item_chainmail,item_ring_of_protection,item_branches,item_branches,item_branches,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_chainmail,item_chainmail,item_ring_of_protection,-,item_branches,item_branches,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+003{item_chainmail,item_chainmail,item_ring_of_protection,-,item_branches,item_branches,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_chainmail,item_chainmail,item_ring_of_protection,item_relic,-,item_tango,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
