@@ -11,3 +11,4 @@
 0011{item_gladiator_guard,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0012{item_gladiator_guard,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0014{item_gladiator_guard,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0015{item_gladiator_guard,item_blade_midas,item_shivas_strom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
