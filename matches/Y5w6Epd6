@@ -5,3 +5,4 @@
 6{-,item_branches,item_tango,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{-,-,item_blade_mail,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_ring_of_health,-,item_blade_mail,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_ring_of_health,item_ring_of_tarrasque,item_blade_midas,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
