@@ -23,4 +23,4 @@
 0077{item_trident_custom,item_lotus_cuirass,item_great_magic_crit3,item_shivas_strom,item_bloodstone_shield,item_veil_of_dagon,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 79{item_trident_custom,item_lotus_cuirass,item_great_magic_crit3,item_shivas_strom,item_bloodstone_shield,item_veil_of_dagon,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0081{item_trident_custom,item_lotus_cuirass,item_great_magic_crit3,item_shivas_strom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-82{item_trident_custom,item_lotus_cuirass,item_great_magic_crit3,item_shivas_strom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+83{item_trident_custom,item_lotus_cuirass,item_great_magic_crit3,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
