@@ -8,3 +8,4 @@
 8{item_gladiator_guard,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_gladiator_guard,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0011{item_gladiator_guard,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
