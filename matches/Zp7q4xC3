@@ -4,4 +4,4 @@
 4{item_maelstrom,item_armlet,item_ring_of_protection,-,-,-,}{item_recipe_mjollnir,item_recipe_armlet_of_mjolnir,-,}{-,-,-,-,-,-,}{-,};
 5{item_armlet_of_mjolnir,-,item_ring_of_protection,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_voodoo_mask,item_armlet_of_mjolnir,item_ring_of_protection,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-7{item_voodoo_mask,item_armlet_of_mjolnir,item_ring_of_protection,item_soul_booster,item_fluffy_hat,item_blades_of_attack,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{-,item_armlet_of_mjolnir,item_bloodstone_shield,-,-,item_blades_of_attack,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
