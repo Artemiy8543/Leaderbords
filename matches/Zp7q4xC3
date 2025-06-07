@@ -6,4 +6,4 @@
 6{item_voodoo_mask,item_armlet_of_mjolnir,item_ring_of_protection,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 16{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_clarity,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 30{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_meteor_rain,item_phylactery_blade,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-32{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_infinity_moon_shard,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+33{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_infinity_moon_shard,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
