@@ -7,4 +7,5 @@
 16{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_clarity,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 18{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 19{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_infinity_moon_shard,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-21{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_infinity_moon_shard,item_satanic,}{item_hyperstone,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+20{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_infinity_moon_shard,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+0022{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,item_infinity_moon_shard,item_satanic,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
