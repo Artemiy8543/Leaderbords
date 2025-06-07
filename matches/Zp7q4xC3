@@ -6,3 +6,4 @@
 6{item_voodoo_mask,item_armlet_of_mjolnir,item_ring_of_protection,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 12{item_lesser_crit,item_armlet_of_mjolnir,item_bloodstone_shield,item_heart,item_demon_edge,item_ward_observer,}{item_ring_of_health,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 13{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_heart,-,item_ring_of_health,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+0014{item_great_crit_custom3,item_armlet_of_mjolnir,item_bloodstone_shield,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
