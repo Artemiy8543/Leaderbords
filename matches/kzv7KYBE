@@ -7,3 +7,4 @@
 8{item_attacker_midas_agi,item_mask_of_madness,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_oblivion_staff,item_cornucopia,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_attacker_midas_agi,item_satanic_of_madness,item_creep_desolator,item_lightning_sword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_lightning_sword,item_satanic_of_madness,item_creep_desolator,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
