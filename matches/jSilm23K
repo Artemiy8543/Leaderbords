@@ -7,4 +7,4 @@
 0015{item_trident_custom,item_gladiator_guard,item_sheepstick,item_shivas_strom,item_bloodstone_shield,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 17{item_trident_custom,item_gladiator_guard,item_sheepstick,item_shivas_strom,item_bloodstone_shield,item_blade_midas,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0018{item_trident_custom,item_gladiator_guard,item_sheepstick,item_shivas_strom,item_bloodstone_shield,item_blade_midas,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-19{item_trident_custom,item_gladiator_guard,item_sheepstick,item_shivas_strom,item_bloodstone_shield,item_blade_midas,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+20{item_trident_custom,item_gladiator_guard,item_sheepstick,item_shivas_strom,item_bloodstone_shield,item_blade_midas,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
