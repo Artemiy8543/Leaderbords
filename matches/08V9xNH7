@@ -7,3 +7,4 @@
 008{item_gladiator_guard,-,-,item_shivas_guard,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_gladiator_guard,-,-,item_shivas_guard,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 12{item_gladiator_guard,item_kaya,-,item_shivas_strom,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0013{item_gladiator_guard,item_trident_custom,-,item_shivas_strom,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
