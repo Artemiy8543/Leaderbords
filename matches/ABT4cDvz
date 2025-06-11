@@ -12,3 +12,4 @@
 0012{item_creep_desolator,item_moon_shard,item_battle_lance,item_heart,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 13{item_creep_desolator,item_moon_shard,item_battle_lance,item_gladiator_guard,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0014{item_creep_desolator,item_moon_shard,item_battle_lance,item_gladiator_guard,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+15{item_creep_desolator,item_moon_shard,item_battle_lance,item_gladiator_guard,item_satanic_of_madness,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
