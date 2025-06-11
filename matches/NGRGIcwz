@@ -3,3 +3,4 @@
 3{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_octarine_core,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_octarine_core,item_maelstrom,-,-,-,-,}{item_recipe_veil_of_discord,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+007{item_octarine_core,item_maelstrom,item_platemail,item_veil_of_discord,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
