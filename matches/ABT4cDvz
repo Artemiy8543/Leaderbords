@@ -8,3 +8,4 @@
 008{item_desolator,-,item_bfury,-,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 009{item_desolator,item_moon_shard,item_bfury,item_ring_of_tarrasque,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 10{item_desolator,item_moon_shard,item_bfury,item_heart,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+0011{item_creep_desolator,item_moon_shard,item_bfury,item_heart,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
