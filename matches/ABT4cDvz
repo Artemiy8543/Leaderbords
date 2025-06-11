@@ -22,4 +22,5 @@
 26{item_creep_desolator,item_infinity_moon_shard,item_battle_lance,item_gladiator_guard,item_satanic_of_madness,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
 0028{item_creep_desolator,item_infinity_moon_shard,item_battle_lance,item_gladiator_guard,item_satanic_of_madness,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
 31{item_creep_desolator,item_infinity_moon_shard,item_battle_lance,item_gladiator_guard,item_satanic_of_madness,item_attacker_midas_agi,}{item_infinity_moon_shard,item_hyperstone,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
-35{item_creep_desolator,item_infinity_moon_shard,item_battle_lance,item_gladiator_guard,item_satanic_of_madness,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+34{item_creep_desolator,item_infinity_moon_shard,item_battle_lance,item_gladiator_guard,item_satanic_of_madness,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+0036{item_creep_desolator,item_infinity_moon_shard,item_battle_lance,item_gladiator_guard,item_satanic_of_madness,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
