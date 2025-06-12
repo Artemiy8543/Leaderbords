@@ -4,3 +4,4 @@
 007{item_bracer,item_vanguard,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_bracer,item_vanguard,item_assault,-,-,item_chainmail,}{item_chainmail,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_bracer,item_vanguard,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_bracer,item_vanguard,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
