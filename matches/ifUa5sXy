@@ -2,3 +2,4 @@
 002{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_bracer,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_bracer,item_vanguard,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_bracer,item_vanguard,item_assault,-,-,item_chainmail,}{item_chainmail,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
