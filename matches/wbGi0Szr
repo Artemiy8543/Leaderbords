@@ -2,3 +2,4 @@
 002{-,item_wraith_band,item_blight_stone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{-,item_wraith_band,-,-,item_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_mask_of_madness,item_wraith_band,-,-,item_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{-,item_wraith_band,item_mask_of_madness,-,item_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
