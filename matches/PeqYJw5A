@@ -3,3 +3,4 @@
 4{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 006{item_attacker_midas_int,item_grisgris,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 7{item_attacker_midas_int,item_grisgris,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+8{item_attacker_midas_int,item_grisgris,item_bloodstone_shield,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
