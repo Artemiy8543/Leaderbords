@@ -8,3 +8,4 @@
 12{item_bracer,item_vanguard,item_assault,-,item_chainmail,-,}{-,item_chainmail,item_chainmail,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_bracer,item_vanguard,item_assault,item_chainmail,-,item_chainmail,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0014{item_bracer,item_vanguard,item_assault,item_chainmail,item_chainmail,item_chainmail,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+15{item_bracer,item_vanguard,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
