@@ -6,3 +6,4 @@
 8{item_attacker_midas_int,item_grisgris,item_bloodstone_shield,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0010{item_attacker_midas_int,item_grisgris,item_bloodstone_shield,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 11{item_attacker_midas_int,item_grisgris,item_bloodstone_shield,item_radiance,item_sange_and_yasha,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+0012{item_attacker_midas_int,item_grisgris,item_bloodstone_shield,item_radiance,item_sange_and_yasha,item_holy_locket,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
