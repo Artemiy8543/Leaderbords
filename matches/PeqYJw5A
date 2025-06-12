@@ -13,4 +13,4 @@
 0019{item_attacker_midas_int,item_clarity,item_bloodstone_shield,item_radiance_prc,item_sange_and_yasha,item_holy_locket,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0021{item_attacker_midas_int,-,item_bloodstone_shield,item_radiance_prc,item_sange_and_yasha,item_holy_locket,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 24{item_attacker_midas_int,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_sange_and_yasha,item_holy_urn,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-27{item_attacker_midas_int,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_sange_and_yasha,item_holy_urn,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+28{item_attacker_midas_int,item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_sange_and_yasha,item_holy_urn,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
