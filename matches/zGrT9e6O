@@ -6,3 +6,4 @@
 6{item_attacker_midas_agi,item_power_treads,item_dragon_lance,item_mask_of_madness,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 007{item_attacker_midas_agi,item_power_treads,item_battle_lance,item_mask_of_madness,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 8{item_attacker_midas_agi,item_power_treads,item_battle_lance,item_satanic_of_madness,item_assault,item_boots_of_bearing,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+9{item_attacker_midas_agi,item_power_treads,item_battle_lance,item_satanic_of_madness,item_assault,item_boots_of_bearing,}{item_ward_observer,item_guardian_greaves,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
