@@ -1,4 +1,4 @@
 129+76561198856952219=1{item_midas_component,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-002{item_midas_component,item_ward_observer,item_broadsword,item_chainmail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_blade_midas,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-006{item_blade_midas,item_ward_observer,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+003{item_blade_midas,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_blade_midas,item_ward_observer,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_blade_midas,item_ward_observer,item_ultimate_scepter,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
