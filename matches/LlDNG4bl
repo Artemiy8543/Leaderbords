@@ -16,4 +16,4 @@
 208{item_bloodstone_shield,item_manaback3,-,item_great_magic_crit2,item_lotus_cuirass,item_armlet_of_mjolnir,}{item_blade_midas,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 297{item_bloodstone_shield,item_manaback3,item_lightning_sword,item_great_magic_crit2,item_lotus_cuirass,item_armlet_of_mjolnir,}{item_blade_midas,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 298{item_bloodstone_shield,item_manaback3,item_lotus_cuirass,item_great_magic_crit2,item_gladiator_guard,item_armlet_of_mjolnir,}{item_blade_midas,-,item_lightning_sword,}{-,-,-,-,-,-,}{item_dormant_curio,};
-00303{item_bloodstone_shield,item_manaback3,item_lotus_cuirass,item_great_magic_crit2,item_gladiator_guard,item_armlet_of_mjolnir,}{item_blade_midas,-,item_lightning_sword,}{-,-,-,-,-,-,}{item_dormant_curio,};
+00304{item_bloodstone_shield,item_manaback3,item_lotus_cuirass,item_great_magic_crit2,item_gladiator_guard,item_armlet_of_mjolnir,}{item_blade_midas,-,item_lightning_sword,}{-,-,-,-,-,-,}{item_dormant_curio,};
