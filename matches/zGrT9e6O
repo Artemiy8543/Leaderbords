@@ -4,3 +4,4 @@
 004{item_attacker_midas_agi,item_platemail,item_hyperstone,item_lifesteal,item_ring_of_protection,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 5{item_attacker_midas_agi,item_assault,item_blade_of_alacrity,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 6{item_attacker_midas_agi,item_power_treads,item_dragon_lance,item_mask_of_madness,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+007{item_attacker_midas_agi,item_power_treads,item_battle_lance,item_mask_of_madness,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
