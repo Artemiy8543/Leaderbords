@@ -1,4 +1,4 @@
 2+76561198856952219=001{item_ward_observer,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_ward_observer,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_ward_observer,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_ward_observer,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+004{item_ward_observer,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+6{item_ward_observer,item_blade_midas,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
