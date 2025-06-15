@@ -26,4 +26,4 @@
 70{item_armlet_of_mjolnir,item_gladiator_guard,item_great_crit_custom3,item_creep_desolator,item_vladimir_pact,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 72{item_armlet_of_mjolnir,item_gladiator_guard,item_great_crit_custom3,item_creep_desolator,item_vladimir_pact,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 108{item_radiance_prc,item_gladiator_guard,item_great_crit_custom3,item_creep_desolator,item_vladimir_pact,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-121{item_battle_lance,item_gladiator_guard,item_great_crit_custom3,item_creep_desolator,item_vladimir_pact,item_skadi,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+122{item_battle_lance,item_gladiator_guard,item_great_crit_custom3,item_creep_desolator,item_vladimir_pact,item_skadi,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
