@@ -3,4 +3,4 @@
 3{item_attacker_midas_str,item_mask_of_madness,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_str,item_mask_of_madness,item_lifesteal,item_dragon_lance,item_quelling_blade,item_broadsword,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 5{item_attacker_midas_str,item_mask_of_madness,item_lifesteal,item_battle_lance,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-6{item_attacker_midas_str,item_mask_of_madness,item_lifesteal,item_battle_lance,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_attacker_midas_str,item_satanic,item_lifesteal,item_battle_lance,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
