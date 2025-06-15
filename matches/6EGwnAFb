@@ -23,4 +23,4 @@
 0049{item_attacker_midas_str,item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_butterfly,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0057{item_attacker_midas_str,item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_butterfly,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0064{item_attacker_midas_str,item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_butterfly,item_infinity_moon_shard,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0068{item_attacker_midas_str,item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_butterfly,item_infinity_moon_shard,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0069{item_attacker_midas_str,item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_butterfly,item_infinity_moon_shard,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
