@@ -13,4 +13,5 @@
 25{item_attacker_midas_int,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 30{item_attacker_midas_int,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 35{item_attacker_midas_int,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_radiance_prc,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-41{item_attacker_midas_int,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_radiance_prc,item_shivas_strom,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+40{item_attacker_midas_int,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_radiance_prc,item_shivas_strom,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+42{item_attacker_midas_int,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_radiance_prc,item_shivas_strom,}{item_int_book,item_agi_book,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
