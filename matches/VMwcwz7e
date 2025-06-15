@@ -4,5 +4,5 @@
 005{item_attacker_midas_int,item_bloodstone,item_belt_of_strength,-,item_robe,-,}{item_recipe_sange,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_attacker_midas_int,item_bloodstone,item_kaya_and_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_attacker_midas_int,item_bloodstone,item_trident_custom,item_lesser_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-008{item_attacker_midas_int,item_bloodstone,item_trident_custom,item_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0010{item_attacker_midas_int,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_attacker_midas_int,item_bloodstone_shield,item_trident_custom,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_attacker_midas_int,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
