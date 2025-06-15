@@ -3,4 +3,4 @@
 004{item_butterfly,item_gladiator_guard,item_manta,item_skadi,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_butterfly,item_gladiator_guard,item_manta,item_skadi,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_butterfly,item_gladiator_guard,item_manta,item_skadi,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0010{item_butterfly,item_gladiator_guard,item_manta,item_skadi,item_satanic_of_madness,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0011{item_butterfly,item_armlet_of_mjolnir,item_manta,item_skadi,item_satanic_of_madness,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
