@@ -15,4 +15,4 @@
 33{item_blade_midas,item_armlet_of_mjolnir,item_vladimir_pact,item_lotus_cuirass,item_satanic_of_madness,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 40{item_blade_midas,item_armlet_of_mjolnir,item_vladimir_pact,item_lotus_cuirass,item_satanic_of_madness,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 49{item_blade_midas,item_armlet_of_mjolnir,item_vladimir_pact,item_lotus_cuirass,item_satanic_of_madness,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-54{item_blade_midas,item_armlet_of_mjolnir,item_vladimir_pact,item_lotus_cuirass,item_satanic_of_madness,item_gladiator_guard,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+55{item_blade_midas,item_armlet_of_mjolnir,item_vladimir_pact,item_lotus_cuirass,item_infinity_moon_shard,item_gladiator_guard,}{item_satanic_of_madness,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
