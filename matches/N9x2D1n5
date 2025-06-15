@@ -4,3 +4,4 @@
 004{-,-,-,-,item_sange_and_yasha,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 5{item_gloves,item_javelin,-,-,item_sange_and_yasha,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_maelstrom,-,-,-,item_sange_and_yasha,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+7{item_maelstrom,item_attacker_midas_agi,item_lifesteal,item_buckler,item_sange_and_yasha,item_power_treads,}{item_ring_of_basilius,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
