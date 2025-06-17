@@ -1,3 +1,4 @@
 22+76561198000159256=1{item_staff_of_wizardry,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_kaya,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_kaya,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+2{item_kaya,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_kaya,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_kaya,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
