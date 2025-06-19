@@ -16,3 +16,4 @@
 23{item_skadi,item_disperser,item_rapier,item_satanic_of_madness,item_mjollnir,item_great_crit_custom3,}{item_infinity_moon_shard,-,item_battle_lance,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 24{item_skadi,item_disperser,item_rapier,item_satanic_of_madness,item_mjollnir,item_great_crit_custom3,}{item_infinity_moon_shard,-,item_battle_lance,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0025{item_skadi,item_disperser,item_rapier,item_satanic_of_madness,item_mjollnir,item_great_crit_custom3,}{item_infinity_moon_shard,-,item_battle_lance,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0026{item_skadi,item_disperser,item_battle_lance,item_satanic_of_madness,item_mjollnir,item_great_crit_custom3,}{item_infinity_moon_shard,-,-,}{item_rapier,-,-,-,-,-,}{item_occult_bracelet,};
