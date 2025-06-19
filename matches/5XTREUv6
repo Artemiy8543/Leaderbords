@@ -20,3 +20,4 @@
 0029{item_skadi,item_disperser,item_battle_lance,item_satanic_of_madness,item_mjollnir,item_great_crit_custom3,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_occult_bracelet,};
 31{item_skadi,item_disperser,item_battle_lance,item_satanic_of_madness,item_mjollnir,item_great_crit_custom3,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_occult_bracelet,};
 0033{item_skadi,item_disperser,item_battle_lance,item_satanic_of_madness,item_mjollnir,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+34{item_skadi,item_disperser,item_battle_lance,item_satanic_of_madness,item_mjollnir,item_great_crit_custom3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
