@@ -39,4 +39,5 @@
 126{item_skadi,item_disperser,item_battle_lance,item_satanic_of_madness,item_armlet_of_mjolnir,item_great_crit_custom3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 127{item_skadi,item_disperser,item_battle_lance,item_satanic_of_madness,item_armlet_of_mjolnir,item_great_crit_custom3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 133{item_skadi,item_disperser,item_battle_lance,item_satanic_of_madness,item_armlet_of_mjolnir,item_great_crit_custom3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-136{item_skadi,item_disperser,item_battle_lance,item_satanic_of_madness,item_armlet_of_mjolnir,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+135{item_skadi,item_disperser,item_battle_lance,item_satanic_of_madness,item_armlet_of_mjolnir,item_great_crit_custom3,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+138{item_skadi,item_disperser,item_battle_lance,item_satanic_of_madness,item_armlet_of_mjolnir,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
