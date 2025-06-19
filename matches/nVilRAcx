@@ -68,4 +68,4 @@
 137{item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_infinity_moon_shard,item_butterfly,item_attacker_midas_agi,}{item_agi_book,item_int_book,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 139{item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_infinity_moon_shard,item_butterfly,item_attacker_midas_agi,}{item_agi_book,item_int_book,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 142{item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_infinity_moon_shard,item_butterfly,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-143{item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_infinity_moon_shard,item_butterfly,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+144{item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_infinity_moon_shard,item_butterfly,item_attacker_midas_agi,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
