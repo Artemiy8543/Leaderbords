@@ -24,3 +24,4 @@
 31{item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_infinity_moon_shard,item_butterfly,item_attacker_midas_agi,}{item_agi_book,item_moon_shard,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 33{item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_infinity_moon_shard,item_butterfly,item_attacker_midas_agi,}{item_agi_book,item_infinity_moon_shard,item_infinity_moon_shard,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,-,}{item_serrated_shiv,};
 0034{item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_infinity_moon_shard,item_butterfly,item_attacker_midas_agi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+35{item_satanic_of_madness,item_gladiator_guard,item_battle_lance,item_infinity_moon_shard,item_butterfly,item_attacker_midas_agi,}{item_agi_book,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
