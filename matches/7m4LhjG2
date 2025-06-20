@@ -12,5 +12,5 @@
 0018{item_lotus_cuirass,item_satanic,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 20{item_lotus_cuirass,item_satanic,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0021{item_lotus_cuirass,item_satanic,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-23{item_lotus_cuirass,item_satanic,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-0025{item_lotus_cuirass,item_satanic,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+24{item_lotus_cuirass,item_satanic,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0026{item_lotus_cuirass,item_satanic,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,item_battle_lance,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
