@@ -5,4 +5,4 @@
 7{item_bfury,item_satanic,item_attacker_midas_agi,item_yasha,item_ogre_axe,item_belt_of_strength,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_attacker_midas_agi,item_battle_lance,item_satanic_of_madness,item_sange_and_yasha,item_assault,item_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{item_attacker_midas_agi,item_battle_lance,item_satanic_of_madness,item_trident_custom,item_assault,item_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-12{item_attacker_midas_agi,item_battle_lance,item_satanic_of_madness,item_trident_custom,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+13{item_attacker_midas_agi,item_lotus_cuirass,item_satanic_of_madness,item_trident_custom,item_battle_lance,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
