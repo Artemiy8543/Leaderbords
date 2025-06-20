@@ -23,4 +23,4 @@
 67{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_int_book,item_lotus_cuirass,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 78{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,item_int_book,item_lotus_cuirass,item_manaback3,}{item_str_book,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 90{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-96{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+97{item_gladiator_guard,item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
