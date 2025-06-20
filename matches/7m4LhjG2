@@ -7,3 +7,4 @@
 009{item_assault,item_satanic,item_attacker_midas_str,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{item_lotus_cuirass,item_satanic,item_attacker_midas_str,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 13{item_lotus_cuirass,item_satanic,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0014{item_lotus_cuirass,item_satanic,item_attacker_midas_str,item_armlet_of_mjolnir,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
