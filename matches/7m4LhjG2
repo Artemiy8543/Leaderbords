@@ -3,4 +3,5 @@
 004{item_lifesteal,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_lifesteal,item_assault,item_bracer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_lifesteal,item_assault,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-8{item_assault,item_satanic,item_attacker_midas_str,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_assault,item_satanic,item_attacker_midas_str,item_mithril_hammer,item_gloves,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_assault,item_satanic,item_attacker_midas_str,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
