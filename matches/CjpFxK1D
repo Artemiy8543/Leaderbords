@@ -2,3 +2,4 @@
 2{item_cornucopia,item_quelling_blade,item_wraith_band,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_bfury,-,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_bfury,item_satanic,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_bfury,item_satanic,item_attacker_midas_agi,item_yasha,item_ogre_axe,item_belt_of_strength,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
