@@ -6,3 +6,4 @@
 006{item_staff_of_wizardry,-,-,-,item_butterfly,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{-,-,item_attacker_midas_int,item_great_magic_crit,item_arcane_boots,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_manaback,-,item_attacker_midas_int,item_great_magic_crit,-,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{-,-,item_attacker_midas_int,item_great_magic_crit3,-,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
