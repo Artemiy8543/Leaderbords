@@ -1,2 +1,3 @@
 94+76561198367116625=1{-,-,-,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_point_booster,item_staff_of_wizardry,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+2{item_point_booster,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+004{item_ultimate_scepter,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
