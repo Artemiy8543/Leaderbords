@@ -2,3 +2,4 @@
 3{item_enchanted_mango,-,-,item_kaya_and_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{-,-,-,item_kaya_and_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_trident_custom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_blade_midas,-,-,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
