@@ -3,3 +3,4 @@
 003{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_talisman_of_evasion,-,-,-,item_eagle,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_staff_of_wizardry,-,-,-,item_butterfly,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
