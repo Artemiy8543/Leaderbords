@@ -21,4 +21,5 @@
 40{-,item_trident_custom,item_attacker_midas_int,item_great_magic_crit3,item_bloodstone_shield,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 41{-,item_trident_custom,item_attacker_midas_int,item_great_magic_crit3,item_bloodstone_shield,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 43{-,item_trident_custom,item_attacker_midas_int,item_great_magic_crit3,item_bloodstone_shield,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-46{item_battle_lance,item_trident_custom,item_attacker_midas_int,item_great_magic_crit3,item_bloodstone_shield,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+45{item_battle_lance,item_trident_custom,item_attacker_midas_int,item_great_magic_crit3,item_bloodstone_shield,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0047{item_battle_lance,item_trident_custom,item_attacker_midas_int,item_great_magic_crit3,item_bloodstone_shield,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
