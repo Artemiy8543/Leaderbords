@@ -6,3 +6,4 @@
 007{item_mask_of_madness,item_desolator,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_satanic,item_desolator,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_buckler,item_ring_of_health,-,}{item_recipe_lotus_orb,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_buckler,item_hyperstone,item_platemail,}{item_recipe_lotus_orb,item_ring_of_health,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
