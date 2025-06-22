@@ -3,3 +3,4 @@
 3{item_lifesteal,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_lifesteal,item_desolator,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 5{item_lifesteal,item_desolator,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+006{item_lifesteal,item_desolator,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
