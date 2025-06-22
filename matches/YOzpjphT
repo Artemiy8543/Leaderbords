@@ -16,5 +16,6 @@
 22{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_ultimate_scepter,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 24{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_gladiator_guard,item_great_crit_custom3,}{item_battle_lance,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 26{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_battle_lance,item_great_crit_custom3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-29{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_battle_lance,item_great_crit_custom3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-31{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_battle_lance,item_great_crit_custom3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+28{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_battle_lance,item_great_crit_custom3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+30{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_battle_lance,item_great_crit_custom3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+32{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_battle_lance,item_great_crit_custom3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
