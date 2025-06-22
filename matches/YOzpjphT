@@ -1,3 +1,4 @@
 11+76561198897360143=1{item_lifesteal,item_blight_stone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_lifesteal,item_blight_stone,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_lifesteal,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_lifesteal,item_desolator,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
