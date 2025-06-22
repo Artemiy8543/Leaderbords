@@ -9,5 +9,5 @@
 11{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_buckler,item_hyperstone,item_platemail,}{item_recipe_lotus_orb,item_ring_of_health,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0012{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 13{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-14{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_ultimate_scepter,item_lesser_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0016{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_ultimate_scepter,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+15{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_ultimate_scepter,item_great_crit_custom2,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+17{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_lotus_cuirass,item_ultimate_scepter,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
