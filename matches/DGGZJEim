@@ -14,3 +14,4 @@
 0015{item_bloodstone_shield,item_meteor_rain,item_shivas_strom,item_manaback3,item_octarine_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_bloodstone_shield,item_meteor_rain,item_shivas_strom,item_manaback3,item_octarine_core,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_bloodstone_shield,item_meteor_rain,item_shivas_strom,item_manaback3,item_octarine_core,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+18{item_bloodstone_shield,item_meteor_rain,item_shivas_strom,item_manaback3,item_octarine_core,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
