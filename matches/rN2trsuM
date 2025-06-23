@@ -2,3 +2,4 @@
 002{item_wraith_band,item_cornucopia,-,-,item_quelling_blade,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_wraith_band,item_cornucopia,item_broadsword,item_broadsword,item_quelling_blade,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_wraith_band,item_bfury,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+5{item_wraith_band,item_bfury,item_blight_stone,item_mithril_hammer,item_ward_observer,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
