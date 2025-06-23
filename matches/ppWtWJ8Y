@@ -2,3 +2,4 @@
 002{item_cornucopia,item_broadsword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_cornucopia,item_broadsword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+5{item_armlet,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
