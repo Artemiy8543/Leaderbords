@@ -4,3 +4,4 @@
 004{item_wraith_band,item_bfury,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 5{item_wraith_band,item_bfury,item_blight_stone,item_mithril_hammer,item_ward_observer,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_wraith_band,item_bfury,item_desolator,-,item_ward_observer,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_wraith_band,item_bfury,item_desolator,item_platemail,item_ward_observer,item_phase_boots,}{item_hyperstone,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
