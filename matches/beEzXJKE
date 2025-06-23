@@ -3,3 +3,4 @@
 004{item_bracer,item_hand_of_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_bracer,item_hand_of_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_bracer,item_hand_of_midas,item_relic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_bracer,item_hand_of_midas,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
