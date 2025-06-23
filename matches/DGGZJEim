@@ -6,3 +6,4 @@
 007{item_void_stone,item_meteor_rain,item_voodoo_mask,item_vitality_booster,item_energy_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bloodstone,item_meteor_rain,-,-,-,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_bloodstone_shield,item_meteor_rain,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_bloodstone_shield,item_meteor_rain,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
