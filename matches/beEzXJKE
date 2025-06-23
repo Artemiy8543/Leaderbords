@@ -6,4 +6,4 @@
 7{item_bracer,item_hand_of_midas,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_bracer,item_hand_of_midas,-,-,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_bracer,item_hand_of_midas,-,-,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0010{item_bracer,item_hand_of_midas,item_blade_mail,-,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0011{item_bracer,item_hand_of_midas,item_blade_mail,-,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
