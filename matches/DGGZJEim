@@ -7,3 +7,4 @@
 8{item_bloodstone,item_meteor_rain,-,-,-,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_bloodstone_shield,item_meteor_rain,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_bloodstone_shield,item_meteor_rain,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_bloodstone_shield,item_meteor_rain,item_shivas_strom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
