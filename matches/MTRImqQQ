@@ -2,3 +2,4 @@
 002{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+5{item_attacker_midas_str,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
