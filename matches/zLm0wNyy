@@ -3,3 +3,4 @@
 004{item_bracer,item_armlet,item_tango,item_ward_observer,item_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bracer,item_armlet,item_tango,item_gloves,item_boots,item_mithril_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_bracer,item_armlet,-,item_gloves,item_boots,item_mithril_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_bracer,item_armlet_of_mjolnir,-,-,item_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
