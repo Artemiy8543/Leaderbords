@@ -3,3 +3,4 @@
 3{item_cornucopia,item_broadsword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 5{item_armlet,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_armlet,item_bfury,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
