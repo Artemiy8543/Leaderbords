@@ -4,4 +4,4 @@
 004{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 5{item_attacker_midas_str,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_attacker_midas_str,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-007{item_attacker_midas_str,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{item_attacker_midas_str,item_radiance_prc,item_refresher,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
