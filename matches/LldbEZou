@@ -4,3 +4,4 @@
 5{item_mjollnir,item_dragon_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_mjollnir,item_dragon_lance,item_blight_stone,item_mithril_hammer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_mjollnir,item_dragon_lance,item_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+008{item_mjollnir,item_dragon_lance,item_desolator,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
