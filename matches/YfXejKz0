@@ -24,4 +24,5 @@
 0055{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_gungir,item_trident_custom,}{-,-,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0058{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_gungir,item_gungir,item_trident_custom,}{item_great_crit_custom3,-,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_dormant_curio,};
 60{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_gungir,item_trident_custom,}{-,-,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_dormant_curio,};
-63{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_gungir,item_trident_custom,}{-,-,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_dormant_curio,};
+62{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_gungir,item_trident_custom,}{-,-,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0064{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_gungir,item_trident_custom,}{-,-,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_dormant_curio,};
