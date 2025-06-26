@@ -38,3 +38,4 @@
 64{item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_shivas_strom,item_radiance_prc,}{item_blade_midas,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
 66{item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_shivas_strom,item_radiance_prc,}{item_blade_midas,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
 68{item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_shivas_strom,item_radiance_prc,}{item_blade_midas,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
+69{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_trident_custom,item_great_crit_custom3,item_radiance_prc,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
