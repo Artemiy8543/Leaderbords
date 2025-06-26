@@ -8,3 +8,4 @@
 009{item_mjollnir,item_mask_of_madness,item_desolator,item_moon_shard,item_dragon_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_mjollnir,item_satanic,item_desolator,item_moon_shard,item_dragon_lance,item_helm_of_iron_will,}{item_crown,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_mjollnir,item_satanic,item_creep_desolator,item_moon_shard,item_dragon_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+12{item_mjollnir,item_satanic_of_madness,item_creep_desolator,item_infinity_moon_shard,item_dragon_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
