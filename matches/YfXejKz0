@@ -2,3 +2,4 @@
 3{item_ring_of_tarrasque,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_heart,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
