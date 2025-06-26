@@ -3,3 +3,4 @@
 5{item_heart,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_gladiator_guard,item_bloodstone_shield,item_point_booster,item_staff_of_wizardry,item_ogre_axe,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
