@@ -14,4 +14,5 @@
 28{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 32{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 36{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-40{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+39{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+41{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
