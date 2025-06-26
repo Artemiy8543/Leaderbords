@@ -7,6 +7,6 @@
 8{item_ultimate_scepter,-,item_voodoo_mask,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_ultimate_scepter,item_bloodstone,-,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0010{item_ultimate_scepter,item_bloodstone,-,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-11{item_ultimate_scepter,item_bloodstone,-,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0013{item_ultimate_scepter,item_bloodstone,-,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-15{-,item_bloodstone_shield,-,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_ultimate_scepter,item_bloodstone,-,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0014{item_ultimate_scepter,item_bloodstone,-,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+16{-,item_bloodstone_shield,-,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
