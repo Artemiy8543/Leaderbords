@@ -8,4 +8,4 @@
 12{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom,item_demon_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-18{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+19{item_gladiator_guard,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
