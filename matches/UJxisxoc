@@ -6,4 +6,4 @@
 6{item_attacker_midas_agi,item_battle_lance,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 007{item_attacker_midas_agi,-,item_lifesteal,item_mask_of_madness,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 8{item_attacker_midas_agi,item_javelin,-,item_satanic_of_madness,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-009{item_attacker_midas_agi,item_maelstrom,item_hyperstone,item_satanic_of_madness,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0010{item_attacker_midas_agi,-,item_armlet_of_mjolnir,item_satanic_of_madness,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
