@@ -7,4 +7,5 @@
 10{item_vanguard,-,item_bloodstone_shield,item_blade_midas,item_heart,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{-,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_maelstrom,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_veil_of_discord,item_radiance_prc,}{item_platemail,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0014{item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0013{item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+15{item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
