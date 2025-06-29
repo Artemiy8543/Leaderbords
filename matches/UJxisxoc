@@ -2,3 +2,4 @@
 2{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_agi,item_blade_of_alacrity,item_belt_of_strength,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_dragon_lance,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_attacker_midas_agi,item_dragon_lance,item_lifesteal,item_quelling_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
