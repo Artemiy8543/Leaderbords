@@ -3,3 +3,4 @@
 4{-,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_radiance,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_radiance,item_bloodstone,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{-,item_bloodstone,item_heart,item_blade_midas,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
