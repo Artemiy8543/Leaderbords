@@ -1,3 +1,4 @@
 129+76561199643139867=1{item_chainmail,item_broadsword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{-,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_relic,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+002{-,-,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{-,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_radiance,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
