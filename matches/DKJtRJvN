@@ -3,5 +3,5 @@
 004{item_attacker_midas_int,item_dragon_lance,item_quelling_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 5{item_attacker_midas_int,item_dragon_lance,item_quelling_blade,item_broadsword,item_broadsword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 6{item_attacker_midas_int,item_battle_lance,item_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-007{item_attacker_midas_int,item_battle_lance,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-9{item_attacker_midas_int,-,-,item_mjollnir,item_battle_lance,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+008{item_attacker_midas_int,item_maelstrom,-,-,item_battle_lance,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+10{item_attacker_midas_int,-,-,item_armlet_of_mjolnir,item_battle_lance,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
