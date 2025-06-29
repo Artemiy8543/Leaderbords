@@ -2,3 +2,4 @@
 2{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_talisman_of_evasion,item_eagle,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_talisman_of_evasion,item_eagle,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+005{item_quelling_blade,item_broadsword,-,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
