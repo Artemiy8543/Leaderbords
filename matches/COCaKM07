@@ -58,3 +58,4 @@
 0092{item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_giant_maul,};
 93{item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,}{item_str_book3,item_str_book2,-,}{-,-,-,-,-,-,}{item_demonicon,};
 0094{item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,}{item_str_book3,item_str_book2,-,}{-,-,-,-,-,-,}{item_demonicon,};
+95{item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,item_blade_midas,item_trident_custom,item_radiance_prc,}{item_str_book3,item_str_book2,-,}{-,-,-,-,-,-,}{item_demonicon,};
