@@ -4,3 +4,4 @@
 4{item_attacker_midas_agi,item_dragon_lance,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_attacker_midas_agi,item_dragon_lance,item_lifesteal,item_quelling_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 6{item_attacker_midas_agi,item_battle_lance,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+007{item_attacker_midas_agi,-,item_lifesteal,item_mask_of_madness,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
