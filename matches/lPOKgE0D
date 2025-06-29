@@ -8,3 +8,4 @@
 8{-,-,-,-,item_battle_lance,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 009{item_hyperstone,item_buckler,item_platemail,-,item_battle_lance,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0011{item_trident_custom,-,-,item_assault,item_battle_lance,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+12{item_trident_custom,-,-,item_assault,item_battle_lance,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
