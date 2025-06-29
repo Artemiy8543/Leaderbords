@@ -4,3 +4,4 @@
 4{item_talisman_of_evasion,item_eagle,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 005{item_quelling_blade,item_broadsword,-,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 6{item_quelling_blade,item_broadsword,item_broadsword,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+7{item_bfury,item_blade_of_alacrity,item_belt_of_strength,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
