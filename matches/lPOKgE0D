@@ -6,3 +6,4 @@
 6{item_quelling_blade,item_broadsword,item_broadsword,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_bfury,item_blade_of_alacrity,item_belt_of_strength,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{-,-,-,-,item_battle_lance,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+009{item_hyperstone,item_buckler,item_platemail,-,item_battle_lance,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
