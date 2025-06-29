@@ -16,3 +16,4 @@
 26{item_attacker_midas_int,item_meteor_rain,-,item_armlet_of_mjolnir,item_battle_lance,item_trident_custom,}{-,item_ward_observer,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0028{item_attacker_midas_int,item_meteor_rain,item_int_book2,item_armlet_of_mjolnir,item_battle_lance,item_trident_custom,}{-,item_ward_observer,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 30{item_attacker_midas_int,item_meteor_rain,item_infinity_moon_shard,item_armlet_of_mjolnir,item_battle_lance,item_trident_custom,}{item_infinity_moon_shard,item_ward_observer,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+31{item_attacker_midas_int,item_meteor_rain,-,item_armlet_of_mjolnir,item_battle_lance,item_trident_custom,}{item_infinity_moon_shard,item_ward_observer,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
