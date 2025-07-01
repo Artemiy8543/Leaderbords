@@ -1,2 +1,3 @@
 99+76561198924621778=1{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_attacker_midas_str,-,-,-,-,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+2{item_attacker_midas_str,item_ring_of_health,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_attacker_midas_str,-,-,-,-,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
