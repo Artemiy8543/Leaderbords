@@ -4,4 +4,4 @@
 6{item_attacker_midas_str,item_bloodstone_shield,-,-,-,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_attacker_midas_str,item_bloodstone_shield,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_bloodstone_shield,-,-,item_attacker_midas_str,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-11{item_bloodstone_shield,-,-,item_attacker_midas_str,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_bloodstone_shield,-,-,item_attacker_midas_str,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
