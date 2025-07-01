@@ -13,5 +13,5 @@
 23{item_bloodstone_shield,-,item_great_magic_crit3,item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 26{item_bloodstone_shield,item_str_book2,item_great_magic_crit3,item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 29{item_bloodstone_shield,-,item_great_magic_crit3,item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-31{item_bloodstone_shield,item_refresher_core,item_great_magic_crit3,item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-0033{item_bloodstone_shield,item_refresher_core,item_great_magic_crit3,item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+32{item_bloodstone_shield,item_refresher_core,item_great_magic_crit3,item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0034{item_bloodstone_shield,item_refresher_core,item_great_magic_crit3,-,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
