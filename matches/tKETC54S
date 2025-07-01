@@ -6,4 +6,4 @@
 6{item_attacker_midas_int,-,-,item_ultimate_scepter,-,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 007{item_attacker_midas_int,item_kaya,item_gladiator_guard,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_attacker_midas_int,item_kaya_and_sange,item_gladiator_guard,-,-,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-009{item_attacker_midas_int,-,item_gladiator_guard,item_trident_custom,-,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0010{item_attacker_midas_int,item_refresher_core,item_gladiator_guard,item_trident_custom,-,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
