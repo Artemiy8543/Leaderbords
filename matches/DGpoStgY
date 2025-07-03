@@ -5,3 +5,4 @@
 6{item_blade_mail,item_heart,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_blade_mail,item_heart,item_crimson_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_blade_mail,item_heart,item_crimson_guard,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+10{item_blade_mail,item_gladiator_guard,-,item_assault,item_platemail,item_pers,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
