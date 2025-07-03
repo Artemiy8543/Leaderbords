@@ -10,4 +10,5 @@
 14{item_blade_mail,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 16{item_blade_mail,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0019{item_blade_mail,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0022{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,item_armlet_of_mjolnir,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0020{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+23{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,item_armlet_of_mjolnir,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
