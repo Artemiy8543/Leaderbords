@@ -3,3 +3,4 @@
 5{item_hand_of_midas,-,-,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 7{item_hand_of_midas,-,-,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 008{item_hand_of_midas,item_heart,-,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+009{item_hand_of_midas,item_heart,item_attacker_midas_str,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
