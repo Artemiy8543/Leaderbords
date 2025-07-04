@@ -16,5 +16,5 @@
 25{item_radiance_prc,item_gladiator_guard,item_refresher_core,item_blade_mail,item_bloodstone_shield,item_guardian_greaves,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 27{item_radiance_prc,item_gladiator_guard,item_refresher_core,item_blade_mail,item_bloodstone_shield,item_guardian_greaves,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0029{item_radiance_prc,item_gladiator_guard,item_refresher_core,item_blade_mail,item_bloodstone_shield,item_guardian_greaves,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-0030{item_radiance_prc,item_gladiator_guard,item_refresher_core,item_blade_mail,item_bloodstone_shield,item_guardian_greaves,}{item_giant_maul,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-32{item_radiance_prc,item_gladiator_guard,item_refresher_core,item_blade_mail,item_bloodstone_shield,item_guardian_greaves,}{item_giant_maul,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0031{item_radiance_prc,item_gladiator_guard,item_refresher_core,item_blade_mail,item_bloodstone_shield,item_guardian_greaves,}{item_giant_maul,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+33{item_radiance_prc,item_gladiator_guard,item_refresher_core,item_blade_mail,item_bloodstone_shield,item_guardian_greaves,}{item_giant_maul,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
