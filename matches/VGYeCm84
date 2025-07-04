@@ -13,4 +13,5 @@
 18{item_battle_lance,item_gladiator_guard,item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom2,item_manaback2,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 19{item_battle_lance,item_gladiator_guard,item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom2,item_manaback2,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0021{item_battle_lance,item_gladiator_guard,item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom2,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-24{item_battle_lance,item_gladiator_guard,item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom2,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+23{item_battle_lance,item_gladiator_guard,item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom2,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+25{item_battle_lance,item_gladiator_guard,item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom3,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
