@@ -5,5 +5,5 @@
 7{item_attacker_midas_str,item_heart,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_attacker_midas_str,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_attacker_midas_str,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0010{item_attacker_midas_str,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-12{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,-,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0011{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0013{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
