@@ -2,3 +2,4 @@
 3{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 005{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+6{item_attacker_midas_int,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
