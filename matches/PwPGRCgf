@@ -21,4 +21,4 @@
 0051{item_str_book3,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 53{item_str_book3,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0054{item_str_book3,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-56{-,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+57{item_str_book3,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
