@@ -2,3 +2,4 @@
 3{item_hand_of_midas,item_ring_of_basilius,item_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_hand_of_midas,-,-,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 7{item_hand_of_midas,-,-,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+008{item_hand_of_midas,item_heart,-,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
