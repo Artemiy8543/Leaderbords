@@ -1,4 +1,4 @@
 35+76561199865328605=1{item_dragon_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_dragon_lance,item_broadsword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_battle_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-006{item_battle_lance,item_moon_shard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+007{item_battle_lance,item_infinity_moon_shard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
