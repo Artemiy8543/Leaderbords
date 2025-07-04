@@ -7,4 +7,5 @@
 11{item_hand_of_midas,item_heart,item_attacker_midas_str,item_assault,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0012{item_hand_of_midas,item_gladiator_guard,item_attacker_midas_str,item_assault,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 13{item_hand_of_midas,item_gladiator_guard,item_attacker_midas_str,item_lotus_cuirass,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-15{item_hand_of_midas,item_gladiator_guard,item_attacker_midas_str,item_lotus_cuirass,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+14{item_hand_of_midas,item_gladiator_guard,item_attacker_midas_str,item_lotus_cuirass,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+16{item_hand_of_midas,item_gladiator_guard,item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom2,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
