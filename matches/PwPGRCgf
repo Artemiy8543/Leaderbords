@@ -13,4 +13,4 @@
 0028{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_mail,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0034{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_mail,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0039{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_mail,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0041{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_mail,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0042{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_mail,item_bloodstone_shield,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
