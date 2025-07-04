@@ -43,3 +43,4 @@
 0094{item_str_book3,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0096{item_rapier,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 97{item_rapier,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+0098{item_rapier,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_bloodstone_shield,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
