@@ -2,3 +2,4 @@
 3{item_hand_of_midas,item_ring_of_health,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_hand_of_midas,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 7{item_hand_of_midas,item_crimson_guard,-,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+8{item_hand_of_midas,item_crimson_guard,-,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
