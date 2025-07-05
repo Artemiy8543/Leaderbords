@@ -12,3 +12,4 @@
 0014{item_power_treads,item_attacker_midas_agi,item_refresher_core,item_shivas_guard,item_heart,item_bloodstone_shield,}{item_sobi_mask,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0015{item_trident_custom,item_attacker_midas_agi,item_refresher_core,item_shivas_guard,item_heart,item_bloodstone_shield,}{item_sobi_mask,item_power_treads,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0016{item_trident_custom,item_attacker_midas_agi,item_refresher_core,item_shivas_guard,item_heart,item_bloodstone_shield,}{item_sobi_mask,item_power_treads,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0017{item_trident_custom,item_attacker_midas_agi,item_refresher_core,item_shivas_guard,item_gladiator_guard,item_bloodstone_shield,}{item_sobi_mask,item_power_treads,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
