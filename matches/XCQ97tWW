@@ -8,4 +8,5 @@
 10{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 12{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0014{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0017{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0016{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0018{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
