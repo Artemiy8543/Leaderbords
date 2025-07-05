@@ -18,3 +18,4 @@
 20{item_trident_custom,item_attacker_midas_agi,item_refresher_core,item_shivas_guard,item_gladiator_guard,item_bloodstone_shield,}{-,-,item_veil_of_dagon,}{-,-,-,-,-,-,}{item_dormant_curio,};
 22{item_trident_custom,item_attacker_midas_agi,item_refresher_core,item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,}{-,-,item_veil_of_dagon,}{-,-,-,-,-,-,}{item_dormant_curio,};
 24{item_trident_custom,item_attacker_midas_agi,item_refresher_core,item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,}{item_str_book2,item_agi_book2,item_veil_of_dagon,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0025{item_trident_custom,item_attacker_midas_agi,item_refresher_core,item_shivas_strom,item_gladiator_guard,item_bloodstone_shield,}{item_str_book2,item_agi_book2,item_veil_of_dagon,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
