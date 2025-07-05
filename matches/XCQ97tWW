@@ -2,4 +2,4 @@
 3{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_int,item_tiara_of_selemene,item_energy_booster,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-006{item_attacker_midas_int,item_octarine_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+007{item_attacker_midas_int,item_octarine_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
