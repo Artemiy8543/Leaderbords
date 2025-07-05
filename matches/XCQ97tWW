@@ -15,4 +15,4 @@
 26{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,item_trident_custom,item_khandas_brooch,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 28{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,item_trident_custom,item_khandas_brooch,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 0030{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,item_trident_custom,item_khandas_brooch,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-0033{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,item_trident_custom,item_khandas_brooch,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+0034{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,item_trident_custom,item_khandas_brooch,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
