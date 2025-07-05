@@ -19,3 +19,4 @@
 0035{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,item_trident_custom,item_khandas_brooch,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 0039{item_attacker_midas_int,item_refresher_core,item_bloodstone_shield,item_trident_custom,item_khandas_brooch,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 57{item_gladiator_guard,item_refresher_core,item_bloodstone_shield,item_trident_custom,item_khandas_brooch,item_manaback3,}{item_attacker_midas_int,item_veil_of_dagon,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+58{item_gladiator_guard,item_refresher_core,item_bloodstone_shield,item_trident_custom,item_khandas_brooch,item_manaback3,}{item_attacker_midas_int,item_veil_of_dagon,item_phylactery_blade,}{-,-,-,-,-,-,}{item_searing_signet,};
