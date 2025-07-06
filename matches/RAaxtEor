@@ -14,3 +14,4 @@
 27{item_creep_desolator,item_great_crit_custom3,item_butterfly,item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{-,};
 30{item_creep_desolator,item_great_crit_custom3,item_butterfly,item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_battle_lance,};
 32{item_creep_desolator,item_great_crit_custom3,item_butterfly,item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,}{item_attacker_midas_agi,-,item_battle_lance,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0033{item_creep_desolator,item_great_crit_custom3,item_butterfly,item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,}{item_attacker_midas_agi,-,item_battle_lance,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
