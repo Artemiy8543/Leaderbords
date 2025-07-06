@@ -1,3 +1,4 @@
 94+76561198182796837=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_attacker_midas_agi,item_lesser_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_attacker_midas_agi,item_great_crit_custom,item_point_booster,item_staff_of_wizardry,item_ogre_axe,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+2{item_attacker_midas_agi,item_claymore,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_attacker_midas_agi,item_great_crit_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+6{item_attacker_midas_agi,item_great_crit_custom,item_ultimate_scepter,item_vladmir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
