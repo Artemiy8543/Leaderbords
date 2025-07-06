@@ -26,3 +26,4 @@
 46{item_creep_desolator,item_great_crit_custom3,item_butterfly,item_attacker_midas_agi,item_gladiator_guard,item_khandas_brooch,}{item_shivas_strom,item_str_book2,-,}{-,-,-,-,-,-,}{item_battle_lance,};
 47{item_creep_desolator,item_great_crit_custom3,item_trident_custom,item_attacker_midas_agi,item_gladiator_guard,item_khandas_brooch,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_battle_lance,};
 48{item_creep_desolator,item_great_crit_custom3,item_trident_custom,item_attacker_midas_agi,item_gladiator_guard,item_khandas_brooch,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_battle_lance,};
+0049{item_creep_desolator,item_great_crit_custom3,item_trident_custom,item_attacker_midas_agi,item_gladiator_guard,item_khandas_brooch,}{item_shivas_strom,item_agi_book2,-,}{-,-,-,-,-,-,}{item_battle_lance,};
