@@ -1,2 +1,3 @@
 94+76561198182796837=1{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_attacker_midas_str,item_sange,item_blade_of_alacrity,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+002{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_attacker_midas_str,item_sange_and_yasha,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
