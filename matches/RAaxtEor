@@ -4,5 +4,5 @@
 6{item_attacker_midas_agi,item_great_crit_custom,item_ultimate_scepter,item_vladmir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_attacker_midas_agi,item_great_crit_custom,item_ultimate_scepter,item_vladmir,item_heart,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 10{item_attacker_midas_agi,item_great_crit_custom,item_butterfly,item_vladmir,item_heart,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0012{item_attacker_midas_agi,item_great_crit_custom,item_butterfly,item_vladmir,item_gladiator_guard,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-14{item_attacker_midas_agi,item_great_crit_custom2,item_butterfly,item_vladmir,item_gladiator_guard,item_infinity_moon_shard,}{item_demon_edge,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0013{item_attacker_midas_agi,item_great_crit_custom,item_butterfly,item_vladmir,item_gladiator_guard,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+15{item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,item_vladmir,item_gladiator_guard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
