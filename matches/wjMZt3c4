@@ -2,4 +2,4 @@
 002{item_boots,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_boots,item_blade_midas,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_boots,item_blade_midas,item_vanguard,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-008{item_boots,item_blade_midas,item_vanguard,item_heart,item_lotus_orb,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_boots,item_blade_midas,item_vanguard,item_heart,item_lotus_orb,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
