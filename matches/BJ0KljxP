@@ -7,3 +7,4 @@
 8{item_tranquil_boots,item_attacker_midas_str,item_gladiator_guard,item_ogre_axe,item_ancient_janggo,item_blade_mail,}{-,item_pers,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 9{item_boots_of_bearing,item_attacker_midas_str,item_gladiator_guard,item_sange,-,item_blade_mail,}{-,item_pers,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 10{item_boots_of_bearing,item_attacker_midas_str,item_gladiator_guard,item_sange,item_lotus_orb,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+11{item_boots_of_bearing,item_attacker_midas_str,item_gladiator_guard,item_sange,item_lotus_cuirass,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
