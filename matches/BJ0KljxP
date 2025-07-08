@@ -11,4 +11,4 @@
 0013{item_boots_of_bearing,item_attacker_midas_str,item_gladiator_guard,item_sange,item_lotus_cuirass,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0016{item_ultimate_boots,item_attacker_midas_str,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 18{item_ultimate_boots,item_attacker_midas_str,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,-,}{-,-,item_blade_mail,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-0020{item_ultimate_boots,item_attacker_midas_str,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,-,}{-,-,item_blade_mail,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+0021{item_ultimate_boots,item_attacker_midas_str,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,-,}{-,-,item_blade_mail,}{-,-,-,-,-,-,}{item_polliwog_charm,};
