@@ -3,3 +3,4 @@
 4{item_bfury,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 005{item_bfury,item_attacker_midas_agi,item_lifesteal,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 6{item_bfury,item_attacker_midas_agi,item_lifesteal,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+7{item_bfury,item_satanic,item_attacker_midas_agi,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
