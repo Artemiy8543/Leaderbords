@@ -2,3 +2,4 @@
 2{-,-,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{-,-,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_flask,-,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_flask,item_sange_and_yasha,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
