@@ -3,3 +3,4 @@
 005{item_vanguard,item_ring_of_tarrasque,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_vanguard,item_ring_of_tarrasque,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_vanguard,item_heart,item_blade_mail,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_vanguard,item_heart,item_blade_mail,item_rapier,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
