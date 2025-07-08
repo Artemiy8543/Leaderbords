@@ -4,5 +4,5 @@
 5{item_power_treads,item_flask,item_hand_of_midas,item_mithril_hammer,item_gloves,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_power_treads,item_dragon_lance,item_hand_of_midas,item_maelstrom,item_ward_observer,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_power_treads,item_dragon_lance,item_hand_of_midas,item_mjollnir,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-8{item_power_treads,item_dragon_lance,item_hand_of_midas,item_mjollnir,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0010{item_power_treads,item_dragon_lance,item_hand_of_midas,item_mjollnir,item_heart,item_satanic,}{item_vanguard,item_helm_of_iron_will,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_power_treads,item_dragon_lance,item_hand_of_midas,item_mjollnir,item_ring_of_tarrasque,item_satanic,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_power_treads,item_dragon_lance,item_hand_of_midas,item_mjollnir,item_heart,item_satanic,}{item_vanguard,item_helm_of_iron_will,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
