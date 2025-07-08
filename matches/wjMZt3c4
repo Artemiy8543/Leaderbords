@@ -5,4 +5,4 @@
 008{item_boots,item_blade_midas,item_vanguard,item_heart,item_lotus_orb,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_boots,item_blade_midas,item_gladiator_guard,-,item_lotus_orb,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_ultimate_boots,item_blade_midas,item_gladiator_guard,item_trident_custom,item_lotus_orb,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-19{item_refresher_core,item_radiance_prc,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,}{item_blade_midas,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+20{item_refresher_core,item_radiance_prc,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_bloodstone_shield,}{item_blade_midas,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
