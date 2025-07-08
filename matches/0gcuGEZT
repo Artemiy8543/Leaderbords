@@ -2,3 +2,4 @@
 002{item_broadsword,item_quelling_blade,item_broadsword,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_broadsword,item_quelling_blade,item_broadsword,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_broadsword,item_quelling_blade,item_broadsword,-,-,item_phase_boots,}{item_recipe_bfury,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_lifesteal,item_lifesteal,item_bfury,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
