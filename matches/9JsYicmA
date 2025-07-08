@@ -7,3 +7,4 @@
 007{item_ultimate_scepter,-,-,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_ultimate_scepter,item_ring_of_tarrasque,item_arcane_boots,item_ward_observer,item_energy_booster,item_blink,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_ultimate_scepter,item_ring_of_tarrasque,item_arcane_boots,-,item_energy_booster,item_blink,}{item_tiara_of_selemene,item_vitality_booster,-,}{-,-,-,-,-,-,}{-,};
+10{item_ultimate_scepter,item_ring_of_tarrasque,item_arcane_boots,-,item_octarine_core,item_blink,}{-,-,-,}{-,-,-,-,-,-,}{-,};
