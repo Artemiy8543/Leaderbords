@@ -1,3 +1,4 @@
 99+76561198062878001=1{item_boots,item_chainmail,-,-,-,-,}{item_recipe_blade_mail,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_boots,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_boots,item_blade_midas,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+3{item_boots,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_boots,item_blade_midas,item_vanguard,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
