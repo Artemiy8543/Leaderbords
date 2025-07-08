@@ -5,4 +5,5 @@
 6{item_bfury,item_attacker_midas_agi,item_lifesteal,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 7{item_bfury,item_satanic,item_attacker_midas_agi,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 008{item_battle_lance,item_satanic_of_madness,item_attacker_midas_agi,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0010{item_battle_lance,item_satanic_of_madness,item_attacker_midas_agi,item_assault,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+009{item_battle_lance,item_satanic_of_madness,item_attacker_midas_agi,item_assault,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+11{item_battle_lance,item_satanic_of_madness,item_attacker_midas_agi,item_lotus_cuirass,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
