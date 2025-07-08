@@ -3,3 +3,4 @@
 004{item_blight_stone,-,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_desolator,-,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_desolator,-,-,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_desolator,item_ring_of_tarrasque,item_reaver,-,-,item_phase_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
