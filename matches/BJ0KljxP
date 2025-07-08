@@ -4,3 +4,4 @@
 005{item_tranquil_boots,item_attacker_midas_str,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_tranquil_boots,item_attacker_midas_str,item_vanguard,item_heart,item_pers,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_tranquil_boots,item_attacker_midas_str,item_gladiator_guard,item_ogre_axe,item_pers,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+8{item_tranquil_boots,item_attacker_midas_str,item_gladiator_guard,item_ogre_axe,item_ancient_janggo,item_blade_mail,}{-,item_pers,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
