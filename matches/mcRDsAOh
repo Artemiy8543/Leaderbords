@@ -24,4 +24,4 @@
 26{item_rapier,item_ultimate_scepter,item_octarine_core,item_rapier,item_bfury,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0028{item_rapier,item_ultimate_scepter,item_octarine_core,item_rapier,item_bfury,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 29{item_rapier,item_ultimate_scepter,item_octarine_core,-,item_bfury,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-31{-,item_ultimate_scepter,item_octarine_core,-,item_bfury,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+32{-,item_ultimate_scepter,item_octarine_core,-,item_bfury,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
