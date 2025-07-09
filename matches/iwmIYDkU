@@ -6,3 +6,4 @@
 007{item_hand_of_midas,item_phase_boots,item_octarine_core,item_attacker_midas_str,item_quelling_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_hand_of_midas,item_phase_boots,item_octarine_core,item_attacker_midas_str,item_quelling_blade,item_reaver,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_hand_of_midas,item_phase_boots,item_octarine_core,item_attacker_midas_str,item_quelling_blade,item_heart,}{item_vanguard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_hand_of_midas,item_phase_boots,item_octarine_core,item_bracer,item_gladiator_guard,item_blade_midas,}{item_quelling_blade,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
