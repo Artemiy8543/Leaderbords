@@ -7,3 +7,4 @@
 008{item_tranquil_boots,item_ultimate_scepter,item_octarine_core,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_tranquil_boots,item_ultimate_scepter,item_refresher_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_tranquil_boots,item_ultimate_scepter,item_refresher_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_tranquil_boots,item_ultimate_scepter,-,item_rapier,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
