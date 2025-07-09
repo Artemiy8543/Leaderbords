@@ -6,3 +6,4 @@
 009{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 12{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0013{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+14{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_ultimate_scepter,-,item_enchanted_mango,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
