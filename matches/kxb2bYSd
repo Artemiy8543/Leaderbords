@@ -1,3 +1,4 @@
 2+76561198073567483=001{item_broadsword,item_ward_observer,item_chainmail,item_clarity,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_blade_mail,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_blade_midas,item_ward_observer,item_manaback,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+2{item_blade_mail,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_blade_midas,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+006{item_blade_midas,item_ward_observer,item_manaback,item_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
