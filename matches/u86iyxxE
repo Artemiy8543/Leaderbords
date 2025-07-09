@@ -4,3 +4,4 @@
 005{item_octarine_core,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_octarine_core,-,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{-,-,-,item_octarine_core,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+008{-,-,-,item_octarine_core,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
