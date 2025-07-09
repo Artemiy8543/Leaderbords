@@ -17,5 +17,6 @@
 30{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 32{-,-,item_blade_midas,item_radiance_prc,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 34{item_trident_custom,item_str_book2,item_blade_midas,item_radiance_prc,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0037{item_trident_custom,item_agi_book,item_blade_midas,item_radiance_prc,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-39{item_trident_custom,item_str_book2,item_blade_midas,item_radiance_prc,item_armlet_of_mjolnir,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0036{item_trident_custom,-,item_blade_midas,item_radiance_prc,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+38{item_trident_custom,item_str_book2,item_blade_midas,item_radiance_prc,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0040{item_trident_custom,item_str_book2,item_blade_midas,item_radiance_prc,item_armlet_of_mjolnir,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
