@@ -3,3 +3,4 @@
 3{item_hand_of_midas,item_broadsword,item_quelling_blade,item_broadsword,item_cornucopia,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_hand_of_midas,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_hand_of_midas,item_bfury,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_hand_of_midas,item_bfury,item_lifesteal,item_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
