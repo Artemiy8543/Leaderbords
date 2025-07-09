@@ -19,3 +19,4 @@
 20{item_tranquil_boots,item_ultimate_scepter,item_octarine_core,-,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_tranquil_boots,item_ultimate_scepter,item_octarine_core,item_rapier,item_rapier,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0022{item_tranquil_boots,item_ultimate_scepter,item_octarine_core,item_rapier,item_rapier,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+23{item_rapier,item_ultimate_scepter,item_octarine_core,item_rapier,item_bfury,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
