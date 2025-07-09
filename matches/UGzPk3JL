@@ -6,3 +6,4 @@
 7{item_power_treads,item_octarine_core,item_aether_lens,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_power_treads,item_octarine_core,item_aether_lens,item_ghost,item_point_booster,-,}{item_recipe_phylactery,item_recipe_phylactery_blade,-,}{-,-,-,-,-,-,}{-,};
 10{item_power_treads,item_octarine_core,-,item_phylactery_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_power_treads,item_refresher_core,-,item_phylactery_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
