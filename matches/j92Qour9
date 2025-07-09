@@ -4,4 +4,5 @@
 5{item_power_treads,item_vladmir,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_power_treads,item_vladmir,item_buckler,item_hyperstone,item_pers,item_energy_booster,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
 7{item_power_treads,item_vladmir,item_buckler,item_hyperstone,item_lotus_orb,-,}{-,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
-9{item_power_treads,item_vladmir,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_power_treads,item_vladmir,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_power_treads,item_vladmir,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
