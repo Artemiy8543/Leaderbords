@@ -3,3 +3,4 @@
 4{item_tiara_of_selemene,-,-,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_tiara_of_selemene,item_vitality_booster,item_energy_booster,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_octarine_core,item_voodoo_mask,-,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_octarine_core,item_voodoo_mask,item_void_stone,-,-,item_arcane_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
