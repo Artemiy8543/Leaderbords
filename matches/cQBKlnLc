@@ -16,4 +16,4 @@
 28{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 30{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 32{-,-,item_blade_midas,item_radiance_prc,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-33{item_trident_custom,-,item_blade_midas,item_radiance_prc,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+34{item_trident_custom,item_str_book2,item_blade_midas,item_radiance_prc,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
