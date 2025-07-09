@@ -2,3 +2,4 @@
 3{item_tranquil_boots,item_staff_of_wizardry,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_tranquil_boots,item_staff_of_wizardry,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_tranquil_boots,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_tranquil_boots,item_ultimate_scepter,item_vitality_booster,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
