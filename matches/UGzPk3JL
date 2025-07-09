@@ -4,3 +4,4 @@
 005{item_power_treads,item_tiara_of_selemene,item_vitality_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_power_treads,item_octarine_core,item_void_stone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_power_treads,item_octarine_core,item_aether_lens,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_power_treads,item_octarine_core,item_aether_lens,item_ghost,item_point_booster,-,}{item_recipe_phylactery,item_recipe_phylactery_blade,-,}{-,-,-,-,-,-,}{-,};
