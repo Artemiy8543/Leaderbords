@@ -14,3 +14,4 @@
 28{item_blade_midas,item_lotus_cuirass,item_manaback3,item_gladiator_guard,item_phylactery_blade,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 90{item_blade_midas,item_lotus_cuirass,item_manaback3,item_gladiator_guard,item_phylactery_blade,item_khandas_brooch,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 93{item_blade_midas,-,item_manaback3,item_gladiator_guard,item_phylactery_blade,item_khandas_brooch,}{item_lotus_cuirass,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+101{item_blade_midas,item_lotus_cuirass,item_manaback3,item_gladiator_guard,item_phylactery_blade,item_khandas_brooch,}{-,item_custom_necronomicon3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
