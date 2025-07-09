@@ -4,4 +4,4 @@
 5{item_attacker_midas_str,item_heart,item_flask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 009{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-10{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+12{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
