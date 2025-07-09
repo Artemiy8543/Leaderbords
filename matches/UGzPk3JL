@@ -22,5 +22,6 @@
 28{item_power_treads,item_refresher_core,item_lightning_sword,item_phylactery_blade,item_shivas_strom,-,}{item_pyrrhic_cloak,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_pyrrhic_cloak,};
 0030{item_power_treads,item_refresher_core,item_lightning_sword,item_phylactery_blade,item_shivas_strom,-,}{item_pyrrhic_cloak,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_pyrrhic_cloak,};
 0032{item_power_treads,item_refresher_core,item_lightning_sword,item_phylactery_blade,item_shivas_strom,item_bloodstone,}{item_pyrrhic_cloak,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_pyrrhic_cloak,};
-35{item_power_treads,item_refresher_core,item_lightning_sword,item_phylactery_blade,item_shivas_strom,item_bloodstone_shield,}{item_pyrrhic_cloak,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_pyrrhic_cloak,};
-0037{item_power_treads,item_refresher_core,item_lightning_sword,item_phylactery_blade,item_shivas_strom,item_bloodstone_shield,}{item_pyrrhic_cloak,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_pyrrhic_cloak,};
+34{item_power_treads,item_refresher_core,item_lightning_sword,item_phylactery_blade,item_shivas_strom,item_bloodstone_shield,}{item_pyrrhic_cloak,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_pyrrhic_cloak,};
+0036{item_power_treads,item_refresher_core,item_lightning_sword,item_phylactery_blade,item_shivas_strom,item_bloodstone_shield,}{item_pyrrhic_cloak,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_pyrrhic_cloak,};
+0038{item_power_treads,item_refresher_core,item_lightning_sword,item_phylactery_blade,item_shivas_strom,item_bloodstone_shield,}{item_pyrrhic_cloak,-,-,}{item_rapier,item_rapier,-,-,-,-,}{item_pyrrhic_cloak,};
