@@ -7,3 +7,4 @@
 008{item_power_treads,item_great_crit_custom3,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_power_treads,item_great_crit_custom3,item_bfury,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_power_treads,item_great_crit_custom3,item_bfury,item_yasha,item_diadem,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_power_treads,item_great_crit_custom3,item_bfury,item_vanguard,-,item_manta,}{-,-,-,}{-,-,-,-,-,-,}{-,};
