@@ -14,4 +14,4 @@
 17{item_kaya_and_sange,item_assault,item_refresher_core,item_blade_mail,item_bloodstone,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 18{item_trident_custom,item_lotus_cuirass,item_refresher_core,item_blade_mail,item_bloodstone_shield,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0020{item_lotus_cuirass,item_refresher_core,item_trident_custom,item_blade_mail,item_bloodstone_shield,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0022{item_lotus_cuirass,item_refresher_core,item_trident_custom,item_blade_mail,item_bloodstone_shield,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0023{item_lotus_cuirass,item_refresher_core,item_trident_custom,item_blade_mail,item_bloodstone_shield,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
