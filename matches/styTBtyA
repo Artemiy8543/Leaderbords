@@ -2,3 +2,4 @@
 003{item_power_treads,item_void_stone,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_power_treads,item_void_stone,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_power_treads,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_power_treads,item_bloodstone,item_energy_booster,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
