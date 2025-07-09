@@ -10,3 +10,4 @@
 0013{item_power_treads,item_assault,item_bloodthorn,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0014{item_power_treads,item_assault,item_bloodthorn,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_giant_maul,};
 15{item_power_treads,item_assault,item_bloodthorn,item_radiance,item_ultimate_orb,item_ultimate_orb,}{-,-,-,}{-,-,-,-,-,-,}{item_giant_maul,};
+16{item_power_treads,item_assault,item_bloodthorn,item_radiance,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{item_giant_maul,};
