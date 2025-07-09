@@ -9,3 +9,4 @@
 10{item_power_treads,item_great_crit_custom3,item_bfury,item_yasha,item_diadem,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_power_treads,item_great_crit_custom3,item_bfury,item_vanguard,-,item_manta,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_power_treads,item_great_crit_custom3,item_bfury,item_vanguard,item_mithril_hammer,item_manta,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_power_treads,item_great_crit_custom3,item_bfury,item_vanguard,item_abyssal_blade,item_manta,}{item_mithril_hammer,-,-,}{-,-,-,-,-,-,}{-,};
