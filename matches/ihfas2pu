@@ -1,4 +1,5 @@
 35+76561198839929639=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_agi,item_dragon_lance,item_broadsword,item_quelling_blade,-,-,}{item_recipe_battle_lance,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_attacker_midas_agi,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-008{item_attacker_midas_agi,item_battle_lance,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+007{item_attacker_midas_agi,item_battle_lance,item_satanic,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_attacker_midas_agi,item_battle_lance,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
