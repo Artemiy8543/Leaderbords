@@ -12,3 +12,4 @@
 0038{item_lotus_cuirass,item_ultimate_boots,item_blade_midas,item_battle_lance,item_gladiator_guard,item_refresher_core,}{item_hand_of_midas,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0042{item_lotus_cuirass,item_ultimate_boots,item_blade_midas,item_battle_lance,item_gladiator_guard,item_refresher_core,}{item_hand_of_midas,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0044{item_lotus_cuirass,item_ultimate_boots,item_blade_midas,item_battle_lance,item_gladiator_guard,item_refresher_core,}{item_hand_of_midas,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+46{item_lotus_cuirass,-,item_blade_midas,item_battle_lance,item_gladiator_guard,item_refresher_core,}{-,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
