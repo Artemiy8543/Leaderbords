@@ -12,4 +12,4 @@
 0021{item_blade_midas,-,item_manaback3,item_gladiator_guard,item_phylactery_blade,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0025{item_blade_midas,-,item_manaback3,item_gladiator_guard,item_phylactery_blade,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 28{item_blade_midas,item_lotus_cuirass,item_manaback3,item_gladiator_guard,item_phylactery_blade,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-41{item_blade_midas,item_lotus_cuirass,item_manaback3,item_gladiator_guard,item_phylactery_blade,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+42{item_blade_midas,item_lotus_cuirass,item_manaback3,item_gladiator_guard,item_phylactery_blade,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
