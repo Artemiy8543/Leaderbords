@@ -10,3 +10,4 @@
 0011{item_tranquil_boots,item_ultimate_scepter,-,item_rapier,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_tranquil_boots,item_ultimate_scepter,item_tiara_of_selemene,item_rapier,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_tranquil_boots,item_ultimate_scepter,item_octarine_core,item_rapier,-,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_tranquil_boots,item_ultimate_scepter,item_octarine_core,item_rapier,item_rapier,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{-,};
