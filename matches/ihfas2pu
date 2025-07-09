@@ -3,3 +3,4 @@
 005{item_attacker_midas_agi,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 007{item_attacker_midas_agi,item_battle_lance,item_satanic,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_attacker_midas_agi,item_battle_lance,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_attacker_midas_agi,item_battle_lance,item_satanic_of_madness,item_heart,item_vanguard,item_helm_of_iron_will,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
