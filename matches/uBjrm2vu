@@ -7,4 +7,5 @@
 8{item_tranquil_boots,item_heart,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_tranquil_boots,item_heart,item_ultimate_scepter,item_vanguard,item_helm_of_iron_will,item_blade_mail,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 10{item_tranquil_boots,item_gladiator_guard,item_ultimate_scepter,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-12{item_tranquil_boots,item_gladiator_guard,item_ultimate_scepter,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_tranquil_boots,item_gladiator_guard,item_ultimate_scepter,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0013{item_tranquil_boots,item_gladiator_guard,item_ultimate_scepter,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
