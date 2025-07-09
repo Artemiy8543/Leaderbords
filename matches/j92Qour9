@@ -10,3 +10,4 @@
 15{item_power_treads,item_rapier,item_lotus_cuirass,item_radiance_prc,item_butterfly,item_bfury,}{item_vladmir,-,-,}{-,-,-,-,-,-,}{-,};
 17{item_moon_shard,item_rapier,item_lotus_cuirass,item_radiance_prc,item_butterfly,item_bfury,}{item_vladmir,item_power_treads,-,}{-,-,-,-,-,-,}{-,};
 20{item_infinity_moon_shard,item_rapier,item_lotus_cuirass,item_radiance_prc,item_butterfly,item_bfury,}{item_vladmir,item_power_treads,-,}{-,-,-,-,-,-,}{-,};
+21{item_infinity_moon_shard,item_rapier,item_lotus_cuirass,item_radiance_prc,item_butterfly,item_bfury,}{item_vladmir,item_power_treads,-,}{-,-,-,-,-,-,}{-,};
