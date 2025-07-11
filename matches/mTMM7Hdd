@@ -4,3 +4,4 @@
 6{item_ring_of_tarrasque,item_arcane_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 7{item_refresher,item_arcane_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 8{item_refresher,item_arcane_boots,-,-,item_blink,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+009{item_refresher,item_arcane_boots,item_reaver,-,-,item_blink,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
