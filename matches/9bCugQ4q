@@ -2,3 +2,4 @@
 5{item_attacker_midas_str,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_str,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_str,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+8{item_attacker_midas_str,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
