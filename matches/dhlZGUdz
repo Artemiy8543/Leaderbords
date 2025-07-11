@@ -26,4 +26,4 @@
 76{item_gladiator_guard,item_blade_midas,item_heart,item_creep_desolator,item_lotus_cuirass,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0078{item_gladiator_guard,item_blade_midas,item_heart,item_creep_desolator,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 81{item_gladiator_guard,item_blade_midas,item_heart,-,item_lotus_cuirass,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-83{item_gladiator_guard,item_blade_midas,item_heart,item_heart,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+84{item_gladiator_guard,item_blade_midas,item_heart,item_heart,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
