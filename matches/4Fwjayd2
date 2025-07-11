@@ -31,4 +31,5 @@
 0093{item_gungir,item_magic_crit,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0098{item_gungir,item_magic_crit,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 00100{item_gungir,item_magic_crit,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-102{item_lotus_cuirass,item_magic_crit,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+101{item_lotus_cuirass,item_magic_crit,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+103{item_lotus_cuirass,item_magic_crit,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
