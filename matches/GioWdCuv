@@ -4,5 +4,6 @@
 006{item_arcane_boots,item_attacker_midas_str,item_vladimir_pact,item_ward_observer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_arcane_boots,item_attacker_midas_str,item_vladimir_pact,item_ward_observer,item_reaver,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_arcane_boots,item_attacker_midas_str,item_vladimir_pact,item_ward_observer,item_heart,item_ring_of_health,}{item_clarity,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-10{item_arcane_boots,item_attacker_midas_str,item_vladimir_pact,-,item_gladiator_guard,-,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0012{item_arcane_boots,item_attacker_midas_str,item_vladimir_pact,-,item_gladiator_guard,-,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_arcane_boots,item_attacker_midas_str,item_vladimir_pact,item_clarity,item_gladiator_guard,-,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_arcane_boots,item_attacker_midas_str,item_vladimir_pact,-,item_gladiator_guard,-,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+14{item_arcane_boots,item_attacker_midas_str,item_vladimir_pact,item_radiance_prc,item_gladiator_guard,-,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
