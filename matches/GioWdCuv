@@ -3,3 +3,4 @@
 005{item_ward_observer,item_attacker_midas_str,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_arcane_boots,item_attacker_midas_str,item_vladimir_pact,item_ward_observer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_arcane_boots,item_attacker_midas_str,item_vladimir_pact,item_ward_observer,item_reaver,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_arcane_boots,item_attacker_midas_str,item_vladimir_pact,item_ward_observer,item_heart,item_ring_of_health,}{item_clarity,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
