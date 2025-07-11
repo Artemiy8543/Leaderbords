@@ -5,3 +5,4 @@
 7{item_refresher,item_arcane_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 8{item_refresher,item_arcane_boots,-,-,item_blink,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 009{item_refresher,item_arcane_boots,item_reaver,-,-,item_blink,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+10{item_refresher,item_arcane_boots,item_mekansm,item_ring_of_protection,-,item_overwhelming_blink,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
