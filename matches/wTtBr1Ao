@@ -7,4 +7,4 @@
 11{item_manaback3,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_manaback3,item_bloodstone_shield,item_radiance_prc,item_claymore,item_blades_of_attack,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 15{item_manaback3,item_bloodstone_shield,item_radiance_prc,item_revenants_brooch,item_phylactery,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-17{item_manaback3,item_bloodstone_shield,item_radiance_prc,item_khandas_brooch,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+18{item_manaback3,item_bloodstone_shield,item_radiance_prc,item_khandas_brooch,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
