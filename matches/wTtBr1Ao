@@ -4,4 +4,4 @@
 7{item_manaback3,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_manaback3,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_manaback3,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-10{item_manaback3,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_manaback3,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
