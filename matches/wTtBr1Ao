@@ -19,4 +19,4 @@
 0059{item_great_crit_custom3,item_bloodstone_shield,item_radiance_prc,item_khandas_brooch,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0063{item_great_crit_custom3,item_bloodstone_shield,item_radiance_prc,item_khandas_brooch,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 147{item_magic_crit,item_trident_custom,item_radiance_prc,item_lotus_cuirass,item_khandas_brooch,item_great_magic_crit3,}{item_great_crit_custom3,item_battle_lance,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-217{item_corrosion_blade,item_trident_custom,item_radiance_prc,item_blade_midas,item_skadi,item_great_magic_crit3,}{item_str_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+218{item_corrosion_blade,item_trident_custom,item_radiance_prc,item_blade_midas,item_skadi,item_great_magic_crit3,}{item_str_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
