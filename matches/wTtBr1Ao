@@ -19,4 +19,4 @@
 0059{item_great_crit_custom3,item_bloodstone_shield,item_radiance_prc,item_khandas_brooch,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0063{item_great_crit_custom3,item_bloodstone_shield,item_radiance_prc,item_khandas_brooch,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 104{item_great_crit_custom3,item_battle_lance,item_radiance_prc,item_khandas_brooch,item_trident_custom,item_great_magic_crit3,}{item_shivas_strom,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-106{item_great_crit_custom3,item_battle_lance,item_radiance_prc,item_khandas_brooch,item_trident_custom,item_great_magic_crit3,}{item_shivas_strom,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+107{item_great_crit_custom3,item_battle_lance,item_radiance_prc,item_khandas_brooch,item_trident_custom,item_great_magic_crit3,}{item_shivas_strom,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{-,};
