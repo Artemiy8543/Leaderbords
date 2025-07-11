@@ -10,4 +10,4 @@
 12{item_ultimate_scepter,item_armlet_of_mjolnir,item_bloodstone_shield,item_radiance_prc,item_sange,item_staff_of_wizardry,}{item_robe,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0014{item_ultimate_scepter,item_armlet_of_mjolnir,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_magic_crit,}{item_demon_edge,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 16{item_ultimate_scepter,item_armlet_of_mjolnir,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-18{item_point_booster,item_armlet_of_mjolnir,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{item_rod_of_atos,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+19{item_gungir,item_armlet_of_mjolnir,item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
