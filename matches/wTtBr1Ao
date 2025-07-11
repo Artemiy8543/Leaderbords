@@ -39,4 +39,4 @@
 576{item_magic_crit,item_trident_custom,item_radiance_prc,item_khandas_brooch,item_phylactery_blade,item_great_magic_crit3,}{item_corrosion_blade,item_lotus_cuirass,item_midas_component,}{-,-,-,-,-,-,}{item_giant_maul,};
 590{item_magic_crit,item_trident_custom,item_radiance_prc,item_khandas_brooch,item_phylactery_blade,item_great_magic_crit3,}{-,-,item_midas_component,}{-,-,-,-,-,-,}{item_giant_maul,};
 594{item_magic_crit,item_trident_custom,item_radiance_prc,item_khandas_brooch,item_phylactery_blade,item_great_magic_crit3,}{-,-,item_midas_component,}{-,-,-,-,-,-,}{item_giant_maul,};
-00598{item_magic_crit,item_trident_custom,item_radiance_prc,item_khandas_brooch,item_phylactery_blade,item_great_magic_crit3,}{-,-,item_midas_component,}{-,-,-,-,-,-,}{item_divine_regalia,};
+00599{item_magic_crit,item_trident_custom,item_radiance_prc,item_khandas_brooch,item_phylactery_blade,item_great_magic_crit3,}{-,-,item_midas_component,}{-,-,-,-,-,-,}{item_divine_regalia,};
