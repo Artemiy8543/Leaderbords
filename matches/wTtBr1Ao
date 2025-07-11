@@ -2,3 +2,4 @@
 2{item_robe,item_arcane_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_manaback2,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_manaback3,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_manaback3,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
