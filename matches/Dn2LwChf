@@ -10,3 +10,4 @@
 0016{item_great_magic_crit,item_refresher_core,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 20{item_great_magic_crit,item_refresher_core,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0022{item_great_magic_crit3,item_refresher_core,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+26{item_great_magic_crit3,item_refresher_core,item_heart,item_int_book2,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
