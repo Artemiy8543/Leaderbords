@@ -11,4 +11,4 @@
 20{item_manaback3,item_bloodstone_shield,item_radiance_prc,item_khandas_brooch,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 23{item_great_crit_custom3,item_bloodstone_shield,item_radiance_prc,item_khandas_brooch,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 28{item_great_crit_custom3,item_bloodstone_shield,item_radiance_prc,item_khandas_brooch,item_battle_lance,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-31{item_great_crit_custom3,item_bloodstone_shield,item_radiance_prc,item_khandas_brooch,item_battle_lance,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+32{item_great_crit_custom3,item_bloodstone_shield,item_radiance_prc,item_khandas_brooch,item_battle_lance,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
