@@ -3,4 +3,5 @@
 431{item_radiance_prc,item_armlet_of_mjolnir,item_trident_custom,item_phylactery_blade,item_great_magic_crit3,item_magic_crit,}{item_int_book3,-,item_bloodstone_shield,}{-,-,-,-,-,-,}{item_divine_regalia,};
 638{item_radiance_prc,item_radiance,item_trident_custom,item_phylactery_blade,item_great_magic_crit3,item_magic_crit,}{item_int_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 809{item_radiance_prc,item_radiance,item_trident_custom,item_int_book3,item_great_magic_crit3,item_phylactery_blade,}{item_magic_crit,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-822{item_radiance_prc,item_radiance,item_trident_custom,item_magic_crit,item_great_magic_crit3,item_phylactery_blade,}{item_int_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+821{item_radiance_prc,item_radiance,item_trident_custom,item_magic_crit,item_great_magic_crit3,item_phylactery_blade,}{item_int_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+823{item_radiance_prc,item_radiance,item_trident_custom,item_magic_crit,item_great_magic_crit3,item_phylactery_blade,}{item_int_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
