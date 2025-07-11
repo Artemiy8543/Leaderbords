@@ -2,3 +2,4 @@
 002{item_ring_of_tarrasque,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_ring_of_tarrasque,item_arcane_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_ring_of_tarrasque,item_arcane_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+7{item_refresher,item_arcane_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
