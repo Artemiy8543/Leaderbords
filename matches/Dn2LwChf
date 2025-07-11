@@ -7,3 +7,4 @@
 11{item_magic_crit,item_octarine_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 12{item_magic_crit,item_octarine_core,item_heart,item_ring_of_tarrasque,item_cornucopia,-,}{item_recipe_refresher,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 14{item_great_magic_crit,item_refresher_core,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0016{item_great_magic_crit,item_refresher_core,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
