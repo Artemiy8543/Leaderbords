@@ -5,3 +5,4 @@
 6{item_ultimate_scepter,item_radiance,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 007{item_ultimate_scepter,item_radiance_prc,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_ultimate_scepter,item_radiance_prc,item_bloodstone,item_ring_of_protection,item_fluffy_hat,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_ultimate_scepter,item_radiance_prc,item_bloodstone_shield,item_maelstrom,item_helm_of_iron_will,item_gloves,}{item_recipe_armlet_of_mjolnir,item_blades_of_attack,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
