@@ -7,3 +7,4 @@
 9{item_ultimate_scepter,item_radiance_prc,item_bloodstone,item_ring_of_protection,item_fluffy_hat,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_ultimate_scepter,item_radiance_prc,item_bloodstone_shield,item_maelstrom,item_helm_of_iron_will,item_gloves,}{item_recipe_armlet_of_mjolnir,item_blades_of_attack,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_ultimate_scepter,item_radiance_prc,item_bloodstone_shield,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_ultimate_scepter,item_armlet_of_mjolnir,item_bloodstone_shield,item_radiance_prc,item_sange,item_staff_of_wizardry,}{item_robe,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
