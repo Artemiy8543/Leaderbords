@@ -54,4 +54,4 @@
 855{item_magic_crit,item_trident_custom,item_radiance_prc,item_khandas_brooch,item_phylactery_blade,item_great_magic_crit3,}{-,-,item_midas_component,}{-,-,-,-,-,-,}{item_divine_regalia,};
 963{item_magic_crit,item_trident_custom,item_radiance_prc,item_khandas_brooch,item_phylactery_blade,item_great_magic_crit3,}{-,-,item_midas_component,}{-,-,-,-,-,-,}{item_divine_regalia,};
 1061{item_magic_crit,item_trident_custom,item_radiance_prc,item_radiance,item_phylactery_blade,item_great_magic_crit3,}{item_khandas_brooch,-,item_midas_component,}{-,-,-,-,-,-,}{item_divine_regalia,};
-1104{item_magic_crit,item_trident_custom,item_radiance_prc,item_radiance,item_phylactery_blade,item_great_magic_crit3,}{-,-,item_midas_component,}{-,-,-,-,-,-,}{item_divine_regalia,};
+1105{item_magic_crit,item_trident_custom,item_radiance_prc,item_radiance,item_phylactery_blade,item_great_magic_crit3,}{-,-,item_midas_component,}{-,-,-,-,-,-,}{item_divine_regalia,};
