@@ -21,4 +21,4 @@
 147{item_magic_crit,item_trident_custom,item_radiance_prc,item_lotus_cuirass,item_khandas_brooch,item_great_magic_crit3,}{item_great_crit_custom3,item_battle_lance,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 219{item_corrosion_blade,item_trident_custom,item_radiance_prc,item_blade_midas,item_skadi,item_great_magic_crit3,}{item_str_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 272{item_corrosion_blade,item_trident_custom,item_radiance_prc,item_lotus_cuirass,item_armlet_of_mjolnir,item_great_magic_crit3,}{item_khandas_brooch,-,item_midas_component,}{-,-,-,-,-,-,}{item_divine_regalia,};
-320{item_corrosion_blade,item_trident_custom,item_radiance_prc,item_lotus_cuirass,item_armlet_of_mjolnir,item_great_magic_crit3,}{item_meteor_rain,-,item_midas_component,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+321{item_corrosion_blade,item_trident_custom,item_radiance_prc,item_lotus_cuirass,item_armlet_of_mjolnir,item_great_magic_crit3,}{item_meteor_rain,-,item_midas_component,}{-,-,-,-,-,-,}{item_serrated_shiv,};
