@@ -37,4 +37,4 @@
 00459{item_corrosion_blade,item_trident_custom,item_radiance_prc,item_lotus_cuirass,item_magic_crit,item_great_magic_crit3,}{item_str_book3,-,item_midas_component,}{-,-,-,-,-,-,}{item_serrated_shiv,};
 00462{item_corrosion_blade,item_trident_custom,item_radiance_prc,item_lotus_cuirass,item_magic_crit,item_great_magic_crit3,}{item_str_book3,-,item_midas_component,}{-,-,-,-,-,-,}{item_serrated_shiv,};
 576{item_magic_crit,item_trident_custom,item_radiance_prc,item_khandas_brooch,item_phylactery_blade,item_great_magic_crit3,}{item_corrosion_blade,item_lotus_cuirass,item_midas_component,}{-,-,-,-,-,-,}{item_giant_maul,};
-589{item_magic_crit,item_trident_custom,item_radiance_prc,item_khandas_brooch,item_phylactery_blade,item_great_magic_crit3,}{-,-,item_midas_component,}{-,-,-,-,-,-,}{item_giant_maul,};
+590{item_magic_crit,item_trident_custom,item_radiance_prc,item_khandas_brooch,item_phylactery_blade,item_great_magic_crit3,}{-,-,item_midas_component,}{-,-,-,-,-,-,}{item_giant_maul,};
