@@ -1,4 +1,4 @@
 99+76561198272147796=1{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_vanguard,item_circlet,item_gauntlets,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_vanguard,item_bracer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_vanguard,item_bracer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_vanguard,item_bracer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
