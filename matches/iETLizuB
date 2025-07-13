@@ -5,3 +5,4 @@
 008{item_magic_crit,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_magic_crit,item_trident_custom,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0012{item_magic_crit,item_trident_custom,item_manaback3,item_voodoo_mask,item_vitality_booster,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0013{item_magic_crit,item_trident_custom,item_manaback3,item_voodoo_mask,item_vitality_booster,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
