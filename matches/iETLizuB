@@ -1,4 +1,5 @@
 52+76561198272147796=1{item_null_talisman,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-007{item_magic_crit,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+006{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+008{item_magic_crit,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
