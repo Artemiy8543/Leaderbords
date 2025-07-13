@@ -2,4 +2,4 @@
 2{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-008{item_magic_crit,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+009{item_magic_crit,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
