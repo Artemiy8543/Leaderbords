@@ -45,4 +45,4 @@
 96{item_great_magic_crit,item_trident_custom,item_manaback3,-,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,item_int_book2,item_lightning_sword,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 0098{item_great_magic_crit,item_trident_custom,item_manaback3,-,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 100{item_great_magic_crit,item_trident_custom,item_manaback3,-,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
-00103{item_great_magic_crit,item_trident_custom,item_manaback3,-,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+00104{item_great_magic_crit,item_trident_custom,item_manaback3,item_lotus_cuirass,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
