@@ -3,4 +3,4 @@
 004{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 008{item_magic_crit,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-10{item_magic_crit,item_trident_custom,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_magic_crit,item_trident_custom,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
