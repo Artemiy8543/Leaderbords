@@ -14,4 +14,4 @@
 0023{item_lotus_cuirass,item_bracer,item_gladiator_guard,item_vladimir_pact,item_blade_mail,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 25{item_lotus_cuirass,-,item_gladiator_guard,item_vladimir_pact,item_blade_mail,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 26{item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,item_vladimir_pact,item_blade_mail,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-27{item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,item_vladimir_pact,item_blade_mail,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+28{item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,item_vladimir_pact,item_blade_mail,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
