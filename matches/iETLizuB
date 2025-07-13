@@ -6,4 +6,4 @@
 11{item_magic_crit,item_trident_custom,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0012{item_magic_crit,item_trident_custom,item_manaback3,item_voodoo_mask,item_vitality_booster,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0014{item_magic_crit,item_trident_custom,item_manaback3,item_attacker_midas_int,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-16{item_magic_crit,item_trident_custom,item_manaback3,item_attacker_midas_int,item_meteor_rain,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+17{item_magic_crit,item_trident_custom,item_manaback3,item_attacker_midas_int,item_meteor_rain,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
