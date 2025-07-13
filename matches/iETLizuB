@@ -13,4 +13,5 @@
 26{item_magic_crit,item_trident_custom,item_manaback3,item_khandas_brooch,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0028{item_magic_crit,item_trident_custom,item_manaback3,item_khandas_brooch,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 31{item_great_magic_crit,item_trident_custom,item_manaback3,item_khandas_brooch,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,item_int_book2,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-34{item_great_magic_crit,item_trident_custom,item_manaback3,item_khandas_brooch,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+33{item_great_magic_crit,item_trident_custom,item_manaback3,item_khandas_brooch,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0035{item_great_magic_crit,item_trident_custom,item_manaback3,item_khandas_brooch,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
