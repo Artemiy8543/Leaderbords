@@ -33,4 +33,4 @@
 73{item_great_magic_crit,item_trident_custom,item_manaback3,item_khandas_brooch,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,item_int_book2,item_lightning_sword,}{-,-,-,-,-,-,}{item_searing_signet,};
 0077{item_great_magic_crit,item_trident_custom,item_manaback3,item_khandas_brooch,item_meteor_rain,item_bloodstone_shield,}{item_attacker_midas_int,item_int_book2,item_lightning_sword,}{-,-,-,-,-,-,}{item_searing_signet,};
 78{item_great_magic_crit,item_trident_custom,item_manaback3,item_khandas_brooch,item_int_book2,item_bloodstone_shield,}{item_attacker_midas_int,item_meteor_rain,item_lightning_sword,}{-,-,-,-,-,-,}{item_searing_signet,};
-0079{item_great_magic_crit,item_trident_custom,item_manaback3,item_khandas_brooch,item_int_book2,item_bloodstone_shield,}{item_attacker_midas_int,item_meteor_rain,item_lightning_sword,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+0080{item_great_magic_crit,item_trident_custom,item_manaback3,item_khandas_brooch,item_int_book2,item_bloodstone_shield,}{item_attacker_midas_int,item_meteor_rain,item_lightning_sword,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
