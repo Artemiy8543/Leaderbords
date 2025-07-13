@@ -2,4 +2,4 @@
 3{item_null_talisman,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_null_talisman,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_null_talisman,-,item_arcane_boots,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-006{item_null_talisman,item_kaya,item_arcane_boots,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+007{item_null_talisman,item_manaback,-,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
