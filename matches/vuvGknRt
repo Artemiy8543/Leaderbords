@@ -4,4 +4,5 @@
 7{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_gladiator_guard,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-11{item_gladiator_guard,item_bloodstone_shield,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_gladiator_guard,item_bloodstone_shield,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_gladiator_guard,item_bloodstone_shield,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
