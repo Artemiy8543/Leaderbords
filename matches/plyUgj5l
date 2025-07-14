@@ -10,4 +10,4 @@
 13{item_crimson_guard,item_radiance,item_heart,item_bloodstone,item_sange_and_yasha,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0014{item_gladiator_guard,item_radiance,-,item_bloodstone,item_sange_and_yasha,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 15{item_gladiator_guard,item_radiance,item_bloodstone_shield,-,item_sange_and_yasha,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-16{item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_trident_custom,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+17{item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_trident_custom,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
