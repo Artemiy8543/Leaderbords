@@ -4,4 +4,4 @@
 007{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_gladiator_guard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-31{item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+32{item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
