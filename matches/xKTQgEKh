@@ -9,4 +9,5 @@
 10{item_gladiator_guard,item_buckler,item_ring_of_basilius,item_satanic_of_madness,item_blades_of_attack,item_claymore,}{item_recipe_lesser_crit,item_demon_edge,item_recipe_great_crit_custom,}{-,-,-,-,-,-,}{-,};
 12{item_gladiator_guard,item_buckler,item_ring_of_basilius,item_satanic_of_madness,item_blades_of_attack,item_claymore,}{item_recipe_lesser_crit,item_demon_edge,item_recipe_great_crit_custom,}{item_demon_edge,item_recipe_great_crit_custom2,item_recipe_great_crit_custom3,-,-,-,}{-,};
 0013{item_gladiator_guard,item_recipe_great_crit_custom3,item_demon_edge,item_satanic_of_madness,item_recipe_great_crit_custom2,item_claymore,}{item_recipe_lesser_crit,item_demon_edge,item_recipe_great_crit_custom,}{-,-,-,-,-,-,}{-,};
-15{item_gladiator_guard,item_buckler,item_lotus_cuirass,item_satanic_of_madness,item_great_crit_custom2,item_blades_of_attack,}{item_ring_of_basilius,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_gladiator_guard,item_recipe_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_great_crit_custom2,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_gladiator_guard,item_lotus_cuirass,-,item_satanic_of_madness,item_great_crit_custom2,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
