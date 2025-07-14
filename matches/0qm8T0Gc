@@ -13,4 +13,5 @@
 24{item_vanguard,item_heart,item_blade_mail,item_shivas_guard,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 25{item_gladiator_guard,item_trident_custom,item_blade_mail,item_shivas_guard,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 28{item_gladiator_guard,item_trident_custom,item_blade_midas,item_shivas_strom,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-31{item_gladiator_guard,item_trident_custom,item_blade_midas,item_shivas_strom,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+30{item_gladiator_guard,item_trident_custom,item_blade_midas,item_shivas_strom,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0032{item_lotus_cuirass,item_trident_custom,item_blade_midas,item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
