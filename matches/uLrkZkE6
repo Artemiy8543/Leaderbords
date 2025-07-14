@@ -7,4 +7,4 @@
 13{item_gladiator_guard,item_attacker_midas_str,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_gladiator_guard,item_attacker_midas_str,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0017{item_gladiator_guard,item_attacker_midas_str,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-19{item_gladiator_guard,item_attacker_midas_str,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+20{item_gladiator_guard,item_attacker_midas_str,item_battle_lance,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
