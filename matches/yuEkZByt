@@ -2,3 +2,4 @@
 3{item_vanguard,item_helm_of_iron_will,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_vanguard,item_helm_of_iron_will,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 5{item_crimson_guard,-,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+6{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
