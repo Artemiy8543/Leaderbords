@@ -8,3 +8,4 @@
 0010{item_vanguard,item_radiance,item_heart,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0012{item_crimson_guard,item_radiance,item_heart,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 13{item_crimson_guard,item_radiance,item_heart,item_bloodstone,item_sange_and_yasha,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0014{item_gladiator_guard,item_radiance,-,item_bloodstone,item_sange_and_yasha,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
