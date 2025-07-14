@@ -4,3 +4,4 @@
 006{item_vanguard,item_radiance,item_flask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 007{item_vanguard,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 008{item_vanguard,item_radiance,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+009{item_vanguard,item_radiance,item_heart,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
