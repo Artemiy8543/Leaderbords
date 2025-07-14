@@ -2,3 +2,4 @@
 2{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vanguard,item_radiance,item_flask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+007{item_vanguard,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
