@@ -38,3 +38,4 @@
 69{item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_blade_midas,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0070{item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_blade_mail,}{item_str_book3,item_midas_component,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0071{item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_blade_midas,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_pyrrhic_cloak,};
+72{item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_blade_midas,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_pyrrhic_cloak,};
