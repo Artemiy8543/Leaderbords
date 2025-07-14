@@ -2,4 +2,4 @@
 002{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_vanguard,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_vanguard,item_ring_of_tarrasque,-,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-005{item_vanguard,item_heart,item_broadsword,item_chainmail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+006{item_vanguard,item_heart,item_blade_mail,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
