@@ -32,4 +32,5 @@
 0060{item_lotus_cuirass,item_trident_custom,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0062{item_bloodstone_shield,item_trident_custom,item_blade_midas,item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0064{item_bloodstone_shield,item_trident_custom,item_blade_midas,item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-0067{item_phylactery_blade,item_trident_custom,item_blade_midas,item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+0066{item_bloodstone_shield,item_trident_custom,item_blade_midas,item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,}{item_phylactery_blade,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+68{item_phylactery_blade,item_trident_custom,item_blade_midas,item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
