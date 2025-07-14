@@ -1,3 +1,4 @@
 94+76561199131108067=1{item_lifesteal,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_lifesteal,item_attacker_midas_agi,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_lifesteal,item_attacker_midas_agi,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+002{item_lifesteal,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_lifesteal,item_attacker_midas_agi,item_mithril_hammer,item_javelin,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+6{item_lifesteal,item_attacker_midas_agi,item_armlet_of_mjolnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
