@@ -3,3 +3,4 @@
 3{item_vanguard,item_ring_of_tarrasque,-,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_crimson_guard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_gladiator_guard,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
