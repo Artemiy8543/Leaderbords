@@ -10,4 +10,4 @@
 14{item_bfury,item_power_treads,item_vladmir,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_bfury,item_power_treads,item_vladimir_pact,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 18{item_bfury,item_power_treads,item_vladimir_pact,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-20{item_battle_lance,item_power_treads,item_vladimir_pact,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{item_battle_lance,-,-,}{-,-,-,-,-,-,}{-,};
+21{item_battle_lance,item_power_treads,item_vladimir_pact,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
