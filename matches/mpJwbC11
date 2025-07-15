@@ -8,4 +8,5 @@
 10{item_bfury,item_power_treads,item_vladmir,item_butterfly,item_assault,item_pers,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
 12{item_bfury,item_power_treads,item_vladmir,item_butterfly,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_bfury,item_power_treads,item_vladmir,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-17{item_bfury,item_power_treads,item_vladimir_pact,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_bfury,item_power_treads,item_vladimir_pact,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+18{item_bfury,item_power_treads,item_vladimir_pact,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
