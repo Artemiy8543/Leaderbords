@@ -15,4 +15,4 @@
 0029{item_battle_lance,item_power_treads,item_vladimir_pact,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0031{item_battle_lance,item_power_treads,item_vladimir_pact,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0032{item_battle_lance,item_gladiator_guard,item_vladimir_pact,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{item_power_treads,-,-,}{-,-,-,-,-,-,}{-,};
-33{item_battle_lance,item_gladiator_guard,item_abyssal_blade,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{item_power_treads,item_vladimir_pact,-,}{-,-,-,-,-,-,}{-,};
+34{item_battle_lance,item_gladiator_guard,item_abyssal_blade,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{item_power_treads,item_vladimir_pact,-,}{-,-,-,-,-,-,}{-,};
