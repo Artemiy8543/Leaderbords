@@ -6,3 +6,4 @@
 8{item_power_treads,item_octarine_core,item_ultimate_scepter,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_power_treads,item_octarine_core,item_ultimate_scepter,item_cornucopia,item_ring_of_tarrasque,-,}{item_recipe_refresher,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_power_treads,item_refresher_core,item_ultimate_scepter,item_void_stone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_power_treads,item_refresher_core,item_ultimate_scepter,item_void_stone,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
