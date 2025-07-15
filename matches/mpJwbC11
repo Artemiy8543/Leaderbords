@@ -19,3 +19,4 @@
 41{item_battle_lance,item_gladiator_guard,item_abyssal_blade,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{item_power_treads,item_vladimir_pact,-,}{-,-,-,-,-,-,}{-,};
 0051{item_battle_lance,item_gladiator_guard,item_abyssal_blade,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{item_power_treads,item_vladimir_pact,-,}{-,-,-,-,-,-,}{-,};
 0052{item_battle_lance,item_gladiator_guard,item_abyssal_blade,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{item_power_treads,item_vladimir_pact,-,}{-,-,-,-,-,-,}{-,};
+0053{item_battle_lance,item_gladiator_guard,-,item_butterfly,item_radiance_prc,item_lotus_cuirass,}{item_power_treads,item_vladimir_pact,-,}{-,-,-,-,-,-,}{-,};
