@@ -8,5 +8,5 @@
 10{item_power_treads,item_refresher_core,item_ultimate_scepter,item_void_stone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_power_treads,item_refresher_core,item_ultimate_scepter,item_void_stone,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_power_treads,item_refresher_core,item_ultimate_scepter,item_pers,item_platemail,item_hyperstone,}{item_buckler,item_platemail,-,}{-,-,-,-,-,-,}{-,};
-13{item_power_treads,item_refresher_core,item_ultimate_scepter,-,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0015{item_power_treads,item_refresher_core,item_ultimate_scepter,item_heart,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_power_treads,item_refresher_core,item_ultimate_scepter,-,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_power_treads,item_refresher_core,item_ultimate_scepter,item_heart,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{-,};
