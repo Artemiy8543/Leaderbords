@@ -4,3 +4,4 @@
 6{item_bfury,item_power_treads,item_vladmir,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bfury,item_power_treads,item_vladmir,item_talisman_of_evasion,item_eagle,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_bfury,item_power_treads,item_vladmir,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_bfury,item_power_treads,item_vladmir,item_butterfly,item_platemail,item_hyperstone,}{item_buckler,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
