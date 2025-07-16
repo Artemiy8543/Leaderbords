@@ -9,4 +9,5 @@
 15{item_ward_observer,item_blade_midas,item_bloodstone_shield,item_magic_crit,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0018{item_ward_observer,item_blade_midas,item_bloodstone_shield,item_magic_crit,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0021{item_ward_observer,item_blade_midas,item_bloodstone_shield,item_magic_crit,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0025{-,item_blade_midas,item_bloodstone_shield,item_great_magic_crit3,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0024{item_ward_observer,item_blade_midas,item_bloodstone_shield,item_magic_crit,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0026{-,item_blade_midas,item_bloodstone_shield,item_great_magic_crit3,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
