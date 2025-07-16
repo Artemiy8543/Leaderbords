@@ -3,4 +3,5 @@
 003{item_ward_observer,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ward_observer,item_blade_midas,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_ward_observer,item_blade_midas,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_ward_observer,item_blade_midas,item_bloodstone_shield,item_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_ward_observer,item_blade_midas,item_bloodstone_shield,item_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_ward_observer,item_blade_midas,item_bloodstone_shield,item_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
