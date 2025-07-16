@@ -2,4 +2,4 @@
 002{item_ward_observer,item_midas_component,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_ward_observer,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ward_observer,item_blade_midas,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_ward_observer,item_blade_midas,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_ward_observer,item_blade_midas,item_bloodstone,item_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
