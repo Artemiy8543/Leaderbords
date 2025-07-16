@@ -1,3 +1,4 @@
 2+76561198856952219=001{item_ward_observer,item_midas_component,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_ward_observer,item_midas_component,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_ward_observer,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+003{item_ward_observer,item_blade_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_ward_observer,item_blade_midas,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
