@@ -11,4 +11,5 @@
 0021{item_ward_observer,item_blade_midas,item_bloodstone_shield,item_magic_crit,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0024{item_ward_observer,item_blade_midas,item_bloodstone_shield,item_magic_crit,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0027{-,item_blade_midas,item_bloodstone_shield,item_great_magic_crit3,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-31{item_lightning_sword,item_blade_midas,item_bloodstone_shield,item_great_magic_crit3,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+30{item_lightning_sword,item_blade_midas,item_bloodstone_shield,item_great_magic_crit3,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0032{item_lightning_sword,item_blade_midas,item_bloodstone_shield,item_great_magic_crit3,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
