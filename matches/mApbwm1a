@@ -2,3 +2,4 @@
 002{item_attacker_midas_agi,item_blade_of_alacrity,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_dragon_lance,item_broadsword,item_broadsword,item_cornucopia,item_quelling_blade,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_battle_lance,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_satanic,item_battle_lance,item_attacker_midas_agi,item_travel_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
