@@ -8,4 +8,4 @@
 12{item_satanic_of_madness,item_battle_lance,item_attacker_midas_agi,item_travel_boots,item_butterfly,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0013{item_satanic_of_madness,item_battle_lance,item_attacker_midas_agi,item_travel_boots,item_butterfly,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 14{item_satanic_of_madness,item_battle_lance,item_attacker_midas_agi,item_heart,item_butterfly,item_infinity_moon_shard,}{item_travel_boots,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0015{item_satanic_of_madness,item_battle_lance,item_attacker_midas_agi,item_gladiator_guard,item_butterfly,item_infinity_moon_shard,}{item_travel_boots,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0016{item_satanic_of_madness,item_battle_lance,item_attacker_midas_agi,item_gladiator_guard,item_butterfly,item_infinity_moon_shard,}{item_travel_boots,item_creep_desolator,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
