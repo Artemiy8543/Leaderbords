@@ -2,3 +2,4 @@
 3{item_null_talisman,item_pavise,item_voodoo_mask,item_void_stone,item_energy_booster,item_vitality_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_null_talisman,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_null_talisman,item_bloodstone_shield,item_yasha_and_kaya,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+8{item_null_talisman,item_bloodstone_shield,item_yasha_and_kaya,item_octarine_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
