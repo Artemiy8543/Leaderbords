@@ -3,3 +3,4 @@
 003{item_cornucopia,item_quelling_blade,item_bracer,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,item_quelling_blade,item_bracer,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 5{item_blade_midas,item_bfury,item_bracer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+006{item_blade_midas,item_bfury,item_bracer,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
