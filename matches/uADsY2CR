@@ -5,5 +5,5 @@
 007{item_hand_of_midas,item_mask_of_madness,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 008{item_hand_of_midas,-,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_hand_of_midas,item_eagle,item_satanic_of_madness,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-10{item_hand_of_midas,item_butterfly,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0012{item_hand_of_midas,item_butterfly,item_satanic_of_madness,item_butterfly,item_eagle,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_hand_of_midas,item_butterfly,item_satanic_of_madness,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+13{item_hand_of_midas,item_butterfly,item_satanic_of_madness,item_butterfly,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
