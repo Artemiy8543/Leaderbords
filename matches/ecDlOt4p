@@ -3,5 +3,6 @@
 5{item_hand_of_midas,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_hand_of_midas,item_lifesteal,item_bfury,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 7{item_hand_of_midas,item_lifesteal,item_bfury,item_wraith_band,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-009{item_hand_of_midas,item_lifesteal,item_bfury,item_wraith_band,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-11{item_hand_of_midas,item_satanic,item_bfury,item_wraith_band,item_butterfly,item_claymore,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+008{item_hand_of_midas,item_lifesteal,item_bfury,item_wraith_band,item_eagle,item_talisman_of_evasion,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+0010{item_hand_of_midas,item_lifesteal,item_bfury,item_wraith_band,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+0012{item_hand_of_midas,item_satanic_of_madness,item_bfury,item_wraith_band,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
