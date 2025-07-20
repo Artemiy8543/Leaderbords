@@ -3,4 +3,5 @@
 4{item_attacker_midas_agi,item_mask_of_madness,item_flask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_mask_of_madness,item_flask,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_attacker_midas_agi,item_mask_of_madness,item_flask,item_butterfly,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-008{item_attacker_midas_agi,item_satanic_of_madness,-,item_butterfly,item_battle_lance,item_armlet_of_mjolnir,}{-,item_flask,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+007{item_attacker_midas_agi,item_satanic,item_flask,item_butterfly,item_battle_lance,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_attacker_midas_agi,item_satanic_of_madness,-,item_butterfly,item_battle_lance,item_armlet_of_mjolnir,}{-,item_flask,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
