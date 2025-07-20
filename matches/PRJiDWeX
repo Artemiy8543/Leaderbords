@@ -9,4 +9,4 @@
 13{item_attacker_midas_agi,item_satanic_of_madness,-,item_butterfly,item_battle_lance,item_armlet_of_mjolnir,}{-,item_flask,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 15{item_attacker_midas_agi,item_satanic_of_madness,item_infinity_moon_shard,item_butterfly,item_battle_lance,item_armlet_of_mjolnir,}{-,item_flask,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0018{item_attacker_midas_agi,item_satanic_of_madness,item_infinity_moon_shard,item_butterfly,item_battle_lance,item_armlet_of_mjolnir,}{-,item_flask,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-20{item_butterfly,item_satanic_of_madness,item_infinity_moon_shard,item_butterfly,item_battle_lance,item_armlet_of_mjolnir,}{item_attacker_midas_agi,item_flask,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+21{item_butterfly,item_satanic_of_madness,item_infinity_moon_shard,item_butterfly,item_battle_lance,item_armlet_of_mjolnir,}{item_attacker_midas_agi,item_flask,-,}{-,-,-,-,-,-,}{item_desolator_2,};
