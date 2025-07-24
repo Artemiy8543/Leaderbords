@@ -4,5 +4,5 @@
 4{item_hand_of_midas,item_attacker_midas_agi,item_ring_of_health,item_quelling_blade,item_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 5{item_hand_of_midas,item_attacker_midas_agi,item_ring_of_health,item_quelling_blade,item_power_treads,item_broadsword,}{item_recipe_bfury,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_hand_of_midas,item_attacker_midas_agi,item_ring_of_health,item_bfury,item_power_treads,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-7{item_hand_of_midas,item_attacker_midas_agi,item_crimson_guard,item_bfury,item_power_treads,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-009{item_hand_of_midas,item_attacker_midas_agi,item_gladiator_guard,item_battle_lance,item_power_treads,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_hand_of_midas,item_attacker_midas_agi,item_gladiator_guard,item_bfury,item_power_treads,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_hand_of_midas,item_attacker_midas_agi,item_gladiator_guard,item_battle_lance,item_power_treads,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
