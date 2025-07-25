@@ -3,4 +3,4 @@
 4{item_attacker_midas_agi,item_moon_shard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 5{item_attacker_midas_agi,item_moon_shard,item_moon_shard,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 6{item_satanic_of_madness,item_moon_shard,-,item_attacker_midas_agi,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
-7{item_satanic_of_madness,item_moon_shard,item_magic_crit,item_attacker_midas_agi,item_moon_shard,item_demon_edge,}{item_recipe_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+8{item_satanic_of_madness,item_moon_shard,item_great_magic_crit3,item_attacker_midas_agi,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
