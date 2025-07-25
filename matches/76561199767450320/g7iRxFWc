@@ -1,3 +1,4 @@
 35=1{item_midas_component,item_circlet,item_slippers,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_moon_shard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+5{item_attacker_midas_agi,item_moon_shard,item_moon_shard,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
