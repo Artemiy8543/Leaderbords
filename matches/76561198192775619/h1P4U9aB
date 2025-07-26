@@ -1,3 +1,4 @@
 39=1{item_javelin,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_maelstrom,item_kaya,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_maelstrom,item_kaya,item_ogre_axe,item_belt_of_strength,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
