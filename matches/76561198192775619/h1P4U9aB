@@ -5,3 +5,4 @@
 6{item_maelstrom,item_kaya_and_sange,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 007{item_maelstrom,item_kaya_and_sange,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 8{item_maelstrom,item_kaya_and_sange,item_heart,item_point_booster,item_staff_of_wizardry,item_ogre_axe,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+9{item_maelstrom,item_kaya_and_sange,item_heart,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
