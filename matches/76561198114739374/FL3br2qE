@@ -2,3 +2,4 @@
 002{item_hand_of_midas,item_ward_observer,item_wraith_band,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hand_of_midas,item_ward_observer,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_hand_of_midas,item_ward_observer,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+005{item_hand_of_midas,item_ultimate_scepter,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
