@@ -17,4 +17,4 @@
 0040{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0042{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0045{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-48{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+49{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_bloodstone_shield,item_infinity_moon_shard,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
