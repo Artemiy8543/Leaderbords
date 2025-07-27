@@ -4,3 +4,4 @@
 4{item_hand_of_midas,item_ward_observer,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 005{item_hand_of_midas,item_ultimate_scepter,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_hand_of_midas,item_ultimate_scepter,item_attacker_midas_agi,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_hand_of_midas,item_ultimate_scepter,item_attacker_midas_agi,item_assault,item_lifesteal,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
