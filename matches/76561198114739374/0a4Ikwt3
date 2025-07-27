@@ -3,3 +3,4 @@
 4{item_blade_midas,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_midas,item_heart,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 8{item_blade_midas,item_heart,item_lotus_cuirass,item_crimson_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+9{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_relic,item_urn_of_shadows,-,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
