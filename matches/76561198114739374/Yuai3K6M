@@ -4,4 +4,5 @@
 6{item_attacker_midas_str,item_bfury,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_attacker_midas_str,item_bfury,item_assault,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 008{item_attacker_midas_str,item_bfury,item_assault,item_vladimir_pact,item_creep_desolator,item_pers,}{item_platemail,item_recipe_lotus_orb,item_recipe_lotus_cuirass,}{-,-,-,-,-,-,}{item_dormant_curio,};
-10{item_attacker_midas_str,item_bfury,item_lotus_cuirass,item_vladimir_pact,item_creep_desolator,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_attacker_midas_str,item_bfury,item_lotus_cuirass,item_vladimir_pact,item_creep_desolator,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_attacker_midas_str,item_bfury,item_lotus_cuirass,item_vladimir_pact,item_creep_desolator,item_great_crit_custom3,}{item_boots_of_bearing,item_guardian_greaves,item_boots,}{item_boots,item_blades_of_attack,item_gloves,-,-,-,}{item_dormant_curio,};
