@@ -1,3 +1,3 @@
 54=1{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_attacker_midas_str,item_broadsword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_attacker_midas_str,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_attacker_midas_str,item_bfury,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
