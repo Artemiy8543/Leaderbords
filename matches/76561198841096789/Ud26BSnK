@@ -7,4 +7,4 @@
 0013{item_gladiator_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0016{item_gladiator_guard,item_bloodstone,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0019{item_gladiator_guard,item_bloodstone,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0021{item_gladiator_guard,item_bloodstone,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0022{item_gladiator_guard,item_bloodstone,item_trident_custom,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
