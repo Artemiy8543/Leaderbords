@@ -2,5 +2,5 @@
 002{item_power_treads,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_power_treads,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_power_treads,item_attacker_midas_agi,item_blade_of_alacrity,item_belt_of_strength,item_quelling_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-5{item_power_treads,item_attacker_midas_agi,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-7{item_power_treads,item_attacker_midas_agi,item_battle_lance,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+6{item_power_treads,item_attacker_midas_agi,item_battle_lance,item_eagle,item_talisman_of_evasion,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_power_treads,item_attacker_midas_agi,item_battle_lance,item_butterfly,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
