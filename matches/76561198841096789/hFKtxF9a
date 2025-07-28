@@ -2,3 +2,4 @@
 3{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_mail,item_vanguard,item_helm_of_iron_will,item_ring_of_tarrasque,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_blade_mail,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_blade_mail,item_gladiator_guard,item_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
