@@ -11,6 +11,7 @@
 26{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0029{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 31{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-33{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-35{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0037{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+32{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+34{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+36{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+38{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_lotus_cuirass,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
