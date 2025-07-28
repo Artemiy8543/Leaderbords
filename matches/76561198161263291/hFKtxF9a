@@ -5,3 +5,4 @@
 0022{item_attacker_midas_agi,item_infinity_moon_shard,item_satanic_of_madness,item_battle_lance,item_creep_desolator,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 0025{item_attacker_midas_agi,item_infinity_moon_shard,item_satanic_of_madness,item_battle_lance,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 28{item_armlet_of_mjolnir,item_infinity_moon_shard,item_satanic_of_madness,-,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+29{item_armlet_of_mjolnir,item_infinity_moon_shard,item_satanic_of_madness,-,item_creep_desolator,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
