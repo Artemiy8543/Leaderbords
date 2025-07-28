@@ -10,4 +10,5 @@
 0014{item_attacker_midas_str,item_power_treads,item_gladiator_guard,item_flask,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0017{item_attacker_midas_str,item_power_treads,item_gladiator_guard,item_flask,item_blade_mail,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 20{item_attacker_midas_str,item_power_treads,item_gladiator_guard,item_battle_lance,item_blade_mail,item_radiance_prc,}{item_flask,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0023{item_great_crit_custom3,item_power_treads,item_gladiator_guard,item_battle_lance,item_blade_mail,item_radiance_prc,}{item_flask,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0022{item_great_crit_custom3,item_power_treads,item_gladiator_guard,item_battle_lance,item_blade_mail,item_radiance_prc,}{item_flask,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0024{item_great_crit_custom3,item_power_treads,item_gladiator_guard,item_battle_lance,item_blade_mail,item_radiance_prc,}{item_flask,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
