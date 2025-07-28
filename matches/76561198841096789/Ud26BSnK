@@ -35,3 +35,4 @@
 77{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_shivas_strom,item_phylactery_blade,item_blade_midas,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 78{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_shivas_strom,item_phylactery_blade,item_blade_midas,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 79{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,-,item_phylactery_blade,item_blade_midas,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0080{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_shivas_strom,item_phylactery_blade,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
