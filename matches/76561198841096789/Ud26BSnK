@@ -2,4 +2,4 @@
 002{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-8{item_gladiator_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_gladiator_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
