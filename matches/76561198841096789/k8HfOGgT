@@ -2,3 +2,4 @@
 003{item_attacker_midas_str,item_hyperstone,item_platemail,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_str,item_assault,item_pers,-,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 005{item_attacker_midas_str,item_lotus_cuirass,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+6{item_attacker_midas_str,item_lotus_cuirass,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
