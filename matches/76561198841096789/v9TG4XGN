@@ -19,3 +19,4 @@
 0035{item_blade_midas,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0036{item_blade_midas,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_armlet_of_mjolnir,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 37{item_veil_of_dagon,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+38{item_veil_of_dagon,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
