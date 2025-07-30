@@ -2,3 +2,4 @@
 2{item_ward_sentry,item_wraith_band,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_ward_sentry,item_wraith_band,item_dragon_lance,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{-,item_wraith_band,item_dragon_lance,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+5{item_ward_observer,item_wraith_band,item_dragon_lance,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
