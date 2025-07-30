@@ -4,4 +4,5 @@
 005{item_power_treads,item_bracer,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_power_treads,item_bracer,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_power_treads,item_blade_mail,item_vladmir,item_bracer,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-9{item_power_treads,item_blade_mail,item_vladimir_pact,item_bracer,item_assault,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+8{item_power_treads,item_blade_mail,item_vladmir,item_bracer,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0010{item_power_treads,item_blade_mail,item_vladimir_pact,item_bracer,item_assault,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
