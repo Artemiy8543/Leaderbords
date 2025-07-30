@@ -3,3 +3,4 @@
 3{item_power_treads,item_bracer,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_power_treads,item_bracer,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_power_treads,item_bracer,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+007{item_power_treads,item_blade_mail,item_vladmir,item_bracer,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
