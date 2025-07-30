@@ -4,5 +4,5 @@
 7{item_maelstrom,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 8{item_maelstrom,item_vladmir,item_butterfly,item_dragon_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 009{item_power_treads,item_vladmir,item_butterfly,item_dragon_lance,item_maelstrom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
-10{item_power_treads,item_vladmir,item_butterfly,item_dragon_lance,-,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
-12{item_power_treads,item_satanic,item_butterfly,item_dragon_lance,item_vladmir,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+11{item_power_treads,item_satanic,item_butterfly,item_dragon_lance,item_vladmir,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+13{item_power_treads,item_satanic,item_butterfly,item_dragon_lance,item_vladmir,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
