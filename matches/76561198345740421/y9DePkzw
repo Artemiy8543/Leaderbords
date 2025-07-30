@@ -1,3 +1,4 @@
 53=1{item_gloves,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_maelstrom,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_maelstrom,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+2{item_gloves,item_lifesteal,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_maelstrom,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+006{item_maelstrom,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
