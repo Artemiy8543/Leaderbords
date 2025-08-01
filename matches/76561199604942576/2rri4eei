@@ -1,3 +1,4 @@
 70=1{item_lifesteal,item_broadsword,item_quelling_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_lifesteal,item_broadsword,item_quelling_blade,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_lifesteal,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{-,item_bfury,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
