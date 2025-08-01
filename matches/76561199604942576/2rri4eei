@@ -6,3 +6,4 @@
 7{item_assault,item_bfury,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_assault,item_battle_lance,item_mask_of_madness,item_blight_stone,item_mithril_hammer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_assault,item_battle_lance,item_mask_of_madness,item_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0010{item_lotus_cuirass,item_battle_lance,item_mask_of_madness,item_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
