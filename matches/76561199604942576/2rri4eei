@@ -4,3 +4,4 @@
 4{-,item_bfury,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 5{item_hyperstone,item_bfury,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_assault,item_bfury,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+8{item_assault,item_battle_lance,item_mask_of_madness,item_blight_stone,item_mithril_hammer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
