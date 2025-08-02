@@ -3,4 +3,4 @@
 12{item_satanic,-,-,-,-,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 15{-,item_satanic,-,item_hurricane_pike,-,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 20{-,item_satanic,-,item_hurricane_pike,item_trident_custom,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-23{-,item_satanic,-,item_hurricane_pike,item_trident_custom,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+24{item_infinity_moon_shard,item_satanic,-,item_hurricane_pike,item_trident_custom,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
