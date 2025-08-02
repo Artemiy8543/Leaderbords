@@ -14,4 +14,4 @@
 36{item_butterfly,item_manaback3,item_attacker_midas_int,item_battle_lance,item_khandas_brooch,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0042{item_butterfly,item_manaback3,item_attacker_midas_int,item_battle_lance,item_khandas_brooch,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 49{item_butterfly,item_manaback3,item_attacker_midas_int,item_battle_lance,item_khandas_brooch,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-80{item_butterfly,item_manaback3,item_attacker_midas_int,-,item_khandas_brooch,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+83{item_butterfly,item_manaback3,item_attacker_midas_int,-,item_khandas_brooch,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
