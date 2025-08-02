@@ -6,4 +6,4 @@
 7{item_gladiator_guard,-,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0010{item_gladiator_guard,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0014{item_gladiator_guard,item_bloodstone_shield,-,item_blade_midas,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-18{item_gladiator_guard,item_bloodstone_shield,item_ultimate_scepter,item_blade_midas,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+19{item_gladiator_guard,item_bloodstone_shield,-,item_blade_midas,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
