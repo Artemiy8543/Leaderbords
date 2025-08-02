@@ -6,3 +6,4 @@
 10{item_ultimate_scepter,item_manaback3,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 13{item_ultimate_scepter,item_manaback3,item_attacker_midas_int,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0015{item_ultimate_scepter,item_manaback3,item_attacker_midas_int,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+18{item_ultimate_scepter,item_manaback3,item_attacker_midas_int,item_bloodstone_shield,item_khandas_brooch,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
