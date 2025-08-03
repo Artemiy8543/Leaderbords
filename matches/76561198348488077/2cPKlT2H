@@ -6,3 +6,4 @@
 8{item_staff_of_wizardry,item_crimson_guard,item_point_booster,item_hand_of_midas,item_ogre_axe,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0012{item_ultimate_scepter,item_gladiator_guard,item_assault,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0014{item_ultimate_scepter,item_gladiator_guard,item_assault,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0019{item_ultimate_scepter,item_gladiator_guard,item_lotus_cuirass,item_hand_of_midas,item_bloodstone_shield,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
