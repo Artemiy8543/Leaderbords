@@ -8,4 +8,5 @@
 0014{item_ultimate_scepter,item_gladiator_guard,item_assault,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0021{item_ultimate_scepter,item_gladiator_guard,item_lotus_cuirass,item_hand_of_midas,item_blade_midas,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0027{-,item_gladiator_guard,item_lotus_cuirass,item_great_magic_crit,item_blade_midas,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-33{-,item_gladiator_guard,item_lotus_cuirass,item_great_magic_crit,item_blade_midas,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+32{item_str_book2,item_gladiator_guard,item_lotus_cuirass,item_great_magic_crit,item_blade_midas,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+34{-,item_gladiator_guard,item_lotus_cuirass,item_great_magic_crit,item_blade_midas,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
