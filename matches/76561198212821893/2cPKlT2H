@@ -6,3 +6,4 @@
 22{item_bfury,item_rapier,item_butterfly,item_great_magic_crit,item_satanic,item_manta,}{-,-,-,}{-,-,-,-,-,-,}{item_essence_ring,};
 28{item_bfury,item_rapier,item_butterfly,item_great_magic_crit,item_satanic,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_essence_ring,};
 0030{item_bfury,item_rapier,item_butterfly,item_great_magic_crit,item_satanic,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_essence_ring,};
+0035{item_bfury,-,item_lotus_cuirass,item_great_magic_crit,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_essence_ring,};
