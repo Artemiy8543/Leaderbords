@@ -1,4 +1,4 @@
 72=1{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_power_treads,item_lesser_crit,item_staff_of_wizardry,item_ogre_axe,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+005{item_power_treads,item_lesser_crit,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
