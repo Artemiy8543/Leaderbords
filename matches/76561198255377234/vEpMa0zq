@@ -3,3 +3,4 @@
 004{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 005{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_mjollnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_mjollnir,item_ultimate_scepter,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
