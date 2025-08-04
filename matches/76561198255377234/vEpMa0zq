@@ -16,13 +16,4 @@
 31{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_devastator,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0033{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_devastator,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 40{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_devastator,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-48{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_devastator,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-50{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_butterfly,}{item_devastator,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-52{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_butterfly,}{item_devastator,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-55{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_butterfly,}{item_devastator,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-59{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_butterfly,}{item_devastator,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-62{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_butterfly,}{item_devastator,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-64{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_butterfly,}{item_devastator,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-71{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_butterfly,}{item_devastator,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-74{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_butterfly,}{item_devastator,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-77{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_butterfly,}{item_devastator,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+78{item_armlet_of_mjolnir,item_khandas_brooch,item_satanic_of_madness,item_skadi,item_great_crit_custom3,item_butterfly,}{item_devastator,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
