@@ -10,3 +10,4 @@
 0017{item_mjollnir,item_ultimate_scepter,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0018{item_mjollnir,-,item_butterfly,item_skadi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 20{item_mjollnir,item_khandas_brooch,item_butterfly,item_skadi,item_devastator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+22{item_armlet_of_mjolnir,item_khandas_brooch,item_butterfly,item_skadi,item_devastator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
