@@ -64,4 +64,4 @@
 170{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_armlet_of_mjolnir,item_lotus_cuirass,item_radiance_prc,}{item_satanic_of_madness,item_basher_slardar,item_attacker_midas_agi,}{-,-,-,-,-,-,}{item_divine_regalia,};
 00172{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_radiance_prc,}{item_satanic_of_madness,item_basher_slardar,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_divine_regalia,};
 00174{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_radiance_prc,}{-,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_divine_regalia,};
-176{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_great_crit_custom3,item_lotus_cuirass,item_radiance_prc,}{item_attacker_midas_agi,-,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_divine_regalia,};
+177{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_great_crit_custom3,item_lotus_cuirass,item_radiance_prc,}{item_attacker_midas_agi,item_int_book3,item_armlet_of_mjolnir,}{-,-,-,-,-,-,}{item_divine_regalia,};
