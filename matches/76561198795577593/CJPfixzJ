@@ -5,4 +5,4 @@
 5{item_attacker_midas_agi,item_platemail,item_hand_of_midas,item_helm_of_iron_will,item_ring_of_tarrasque,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_attacker_midas_agi,item_platemail,item_hand_of_midas,item_helm_of_iron_will,-,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_gladiator_guard,item_shivas_strom,item_hand_of_midas,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-8{item_gladiator_guard,item_shivas_strom,item_hand_of_midas,item_attacker_midas_agi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_gladiator_guard,item_shivas_strom,item_hand_of_midas,item_attacker_midas_agi,item_lotus_cuirass,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
