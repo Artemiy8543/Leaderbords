@@ -5,4 +5,5 @@
 8{item_hand_of_midas,item_vanguard,item_blade_mail,-,-,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_hand_of_midas,item_vanguard,item_blade_mail,item_shivas_guard,item_voodoo_mask,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0010{item_kaya_and_sange,item_vanguard,item_blade_mail,item_shivas_guard,item_hand_of_midas,item_heart,}{item_voodoo_mask,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-12{item_trident_custom,item_crimson_guard,item_blade_mail,item_shivas_guard,item_hand_of_midas,item_heart,}{item_voodoo_mask,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_trident_custom,item_vanguard,item_blade_mail,item_shivas_guard,item_hand_of_midas,item_heart,}{item_voodoo_mask,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0013{item_trident_custom,item_crimson_guard,item_blade_mail,item_shivas_guard,item_hand_of_midas,item_heart,}{item_voodoo_mask,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
