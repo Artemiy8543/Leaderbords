@@ -14,3 +14,4 @@
 16{item_gladiator_guard,item_shivas_strom,item_hand_of_midas,item_attacker_midas_agi,item_lotus_cuirass,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0017{item_gladiator_guard,item_shivas_strom,item_hand_of_midas,item_attacker_midas_agi,item_lotus_cuirass,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 18{item_gladiator_guard,item_shivas_strom,item_hand_of_midas,item_attacker_midas_agi,item_lotus_cuirass,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0019{item_gladiator_guard,item_shivas_strom,item_hand_of_midas,item_attacker_midas_agi,item_lotus_cuirass,item_butterfly,}{item_radiance,item_agi_book3,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
