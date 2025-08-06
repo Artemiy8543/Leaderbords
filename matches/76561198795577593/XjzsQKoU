@@ -40,4 +40,5 @@
 80{item_trident_custom,item_gladiator_guard,item_str_book2,item_radiance_prc,item_shivas_strom,item_bloodstone,}{item_lotus_cuirass,item_blade_midas,item_refresher_core,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 82{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_shivas_strom,item_bloodstone,}{item_lotus_cuirass,item_refresher_core,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0084{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_shivas_strom,item_bloodstone,}{item_lotus_cuirass,item_refresher_core,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-87{item_trident_custom,item_gladiator_guard,-,item_radiance_prc,item_shivas_strom,item_bloodstone,}{item_lotus_cuirass,item_refresher_core,item_blade_midas,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+86{item_trident_custom,item_gladiator_guard,-,item_radiance_prc,item_shivas_strom,item_bloodstone,}{item_lotus_cuirass,item_refresher_core,item_blade_midas,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0088{item_trident_custom,item_gladiator_guard,-,item_radiance_prc,item_shivas_strom,item_bloodstone,}{item_lotus_cuirass,item_refresher_core,item_blade_midas,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
