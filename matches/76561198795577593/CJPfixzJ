@@ -40,4 +40,5 @@
 0055{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_butterfly,}{item_radiance,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0058{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_satanic_of_madness,}{item_radiance,item_agi_book3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 60{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_satanic_of_madness,}{item_radiance,item_agi_book3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0062{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_satanic_of_madness,}{item_radiance,item_agi_book3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0061{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_satanic_of_madness,}{item_radiance,item_agi_book3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+63{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_satanic_of_madness,}{item_radiance,item_agi_book3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
