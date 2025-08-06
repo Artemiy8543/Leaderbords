@@ -27,4 +27,5 @@
 49{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,item_shivas_strom,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 52{item_trident_custom,item_refresher_core,item_blade_midas,item_radiance_prc,item_shivas_strom,item_veil_of_dagon,}{item_lotus_cuirass,item_bloodstone_shield,item_gladiator_guard,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 55{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_shivas_strom,item_refresher_core,}{item_lotus_cuirass,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-58{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_shivas_strom,item_refresher_core,}{item_lotus_cuirass,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+57{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_shivas_strom,item_refresher_core,}{item_lotus_cuirass,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+59{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_shivas_strom,item_refresher_core,}{item_lotus_cuirass,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
