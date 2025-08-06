@@ -13,3 +13,4 @@
 0020{item_trident_custom,item_gladiator_guard,item_blade_midas,item_shivas_guard,item_lotus_cuirass,item_hand_of_midas,}{item_voodoo_mask,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 22{item_trident_custom,item_gladiator_guard,item_blade_midas,item_shivas_guard,item_lotus_cuirass,item_hand_of_midas,}{item_voodoo_mask,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 24{item_trident_custom,item_gladiator_guard,item_blade_midas,item_shivas_guard,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0025{item_trident_custom,item_gladiator_guard,item_blade_midas,item_shivas_guard,item_lotus_cuirass,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
