@@ -1,4 +1,5 @@
 99=1{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_hand_of_midas,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-7{item_hand_of_midas,item_vanguard,item_blade_mail,-,-,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_hand_of_midas,item_vanguard,item_blade_mail,item_ring_of_tarrasque,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_hand_of_midas,item_vanguard,item_blade_mail,-,-,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
