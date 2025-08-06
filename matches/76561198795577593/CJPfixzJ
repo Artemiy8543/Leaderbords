@@ -103,4 +103,4 @@
 00290{item_khandas_brooch,item_radiance_prc,item_trident_custom,item_great_crit_custom3,item_shivas_strom,item_skadi,}{item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_agi,}{-,-,-,-,-,-,}{item_divine_regalia,};
 00293{item_khandas_brooch,item_radiance_prc,item_trident_custom,item_great_crit_custom3,item_shivas_strom,item_skadi,}{item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_agi,}{-,-,-,-,-,-,}{item_divine_regalia,};
 00296{-,item_radiance_prc,item_trident_custom,item_great_crit_custom3,item_shivas_strom,item_skadi,}{item_gladiator_guard,item_lotus_cuirass,item_attacker_midas_agi,}{-,-,-,-,-,-,}{item_divine_regalia,};
-00299{item_lesser_crit,item_radiance_prc,item_trident_custom,item_great_crit_custom3,item_shivas_strom,item_skadi,}{item_gladiator_guard,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+00300{item_great_crit_custom2,item_radiance_prc,item_trident_custom,item_great_crit_custom3,item_shivas_strom,item_skadi,}{item_gladiator_guard,item_lotus_cuirass,-,}{item_khandas_brooch,item_attacker_midas_agi,-,-,-,-,}{item_divine_regalia,};
