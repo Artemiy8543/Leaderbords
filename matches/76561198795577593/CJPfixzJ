@@ -28,3 +28,4 @@
 0032{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_butterfly,}{item_radiance,item_int_book3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 34{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_butterfly,}{item_radiance,item_int_book3,item_str_book3,}{-,-,-,-,-,-,}{item_dormant_curio,};
 36{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_butterfly,}{item_radiance,item_int_book3,item_str_book3,}{-,-,-,-,-,-,}{item_dormant_curio,};
+37{item_gladiator_guard,item_shivas_strom,item_trident_custom,item_attacker_midas_agi,item_lotus_cuirass,item_butterfly,}{item_radiance,item_agi_book3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
