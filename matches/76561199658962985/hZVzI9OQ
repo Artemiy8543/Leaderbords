@@ -6,4 +6,5 @@
 11{item_attacker_midas_str,item_satanic,item_radiance_prc,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_attacker_midas_str,item_satanic,item_radiance_prc,item_assault,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 14{item_attacker_midas_str,item_satanic,item_radiance_prc,item_lotus_cuirass,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-16{item_attacker_midas_str,item_satanic,item_radiance_prc,item_lotus_cuirass,item_armlet_of_mjolnir,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+15{item_attacker_midas_str,item_satanic,item_radiance_prc,item_lotus_cuirass,item_armlet_of_mjolnir,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0017{item_attacker_midas_str,item_satanic,item_radiance_prc,item_lotus_cuirass,item_armlet_of_mjolnir,item_battle_lance,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
