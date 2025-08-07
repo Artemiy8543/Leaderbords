@@ -1,3 +1,4 @@
 54=2{item_quelling_blade,item_broadsword,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_bfury,item_desolator,item_sange_and_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_bfury,item_desolator,item_sange_and_yasha,item_ogre_axe,item_broadsword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
