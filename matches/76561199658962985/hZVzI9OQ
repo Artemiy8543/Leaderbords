@@ -3,4 +3,4 @@
 6{item_hand_of_midas,-,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_hand_of_midas,-,-,-,-,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_hand_of_midas,item_radiance_prc,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-10{item_attacker_midas_str,item_satanic,item_radiance_prc,item_hyperstone,item_platemail,item_buckler,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_attacker_midas_str,item_satanic,item_radiance_prc,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
