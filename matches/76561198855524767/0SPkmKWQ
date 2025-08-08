@@ -3,4 +3,4 @@
 5{item_vanguard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_gladiator_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_gladiator_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0012{item_gladiator_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_gladiator_guard,item_bloodstone,item_refresher_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
