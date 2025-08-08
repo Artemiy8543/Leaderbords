@@ -2,4 +2,4 @@
 003{item_vanguard,item_void_stone,item_void_stone,item_void_stone,item_void_stone,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_vanguard,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_vanguard,-,item_heart,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-8{item_vanguard,item_trident_custom,item_heart,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_vanguard,item_trident_custom,item_heart,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
