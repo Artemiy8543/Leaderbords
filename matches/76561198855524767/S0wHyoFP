@@ -12,4 +12,5 @@
 0019{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_blade_midas,item_refresher_core,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 21{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_blade_midas,item_refresher_core,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0023{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_blade_midas,item_refresher_core,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-26{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_blade_midas,item_refresher_core,item_shivas_strom,}{item_refresher,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+25{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_blade_midas,item_refresher_core,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+27{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_blade_midas,item_refresher_core,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
