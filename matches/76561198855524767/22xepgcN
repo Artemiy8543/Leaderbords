@@ -1,4 +1,4 @@
 99=1{item_vanguard,-,-,-,-,item_voodoo_mask,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_vanguard,item_bracer,-,-,-,item_voodoo_mask,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_vanguard,item_attacker_midas_str,-,-,-,item_voodoo_mask,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_vanguard,item_attacker_midas_str,-,-,-,item_voodoo_mask,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_vanguard,item_attacker_midas_str,-,-,-,item_voodoo_mask,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_vanguard,item_attacker_midas_str,item_heart,item_helm_of_iron_will,-,item_voodoo_mask,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{-,};
