@@ -10,4 +10,5 @@
 0015{item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,item_butterfly,item_gladiator_guard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 17{item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,item_butterfly,item_gladiator_guard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0019{item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,item_butterfly,item_gladiator_guard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-21{item_infinity_moon_shard,item_armlet_of_mjolnir,item_battle_lance,item_butterfly,item_gladiator_guard,item_satanic_of_madness,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+20{item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,item_butterfly,item_gladiator_guard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0022{item_attacker_midas_agi,item_armlet_of_mjolnir,item_battle_lance,item_butterfly,item_gladiator_guard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
