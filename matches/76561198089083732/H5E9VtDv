@@ -4,3 +4,4 @@
 6{item_attacker_midas_agi,item_wraith_band,item_wraith_band,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 007{item_attacker_midas_agi,item_wraith_band,item_wraith_band,item_satanic,item_talisman_of_evasion,item_eagle,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_attacker_midas_agi,item_wraith_band,item_wraith_band,item_butterfly,item_blade_mail,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_attacker_midas_agi,item_mjollnir,item_wraith_band,item_butterfly,item_blade_mail,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
