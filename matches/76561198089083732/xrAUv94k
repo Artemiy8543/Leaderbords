@@ -1,3 +1,4 @@
 96=1{-,-,-,-,-,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{-,-,-,-,-,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_ring_of_tarrasque,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+3{-,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_heart,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
