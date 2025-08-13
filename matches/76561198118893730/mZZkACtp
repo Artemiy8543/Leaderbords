@@ -3,3 +3,4 @@
 5{item_blade_mail,item_vanguard,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_blade_mail,item_vanguard,item_heart,item_crown,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_veil_of_discord,item_blade_mail,item_vanguard,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_platemail,item_blade_mail,item_vanguard,item_heart,item_hyperstone,item_buckler,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
