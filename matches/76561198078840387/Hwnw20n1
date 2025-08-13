@@ -1,4 +1,5 @@
 94=1{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_power_treads,item_dragon_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_power_treads,item_dragon_lance,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_power_treads,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+4{item_power_treads,item_dragon_lance,item_broadsword,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+6{item_power_treads,item_battle_lance,item_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
