@@ -1,2 +1,3 @@
 21=1{item_gloves,item_javelin,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_maelstrom,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
