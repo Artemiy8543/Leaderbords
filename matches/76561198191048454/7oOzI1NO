@@ -1,4 +1,5 @@
 35=1{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_hand_of_midas,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_hand_of_midas,item_attacker_midas_agi,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_hand_of_midas,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_hand_of_midas,item_attacker_midas_agi,item_reaver,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_hand_of_midas,item_attacker_midas_agi,item_satanic,item_maelstrom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
