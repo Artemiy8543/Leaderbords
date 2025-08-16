@@ -8,3 +8,4 @@
 8{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0011{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,-,item_chainmail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
