@@ -3,3 +3,4 @@
 3{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_str,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 005{item_attacker_midas_str,item_ring_of_tarrasque,item_blade_mail,item_chainmail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+006{item_attacker_midas_str,item_ring_of_tarrasque,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
