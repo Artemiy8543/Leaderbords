@@ -12,3 +12,4 @@
 14{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0016{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0018{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_ultimate_scepter,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0019{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_ultimate_scepter,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
