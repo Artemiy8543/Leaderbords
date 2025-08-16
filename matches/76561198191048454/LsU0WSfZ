@@ -31,4 +31,4 @@
 59{item_bloodstone,item_gladiator_guard,item_attacker_midas_str,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_chainmail,item_chainmail,item_chainmail,}{-,-,-,-,-,-,}{item_dormant_curio,};
 62{item_bloodstone,item_gladiator_guard,item_attacker_midas_str,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_chainmail,item_chainmail,item_chainmail,}{-,-,-,-,-,-,}{item_dormant_curio,};
 65{item_bloodstone,item_gladiator_guard,item_attacker_midas_str,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_chainmail,item_chainmail,item_chainmail,}{-,-,-,-,-,-,}{item_dormant_curio,};
-67{item_bloodstone,item_gladiator_guard,item_attacker_midas_str,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_chainmail,item_chainmail,item_chainmail,}{item_str_book2,-,-,-,-,-,}{item_dormant_curio,};
+68{item_bloodstone,item_gladiator_guard,item_attacker_midas_str,item_radiance_prc,item_great_magic_crit3,item_trident_custom,}{item_chainmail,item_chainmail,item_chainmail,}{item_str_book2,-,-,-,-,-,}{item_dormant_curio,};
