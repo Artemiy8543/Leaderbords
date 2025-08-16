@@ -4,4 +4,4 @@
 5{item_hand_of_midas,item_attacker_midas_agi,item_reaver,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_hand_of_midas,item_attacker_midas_agi,item_satanic,item_maelstrom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_hand_of_midas,item_attacker_midas_agi,item_satanic,item_maelstrom,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0010{item_hand_of_midas,item_attacker_midas_agi,item_satanic,item_mjollnir,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0011{item_hand_of_midas,item_attacker_midas_agi,item_satanic,item_mjollnir,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
