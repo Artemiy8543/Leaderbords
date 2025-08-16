@@ -23,3 +23,4 @@
 41{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 44{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0048{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+49{item_attacker_midas_str,item_gladiator_guard,item_blade_mail,item_radiance_prc,item_trident_custom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
