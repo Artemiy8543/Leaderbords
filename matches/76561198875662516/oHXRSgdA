@@ -1,3 +1,4 @@
 94=4{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_mjollnir,item_butterfly,item_point_booster,item_staff_of_wizardry,item_ogre_axe,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+13{item_armlet_of_mjolnir,item_butterfly,item_ultimate_scepter,item_great_crit_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
