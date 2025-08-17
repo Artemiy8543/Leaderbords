@@ -1,3 +1,4 @@
 99=2{item_vanguard,item_helm_of_iron_will,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_crimson_guard,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_gladiator_guard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+20{item_gladiator_guard,item_lotus_cuirass,item_blade_mail,item_shivas_strom,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
