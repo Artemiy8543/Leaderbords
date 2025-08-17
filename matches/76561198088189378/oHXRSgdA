@@ -5,3 +5,4 @@
 11{item_manaback3,-,item_ethereal_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0016{item_manaback3,item_veil_of_dagon,item_ethereal_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0019{item_manaback3,item_veil_of_dagon,item_ethereal_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+25{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
