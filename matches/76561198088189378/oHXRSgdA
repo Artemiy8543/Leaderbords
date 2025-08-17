@@ -5,8 +5,4 @@
 11{item_manaback3,-,item_ethereal_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0016{item_manaback3,item_veil_of_dagon,item_ethereal_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0019{item_manaback3,item_veil_of_dagon,item_ethereal_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-26{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0027{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0029{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0034{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0041{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,item_great_magic_crit3,}{item_demonicon,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+42{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,item_great_magic_crit3,}{item_demonicon,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
