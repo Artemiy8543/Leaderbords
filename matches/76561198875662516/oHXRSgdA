@@ -6,3 +6,4 @@
 27{item_armlet_of_mjolnir,item_butterfly,-,item_great_crit_custom3,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_misericorde,};
 0030{item_armlet_of_mjolnir,item_butterfly,item_rapier,item_great_crit_custom3,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 32{item_armlet_of_mjolnir,item_butterfly,item_rapier,item_great_crit_custom3,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+0045{item_armlet_of_mjolnir,item_butterfly,item_skadi,item_great_crit_custom3,item_creep_desolator,item_infinity_moon_shard,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_misericorde,};
