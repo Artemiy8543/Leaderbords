@@ -7,4 +7,4 @@
 0019{item_manaback3,item_veil_of_dagon,item_ethereal_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 44{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,item_great_magic_crit3,}{item_demonicon,item_refresher,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 52{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,item_great_magic_crit3,}{item_demonicon,item_refresher,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-55{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,item_great_magic_crit3,}{item_demonicon,item_refresher,item_int_book3,}{-,-,-,-,-,-,}{item_mana_draught,};
+57{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,item_great_magic_crit3,}{item_demonicon,item_refresher,item_int_book3,}{-,-,-,-,-,-,}{item_mana_draught,};
