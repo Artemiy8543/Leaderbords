@@ -1,3 +1,4 @@
 22=1{item_arcane_boots,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_arcane_boots,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_manaback3,item_aether_lens,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_manaback3,-,item_ethereal_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
