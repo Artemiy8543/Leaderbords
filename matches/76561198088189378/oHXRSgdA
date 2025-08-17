@@ -9,3 +9,4 @@
 0027{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0029{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0034{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0041{item_manaback3,item_veil_of_dagon,item_ethereal_blade,item_devastator,item_shivas_strom,item_great_magic_crit3,}{item_demonicon,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
