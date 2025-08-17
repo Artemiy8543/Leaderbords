@@ -2,3 +2,4 @@
 007{item_blade_mail,item_ring_of_tarrasque,item_enchanted_mango,item_enchanted_mango,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_blade_midas,item_gladiator_guard,-,item_enchanted_mango,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+14{item_blade_midas,item_gladiator_guard,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
