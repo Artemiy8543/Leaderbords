@@ -15,4 +15,5 @@
 0043{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0050{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,-,}{item_divine_regalia,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0056{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,-,}{item_divine_regalia,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0062{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,}{item_divine_regalia,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0061{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,}{item_divine_regalia,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+63{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,}{item_divine_regalia,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
