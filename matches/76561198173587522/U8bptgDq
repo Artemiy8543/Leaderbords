@@ -4,4 +4,4 @@
 006{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 8{item_gladiator_guard,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 0010{item_gladiator_guard,item_creep_desolator,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
-13{item_gladiator_guard,item_creep_desolator,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+14{item_gladiator_guard,item_creep_desolator,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
