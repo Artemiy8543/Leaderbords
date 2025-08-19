@@ -1,3 +1,4 @@
 2=001{-,-,item_enchanted_mango,item_enchanted_mango,item_enchanted_mango,item_enchanted_mango,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_arcane_boots,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+006{item_arcane_boots,item_pavise,item_voodoo_mask,item_vitality_booster,item_energy_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
