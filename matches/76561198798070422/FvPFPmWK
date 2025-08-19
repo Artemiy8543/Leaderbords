@@ -13,3 +13,4 @@
 52{item_great_magic_crit,item_gladiator_guard,item_gladiator_guard,item_infinity_moon_shard,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 55{item_great_magic_crit,item_gladiator_guard,item_gladiator_guard,item_infinity_moon_shard,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0056{item_great_magic_crit,item_gladiator_guard,item_gladiator_guard,item_gungir,item_infinity_moon_shard,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+60{item_great_magic_crit,item_meteor_rain,item_meteor_hammer,item_skadi,item_infinity_moon_shard,item_gladiator_guard,}{-,item_gladiator_guard,item_gladiator_guard,}{-,-,-,-,-,-,}{item_occult_bracelet,};
