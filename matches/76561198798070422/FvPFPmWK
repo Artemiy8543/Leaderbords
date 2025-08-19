@@ -2,3 +2,4 @@
 3{item_voodoo_mask,item_void_stone,item_energy_booster,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bloodstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 7{item_bloodstone,item_flask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+009{item_bloodstone_shield,item_point_booster,item_vitality_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
