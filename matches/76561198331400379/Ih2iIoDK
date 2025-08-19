@@ -3,5 +3,5 @@
 005{item_phase_boots,item_helm_of_iron_will,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_phase_boots,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_phase_boots,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-11{item_phase_boots,item_gladiator_guard,item_blade_mail,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0013{item_phase_boots,item_gladiator_guard,item_blade_mail,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_phase_boots,item_gladiator_guard,item_blade_mail,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0014{item_phase_boots,item_gladiator_guard,item_blade_mail,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
