@@ -5,3 +5,4 @@
 7{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_voodoo_mask,item_crimson_guard,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_bloodstone,item_crimson_guard,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_bloodstone,item_crimson_guard,item_arcane_boots,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
