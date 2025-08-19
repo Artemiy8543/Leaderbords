@@ -3,4 +3,4 @@
 7{item_blade_midas,item_power_treads,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_blade_midas,item_power_treads,item_refresher_core,-,-,item_ward_observer,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0018{item_blade_midas,item_power_treads,item_refresher_core,item_armlet_of_mjolnir,item_creep_desolator,item_assault,}{item_pers,item_energy_booster,item_recipe_lotus_orb,}{item_recipe_lotus_cuirass,-,-,-,-,-,}{item_helm_of_the_undying,};
-20{item_blade_midas,item_power_treads,item_refresher_core,item_armlet_of_mjolnir,item_creep_desolator,item_assault,}{item_pers,item_recipe_lotus_cuirass,item_recipe_lotus_orb,}{item_energy_booster,-,-,-,-,-,}{item_helm_of_the_undying,};
+21{item_blade_midas,item_power_treads,item_refresher_core,item_armlet_of_mjolnir,item_creep_desolator,item_assault,}{item_pers,item_recipe_lotus_cuirass,item_recipe_lotus_orb,}{item_energy_booster,-,-,-,-,-,}{item_helm_of_the_undying,};
