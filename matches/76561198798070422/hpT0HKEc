@@ -4,5 +4,5 @@
 12{item_great_magic_crit,item_power_treads,item_ultimate_scepter,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 16{item_great_magic_crit,item_power_treads,item_satanic,item_gladiator_guard,item_basher_slardar,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 21{item_great_magic_crit,item_power_treads,item_satanic_of_madness,item_gladiator_guard,item_basher_slardar,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0026{item_great_magic_crit,item_power_treads,item_satanic_of_madness,item_gladiator_guard,item_basher_slardar,item_ultimate_scepter_2,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0030{item_great_magic_crit,item_power_treads,item_satanic_of_madness,item_gladiator_guard,item_basher_slardar,-,}{-,item_ultimate_scepter_2,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0027{item_great_magic_crit,item_power_treads,item_satanic_of_madness,item_gladiator_guard,item_basher_slardar,item_ultimate_scepter_2,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0031{item_great_magic_crit,item_power_treads,item_satanic_of_madness,item_gladiator_guard,item_basher_slardar,item_refresher_core,}{-,item_ultimate_scepter_2,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
