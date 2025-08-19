@@ -9,3 +9,4 @@
 0017{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 38{item_lightning_sword,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 43{item_str_book,item_lightning_sword,item_gladiator_guard,item_infinity_moon_shard,item_gladiator_guard,item_gladiator_guard,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+46{item_great_magic_crit,item_lightning_sword,item_gladiator_guard,item_infinity_moon_shard,item_recipe_great_magic_crit,item_gladiator_guard,}{item_gladiator_guard,item_gladiator_guard,item_recipe_great_magic_crit,}{-,-,-,-,-,-,}{item_occult_bracelet,};
