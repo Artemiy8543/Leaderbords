@@ -5,3 +5,4 @@
 6{item_bracer,-,item_quelling_blade,item_tango,item_magic_wand,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_bracer,-,item_quelling_blade,item_mask_of_madness,item_magic_wand,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_bracer,-,item_quelling_blade,item_satanic,item_magic_wand,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_bracer,item_echo_sabre,item_quelling_blade,item_satanic,item_magic_wand,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
