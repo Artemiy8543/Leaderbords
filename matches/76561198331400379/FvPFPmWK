@@ -5,3 +5,4 @@
 008{item_manaback2,item_bloodstone_shield,-,-,-,-,}{item_recipe_manaback2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_manaback2,item_bloodstone_shield,item_blade_mail,-,-,-,}{item_recipe_manaback2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_manaback2,item_bloodstone_shield,item_blade_mail,item_ultimate_scepter,-,-,}{item_recipe_manaback2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0012{item_manaback2,item_bloodstone_shield,item_blade_mail,item_ultimate_scepter,-,-,}{item_recipe_manaback2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
