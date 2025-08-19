@@ -14,3 +14,4 @@
 0048{item_manaback2,item_bloodstone_shield,item_blade_midas,item_armlet_of_mjolnir,-,item_gladiator_guard,}{item_recipe_manaback2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 50{item_manaback2,item_bloodstone_shield,item_blade_midas,item_armlet_of_mjolnir,-,item_gladiator_guard,}{item_recipe_manaback2,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
 51{item_manaback2,item_bloodstone_shield,item_blade_midas,item_armlet_of_mjolnir,-,item_gladiator_guard,}{item_recipe_manaback2,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
+0052{item_manaback2,item_bloodstone_shield,item_blade_midas,item_armlet_of_mjolnir,item_str_book3,item_gladiator_guard,}{item_recipe_manaback2,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
