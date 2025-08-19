@@ -23,3 +23,4 @@
 0061{item_manaback3,item_bloodstone_shield,item_blade_midas,item_armlet_of_mjolnir,item_great_magic_crit,item_gladiator_guard,}{item_recipe_manaback2,item_dezun_bloodrite,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
 0062{item_manaback3,item_bloodstone_shield,item_blade_midas,item_armlet_of_mjolnir,item_great_magic_crit,item_gladiator_guard,}{item_recipe_manaback2,item_dezun_bloodrite,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
 0063{item_manaback3,item_bloodstone_shield,item_blade_midas,item_armlet_of_mjolnir,item_great_magic_crit,item_gladiator_guard,}{item_recipe_manaback2,item_dezun_bloodrite,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
+0064{item_manaback3,item_bloodstone_shield,item_blade_midas,item_armlet_of_mjolnir,item_great_magic_crit,item_gladiator_guard,}{item_recipe_manaback2,item_dezun_bloodrite,item_overwhelming_blink,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
