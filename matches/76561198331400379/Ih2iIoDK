@@ -5,3 +5,4 @@
 9{item_phase_boots,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 12{item_phase_boots,item_gladiator_guard,item_blade_mail,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0014{item_phase_boots,item_gladiator_guard,item_blade_mail,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0015{item_phase_boots,item_gladiator_guard,item_overwhelming_blink,item_armlet_of_mjolnir,item_shivas_guard,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
