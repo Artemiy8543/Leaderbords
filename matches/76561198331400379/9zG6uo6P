@@ -5,3 +5,4 @@
 007{item_power_treads,item_radiance,item_tango,item_maelstrom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_power_treads,item_radiance,item_tango,item_maelstrom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_power_treads,item_radiance,item_tango,item_armlet_of_mjolnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_power_treads,item_radiance,item_tango,item_armlet_of_mjolnir,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
