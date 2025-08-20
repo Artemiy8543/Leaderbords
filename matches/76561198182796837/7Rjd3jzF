@@ -3,4 +3,5 @@
 4{item_attacker_midas_agi,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 6{item_attacker_midas_agi,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 8{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_kaya_and_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-11{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+10{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0012{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
