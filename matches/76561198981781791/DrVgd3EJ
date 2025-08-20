@@ -5,4 +5,4 @@
 0037{item_veil_of_dagon,item_bloodstone_shield,item_refresher_core,item_phylactery_blade,item_lightning_sword,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0040{item_veil_of_dagon,item_bloodstone_shield,item_refresher_core,item_phylactery_blade,item_lightning_sword,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0043{item_veil_of_dagon,item_bloodstone_shield,item_refresher_core,item_phylactery_blade,item_lightning_sword,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-45{item_veil_of_dagon,item_bloodstone_shield,item_refresher_core,item_phylactery_blade,item_lightning_sword,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+49{item_veil_of_dagon,item_bloodstone_shield,item_refresher_core,item_manaback3,item_lightning_sword,item_meteor_rain,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
