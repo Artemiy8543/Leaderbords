@@ -5,3 +5,4 @@
 7{-,-,-,item_dragon_lance,item_ultimate_orb,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_point_booster,item_staff_of_wizardry,item_ogre_axe,item_dragon_lance,item_skadi,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_broadsword,item_broadsword,item_ultimate_scepter,item_dragon_lance,item_skadi,item_butterfly,}{item_quelling_blade,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_mask_of_madness,-,item_ultimate_scepter,item_battle_lance,item_skadi,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
