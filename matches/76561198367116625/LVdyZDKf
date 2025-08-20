@@ -3,3 +3,4 @@
 004{item_butterfly,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_ultimate_orb,-,-,-,-,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{-,-,-,item_dragon_lance,item_ultimate_orb,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{-,-,-,item_dragon_lance,item_skadi,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
