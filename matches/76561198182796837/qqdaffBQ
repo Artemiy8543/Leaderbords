@@ -13,4 +13,5 @@
 54{item_bloodstone_shield,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0056{item_bloodstone_shield,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 58{item_bloodstone_shield,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-62{item_bloodstone_shield,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+61{item_bloodstone_shield,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+0063{item_bloodstone_shield,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
