@@ -2,4 +2,4 @@
 2{item_voodoo_mask,item_soul_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 6{item_bloodstone_shield,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-37{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_great_magic_crit3,item_trident_custom,item_int_book2,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+38{item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_great_magic_crit3,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
