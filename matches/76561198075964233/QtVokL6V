@@ -8,4 +8,4 @@
 12{item_bfury,item_creep_desolator,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 14{item_bfury,item_creep_desolator,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 17{item_bfury,item_creep_desolator,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0019{item_bfury,item_creep_desolator,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_refresher_core,}{item_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0020{item_armlet_of_mjolnir,item_creep_desolator,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_refresher_core,}{item_bfury,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
