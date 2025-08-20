@@ -13,4 +13,5 @@
 0031{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_khandas_brooch,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0035{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_khandas_brooch,item_battle_lance,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 38{item_attacker_midas_agi,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_khandas_brooch,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-43{item_bloodstone_shield,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_khandas_brooch,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+42{item_bloodstone_shield,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_khandas_brooch,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+44{item_bloodstone_shield,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_khandas_brooch,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
