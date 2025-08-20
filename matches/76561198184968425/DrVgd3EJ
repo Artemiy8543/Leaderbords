@@ -1,2 +1,1 @@
-6=5{item_helm_of_iron_will,item_desolator,item_crown,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-7{item_creep_desolator,item_dragon_lance,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+6=8{item_creep_desolator,item_dragon_lance,item_broadsword,item_broadsword,item_cornucopia,item_quelling_blade,}{item_recipe_battle_lance,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
