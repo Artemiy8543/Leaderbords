@@ -23,4 +23,5 @@
 0040{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_manaback3,item_gladiator_guard,item_radiance_prc,}{item_ghost,-,-,}{-,-,-,-,-,-,}{-,};
 42{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_manaback3,item_gladiator_guard,item_radiance_prc,}{item_ghost,-,-,}{-,-,-,-,-,-,}{-,};
 0044{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_manaback3,item_gladiator_guard,item_radiance_prc,}{item_ghost,-,-,}{-,-,-,-,-,-,}{-,};
-47{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_manaback3,item_gladiator_guard,item_radiance_prc,}{item_ghost,item_int_book2,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+46{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_manaback3,item_gladiator_guard,item_radiance_prc,}{item_ghost,item_int_book2,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+48{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_manaback3,item_gladiator_guard,item_radiance_prc,}{item_ghost,item_int_book2,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
