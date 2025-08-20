@@ -20,4 +20,4 @@
 53{item_bloodstone_shield,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_khandas_brooch,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 88{item_bloodstone_shield,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_khandas_brooch,item_battle_lance,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 101{item_bloodstone_shield,item_great_magic_crit3,item_creep_desolator,item_trident_custom,item_khandas_brooch,item_radiance_prc,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-112{item_bloodstone_shield,item_great_magic_crit3,item_creep_desolator,item_trident_custom,item_khandas_brooch,item_radiance_prc,}{-,item_agi_book3,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+113{item_bloodstone_shield,item_great_magic_crit3,item_creep_desolator,item_trident_custom,item_khandas_brooch,item_radiance_prc,}{-,item_agi_book3,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
