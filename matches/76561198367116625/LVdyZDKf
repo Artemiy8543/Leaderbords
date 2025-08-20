@@ -11,4 +11,4 @@
 17{item_satanic_of_madness,item_trident_custom,-,item_battle_lance,item_skadi,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0029{item_satanic_of_madness,item_trident_custom,item_infinity_moon_shard,item_battle_lance,item_skadi,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 36{item_satanic_of_madness,item_trident_custom,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-38{item_satanic_of_madness,item_trident_custom,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,item_butterfly,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+40{item_satanic_of_madness,item_trident_custom,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,item_butterfly,}{item_infinity_moon_shard,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
