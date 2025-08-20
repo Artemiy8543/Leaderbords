@@ -2,3 +2,4 @@
 32{item_creep_desolator,item_battle_lance,item_butterfly,item_infinity_moon_shard,item_satanic_of_madness,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0041{item_creep_desolator,item_battle_lance,item_khandas_brooch,item_infinity_moon_shard,item_satanic_of_madness,item_armlet_of_mjolnir,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 52{item_creep_desolator,item_battle_lance,item_khandas_brooch,item_infinity_moon_shard,item_skadi,item_trident_custom,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+54{item_creep_desolator,item_battle_lance,item_khandas_brooch,item_infinity_moon_shard,item_skadi,item_great_crit_custom3,}{item_trident_custom,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
