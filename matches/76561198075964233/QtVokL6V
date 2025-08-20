@@ -2,3 +2,4 @@
 002{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bfury,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_bfury,item_creep_desolator,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+007{item_bfury,item_creep_desolator,item_ring_of_tarrasque,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
