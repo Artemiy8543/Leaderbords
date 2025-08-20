@@ -13,4 +13,5 @@
 16{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_ghost,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0018{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_ghost,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 20{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_ghost,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-23{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,-,item_gladiator_guard,item_radiance_prc,}{item_ghost,-,-,}{-,-,-,-,-,-,}{-,};
+22{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,-,item_gladiator_guard,item_radiance_prc,}{item_ghost,-,-,}{-,-,-,-,-,-,}{-,};
+0024{item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,-,item_gladiator_guard,item_radiance_prc,}{item_ghost,-,-,}{-,-,-,-,-,-,}{-,};
