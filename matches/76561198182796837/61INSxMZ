@@ -3,3 +3,4 @@
 4{item_attacker_midas_agi,item_desolator,item_helm_of_iron_will,item_crown,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 6{item_attacker_midas_agi,item_creep_desolator,item_lifesteal,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 007{item_attacker_midas_agi,item_creep_desolator,item_lifesteal,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+8{item_attacker_midas_agi,item_creep_desolator,item_lifesteal,item_bloodstone_shield,item_ultimate_scepter,item_sange,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
