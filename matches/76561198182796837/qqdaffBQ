@@ -6,3 +6,4 @@
 40{item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_great_magic_crit3,item_trident_custom,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 42{item_bloodstone_shield,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,item_trident_custom,item_gladiator_guard,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0043{item_bloodstone_shield,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,item_trident_custom,item_gladiator_guard,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+44{item_bloodstone_shield,item_shivas_strom,item_veil_of_dagon,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
