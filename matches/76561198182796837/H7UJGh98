@@ -2,3 +2,4 @@
 3{item_magic_crit,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_magic_crit,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 5{item_magic_crit,item_sange,item_staff_of_wizardry,item_robe,-,-,}{item_recipe_trident_custom,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+006{item_magic_crit,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
