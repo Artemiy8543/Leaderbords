@@ -9,4 +9,5 @@
 10{item_bloodstone,item_trident_custom,item_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_bloodstone,item_trident_custom,item_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0012{item_bloodstone,item_trident_custom,item_magic_crit,item_ghost,item_heart,item_vanguard,}{item_recipe_gladiator_guard,item_helm_of_iron_will,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-14{item_bloodstone,item_trident_custom,item_great_magic_crit2,item_ghost,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+13{item_bloodstone,item_trident_custom,item_magic_crit,item_ghost,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+15{item_bloodstone,item_trident_custom,item_great_magic_crit3,item_ghost,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
