@@ -7,4 +7,5 @@
 10{item_bfury,item_creep_desolator,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 12{item_bfury,item_creep_desolator,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 14{item_bfury,item_creep_desolator,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-17{item_bfury,item_creep_desolator,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+16{item_bfury,item_creep_desolator,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0018{item_bfury,item_creep_desolator,item_gladiator_guard,item_trident_custom,item_lotus_cuirass,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
