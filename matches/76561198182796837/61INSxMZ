@@ -6,4 +6,4 @@
 8{item_attacker_midas_agi,item_creep_desolator,item_lifesteal,item_bloodstone_shield,item_ultimate_scepter,item_sange,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 9{item_attacker_midas_agi,item_creep_desolator,item_lifesteal,item_bloodstone_shield,item_ultimate_scepter,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0011{item_attacker_midas_agi,item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0013{item_attacker_midas_agi,item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,item_great_crit_custom3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0014{item_attacker_midas_agi,item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,item_great_crit_custom3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
