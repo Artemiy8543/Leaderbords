@@ -15,4 +15,4 @@
 45{item_creep_desolator,item_trident_custom,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0051{item_creep_desolator,item_trident_custom,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0058{item_creep_desolator,item_trident_custom,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,item_butterfly,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{item_moon_shard,-,-,-,-,-,}{item_dormant_curio,};
-61{item_creep_desolator,item_trident_custom,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+63{item_creep_desolator,item_trident_custom,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
