@@ -1,3 +1,4 @@
 73=1{item_broadsword,item_quelling_blade,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_bfury,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+003{item_bfury,item_blight_stone,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_bfury,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
