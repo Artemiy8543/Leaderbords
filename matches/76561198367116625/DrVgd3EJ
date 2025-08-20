@@ -1,2 +1,2 @@
 67=10{item_gladiator_guard,item_assault,item_pers,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-13{item_lotus_cuirass,item_circlet,item_sobi_mask,item_ring_of_protection,item_gladiator_guard,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+15{item_lotus_cuirass,item_bloodstone,item_energy_booster,item_ring_of_protection,item_gladiator_guard,item_radiance_prc,}{item_fluffy_hat,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
