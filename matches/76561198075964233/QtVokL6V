@@ -16,4 +16,4 @@
 30{item_armlet_of_mjolnir,item_creep_desolator,item_gladiator_guard,item_infinity_moon_shard,item_lotus_cuirass,item_rapier,}{item_trident_custom,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0033{item_armlet_of_mjolnir,item_creep_desolator,item_gladiator_guard,item_infinity_moon_shard,item_lotus_cuirass,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 35{item_armlet_of_mjolnir,item_creep_desolator,item_gladiator_guard,item_infinity_moon_shard,item_lotus_cuirass,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0037{item_armlet_of_mjolnir,item_creep_desolator,item_gladiator_guard,item_infinity_moon_shard,item_lotus_cuirass,item_rapier,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0038{item_armlet_of_mjolnir,item_creep_desolator,item_gladiator_guard,item_great_crit_custom3,item_lotus_cuirass,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
