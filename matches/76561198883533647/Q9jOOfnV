@@ -1,3 +1,4 @@
 85=1{item_arcane_boots,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_arcane_boots,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_arcane_boots,item_reaver,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{item_arcane_boots,item_heart,item_broadsword,item_chainmail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
