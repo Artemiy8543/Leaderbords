@@ -1,4 +1,5 @@
 52=1{item_aether_lens,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_phylactery_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 007{item_phylactery_blade,item_kaya_and_sange,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-009{item_phylactery_blade,item_trident_custom,item_voodoo_mask,item_soul_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+008{item_phylactery_blade,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0010{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
