@@ -3,4 +3,4 @@
 007{item_phylactery_blade,item_kaya_and_sange,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 008{item_phylactery_blade,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0010{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-12{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+13{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
