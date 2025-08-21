@@ -15,3 +15,4 @@
 25{item_ultimate_boots,item_shivas_strom,item_satanic,item_trident_custom,item_radiance_prc,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
 0026{item_ultimate_boots,item_shivas_strom,item_satanic,item_trident_custom,item_lotus_cuirass,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
 28{item_ultimate_boots,item_shivas_strom,item_satanic,item_trident_custom,item_lotus_cuirass,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
+31{item_ultimate_boots,item_shivas_strom,item_satanic,item_trident_custom,-,item_battle_lance,}{item_lotus_cuirass,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
