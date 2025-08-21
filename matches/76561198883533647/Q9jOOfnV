@@ -10,3 +10,4 @@
 0016{item_blade_midas,item_pipe,item_guardian_greaves,item_gladiator_guard,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 17{item_blade_midas,item_pipe,item_guardian_greaves,item_gladiator_guard,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 18{item_blade_midas,item_pipe,item_guardian_greaves,item_gladiator_guard,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+21{item_blade_midas,item_pipe,item_guardian_greaves,item_gladiator_guard,item_trident_custom,item_radiance_prc,}{item_divine_regalia,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
