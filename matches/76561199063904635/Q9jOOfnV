@@ -6,3 +6,4 @@
 8{item_phase_boots,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_phase_boots,item_radiance_prc,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_phase_boots,item_radiance_prc,item_satanic,item_sange,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_phase_boots,item_radiance_prc,item_satanic,item_yasha,item_kaya,item_sange,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
