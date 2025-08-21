@@ -10,3 +10,4 @@
 16{item_ultimate_boots,item_battle_lance,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 18{item_ultimate_boots,item_battle_lance,item_creep_desolator,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0019{item_ultimate_boots,item_battle_lance,item_creep_desolator,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0020{item_ultimate_boots,item_battle_lance,item_creep_desolator,item_bloodstone_shield,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
