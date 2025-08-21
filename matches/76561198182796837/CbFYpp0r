@@ -14,4 +14,5 @@
 30{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 0034{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 0037{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_radiance_prc,item_great_magic_crit3,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-41{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+40{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+42{item_bloodstone_shield,item_trident_custom,item_gladiator_guard,item_radiance_prc,item_great_magic_crit3,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
