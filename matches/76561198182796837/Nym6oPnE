@@ -10,4 +10,5 @@
 24{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 29{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 34{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_int_book2,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0040{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0039{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0041{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
