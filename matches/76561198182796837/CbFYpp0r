@@ -4,4 +4,5 @@
 5{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 6{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_bloodstone_shield,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-9{item_bloodstone_shield,item_trident_custom,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+8{item_bloodstone_shield,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+10{item_bloodstone_shield,item_trident_custom,item_heart,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
