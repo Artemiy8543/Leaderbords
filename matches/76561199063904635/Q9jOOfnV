@@ -5,3 +5,4 @@
 007{item_phase_boots,item_radiance,item_urn_of_shadows,item_diadem,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_phase_boots,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_phase_boots,item_radiance_prc,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_phase_boots,item_radiance_prc,item_satanic,item_sange,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
