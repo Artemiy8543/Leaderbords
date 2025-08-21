@@ -1,15 +1,2 @@
 52=1{item_aether_lens,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_phylactery_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-007{item_phylactery_blade,item_kaya_and_sange,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-008{item_phylactery_blade,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0010{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-12{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-14{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-17{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-20{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-24{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-29{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-34{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,item_int_book2,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0039{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0044{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0046{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+47{item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
