@@ -3,3 +3,4 @@
 6{item_arcane_boots,item_reaver,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_arcane_boots,item_heart,item_broadsword,item_chainmail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_arcane_boots,item_heart,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_guardian_greaves,item_heart,item_blade_midas,item_pipe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
