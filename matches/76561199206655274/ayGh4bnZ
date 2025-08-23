@@ -3,3 +3,4 @@
 006{item_chainmail,-,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_blade_mail,item_kaya_and_sange,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_blade_mail,item_trident_custom,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0015{item_blade_midas,item_trident_custom,item_radiance,item_ultimate_scepter,item_bloodstone,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
