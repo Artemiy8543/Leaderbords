@@ -1,2 +1,2 @@
 36=9{item_radiance,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-10{item_radiance_prc,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_radiance_prc,item_trident_custom,item_shivas_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
