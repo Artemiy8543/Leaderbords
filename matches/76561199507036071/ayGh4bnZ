@@ -9,3 +9,4 @@
 27{item_great_magic_crit,item_infinity_moon_shard,item_battle_lance,item_butterfly,item_creep_desolator,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0030{item_great_magic_crit,item_infinity_moon_shard,item_battle_lance,item_butterfly,item_creep_desolator,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 45{item_great_magic_crit,item_infinity_moon_shard,item_battle_lance,item_butterfly,item_creep_desolator,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+55{item_great_crit_custom,item_infinity_moon_shard,item_battle_lance,item_butterfly,item_creep_desolator,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
