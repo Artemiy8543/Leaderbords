@@ -1,4 +1,4 @@
 36=9{item_radiance,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 19{item_refresher_core,item_shivas_guard,item_gladiator_guard,item_trident_custom,item_ultimate_scepter,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 41{item_gladiator_guard,item_shivas_guard,item_refresher_core,item_trident_custom,item_vladimir_pact,item_radiance_prc,}{item_meteor_rain,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-44{item_gladiator_guard,item_shivas_guard,item_refresher_core,item_trident_custom,item_vladimir_pact,item_radiance_prc,}{item_meteor_rain,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+46{item_gladiator_guard,item_shivas_guard,item_refresher_core,item_trident_custom,item_vladimir_pact,item_radiance_prc,}{item_meteor_rain,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
