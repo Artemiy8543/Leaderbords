@@ -11,3 +11,4 @@
 0065{item_trident_custom,item_bloodstone_shield,item_battle_lance,item_battle_lance,item_satanic_of_madness,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0071{item_gladiator_guard,item_refresher_core,item_refresher_core,item_arcane_blink,item_kaya_and_sange,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 87{item_gladiator_guard,item_refresher_core,item_manaback3,item_shivas_strom,item_refresher_core,item_kaya_and_sange,}{item_radiance_prc,item_trident_custom,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+89{item_gladiator_guard,item_refresher_core,item_manaback3,item_lightning_sword,item_refresher_core,item_kaya_and_sange,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
