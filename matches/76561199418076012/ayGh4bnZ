@@ -1,4 +1,4 @@
 94=4{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_power_treads,item_eagle,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_power_treads,item_butterfly,item_yasha,item_dragon_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-12{item_power_treads,item_butterfly,item_yasha,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+13{item_power_treads,item_butterfly,item_sange_and_yasha,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
