@@ -1,2 +1,3 @@
 14=1{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_gladiator_guard,item_trident_custom,item_ultimate_scepter,item_magic_crit,item_demon_edge,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+20{item_gladiator_guard,item_trident_custom,item_ultimate_scepter,item_great_magic_crit,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
