@@ -5,3 +5,4 @@
 0016{item_battle_lance,item_skadi,item_satanic_of_madness,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0024{item_battle_lance,-,item_satanic_of_madness,item_infinity_moon_shard,item_lotus_cuirass,item_gladiator_guard,}{-,-,item_skadi,}{-,-,-,-,-,-,}{item_chipped_vest,};
 53{item_battle_lance,-,item_satanic_of_madness,item_infinity_moon_shard,item_great_magic_crit3,item_gladiator_guard,}{item_skadi,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+57{item_battle_lance,item_lotus_cuirass,item_satanic_of_madness,item_infinity_moon_shard,item_great_magic_crit3,item_gladiator_guard,}{item_skadi,item_blade_mail,-,}{-,-,-,-,-,-,}{item_desolator_2,};
