@@ -6,4 +6,4 @@
 40{item_infinity_moon_shard,item_butterfly,item_mjollnir,item_battle_lance,item_monkey_king_bar,item_creep_desolator,}{item_moon_shard,item_agi_book3,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 55{item_infinity_moon_shard,item_butterfly,item_armlet_of_mjolnir,item_battle_lance,item_great_crit_custom3,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 64{item_infinity_moon_shard,item_butterfly,item_great_crit_custom3,item_battle_lance,item_great_crit_custom3,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-65{item_infinity_moon_shard,item_butterfly,item_butterfly,item_skadi,item_great_crit_custom3,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+66{item_infinity_moon_shard,item_armlet_of_mjolnir,item_butterfly,item_skadi,item_great_crit_custom3,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
