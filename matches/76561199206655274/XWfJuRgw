@@ -9,4 +9,4 @@
 69{item_refresher_core,item_refresher_core,item_arcane_blink,item_trident_custom,-,item_gladiator_guard,}{item_meteor_rain,item_vladimir_pact,-,}{-,-,-,-,-,-,}{item_divine_regalia_broken,};
 0070{item_refresher_core,item_refresher_core,item_arcane_blink,item_trident_custom,-,item_gladiator_guard,}{item_meteor_rain,item_vladimir_pact,-,}{-,-,-,-,-,-,}{item_divine_regalia_broken,};
 0073{item_refresher_core,item_refresher_core,item_arcane_blink,item_trident_custom,item_manaback3,item_gladiator_guard,}{item_meteor_rain,item_vladimir_pact,-,}{-,-,-,-,-,-,}{item_divine_regalia_broken,};
-82{item_refresher_core,item_refresher_core,item_meteor_rain,item_manaback3,item_vladimir_pact,item_arcane_blink,}{item_phylactery_blade,item_lightning_sword,item_gladiator_guard,}{-,-,-,-,-,-,}{item_pyrrhic_cloak,};
+86{item_refresher_core,item_refresher_core,item_arcane_blink,item_manaback3,item_meteor_rain,item_gladiator_guard,}{item_phylactery_blade,item_lightning_sword,item_vladimir_pact,}{-,-,-,-,-,-,}{item_pyrrhic_cloak,};
