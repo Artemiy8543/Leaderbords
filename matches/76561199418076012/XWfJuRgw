@@ -10,3 +10,4 @@
 0061{item_trident_custom,item_bloodstone_shield,item_battle_lance,item_battle_lance,item_satanic_of_madness,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0065{item_trident_custom,item_bloodstone_shield,item_battle_lance,item_battle_lance,item_satanic_of_madness,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0071{item_gladiator_guard,item_refresher_core,item_refresher_core,item_arcane_blink,item_kaya_and_sange,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+76{item_gladiator_guard,item_radiance_prc,-,item_arcane_blink,item_kaya_and_sange,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
