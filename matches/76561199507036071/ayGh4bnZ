@@ -1,3 +1,4 @@
 46=2{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_power_treads,item_moon_shard,item_lifesteal,item_butterfly,item_blight_stone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0010{item_power_treads,item_moon_shard,item_lifesteal,item_butterfly,item_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+15{item_power_treads,item_infinity_moon_shard,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
