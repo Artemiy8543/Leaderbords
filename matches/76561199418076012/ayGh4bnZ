@@ -7,3 +7,4 @@
 19{item_infinity_moon_shard,item_butterfly,item_sange_and_yasha,item_battle_lance,item_monkey_king_bar,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 21{item_infinity_moon_shard,item_butterfly,item_sange_and_yasha,item_battle_lance,item_monkey_king_bar,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 25{item_infinity_moon_shard,item_butterfly,item_mjollnir,item_battle_lance,item_monkey_king_bar,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0029{item_infinity_moon_shard,item_butterfly,item_mjollnir,item_battle_lance,item_monkey_king_bar,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
