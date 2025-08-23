@@ -2,3 +2,4 @@
 5{-,-,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_chainmail,-,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_blade_mail,item_kaya_and_sange,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_blade_mail,item_trident_custom,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
