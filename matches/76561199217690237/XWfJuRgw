@@ -8,4 +8,4 @@
 0068{item_bloodstone_shield,item_blade_midas,item_trident_custom,item_infinity_moon_shard,item_gladiator_guard,item_str_book3,}{item_manaback3,item_str_book2,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 70{item_bloodstone_shield,item_blade_midas,item_str_book3,item_infinity_moon_shard,item_gladiator_guard,item_trident_custom,}{item_manaback3,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 87{item_bloodstone_shield,item_blade_midas,item_str_book3,item_infinity_moon_shard,item_gladiator_guard,item_trident_custom,}{item_manaback3,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-98{item_bloodstone_shield,item_blade_midas,item_str_book3,item_infinity_moon_shard,item_gladiator_guard,item_trident_custom,}{item_manaback3,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+99{item_bloodstone_shield,item_blade_midas,-,item_infinity_moon_shard,item_gladiator_guard,item_trident_custom,}{item_manaback3,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
