@@ -12,4 +12,4 @@
 74{item_lightning_sword,item_shivas_strom,item_gladiator_guard,item_great_magic_crit,item_trident_custom,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0075{item_lightning_sword,item_shivas_strom,item_gladiator_guard,item_great_magic_crit,item_trident_custom,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 85{item_lightning_sword,item_shivas_strom,item_gladiator_guard,item_great_magic_crit,item_trident_custom,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-96{item_refresher_core,item_dagon,item_refresher_core,item_shivas_strom,item_manaback3,item_trident_custom,}{item_great_magic_crit,item_gladiator_guard,item_yasha_and_kaya,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+103{item_refresher_core,item_dagon_5,item_refresher_core,item_shivas_strom,item_manaback3,item_trident_custom,}{item_great_magic_crit,item_gladiator_guard,item_yasha_and_kaya,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
