@@ -7,4 +7,4 @@
 0016{item_blade_midas,item_trident_custom,item_radiance,item_ultimate_scepter,item_bloodstone,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0023{item_blade_midas,item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 26{item_blade_midas,item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-37{item_blade_midas,item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,}{item_infinity_moon_shard,item_str_book3,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+42{item_blade_midas,item_gladiator_guard,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_radiance_prc,}{item_infinity_moon_shard,item_str_book3,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
