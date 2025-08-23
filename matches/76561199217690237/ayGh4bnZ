@@ -4,4 +4,4 @@
 11{item_bfury,item_orb_of_frost,item_satanic,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0016{item_battle_lance,item_skadi,item_satanic_of_madness,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0024{item_battle_lance,-,item_satanic_of_madness,item_infinity_moon_shard,item_lotus_cuirass,item_gladiator_guard,}{-,-,item_skadi,}{-,-,-,-,-,-,}{item_chipped_vest,};
-49{item_battle_lance,item_str_book3,item_satanic_of_madness,item_infinity_moon_shard,item_lotus_cuirass,item_gladiator_guard,}{item_skadi,item_great_magic_crit3,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+50{item_battle_lance,-,item_satanic_of_madness,item_infinity_moon_shard,item_great_magic_crit3,item_gladiator_guard,}{item_skadi,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_desolator_2,};
