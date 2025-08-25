@@ -9,4 +9,5 @@
 10{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 16{item_gladiator_guard,item_heart,item_crimson_guard,item_octarine_core,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 25{item_gladiator_guard,item_heart,item_heart,item_octarine_core,item_ultimate_scepter,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-27{item_gladiator_guard,item_heart,item_shivas_strom,item_bloodstone_shield,item_refresher_core,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+26{item_gladiator_guard,item_heart,item_shivas_strom,item_bloodstone_shield,item_refresher_core,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+28{item_gladiator_guard,item_heart,item_shivas_strom,item_bloodstone_shield,item_refresher_core,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
