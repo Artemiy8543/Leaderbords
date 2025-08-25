@@ -16,4 +16,4 @@
 34{item_skadi,item_vladimir_pact,item_shivas_strom,item_ultimate_boots,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 40{item_skadi,item_vladimir_pact,item_shivas_strom,item_ultimate_boots,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 42{item_skadi,item_vladimir_pact,item_shivas_strom,item_ultimate_boots,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
-44{item_skadi,item_vladimir_pact,item_shivas_strom,item_ultimate_boots,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+47{item_skadi,item_vladimir_pact,item_shivas_strom,item_ultimate_boots,item_battle_lance,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
