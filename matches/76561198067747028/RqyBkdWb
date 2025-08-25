@@ -2,3 +2,4 @@
 4{item_wraith_band,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_wraith_band,item_vladmir,item_wraith_band,item_wraith_band,item_wraith_band,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_wraith_band,item_vladmir,item_wraith_band,item_wraith_band,item_wraith_band,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+7{item_wraith_band,item_vladmir,item_wraith_band,item_mekansm,item_buckler,item_wraith_band,}{-,item_wraith_band,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
