@@ -1,3 +1,4 @@
 82=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_wraith_band,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_wraith_band,item_vladmir,item_wraith_band,item_wraith_band,item_wraith_band,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_wraith_band,item_vladmir,item_wraith_band,item_wraith_band,item_wraith_band,item_wraith_band,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
