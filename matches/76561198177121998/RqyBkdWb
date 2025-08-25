@@ -12,3 +12,4 @@
 26{item_gladiator_guard,item_heart,item_shivas_strom,item_bloodstone_shield,item_refresher_core,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 28{item_gladiator_guard,item_heart,item_shivas_strom,item_bloodstone_shield,item_refresher_core,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0031{item_gladiator_guard,item_great_magic_crit3,item_bloodstone_shield,item_shivas_strom,item_refresher_core,item_radiance_prc,}{item_heart,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0035{item_gladiator_guard,item_great_magic_crit3,item_bloodstone_shield,item_shivas_strom,item_refresher_core,item_radiance_prc,}{item_heart,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
