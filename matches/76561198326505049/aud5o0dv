@@ -1,3 +1,4 @@
 2=001{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{-,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_heart,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+002{-,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_reaver,item_ring_of_tarrasque,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_heart,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
