@@ -16,4 +16,5 @@
 0051{item_radiance_prc,item_bloodstone_shield,item_octarine_core,item_heart,item_lotus_cuirass,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 53{item_radiance_prc,item_bloodstone_shield,item_octarine_core,item_heart,item_lotus_cuirass,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 55{item_radiance_prc,item_bloodstone_shield,item_octarine_core,item_heart,item_lotus_cuirass,item_heart,}{item_overwhelming_blink,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0061{item_radiance_prc,item_bloodstone_shield,item_heart,item_heart,item_lotus_cuirass,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0060{item_radiance_prc,item_bloodstone_shield,item_heart,item_heart,item_lotus_cuirass,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+62{item_radiance_prc,item_bloodstone_shield,item_heart,item_heart,item_lotus_cuirass,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
