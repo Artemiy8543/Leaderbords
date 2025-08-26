@@ -2,3 +2,4 @@
 007{item_power_treads,item_bfury,item_lesser_crit,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_power_treads,item_bfury,item_great_magic_crit,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 10{item_power_treads,item_bfury,item_great_magic_crit,item_power_treads,item_platemail,item_hyperstone,}{item_buckler,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0011{item_power_treads,item_bfury,item_great_magic_crit,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
