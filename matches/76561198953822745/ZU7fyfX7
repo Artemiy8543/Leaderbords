@@ -6,4 +6,4 @@
 20{item_octarine_core,item_shivas_strom,item_bloodstone_shield,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 25{item_octarine_core,item_shivas_strom,item_bloodstone_shield,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 29{item_octarine_core,item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-30{item_octarine_core,item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_gladiator_guard,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+34{item_octarine_core,item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
