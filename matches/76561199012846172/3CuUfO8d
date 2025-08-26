@@ -8,3 +8,4 @@
 009{item_satanic_of_madness,item_butterfly,item_bottle,item_wraith_band,item_power_treads,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 10{item_satanic_of_madness,item_attacker_midas_int,item_bottle,item_wraith_band,item_power_treads,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 11{item_satanic_of_madness,item_attacker_midas_int,item_bottle,item_wraith_band,item_power_treads,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+12{item_satanic_of_madness,item_attacker_midas_int,item_butterfly,item_eagle,item_power_treads,item_butterfly,}{item_talisman_of_evasion,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
