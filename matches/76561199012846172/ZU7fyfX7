@@ -8,3 +8,4 @@
 19{item_attacker_midas_agi,item_gladiator_guard,item_manta,item_khandas_brooch,item_butterfly,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 21{item_khandas_brooch,item_gladiator_guard,item_manta,item_attacker_midas_agi,item_butterfly,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0024{item_khandas_brooch,item_gladiator_guard,item_manta,item_attacker_midas_agi,item_butterfly,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0025{item_khandas_brooch,item_gladiator_guard,item_manta,item_attacker_midas_agi,item_butterfly,item_skadi,}{item_lightning_sword,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
