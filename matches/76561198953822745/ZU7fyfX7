@@ -1,3 +1,4 @@
 52=1{item_voodoo_mask,item_energy_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{-,-,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 8{item_octarine_core,-,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+12{item_octarine_core,item_shivas_guard,item_bloodstone_shield,item_kaya_and_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
