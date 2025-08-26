@@ -1,3 +1,4 @@
 11=1{item_wraith_band,item_null_talisman,item_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_wraith_band,item_null_talisman,item_power_treads,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_wraith_band,item_null_talisman,item_power_treads,item_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+6{item_wraith_band,item_bottle,item_power_treads,item_magic_crit,item_null_talisman,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
