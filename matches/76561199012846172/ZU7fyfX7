@@ -13,3 +13,4 @@
 40{item_lightning_sword,item_gladiator_guard,item_manta,item_trident_custom,item_butterfly,item_khandas_brooch,}{item_attacker_midas_agi,item_skadi,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
 42{item_lightning_sword,item_gladiator_guard,item_manta,item_trident_custom,item_butterfly,item_khandas_brooch,}{item_attacker_midas_agi,item_skadi,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
 0044{item_lightning_sword,item_gladiator_guard,item_manta,item_trident_custom,item_butterfly,item_khandas_brooch,}{item_attacker_midas_agi,item_skadi,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+52{item_lightning_sword,item_gladiator_guard,item_manta,item_trident_custom,item_butterfly,item_khandas_brooch,}{item_attacker_midas_agi,item_skadi,item_giant_maul,}{-,-,-,-,-,-,}{item_serrated_shiv,};
