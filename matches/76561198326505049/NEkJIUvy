@@ -6,5 +6,5 @@
 7{item_attacker_midas_int,item_hyperstone,item_mask_of_madness,item_yasha_and_kaya,item_devastator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 008{item_attacker_midas_int,item_moon_shard,item_bloodstone_shield,item_trident_custom,item_devastator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 009{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_devastator,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-10{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_devastator,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-0012{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_devastator,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+11{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_devastator,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+0013{item_attacker_midas_int,item_infinity_moon_shard,item_bloodstone_shield,item_trident_custom,item_devastator,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
