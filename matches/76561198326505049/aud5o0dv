@@ -2,3 +2,4 @@
 002{-,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_reaver,item_ring_of_tarrasque,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_heart,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_heart,item_attacker_midas_str,item_bloodstone,item_helm_of_iron_will,item_vanguard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
