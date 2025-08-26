@@ -12,3 +12,4 @@
 0050{item_octarine_core,item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_gladiator_guard,}{item_int_book,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 51{item_refresher_core,item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 54{item_refresher_core,item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+0058{item_refresher_core,item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
