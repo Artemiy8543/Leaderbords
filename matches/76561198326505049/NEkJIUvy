@@ -2,3 +2,4 @@
 2{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_attacker_midas_int,item_hyperstone,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_int,item_hyperstone,item_mask_of_madness,item_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+005{item_attacker_midas_int,item_hyperstone,item_mask_of_madness,item_yasha_and_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
