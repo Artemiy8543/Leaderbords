@@ -17,3 +17,4 @@
 53{item_lightning_sword,item_gladiator_guard,item_manta,item_trident_custom,item_butterfly,item_khandas_brooch,}{item_attacker_midas_agi,item_skadi,item_divine_regalia,}{-,-,-,-,-,-,}{item_divine_regalia,};
 57{item_lightning_sword,item_gladiator_guard,item_manta,item_trident_custom,item_butterfly,item_khandas_brooch,}{item_attacker_midas_agi,item_skadi,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 59{item_lightning_sword,item_gladiator_guard,item_manta,item_trident_custom,item_butterfly,item_khandas_brooch,}{item_attacker_midas_agi,item_skadi,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+60{item_lightning_sword,item_gladiator_guard,item_manta,item_trident_custom,item_butterfly,item_khandas_brooch,}{item_attacker_midas_agi,item_skadi,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
