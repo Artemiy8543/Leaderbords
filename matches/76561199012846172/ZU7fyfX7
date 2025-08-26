@@ -5,3 +5,4 @@
 7{item_attacker_midas_agi,item_wraith_band,item_manta,item_lesser_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 009{item_attacker_midas_agi,item_heart,item_manta,item_lesser_crit,item_wraith_band,item_vanguard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_revenants_brooch,item_gladiator_guard,item_manta,item_attacker_midas_agi,item_wraith_band,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+19{item_attacker_midas_agi,item_gladiator_guard,item_manta,item_khandas_brooch,item_butterfly,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
