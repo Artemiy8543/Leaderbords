@@ -3,3 +3,4 @@
 4{item_attacker_midas_agi,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_agi,item_lifesteal,-,-,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_agi,-,item_satanic,-,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_attacker_midas_agi,item_maelstrom,item_satanic,-,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
