@@ -4,3 +4,4 @@
 005{item_attacker_midas_agi,item_maelstrom,item_lifesteal,item_dragon_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_attacker_midas_agi,item_mjollnir,item_mask_of_madness,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_agi,item_mjollnir,item_mask_of_madness,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_attacker_midas_agi,item_mjollnir,item_mask_of_madness,item_battle_lance,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
