@@ -6,4 +6,5 @@
 008{item_attacker_midas_agi,item_maelstrom,item_satanic,-,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic,-,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic,-,item_skadi,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-0014{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_lotus_cuirass,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0013{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,-,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0015{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_lotus_cuirass,-,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
