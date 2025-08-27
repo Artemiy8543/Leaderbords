@@ -1,4 +1,5 @@
 94=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_lifesteal,-,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-008{item_attacker_midas_agi,item_creep_desolator,item_satanic,item_ultimate_scepter,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_attacker_midas_agi,item_creep_desolator,item_satanic,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_attacker_midas_agi,item_creep_desolator,item_satanic,item_ultimate_scepter,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
