@@ -28,4 +28,5 @@
 58{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_agi_book3,item_attacker_midas_agi,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 60{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_agi_book3,item_attacker_midas_agi,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 63{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_str_book3,item_attacker_midas_agi,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-66{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_str_book3,item_attacker_midas_agi,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+65{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_str_book3,item_attacker_midas_agi,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+67{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_str_book3,item_attacker_midas_agi,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
