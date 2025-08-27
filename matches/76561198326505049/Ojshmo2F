@@ -17,4 +17,5 @@
 32{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,item_lotus_cuirass,item_creep_desolator,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 34{item_great_crit_custom3,item_armlet_of_mjolnir,item_satanic_of_madness,item_attacker_midas_agi,item_lotus_cuirass,item_creep_desolator,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 36{item_great_crit_custom3,item_armlet_of_mjolnir,item_satanic_of_madness,-,item_lotus_cuirass,item_creep_desolator,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-0039{item_great_crit_custom3,item_armlet_of_mjolnir,item_satanic_of_madness,item_attacker_midas_agi,item_lotus_cuirass,item_creep_desolator,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0038{item_great_crit_custom3,item_armlet_of_mjolnir,item_satanic_of_madness,item_attacker_midas_agi,item_lotus_cuirass,item_creep_desolator,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+40{item_great_crit_custom3,item_armlet_of_mjolnir,item_satanic_of_madness,item_attacker_midas_agi,item_lotus_cuirass,item_creep_desolator,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
