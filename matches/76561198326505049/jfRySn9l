@@ -29,3 +29,4 @@
 0057{item_great_magic_crit3,item_armlet_of_mjolnir,item_satanic_of_madness,item_attacker_midas_agi,-,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 61{item_great_magic_crit3,item_armlet_of_mjolnir,item_satanic_of_madness,item_attacker_midas_agi,item_lotus_cuirass,item_creep_desolator,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 101{item_great_crit_custom3,item_armlet_of_mjolnir,item_satanic_of_madness,item_attacker_midas_agi,item_lotus_cuirass,item_creep_desolator,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+102{item_great_crit_custom3,item_manta,item_satanic_of_madness,item_attacker_midas_agi,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
