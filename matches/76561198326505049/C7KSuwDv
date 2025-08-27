@@ -14,4 +14,4 @@
 40{item_radiance_prc,item_bloodstone_shield,item_shivas_strom,item_great_magic_crit3,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 41{item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 44{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-46{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+47{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
