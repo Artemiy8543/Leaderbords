@@ -1,4 +1,4 @@
 36=1{-,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_voodoo_mask,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_voodoo_mask,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_voodoo_mask,item_radiance,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+004{item_voodoo_mask,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_bloodstone,item_radiance,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
