@@ -6,4 +6,4 @@
 009{item_bloodstone,item_radiance_prc,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_bloodstone_shield,item_radiance_prc,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 14{item_bloodstone_shield,item_radiance_prc,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0015{item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,-,-,item_attacker_midas_int,}{item_recipe_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0016{item_bloodstone_shield,item_radiance_prc,item_great_magic_crit3,-,-,item_attacker_midas_int,}{item_recipe_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
