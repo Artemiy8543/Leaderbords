@@ -13,4 +13,4 @@
 23{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,-,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 25{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,-,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 0027{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,-,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-0030{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0031{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,item_lotus_cuirass,item_creep_desolator,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
