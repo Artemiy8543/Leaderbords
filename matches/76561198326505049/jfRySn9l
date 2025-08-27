@@ -9,4 +9,4 @@
 17{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_great_magic_crit3,item_skadi,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0019{item_great_magic_crit3,item_armlet_of_mjolnir,item_satanic_of_madness,item_attacker_midas_agi,item_skadi,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_great_magic_crit3,item_armlet_of_mjolnir,item_satanic_of_madness,item_attacker_midas_agi,item_skadi,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0023{item_great_magic_crit3,item_armlet_of_mjolnir,item_satanic_of_madness,item_attacker_midas_agi,item_skadi,item_creep_desolator,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{-,};
+0024{item_great_magic_crit3,item_armlet_of_mjolnir,item_satanic_of_madness,item_attacker_midas_agi,item_skadi,item_creep_desolator,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
