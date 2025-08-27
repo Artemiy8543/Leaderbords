@@ -6,4 +6,5 @@
 11{item_attacker_midas_str,item_lotus_cuirass,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0014{item_attacker_midas_str,item_lotus_cuirass,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0017{item_attacker_midas_str,item_lotus_cuirass,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-23{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_attacker_midas_str,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+22{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_attacker_midas_str,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0024{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_attacker_midas_str,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
