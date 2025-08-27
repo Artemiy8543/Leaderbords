@@ -10,3 +10,4 @@
 0025{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_attacker_midas_str,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0029{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_attacker_midas_str,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 32{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_attacker_midas_str,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0033{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,-,item_attacker_midas_str,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
