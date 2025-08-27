@@ -5,3 +5,4 @@
 009{item_attacker_midas_agi,item_creep_desolator,item_satanic,item_ultimate_scepter,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_attacker_midas_agi,item_creep_desolator,item_satanic_of_madness,-,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_attacker_midas_agi,item_creep_desolator,item_satanic_of_madness,item_great_magic_crit3,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0014{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_great_magic_crit3,item_skadi,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{-,};
