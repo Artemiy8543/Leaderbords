@@ -8,4 +8,5 @@
 11{item_attacker_midas_agi,item_mjollnir,item_satanic_of_madness,item_battle_lance,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_attacker_midas_agi,item_lotus_cuirass,item_satanic_of_madness,item_battle_lance,-,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_attacker_midas_agi,item_lotus_cuirass,item_satanic_of_madness,item_battle_lance,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0018{item_attacker_midas_agi,item_lotus_cuirass,item_satanic_of_madness,item_battle_lance,item_armlet_of_mjolnir,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0017{item_attacker_midas_agi,item_lotus_cuirass,item_satanic_of_madness,item_battle_lance,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0019{item_attacker_midas_agi,item_lotus_cuirass,item_satanic_of_madness,item_battle_lance,item_armlet_of_mjolnir,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{-,};
