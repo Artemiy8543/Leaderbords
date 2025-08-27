@@ -16,4 +16,5 @@
 44{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 47{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
 50{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_great_magic_crit3,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
-0055{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+0053{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
+56{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
