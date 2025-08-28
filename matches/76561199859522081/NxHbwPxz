@@ -11,4 +11,4 @@
 0019{item_vladimir_pact,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 21{item_vladimir_pact,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0022{item_vladimir_pact,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_butterfly,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-25{item_vladimir_pact,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_butterfly,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+26{item_vladimir_pact,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,item_armlet_of_mjolnir,item_butterfly,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
