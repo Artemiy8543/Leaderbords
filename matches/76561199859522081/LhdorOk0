@@ -6,3 +6,4 @@
 009{item_armlet_of_mjolnir,item_bloodstone,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0011{item_armlet_of_mjolnir,item_bloodstone,item_refresher_core,-,-,item_vladmir,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 13{item_armlet_of_mjolnir,item_bloodstone_shield,item_refresher_core,item_vladimir_pact,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0014{item_armlet_of_mjolnir,item_bloodstone_shield,item_refresher_core,item_vladimir_pact,item_assault,item_lotus_orb,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
