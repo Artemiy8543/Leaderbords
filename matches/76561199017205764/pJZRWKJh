@@ -3,4 +3,4 @@
 004{item_yasha_and_kaya,item_belt_of_strength,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_trident_custom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_trident_custom,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-008{-,item_mjollnir,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+009{item_eagle,item_mjollnir,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
