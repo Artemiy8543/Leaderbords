@@ -6,4 +6,5 @@
 009{item_boots,item_soul_ring,item_radiance,item_vladimir_pact,item_assault,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{item_vladimir_pact,item_assault,-,item_radiance_prc,-,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_vladimir_pact,item_lotus_cuirass,item_radiance_prc,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0016{item_vladimir_pact,item_lotus_cuirass,item_radiance_prc,item_heart,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0015{item_vladimir_pact,item_lotus_cuirass,item_radiance_prc,item_heart,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+17{item_vladimir_pact,item_lotus_cuirass,item_radiance_prc,item_heart,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
