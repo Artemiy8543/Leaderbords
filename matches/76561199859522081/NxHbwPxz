@@ -3,4 +3,4 @@
 4{item_boots,item_soul_ring,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_boots,item_soul_ring,item_radiance,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_boots,item_soul_ring,item_radiance,item_vladimir_pact,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-009{item_boots,item_soul_ring,item_radiance,item_vladimir_pact,item_assault,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0010{item_vladimir_pact,item_assault,-,item_radiance_prc,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
