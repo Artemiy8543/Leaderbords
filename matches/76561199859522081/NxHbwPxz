@@ -2,3 +2,4 @@
 002{item_boots,item_soul_ring,item_relic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_boots,item_soul_ring,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_boots,item_soul_ring,item_radiance,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_boots,item_soul_ring,item_radiance,item_vladimir_pact,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
