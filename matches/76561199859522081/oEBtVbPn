@@ -3,4 +3,5 @@
 004{item_radiance,item_platemail,item_hyperstone,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_radiance,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_radiance_prc,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-12{item_radiance_prc,item_lotus_cuirass,item_vladimir_pact,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_radiance_prc,item_lotus_cuirass,item_vladimir_pact,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0013{item_radiance_prc,item_lotus_cuirass,item_vladimir_pact,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
