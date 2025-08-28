@@ -1,2 +1,3 @@
 2=004{item_quelling_blade,item_flask,item_vanguard,item_bracer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 008{item_quelling_blade,item_flask,item_crimson_guard,item_bracer,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_quelling_blade,item_flask,item_crimson_guard,item_bracer,item_heart,item_vladmir,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
