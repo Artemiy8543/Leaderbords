@@ -2,3 +2,4 @@
 002{item_armlet,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_armlet,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_armlet_of_mjolnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+8{item_armlet_of_mjolnir,item_bloodstone,item_energy_booster,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
