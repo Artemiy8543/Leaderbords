@@ -1,2 +1,3 @@
 73=1{item_boots,item_soul_ring,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_boots,item_soul_ring,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+002{item_boots,item_soul_ring,item_relic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_boots,item_soul_ring,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
