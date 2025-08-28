@@ -4,3 +4,4 @@
 11{item_dragon_lance,item_mjollnir,item_satanic,item_butterfly,item_great_crit_custom,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 13{item_dragon_lance,item_armlet_of_mjolnir,item_satanic,item_great_crit_custom3,item_broadsword,item_butterfly,}{item_broadsword,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 14{item_battle_lance,item_armlet_of_mjolnir,item_satanic,item_great_crit_custom3,-,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+18{item_battle_lance,item_armlet_of_mjolnir,item_satanic,item_great_crit_custom3,item_ultimate_boots,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
