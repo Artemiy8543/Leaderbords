@@ -2,3 +2,4 @@
 006{item_vanguard,item_ring_of_tarrasque,-,-,-,item_flask,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_vanguard,item_heart,item_assault,item_vladmir,-,item_flask,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_vanguard,item_heart,item_assault,item_vladmir,-,item_flask,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0014{item_gladiator_guard,item_lotus_cuirass,item_vladimir_pact,item_power_treads,-,item_flask,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
