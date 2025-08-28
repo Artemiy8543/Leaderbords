@@ -5,4 +5,4 @@
 008{item_radiance_prc,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_radiance_prc,item_lotus_cuirass,item_vladimir_pact,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0013{item_radiance_prc,item_lotus_cuirass,item_vladimir_pact,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-15{item_radiance_prc,item_lotus_cuirass,item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+16{item_radiance_prc,item_lotus_cuirass,item_vladimir_pact,item_gladiator_guard,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
