@@ -6,4 +6,4 @@
 8{item_crimson_guard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_gladiator_guard,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_assault,item_gladiator_guard,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-13{item_lotus_cuirass,item_gladiator_guard,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+14{item_lotus_cuirass,item_gladiator_guard,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
