@@ -11,4 +11,5 @@
 17{item_lotus_cuirass,item_gladiator_guard,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 19{item_lotus_cuirass,item_gladiator_guard,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 21{item_lotus_cuirass,item_gladiator_guard,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-24{item_lotus_cuirass,item_gladiator_guard,item_ultimate_scepter,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+23{item_lotus_cuirass,item_gladiator_guard,-,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+25{item_lotus_cuirass,item_gladiator_guard,item_ultimate_scepter,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
