@@ -3,3 +3,4 @@
 3{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_str,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 005{item_attacker_midas_str,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+006{item_attacker_midas_str,item_desolator,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
