@@ -4,3 +4,4 @@
 7{item_lotus_cuirass,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0010{item_crimson_guard,-,-,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0020{item_gladiator_guard,item_ultimate_scepter,item_satanic_of_madness,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+21{item_gladiator_guard,item_ultimate_scepter,item_satanic_of_madness,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
