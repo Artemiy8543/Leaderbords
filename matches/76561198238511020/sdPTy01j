@@ -3,3 +3,4 @@
 4{item_boots,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_power_treads,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_power_treads,item_mask_of_madness,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_power_treads,item_satanic,item_maelstrom,item_echo_sabre,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
