@@ -8,3 +8,4 @@
 008{item_ultimate_scepter,item_attacker_midas_int,item_trident_custom,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_mask_of_madness,item_attacker_midas_int,item_trident_custom,item_ultimate_scepter,item_octarine_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 11{item_satanic_of_madness,item_attacker_midas_int,item_trident_custom,item_ultimate_scepter,item_octarine_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0013{item_satanic_of_madness,item_refresher_core,item_trident_custom,item_ultimate_scepter,item_attacker_midas_int,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
