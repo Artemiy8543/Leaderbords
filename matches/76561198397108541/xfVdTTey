@@ -2,3 +2,4 @@
 3{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_agi,item_eagle,item_claymore,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+7{item_attacker_midas_agi,item_butterfly,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
