@@ -5,4 +5,4 @@
 008{item_blade_mail,item_radiance,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 12{item_blade_mail,item_radiance,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 16{item_blade_mail,item_radiance,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-53{item_blade_mail,item_radiance_prc,item_gladiator_guard,item_heart,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+55{item_blade_mail,item_radiance_prc,item_gladiator_guard,item_heart,item_lotus_cuirass,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
