@@ -4,4 +4,4 @@
 5{-,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_point_booster,item_crimson_guard,item_staff_of_wizardry,item_ogre_axe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 33{item_ultimate_scepter,item_gladiator_guard,item_octarine_core,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-60{item_ultimate_scepter,item_gladiator_guard,item_octarine_core,item_lotus_cuirass,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+64{item_ultimate_scepter,item_gladiator_guard,item_octarine_core,item_lotus_cuirass,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
