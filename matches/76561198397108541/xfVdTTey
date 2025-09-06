@@ -5,4 +5,4 @@
 7{item_attacker_midas_agi,item_butterfly,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_attacker_midas_agi,item_butterfly,item_trident_custom,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_attacker_midas_agi,item_butterfly,item_trident_custom,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-12{item_attacker_midas_agi,item_butterfly,item_trident_custom,item_moon_shard,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+13{item_attacker_midas_agi,item_butterfly,item_trident_custom,item_moon_shard,item_great_crit_custom3,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
