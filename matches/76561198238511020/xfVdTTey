@@ -5,3 +5,4 @@
 6{item_point_booster,item_crimson_guard,item_staff_of_wizardry,item_ogre_axe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_ultimate_scepter,item_crimson_guard,item_vitality_booster,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_ultimate_scepter,item_crimson_guard,item_octarine_core,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_ultimate_scepter,item_crimson_guard,item_octarine_core,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
