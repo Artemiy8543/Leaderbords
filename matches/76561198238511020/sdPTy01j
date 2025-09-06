@@ -5,3 +5,4 @@
 6{item_power_treads,item_mask_of_madness,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_power_treads,item_satanic,item_maelstrom,item_echo_sabre,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_power_treads,item_satanic,item_maelstrom,item_echo_sabre,item_assault,item_helm_of_iron_will,}{item_crown,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+15{item_power_treads,item_satanic,item_shivas_strom,item_echo_sabre,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
