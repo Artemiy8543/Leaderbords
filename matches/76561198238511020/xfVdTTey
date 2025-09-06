@@ -2,3 +2,4 @@
 002{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{-,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_point_booster,item_crimson_guard,item_staff_of_wizardry,item_ogre_axe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
