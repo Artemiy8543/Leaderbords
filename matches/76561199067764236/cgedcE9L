@@ -5,3 +5,4 @@
 5{item_ultimate_scepter,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_ultimate_scepter,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_ultimate_scepter,item_attacker_midas_int,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{item_ultimate_scepter,item_attacker_midas_int,item_trident_custom,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
