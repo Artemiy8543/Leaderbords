@@ -2,3 +2,4 @@
 5{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_blade_mail,item_radiance,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+008{item_blade_mail,item_radiance,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
