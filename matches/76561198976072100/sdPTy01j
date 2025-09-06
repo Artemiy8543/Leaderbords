@@ -1,4 +1,5 @@
 18=3{-,-,-,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_platemail,item_buckler,item_sange_and_yasha,item_mask_of_madness,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_great_crit_custom,-,item_sange_and_yasha,item_mask_of_madness,-,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-13{-,-,item_sange_and_yasha,item_satanic,item_great_crit_custom,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+12{-,-,item_sange_and_yasha,item_mask_of_madness,item_great_crit_custom,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0014{-,-,item_sange_and_yasha,item_satanic_of_madness,item_great_crit_custom,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
