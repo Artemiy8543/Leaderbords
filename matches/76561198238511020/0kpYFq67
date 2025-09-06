@@ -2,3 +2,4 @@
 3{item_platemail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_assault,item_pers,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_lotus_cuirass,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_crimson_guard,-,-,-,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
