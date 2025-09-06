@@ -2,3 +2,4 @@
 002{item_boots,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_boots,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_power_treads,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_power_treads,item_mask_of_madness,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
