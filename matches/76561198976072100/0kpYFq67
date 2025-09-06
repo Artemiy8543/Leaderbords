@@ -3,4 +3,4 @@
 15{item_hand_of_midas,-,item_ultimate_scepter,item_refresher_core,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 18{item_hand_of_midas,-,item_ultimate_scepter,item_refresher_core,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 21{item_hand_of_midas,-,item_ultimate_scepter,item_refresher_core,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-38{item_blade_mail,item_gladiator_guard,-,item_hand_of_midas,item_refresher_core,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+40{item_blade_mail,item_gladiator_guard,-,item_hand_of_midas,item_refresher_core,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
