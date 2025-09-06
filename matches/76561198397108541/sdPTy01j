@@ -7,3 +7,4 @@
 10{item_mjollnir,item_attacker_midas_agi,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 12{item_mjollnir,item_attacker_midas_agi,item_ultimate_scepter,item_butterfly,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 16{item_armlet_of_mjolnir,item_attacker_midas_agi,item_ultimate_scepter,item_butterfly,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+0017{item_armlet_of_mjolnir,item_attacker_midas_agi,-,item_butterfly,item_skadi,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
