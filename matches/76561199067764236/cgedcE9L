@@ -2,3 +2,4 @@
 2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_ultimate_scepter,item_midas_component,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+5{item_ultimate_scepter,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
