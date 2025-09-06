@@ -1,4 +1,5 @@
 85=8{-,item_soul_booster,item_ultimate_scepter,item_hand_of_midas,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 13{item_hand_of_midas,-,item_ultimate_scepter,item_refresher_core,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 15{item_hand_of_midas,-,item_ultimate_scepter,item_refresher_core,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-19{item_hand_of_midas,-,item_ultimate_scepter,item_refresher_core,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+18{item_hand_of_midas,-,item_ultimate_scepter,item_refresher_core,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+21{item_hand_of_midas,-,item_ultimate_scepter,item_refresher_core,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
