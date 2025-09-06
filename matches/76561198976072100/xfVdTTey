@@ -1,4 +1,4 @@
 48=8{item_hand_of_midas,-,-,item_mask_of_madness,-,item_sange_and_yasha,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_hand_of_midas,item_dragon_lance,item_cornucopia,item_mask_of_madness,item_broadsword,item_sange_and_yasha,}{item_broadsword,item_quelling_blade,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 12{item_hand_of_midas,-,item_battle_lance,item_mask_of_madness,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0015{item_hand_of_midas,item_butterfly,item_battle_lance,item_satanic,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0016{item_hand_of_midas,item_butterfly,item_battle_lance,item_satanic_of_madness,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
