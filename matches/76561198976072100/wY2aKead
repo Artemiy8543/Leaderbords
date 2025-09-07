@@ -20,3 +20,4 @@
 00101{item_custom_necronomicon3,item_bloodstone_shield,item_trident_custom,item_str_book2,item_gladiator_guard,item_radiance_prc,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
 00102{item_custom_necronomicon3,item_bloodstone_shield,item_trident_custom,item_str_book2,item_gladiator_guard,item_radiance_prc,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
 00103{item_custom_necronomicon3,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
+104{item_custom_necronomicon3,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
