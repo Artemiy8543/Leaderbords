@@ -3,3 +3,4 @@
 007{item_trident_custom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_trident_custom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 11{item_trident_custom,item_devastator,item_revenants_brooch,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0012{item_trident_custom,item_devastator,item_revenants_brooch,item_moon_shard,item_lifesteal,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
