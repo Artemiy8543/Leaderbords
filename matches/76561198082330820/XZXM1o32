@@ -4,4 +4,5 @@
 4{item_attacker_midas_agi,item_bfury,item_mithril_hammer,-,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 005{item_attacker_midas_agi,item_bfury,item_creep_desolator,-,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_attacker_midas_agi,item_bfury,item_creep_desolator,item_butterfly,item_mask_of_madness,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-10{item_attacker_midas_agi,item_butterfly,item_creep_desolator,item_battle_lance,item_satanic_of_madness,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_attacker_midas_agi,item_butterfly,item_creep_desolator,item_battle_lance,item_satanic_of_madness,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0011{item_attacker_midas_agi,item_butterfly,item_creep_desolator,item_battle_lance,item_satanic_of_madness,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
