@@ -10,4 +10,4 @@
 21{item_hand_of_midas,item_radiance_prc,item_ultimate_scepter,item_satanic_of_madness,item_bloodstone_shield,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 23{item_hand_of_midas,item_radiance_prc,item_ultimate_scepter,item_satanic_of_madness,item_bloodstone_shield,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0030{item_hand_of_midas,item_radiance_prc,-,item_satanic_of_madness,item_bloodstone_shield,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
-31{item_hand_of_midas,item_refresher_core,item_radiance_prc,item_satanic_of_madness,item_bloodstone_shield,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
+36{-,item_refresher_core,item_radiance_prc,item_satanic_of_madness,item_bloodstone_shield,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
