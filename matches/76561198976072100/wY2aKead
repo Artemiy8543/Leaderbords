@@ -5,3 +5,4 @@
 6{item_voodoo_mask,item_vitality_booster,item_point_booster,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bloodstone,-,-,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{-,item_bloodstone_shield,-,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{-,item_bloodstone_shield,item_trident_custom,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
