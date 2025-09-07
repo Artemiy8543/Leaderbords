@@ -5,3 +5,4 @@
 7{item_ultimate_scepter,-,-,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_ultimate_scepter,item_sange,item_blade_of_alacrity,item_hand_of_midas,item_boots_of_elves,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_ultimate_scepter,item_sange_and_yasha,item_mask_of_madness,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_hand_of_midas,item_sange_and_yasha,item_ultimate_scepter,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
