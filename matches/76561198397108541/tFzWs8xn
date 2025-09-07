@@ -10,4 +10,4 @@
 25{item_trident_custom,item_devastator,item_revenants_brooch,item_moon_shard,item_satanic,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 27{item_trident_custom,item_devastator,item_revenants_brooch,item_moon_shard,item_satanic,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 29{item_trident_custom,item_devastator,item_revenants_brooch,item_moon_shard,item_satanic,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-65{item_trident_custom,item_devastator,item_revenants_brooch,item_infinity_moon_shard,item_satanic,item_great_magic_crit3,}{-,-,-,}{-,-,item_moon_shard,-,-,-,}{item_misericorde,};
+67{item_trident_custom,item_devastator,item_revenants_brooch,item_infinity_moon_shard,item_satanic,item_great_magic_crit3,}{-,-,-,}{-,-,item_moon_shard,-,-,-,}{item_misericorde,};
