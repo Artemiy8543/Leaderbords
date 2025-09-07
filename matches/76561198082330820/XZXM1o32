@@ -16,7 +16,7 @@
 0029{item_battle_lance,item_butterfly,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 31{item_battle_lance,item_butterfly,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 33{item_battle_lance,item_butterfly,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-35{item_battle_lance,item_butterfly,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-37{item_battle_lance,item_butterfly,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-39{item_battle_lance,-,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0041{item_battle_lance,item_battle_lance,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+36{item_battle_lance,item_butterfly,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+38{item_battle_lance,item_butterfly,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0040{item_battle_lance,item_battle_lance,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+42{item_battle_lance,item_battle_lance,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
