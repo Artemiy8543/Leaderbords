@@ -1,3 +1,4 @@
 44=1{item_midas_component,item_circlet,item_slippers,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_agi,-,-,-,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_attacker_midas_agi,item_bfury,item_mithril_hammer,-,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
