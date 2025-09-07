@@ -30,4 +30,4 @@
 192{item_battle_lance,item_battle_lance,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_shivas_strom,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 233{item_battle_lance,item_battle_lance,item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_shivas_strom,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 264{item_bfury,item_battle_lance,item_bfury,item_attacker_midas_agi,item_creep_desolator,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-271{item_bfury,item_battle_lance,item_battle_lance,item_bfury,item_creep_desolator,item_shivas_strom,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+272{item_bfury,item_battle_lance,item_battle_lance,item_bfury,item_creep_desolator,item_shivas_strom,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
