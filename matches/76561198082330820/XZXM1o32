@@ -3,3 +3,4 @@
 3{item_attacker_midas_agi,-,-,-,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_bfury,item_mithril_hammer,-,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 005{item_attacker_midas_agi,item_bfury,item_creep_desolator,-,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+6{item_attacker_midas_agi,item_bfury,item_creep_desolator,item_eagle,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
