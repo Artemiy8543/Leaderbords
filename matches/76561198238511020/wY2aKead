@@ -11,4 +11,4 @@
 80{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,item_khandas_brooch,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 82{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,item_khandas_brooch,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 87{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,item_khandas_brooch,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-93{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,item_khandas_brooch,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+95{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,item_khandas_brooch,item_great_magic_crit3,}{item_claymore,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
