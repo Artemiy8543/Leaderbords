@@ -18,3 +18,4 @@
 103{item_skadi,item_devastator,item_great_crit_custom3,item_infinity_moon_shard,item_refresher_core,item_battle_lance,}{item_infinity_moon_shard,item_butterfly,item_satanic,}{-,item_moon_shard,-,-,-,-,}{item_divine_regalia,};
 00104{item_skadi,item_devastator,item_great_crit_custom3,item_infinity_moon_shard,item_refresher_core,item_battle_lance,}{item_str_book2,item_butterfly,item_satanic,}{-,item_moon_shard,-,-,-,-,}{item_divine_regalia,};
 105{item_skadi,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_refresher_core,item_battle_lance,}{item_str_book2,item_butterfly,item_satanic,}{-,-,-,-,-,-,}{item_divine_regalia,};
+106{item_skadi,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_refresher_core,item_battle_lance,}{item_str_book2,-,item_satanic,}{-,-,-,-,-,-,}{item_divine_regalia,};
