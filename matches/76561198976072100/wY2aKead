@@ -13,3 +13,4 @@
 21{item_heart,item_bloodstone_shield,item_trident_custom,item_refresher_core,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 26{-,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 0028{-,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+0036{item_great_magic_crit3,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
