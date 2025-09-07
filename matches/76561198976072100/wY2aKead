@@ -2,3 +2,4 @@
 2{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_voodoo_mask,-,-,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_voodoo_mask,item_vitality_booster,item_point_booster,item_radiance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
