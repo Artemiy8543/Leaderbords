@@ -8,4 +8,4 @@
 0011{item_skadi,item_satanic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 19{item_skadi,item_satanic,item_great_crit_custom3,item_ultimate_scepter,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 22{item_skadi,item_satanic,item_great_crit_custom3,item_ultimate_scepter,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-46{item_skadi,item_satanic,item_great_crit_custom3,item_infinity_moon_shard,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+48{item_skadi,item_satanic,item_great_crit_custom3,item_infinity_moon_shard,item_butterfly,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
