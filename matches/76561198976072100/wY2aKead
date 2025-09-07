@@ -11,4 +11,4 @@
 0014{item_octarine_core,item_bloodstone_shield,item_trident_custom,item_radiance,item_ultimate_scepter,item_ring_of_tarrasque,}{item_tiara_of_selemene,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0018{item_heart,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_ultimate_scepter,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 21{item_heart,item_bloodstone_shield,item_trident_custom,item_refresher_core,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-51{item_great_magic_crit3,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+53{item_great_magic_crit3,item_bloodstone_shield,item_trident_custom,item_refresher_core,item_gladiator_guard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
