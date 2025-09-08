@@ -6,3 +6,4 @@
 007{item_diffuth_blade,item_lifesteal,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 8{item_diffuth_blade,item_lifesteal,item_creep_desolator,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 9{item_diffuth_blade,item_mask_of_madness,item_creep_desolator,item_talisman_of_evasion,item_claymore,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0010{item_diffuth_blade,item_mask_of_madness,item_creep_desolator,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
