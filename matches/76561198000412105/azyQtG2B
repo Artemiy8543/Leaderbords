@@ -4,3 +4,4 @@
 004{item_diffuth_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 5{item_diffuth_blade,item_lifesteal,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 007{item_diffuth_blade,item_lifesteal,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+8{item_diffuth_blade,item_lifesteal,item_creep_desolator,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
