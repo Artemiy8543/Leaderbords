@@ -2,3 +2,4 @@
 002{item_witch_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_witch_blade,item_diffusal_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_diffuth_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+5{item_diffuth_blade,item_lifesteal,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
