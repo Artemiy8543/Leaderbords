@@ -3,3 +3,4 @@
 003{item_manaback,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_manaback,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_manaback3,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_manaback3,item_vanguard,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
