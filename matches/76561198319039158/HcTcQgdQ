@@ -6,4 +6,5 @@
 007{item_battle_lance,item_mjollnir,item_ward_observer,item_moon_shard,item_attacker_midas_agi,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_battle_lance,item_mjollnir,item_ward_observer,-,item_attacker_midas_agi,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0011{item_battle_lance,item_mjollnir,item_ward_observer,item_great_crit_custom3,item_attacker_midas_agi,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-14{item_battle_lance,item_mjollnir,item_ward_observer,item_great_crit_custom3,item_attacker_midas_agi,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+13{item_battle_lance,item_mjollnir,item_ward_observer,item_great_crit_custom3,item_attacker_midas_agi,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0015{item_battle_lance,item_mjollnir,item_ward_observer,item_great_crit_custom3,item_attacker_midas_agi,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
