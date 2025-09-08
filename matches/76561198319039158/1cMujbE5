@@ -2,3 +2,4 @@
 002{item_quelling_blade,item_ward_observer,item_tango,item_attacker_midas_str,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_quelling_blade,item_ward_observer,item_tango,item_attacker_midas_str,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_quelling_blade,item_ward_observer,item_tango,item_attacker_midas_str,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+005{item_quelling_blade,item_ward_observer,item_tango,item_attacker_midas_str,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
