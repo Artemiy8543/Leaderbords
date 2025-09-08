@@ -16,3 +16,4 @@
 0028{item_manaback3,item_gladiator_guard,item_radiance_prc,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0030{item_manaback3,item_gladiator_guard,item_radiance_prc,item_refresher_core,item_blade_mail,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 32{item_manaback3,item_gladiator_guard,item_radiance_prc,item_refresher_core,item_blade_mail,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+33{item_manaback3,item_gladiator_guard,item_radiance_prc,item_refresher_core,item_veil_of_dagon,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
