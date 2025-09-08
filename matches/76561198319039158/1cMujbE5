@@ -5,3 +5,4 @@
 005{item_quelling_blade,item_ward_observer,item_tango,item_attacker_midas_str,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_quelling_blade,item_ward_observer,-,item_attacker_midas_str,item_bracer,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_quelling_blade,item_vanguard,item_great_crit_custom,item_attacker_midas_str,item_bracer,item_mask_of_madness,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+008{item_bfury,item_vanguard,item_great_crit_custom,item_attacker_midas_str,item_bracer,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
