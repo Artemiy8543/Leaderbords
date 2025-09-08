@@ -3,4 +3,4 @@
 003{item_witch_blade,item_diffusal_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_diffuth_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 5{item_diffuth_blade,item_lifesteal,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-006{item_diffuth_blade,item_lifesteal,item_desolator,item_crown,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+007{item_diffuth_blade,item_lifesteal,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
