@@ -2,3 +2,4 @@
 2{item_kaya,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_yasha_and_kaya,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_yasha_and_kaya,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_yasha_and_kaya,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
