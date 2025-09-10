@@ -17,4 +17,4 @@
 42{item_armlet_of_mjolnir,item_khandas_brooch,item_battle_lance,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{item_int_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0046{item_armlet_of_mjolnir,item_khandas_brooch,item_battle_lance,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{item_int_book2,item_str_book2,item_agi_book2,}{-,-,-,-,-,-,}{item_dormant_curio,};
 50{item_armlet_of_mjolnir,item_khandas_brooch,item_battle_lance,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{item_int_book2,item_str_book2,item_agi_book2,}{-,-,-,-,-,-,}{item_dormant_curio,};
-53{item_armlet_of_mjolnir,item_khandas_brooch,item_battle_lance,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{item_int_book2,item_str_book2,item_agi_book2,}{-,-,-,-,-,-,}{item_dormant_curio,};
+54{item_armlet_of_mjolnir,item_khandas_brooch,item_battle_lance,item_great_magic_crit3,item_trident_custom,item_radiance_prc,}{item_int_book2,item_str_book2,item_agi_book2,}{-,-,-,-,-,-,}{item_dormant_curio,};
