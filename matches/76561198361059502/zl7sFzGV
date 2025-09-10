@@ -5,4 +5,5 @@
 7{item_yasha_and_kaya,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_trident_custom,item_revenants_brooch,item_phylactery,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_trident_custom,item_khandas_brooch,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-11{item_trident_custom,item_khandas_brooch,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_trident_custom,item_khandas_brooch,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0012{item_trident_custom,item_khandas_brooch,item_battle_lance,-,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
