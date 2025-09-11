@@ -5,3 +5,4 @@
 7{item_satanic_of_madness,-,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_butterfly,item_platemail,item_satanic_of_madness,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 31{item_great_crit_custom3,item_lotus_cuirass,item_satanic_of_madness,item_creep_desolator,item_blade_midas,item_infinity_moon_shard,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+28{item_great_crit_custom3,item_lotus_cuirass,item_gladiator_guard,item_creep_desolator,item_blade_midas,item_infinity_moon_shard,}{item_butterfly,item_satanic_of_madness,-,}{-,-,-,-,-,-,}{item_misericorde,};
