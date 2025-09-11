@@ -2,3 +2,4 @@
 5{item_bfury,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bfury,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 8{item_bfury,item_satanic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+11{item_bfury,item_satanic,item_sange_and_yasha,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
