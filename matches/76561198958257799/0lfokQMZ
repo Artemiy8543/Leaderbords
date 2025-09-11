@@ -20,3 +20,4 @@
 40{item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_blade_midas,}{-,item_str_book3,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
 42{item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_blade_midas,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
 44{item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_blade_midas,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
+0045{item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_blade_midas,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
