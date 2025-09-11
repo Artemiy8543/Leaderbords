@@ -9,3 +9,4 @@
 33{item_creep_desolator,item_trident_custom,item_power_treads,item_gladiator_guard,item_satanic_of_madness,item_butterfly,}{item_tango,item_blade_mail,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 38{item_creep_desolator,item_trident_custom,item_power_treads,item_gladiator_guard,item_satanic_of_madness,item_butterfly,}{item_tango,item_blade_mail,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0039{item_creep_desolator,item_trident_custom,item_power_treads,item_gladiator_guard,item_satanic_of_madness,item_butterfly,}{item_tango,item_blade_mail,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+40{item_creep_desolator,item_trident_custom,item_radiance_prc,item_gladiator_guard,item_satanic_of_madness,item_butterfly,}{item_tango,item_blade_mail,item_power_treads,}{-,-,-,-,-,-,}{item_psychic_headband,};
