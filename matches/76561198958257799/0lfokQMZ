@@ -6,3 +6,4 @@
 9{-,-,item_gladiator_guard,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_assault,item_pers,item_gladiator_guard,item_platemail,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_lotus_cuirass,item_voodoo_mask,item_gladiator_guard,item_vitality_booster,item_blade_midas,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0013{item_lotus_cuirass,item_bloodstone_shield,item_gladiator_guard,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
