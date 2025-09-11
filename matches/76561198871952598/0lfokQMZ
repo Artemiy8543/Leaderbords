@@ -10,3 +10,4 @@
 29{item_battle_lance,item_satanic_of_madness,item_trident_custom,item_butterfly,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0036{item_battle_lance,item_satanic_of_madness,item_trident_custom,item_butterfly,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 41{item_battle_lance,item_satanic_of_madness,item_trident_custom,item_great_crit_custom3,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0043{item_battle_lance,item_satanic_of_madness,item_basher_slardar,item_great_crit_custom3,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
