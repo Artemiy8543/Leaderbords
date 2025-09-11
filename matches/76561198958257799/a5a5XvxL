@@ -3,3 +3,4 @@
 5{item_mask_of_madness,-,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_mask_of_madness,item_mask_of_madness,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_satanic_of_madness,-,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_butterfly,item_platemail,item_satanic_of_madness,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
