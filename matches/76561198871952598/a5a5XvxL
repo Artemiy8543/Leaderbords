@@ -1,6 +1,4 @@
 30=2{item_voodoo_mask,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 8{item_bloodstone,-,item_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 29{item_bloodstone,item_great_magic_crit3,item_refresher_core,item_radiance_prc,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-37{item_bloodstone_shield,item_great_magic_crit3,item_refresher_core,item_radiance_prc,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-0040{item_bloodstone_shield,item_great_magic_crit3,item_refresher_core,item_radiance_prc,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-41{item_bloodstone_shield,item_great_magic_crit3,item_refresher_core,item_radiance_prc,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+43{item_bloodstone_shield,item_great_magic_crit3,item_refresher_core,item_radiance_prc,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
