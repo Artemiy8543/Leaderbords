@@ -4,3 +4,4 @@
 007{item_heart,item_crimson_guard,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_ultimate_scepter,-,item_gladiator_guard,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{-,-,item_gladiator_guard,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_assault,item_pers,item_gladiator_guard,item_platemail,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
