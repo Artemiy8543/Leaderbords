@@ -3,4 +3,4 @@
 006{item_bloodstone,item_kaya,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 7{item_bloodstone,item_magic_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 008{item_bloodstone,item_magic_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-9{item_bloodstone,item_magic_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+10{item_bloodstone,item_great_magic_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
