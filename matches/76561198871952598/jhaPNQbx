@@ -5,4 +5,4 @@
 008{item_bloodstone,item_magic_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 10{item_bloodstone,item_great_magic_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
 13{item_bloodstone,item_great_magic_crit,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
-18{item_bloodstone,item_great_magic_crit,item_ultimate_scepter,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
+19{item_bloodstone,item_great_magic_crit,item_ultimate_scepter,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_grisgris,};
