@@ -1,3 +1,4 @@
 44=1{item_mithril_hammer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_mithril_hammer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_desolator,item_helm_of_iron_will,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{-,-,-,-,-,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
