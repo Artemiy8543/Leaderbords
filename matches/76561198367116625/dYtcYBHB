@@ -17,4 +17,4 @@
 41{item_satanic_of_madness,item_battle_lance,item_butterfly,item_great_crit_custom3,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 48{item_satanic_of_madness,item_battle_lance,item_butterfly,item_infinity_moon_shard,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 50{item_satanic_of_madness,item_battle_lance,item_creep_desolator,item_butterfly,item_infinity_moon_shard,item_butterfly,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_misericorde,};
-69{item_satanic_of_madness,item_battle_lance,item_creep_desolator,item_butterfly,item_infinity_moon_shard,item_butterfly,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+73{item_satanic_of_madness,item_battle_lance,item_creep_desolator,item_butterfly,item_infinity_moon_shard,item_butterfly,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
