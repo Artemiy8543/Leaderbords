@@ -10,3 +10,4 @@
 21{item_satanic_of_madness,-,-,item_battle_lance,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 24{item_satanic_of_madness,-,-,item_battle_lance,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 28{item_satanic_of_madness,item_infinity_moon_shard,-,item_battle_lance,item_butterfly,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+0030{item_satanic_of_madness,item_battle_lance,item_butterfly,-,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
