@@ -5,3 +5,4 @@
 7{item_kaya,item_tango,item_arcane_boots,item_ultimate_scepter,item_vitality_booster,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 008{item_kaya,item_tango,item_arcane_boots,item_ultimate_scepter,item_vitality_booster,item_null_talisman,}{-,-,item_smoke_of_deceit,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 9{item_kaya,item_tango,item_arcane_boots,item_ultimate_scepter,item_octarine_core,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+10{item_manaback2,-,item_recipe_manaback3,item_ultimate_scepter,item_octarine_core,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
