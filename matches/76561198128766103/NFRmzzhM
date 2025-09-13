@@ -1,4 +1,4 @@
 2=001{item_vanguard,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_vanguard,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_vanguard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_vanguard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_vanguard,item_blade_mail,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
