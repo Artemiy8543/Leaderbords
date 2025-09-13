@@ -1,4 +1,5 @@
 18=1{item_mask_of_madness,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_mask_of_madness,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_mask_of_madness,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_satanic_of_madness,item_gloves,item_blades_of_attack,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+004{item_satanic,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_satanic_of_madness,item_gloves,item_blades_of_attack,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
