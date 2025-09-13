@@ -1,4 +1,4 @@
 18=1{item_armlet,-,-,-,-,-,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{-,};
 2{item_lifesteal,-,-,item_armlet,-,-,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{-,};
-3{item_mask_of_madness,-,-,item_armlet,-,-,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{-,};
-005{item_mask_of_madness,-,-,item_armlet,-,-,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{item_dormant_curio,};
+4{item_mask_of_madness,-,-,item_armlet,-,-,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{item_dormant_curio,};
+6{item_satanic,-,-,item_armlet,-,-,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{item_dormant_curio,};
