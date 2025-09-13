@@ -2,3 +2,4 @@
 4{item_claymore,item_blight_stone,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_claymore,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 006{item_claymore,item_desolator,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+7{item_claymore,item_desolator,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
