@@ -7,3 +7,4 @@
 9{item_kaya,item_tango,item_arcane_boots,item_ultimate_scepter,item_octarine_core,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 10{item_manaback2,-,item_recipe_manaback3,item_ultimate_scepter,item_octarine_core,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 11{item_voodoo_mask,-,item_manaback3,item_ultimate_scepter,item_octarine_core,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+12{item_bloodstone,-,item_manaback3,item_ultimate_scepter,item_octarine_core,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
