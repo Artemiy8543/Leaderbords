@@ -5,5 +5,6 @@
 8{item_satanic,item_ghost,-,item_armlet,-,-,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_satanic,item_ghost,item_ward_observer,item_armlet,item_lifesteal,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_satanic_of_madness,item_ghost,item_hyperstone,item_armlet,-,item_assault,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{item_dormant_curio,};
-12{item_satanic_of_madness,item_ghost,item_lotus_cuirass,item_armlet_of_mjolnir,-,-,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{item_dormant_curio,};
-14{item_satanic_of_madness,item_gladiator_guard,item_lotus_cuirass,item_armlet_of_mjolnir,item_ghost,-,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_satanic_of_madness,item_ghost,-,item_armlet_of_mjolnir,-,item_assault,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{item_dormant_curio,};
+13{item_satanic_of_madness,item_ghost,item_lotus_cuirass,item_armlet_of_mjolnir,-,-,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{item_dormant_curio,};
+15{item_satanic_of_madness,item_gladiator_guard,item_lotus_cuirass,item_armlet_of_mjolnir,item_ghost,-,}{-,-,item_ward_observer,}{-,-,-,-,-,-,}{item_dormant_curio,};
