@@ -5,3 +5,4 @@
 007{item_quelling_blade,item_cornucopia,item_phase_boots,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_quelling_blade,item_cornucopia,item_phase_boots,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_quelling_blade,item_cornucopia,item_phase_boots,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_bfury,item_satanic,item_phase_boots,item_mjollnir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
