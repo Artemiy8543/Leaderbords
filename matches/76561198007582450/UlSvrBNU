@@ -1,3 +1,3 @@
 48=1{item_power_treads,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_power_treads,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_power_treads,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+3{item_power_treads,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_power_treads,item_mask_of_madness,item_eagle,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
