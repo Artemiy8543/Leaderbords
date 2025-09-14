@@ -6,4 +6,4 @@
 0012{item_gladiator_guard,item_ultimate_scepter,item_trident_custom,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 20{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_ultimate_scepter,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-22{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,-,item_radiance_prc,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+23{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,-,item_radiance_prc,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
