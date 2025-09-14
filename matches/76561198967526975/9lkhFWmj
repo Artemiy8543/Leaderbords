@@ -1,3 +1,4 @@
 54=1{item_sange,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_sange,item_blade_of_alacrity,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_sange_and_yasha,item_blight_stone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_sange_and_yasha,item_blight_stone,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
