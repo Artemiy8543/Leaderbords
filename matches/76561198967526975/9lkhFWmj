@@ -3,3 +3,4 @@
 004{item_sange_and_yasha,item_blight_stone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_sange_and_yasha,item_blight_stone,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_sange_and_yasha,item_basher,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_sange_and_yasha,item_basher,item_creep_desolator,item_ogre_axe,item_broadsword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
