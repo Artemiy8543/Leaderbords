@@ -1,3 +1,4 @@
 54=1{item_blade_of_alacrity,item_boots_of_elves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_yasha,item_belt_of_strength,item_ogre_axe,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_sange_and_yasha,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+006{item_sange_and_yasha,item_lifesteal,item_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
