@@ -1,3 +1,4 @@
 105=2{item_arcane_boots,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_arcane_boots,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_magic_crit,item_claymore,item_arcane_boots,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_magic_crit,item_butterfly,item_arcane_boots,item_moon_shard,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
