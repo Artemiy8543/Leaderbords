@@ -9,4 +9,4 @@
 0013{item_power_treads,item_butterfly,item_trident_custom,item_lifesteal,item_armlet_of_mjolnir,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 16{item_trident_custom,item_butterfly,item_satanic,item_battle_lance,item_armlet_of_mjolnir,item_creep_desolator,}{item_power_treads,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 0017{item_trident_custom,item_butterfly,item_satanic,item_battle_lance,item_armlet_of_mjolnir,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-0019{item_trident_custom,item_butterfly,item_satanic_of_madness,item_battle_lance,item_armlet_of_mjolnir,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+0020{item_trident_custom,item_butterfly,item_satanic_of_madness,item_battle_lance,item_armlet_of_mjolnir,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
