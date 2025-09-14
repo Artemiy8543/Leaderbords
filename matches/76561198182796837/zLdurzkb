@@ -8,4 +8,4 @@
 20{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_ultimate_scepter,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 24{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,-,item_radiance_prc,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 29{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-32{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+33{item_gladiator_guard,item_bloodstone_shield,item_trident_custom,item_phylactery_blade,item_radiance_prc,item_manaback3,}{item_int_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
