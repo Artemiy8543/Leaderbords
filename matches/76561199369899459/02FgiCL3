@@ -7,3 +7,4 @@
 8{item_lifesteal,item_power_treads,item_butterfly,item_yasha,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 009{item_lifesteal,item_power_treads,item_butterfly,item_yasha,item_dragon_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 11{item_lifesteal,item_power_treads,item_butterfly,item_yasha,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+13{item_satanic,-,item_butterfly,item_yasha_and_kaya,item_battle_lance,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
