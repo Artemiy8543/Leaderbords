@@ -6,4 +6,4 @@
 007{item_yasha,item_power_treads,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 8{item_lifesteal,item_power_treads,item_butterfly,item_yasha,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 009{item_lifesteal,item_power_treads,item_butterfly,item_yasha,item_dragon_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-10{item_lifesteal,item_power_treads,item_butterfly,item_yasha,item_dragon_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+11{item_lifesteal,item_power_treads,item_butterfly,item_yasha,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
