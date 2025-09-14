@@ -1,3 +1,4 @@
 70=1{item_ward_observer,-,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_ward_observer,-,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{-,item_talisman_of_evasion,item_phase_boots,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_lifesteal,-,item_phase_boots,-,-,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
