@@ -6,3 +6,4 @@
 009{item_power_treads,item_butterfly,item_trident_custom,item_lifesteal,item_armlet,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_power_treads,item_butterfly,item_trident_custom,item_lifesteal,item_armlet,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 11{item_power_treads,item_butterfly,item_trident_custom,item_lifesteal,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0013{item_power_treads,item_butterfly,item_trident_custom,item_lifesteal,item_armlet_of_mjolnir,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
