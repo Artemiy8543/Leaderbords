@@ -4,3 +4,4 @@
 10{item_manta,item_power_treads,item_echo_sabre,item_lesser_crit,item_lifesteal,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_manta,item_power_treads,item_echo_sabre,item_lesser_crit,item_lifesteal,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0015{item_manta,-,item_echo_sabre,item_great_crit_custom2,item_vladimir_pact,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0017{item_manta,item_great_crit_custom3,item_echo_sabre,-,item_vladimir_pact,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
