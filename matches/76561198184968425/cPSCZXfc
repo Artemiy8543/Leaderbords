@@ -10,4 +10,4 @@
 12{item_ultimate_scepter,item_refresher_core,item_ghost,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 14{item_ultimate_scepter,item_ghost,-,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 17{item_ultimate_scepter,item_ghost,item_infinity_moon_shard,item_refresher_core,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-19{item_ultimate_scepter,item_ghost,item_infinity_moon_shard,item_refresher_core,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+20{item_ultimate_scepter,item_phylactery_blade,item_infinity_moon_shard,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
