@@ -2,3 +2,4 @@
 2{item_talisman_of_evasion,item_gauntlets,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_radiance,item_gauntlets,item_yasha,item_ogre_axe,item_belt_of_strength,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_radiance,item_gauntlets,item_sange_and_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_radiance_prc,item_gauntlets,item_sange_and_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
