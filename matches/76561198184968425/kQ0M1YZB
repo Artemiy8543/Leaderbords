@@ -1,4 +1,5 @@
 36=3{item_voodoo_mask,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_maelstrom,item_bloodstone_shield,item_helm_of_iron_will,item_crown,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_maelstrom,item_bloodstone_shield,item_platemail,item_veil_of_discord,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-16{item_radiance_prc,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+15{item_radiance_prc,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0017{item_radiance_prc,item_bloodstone_shield,item_shivas_strom,item_phylactery_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
