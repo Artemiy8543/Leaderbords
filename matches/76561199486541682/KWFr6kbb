@@ -6,4 +6,4 @@
 0017{item_great_magic_crit,item_butterfly,item_heart,-,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 0023{item_great_magic_crit,item_butterfly,item_heart,-,item_lightning_sword,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 0026{item_great_magic_crit3,item_butterfly,item_heart,-,item_lightning_sword,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-28{item_great_magic_crit3,item_butterfly,item_heart,-,item_lightning_sword,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+29{item_great_magic_crit3,item_butterfly,item_heart,item_battle_lance,item_lightning_sword,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
