@@ -31,4 +31,4 @@
 0060{item_ultimate_boots,item_gladiator_guard,item_battle_lance,item_creep_desolator,item_attacker_midas_str,item_agi_book2,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 62{item_ultimate_boots,item_gladiator_guard,item_battle_lance,item_creep_desolator,item_attacker_midas_str,item_agi_book2,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 65{item_ultimate_boots,item_gladiator_guard,item_battle_lance,item_creep_desolator,item_attacker_midas_str,item_agi_book2,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-110{item_ultimate_boots,item_gladiator_guard,item_battle_lance,item_creep_desolator,item_attacker_midas_str,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+111{item_ultimate_boots,item_gladiator_guard,item_battle_lance,item_creep_desolator,item_attacker_midas_str,item_great_crit_custom3,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
