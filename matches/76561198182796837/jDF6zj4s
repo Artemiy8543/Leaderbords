@@ -55,3 +55,4 @@
 154{item_ultimate_boots,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 156{item_basher_slardar,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 158{item_abyssal_blade,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+159{item_abyssal_blade,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
