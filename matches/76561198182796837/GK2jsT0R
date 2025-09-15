@@ -7,4 +7,5 @@
 14{item_bloodstone_shield,item_radiance_prc,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0017{item_bloodstone_shield,item_radiance_prc,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0020{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0024{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0023{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0025{item_bloodstone_shield,item_radiance_prc,item_trident_custom,item_refresher_core,item_lesser_crit,item_staff_of_wizardry,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
