@@ -5,4 +5,5 @@
 7{item_radiance_prc,item_gauntlets,item_sange_and_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_radiance_prc,item_gauntlets,item_sange_and_yasha,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_radiance_prc,item_gauntlets,item_sange_and_yasha,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-12{item_radiance_prc,item_gauntlets,item_sange_and_yasha,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+11{item_radiance_prc,item_gauntlets,item_sange_and_yasha,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_radiance_prc,item_gauntlets,item_sange_and_yasha,-,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
