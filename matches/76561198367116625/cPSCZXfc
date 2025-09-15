@@ -15,3 +15,4 @@
 61{item_lotus_cuirass,item_great_magic_crit3,item_battle_lance,item_shivas_strom,item_bloodstone_shield,item_creep_desolator,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 63{item_lotus_cuirass,item_great_magic_crit3,item_battle_lance,item_shivas_strom,item_bloodstone_shield,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 67{item_lotus_cuirass,item_great_magic_crit3,item_creep_desolator,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+68{item_lotus_cuirass,item_great_magic_crit3,item_armlet_of_mjolnir,item_shivas_strom,item_bloodstone_shield,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
