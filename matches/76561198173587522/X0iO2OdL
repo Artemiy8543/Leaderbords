@@ -8,4 +8,4 @@
 9{item_manaback2,item_gladiator_guard,item_creep_desolator,item_battle_lance,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 0011{item_manaback3,item_gladiator_guard,item_creep_desolator,item_battle_lance,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 13{item_manaback3,item_gladiator_guard,item_creep_desolator,item_battle_lance,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
-0015{item_manaback3,item_gladiator_guard,item_creep_desolator,item_battle_lance,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+0016{item_manaback3,item_gladiator_guard,item_creep_desolator,item_battle_lance,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
