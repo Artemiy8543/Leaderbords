@@ -5,3 +5,4 @@
 5{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 8{item_ultimate_scepter,item_ghost,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+9{item_ultimate_scepter,-,item_ghost,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
