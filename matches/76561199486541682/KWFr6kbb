@@ -2,3 +2,4 @@
 6{item_magic_crit,item_demon_edge,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 10{item_great_magic_crit,item_butterfly,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 11{item_great_magic_crit,item_butterfly,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+15{item_great_magic_crit,item_butterfly,item_heart,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
