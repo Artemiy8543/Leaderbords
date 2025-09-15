@@ -4,3 +4,4 @@
 005{item_manaback,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 6{item_manaback,item_heart,item_ring_of_health,item_helm_of_iron_will,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 7{item_manaback,item_gladiator_guard,item_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+008{item_manaback,item_gladiator_guard,item_creep_desolator,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
