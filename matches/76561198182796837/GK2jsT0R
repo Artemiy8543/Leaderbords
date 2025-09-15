@@ -1,4 +1,5 @@
 99=1{item_void_stone,item_voodoo_mask,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_bloodstone,-,-,-,item_energy_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bloodstone_shield,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-008{item_bloodstone_shield,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+007{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+9{item_bloodstone_shield,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
