@@ -15,3 +15,4 @@
 99{item_radiance_prc,item_trident_custom,item_rapier,item_creep_desolator,item_lotus_cuirass,item_satanic_of_madness,}{item_battle_lance,-,item_lightning_sword,}{-,-,-,-,-,-,}{item_desolator_2,};
 100{item_radiance_prc,item_trident_custom,item_rapier,item_creep_desolator,item_lotus_cuirass,item_satanic_of_madness,}{item_battle_lance,item_heart,item_lightning_sword,}{item_ring_of_health,-,-,-,-,-,}{item_desolator_2,};
 102{item_radiance_prc,item_trident_custom,item_rapier,item_creep_desolator,item_lotus_cuirass,item_satanic_of_madness,}{item_battle_lance,item_gladiator_guard,item_lightning_sword,}{item_agi_book3,-,-,-,-,-,}{item_desolator_2,};
+104{item_radiance_prc,item_trident_custom,item_rapier,item_creep_desolator,item_lotus_cuirass,item_satanic_of_madness,}{item_battle_lance,item_gladiator_guard,item_lightning_sword,}{item_agi_book3,-,-,-,-,-,}{item_desolator_2,};
