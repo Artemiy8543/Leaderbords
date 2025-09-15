@@ -2,3 +2,4 @@
 004{item_reaver,-,-,-,-,item_ring_of_tarrasque,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_sange,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 9{item_trident_custom,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+10{item_trident_custom,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
