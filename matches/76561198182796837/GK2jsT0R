@@ -2,4 +2,4 @@
 3{item_bloodstone,-,-,-,item_energy_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bloodstone_shield,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 007{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-9{item_bloodstone_shield,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+10{item_bloodstone_shield,item_radiance_prc,item_ogre_axe,item_belt_of_strength,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
