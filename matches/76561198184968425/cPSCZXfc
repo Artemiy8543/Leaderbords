@@ -22,4 +22,5 @@
 57{-,item_khandas_brooch,item_meteor_rain,item_refresher_core,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 59{-,item_khandas_brooch,item_meteor_rain,item_refresher_core,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0061{item_veil_of_dagon,item_khandas_brooch,item_meteor_rain,item_refresher_core,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-0064{-,item_khandas_brooch,item_meteor_rain,item_refresher_core,-,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+0062{-,item_khandas_brooch,item_meteor_rain,item_refresher_core,item_trident_custom,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+65{-,item_khandas_brooch,item_meteor_rain,item_refresher_core,-,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
