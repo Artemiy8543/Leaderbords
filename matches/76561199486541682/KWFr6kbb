@@ -1,3 +1,4 @@
 12=3{item_lesser_crit,item_kaya,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_magic_crit,item_demon_edge,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 10{item_great_magic_crit,item_butterfly,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+11{item_great_magic_crit,item_butterfly,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
