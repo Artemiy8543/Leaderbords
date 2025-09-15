@@ -12,4 +12,4 @@
 0093{-,-,item_rapier,item_battle_lance,item_lightning_sword,item_satanic_of_madness,}{item_desolator_2,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 95{item_radiance_prc,-,item_rapier,item_battle_lance,item_lightning_sword,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0096{item_radiance_prc,item_trident_custom,item_rapier,item_creep_desolator,-,item_satanic_of_madness,}{item_battle_lance,-,item_lightning_sword,}{-,-,-,-,-,-,}{item_desolator_2,};
-98{item_radiance_prc,item_trident_custom,item_rapier,item_creep_desolator,-,item_satanic_of_madness,}{item_battle_lance,-,item_lightning_sword,}{-,-,-,-,-,-,}{item_desolator_2,};
+99{item_radiance_prc,item_trident_custom,item_rapier,item_creep_desolator,item_lotus_cuirass,item_satanic_of_madness,}{item_battle_lance,-,item_lightning_sword,}{-,-,-,-,-,-,}{item_desolator_2,};
