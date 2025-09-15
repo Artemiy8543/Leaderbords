@@ -3,4 +3,5 @@
 15{item_moon_shard,item_moon_shard,item_moon_shard,item_great_magic_crit3,item_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 17{item_moon_shard,item_moon_shard,item_moon_shard,item_great_magic_crit3,item_great_magic_crit,item_demon_edge,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 22{item_moon_shard,item_moon_shard,item_moon_shard,item_great_magic_crit3,item_great_magic_crit3,item_moon_shard,}{-,item_great_magic_crit3,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-26{item_moon_shard,item_moon_shard,item_moon_shard,item_great_magic_crit3,item_great_magic_crit3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+25{item_moon_shard,item_moon_shard,item_moon_shard,item_great_magic_crit3,item_great_magic_crit3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+27{item_moon_shard,item_moon_shard,item_moon_shard,item_great_magic_crit3,item_great_magic_crit3,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
