@@ -6,4 +6,4 @@
 0019{item_gladiator_guard,item_refresher_core,item_manaback3,item_trident_custom,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 22{item_gladiator_guard,item_refresher_core,item_manaback3,item_trident_custom,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 0024{item_gladiator_guard,item_refresher_core,item_manaback3,item_trident_custom,item_infinity_moon_shard,item_creep_desolator,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-0026{item_gladiator_guard,item_refresher_core,item_manaback3,item_trident_custom,item_infinity_moon_shard,item_creep_desolator,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+0027{item_gladiator_guard,item_refresher_core,item_manaback3,item_trident_custom,item_infinity_moon_shard,item_creep_desolator,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
