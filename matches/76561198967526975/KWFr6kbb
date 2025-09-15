@@ -7,5 +7,5 @@
 14{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 16{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0021{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0025{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-0031{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+0027{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+33{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
