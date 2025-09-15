@@ -1,2 +1,2 @@
 99=1{item_void_stone,item_voodoo_mask,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_void_stone,item_voodoo_mask,item_energy_booster,item_point_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_bloodstone,-,-,-,item_energy_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
