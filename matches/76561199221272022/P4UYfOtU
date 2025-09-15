@@ -11,3 +11,4 @@
 18{item_radiance_prc,item_butterfly,item_sange_and_yasha,item_battle_lance,item_gladiator_guard,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0020{item_radiance_prc,item_butterfly,item_sange_and_yasha,item_battle_lance,item_gladiator_guard,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 22{item_radiance_prc,item_butterfly,item_sange_and_yasha,item_battle_lance,item_gladiator_guard,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0023{item_radiance_prc,item_butterfly,item_butterfly,item_battle_lance,item_gladiator_guard,item_sange_and_yasha,}{-,-,-,}{-,-,-,-,-,-,}{item_trident_custom,};
