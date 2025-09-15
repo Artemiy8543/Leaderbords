@@ -3,4 +3,5 @@
 7{item_sange,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 9{item_trident_custom,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 10{item_trident_custom,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-13{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+12{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+14{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
