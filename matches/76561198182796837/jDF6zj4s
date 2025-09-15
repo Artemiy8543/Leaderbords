@@ -55,6 +55,7 @@
 154{item_ultimate_boots,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 156{item_basher_slardar,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 158{item_abyssal_blade,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-160{item_abyssal_blade,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-00162{item_abyssal_blade,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-164{item_abyssal_blade,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+159{item_abyssal_blade,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+00161{item_abyssal_blade,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+163{item_abyssal_blade,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+00165{item_abyssal_blade,item_gladiator_guard,item_shivas_strom,item_creep_desolator,item_attacker_midas_str,item_battle_lance,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
