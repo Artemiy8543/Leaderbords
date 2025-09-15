@@ -1,3 +1,4 @@
 54=1{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_sange_and_yasha,item_broadsword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_sange_and_yasha,item_broadsword,item_broadsword,item_quelling_blade,item_cornucopia,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
