@@ -4,4 +4,4 @@
 10{item_attacker_midas_str,item_gladiator_guard,item_ultimate_scepter,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 67{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 86{item_radiance_prc,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_battle_lance,}{item_attacker_midas_str,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-90{item_skadi,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_battle_lance,}{item_attacker_midas_str,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+91{item_skadi,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_battle_lance,}{item_attacker_midas_str,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
