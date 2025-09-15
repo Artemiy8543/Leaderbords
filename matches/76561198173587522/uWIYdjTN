@@ -2,4 +2,4 @@
 002{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_attacker_midas_str,item_gladiator_guard,item_ultimate_scepter,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-65{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+66{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
