@@ -10,4 +10,4 @@
 0027{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 33{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0038{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-87{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,item_creep_desolator,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+88{item_trident_custom,item_gladiator_guard,item_blade_midas,item_radiance_prc,item_lotus_cuirass,item_creep_desolator,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
