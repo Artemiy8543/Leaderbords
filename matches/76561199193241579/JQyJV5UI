@@ -18,4 +18,4 @@
 0043{item_battle_lance,item_trident_custom,item_infinity_moon_shard,item_refresher_core,item_great_crit_custom3,item_butterfly,}{item_magnifying_monocle,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0047{item_battle_lance,item_trident_custom,item_infinity_moon_shard,item_refresher_core,item_great_crit_custom3,item_butterfly,}{item_magnifying_monocle,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0051{item_battle_lance,item_trident_custom,item_infinity_moon_shard,item_refresher_core,item_great_crit_custom3,item_butterfly,}{item_magnifying_monocle,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
-55{item_battle_lance,item_trident_custom,item_infinity_moon_shard,item_refresher_core,item_great_crit_custom3,item_butterfly,}{item_magnifying_monocle,-,-,}{-,-,-,-,-,-,}{-,};
+58{item_battle_lance,item_trident_custom,item_infinity_moon_shard,item_refresher_core,item_great_crit_custom3,item_butterfly,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_magnifying_monocle,};
