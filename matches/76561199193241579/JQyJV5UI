@@ -2,3 +2,4 @@
 002{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_dragon_lance,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_dragon_lance,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+7{item_dragon_lance,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
