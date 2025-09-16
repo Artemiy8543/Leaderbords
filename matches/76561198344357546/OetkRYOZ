@@ -2,3 +2,4 @@
 005{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 10{item_attacker_midas_str,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 11{item_attacker_midas_str,item_heart,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0012{-,-,-,item_attacker_midas_str,item_heart,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
