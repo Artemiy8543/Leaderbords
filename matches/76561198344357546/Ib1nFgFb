@@ -5,3 +5,4 @@
 10{item_lotus_cuirass,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0016{item_lotus_cuirass,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 19{item_lotus_cuirass,item_gladiator_guard,item_shivas_strom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0024{item_lotus_cuirass,item_gladiator_guard,item_shivas_strom,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
