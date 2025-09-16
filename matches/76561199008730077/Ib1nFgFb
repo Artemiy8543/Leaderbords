@@ -1,7 +1,2 @@
 44=3{item_gloves,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_satanic,item_creep_desolator,-,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-14{item_satanic,item_creep_desolator,-,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0017{item_satanic,item_creep_desolator,item_butterfly,item_battle_lance,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-20{item_satanic,item_creep_desolator,item_butterfly,item_battle_lance,item_infinity_moon_shard,item_gladiator_guard,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-23{item_satanic,item_creep_desolator,item_butterfly,item_battle_lance,item_infinity_moon_shard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-30{item_satanic,item_creep_desolator,item_butterfly,item_battle_lance,item_infinity_moon_shard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+33{item_satanic_of_madness,item_creep_desolator,item_butterfly,item_battle_lance,item_infinity_moon_shard,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
