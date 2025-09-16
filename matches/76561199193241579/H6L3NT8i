@@ -22,3 +22,4 @@
 89{item_great_magic_crit3,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 91{item_great_magic_crit3,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_gladiator_guard,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0094{item_great_magic_crit3,item_blade_midas,item_gungir,item_trident_custom,item_bloodstone_shield,item_gladiator_guard,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+95{item_great_magic_crit3,item_blade_midas,item_gungir,item_trident_custom,item_bloodstone_shield,item_gladiator_guard,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
