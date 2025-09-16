@@ -1,2 +1,2 @@
 138=1{item_gloves,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_gloves,item_midas_component,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_gloves,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
