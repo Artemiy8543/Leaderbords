@@ -9,5 +9,5 @@
 0033{item_gladiator_guard,item_holy_urn,item_great_magic_crit,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 34{item_gladiator_guard,item_holy_urn,item_str_book3,item_trident_custom,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 35{item_gladiator_guard,item_holy_urn,-,item_trident_custom,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-39{item_gladiator_guard,item_holy_urn,item_great_magic_crit3,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-42{item_gladiator_guard,item_holy_urn,item_great_magic_crit3,item_trident_custom,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+40{item_gladiator_guard,item_holy_urn,item_great_magic_crit3,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+45{item_gladiator_guard,item_holy_urn,item_great_magic_crit3,item_trident_custom,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
