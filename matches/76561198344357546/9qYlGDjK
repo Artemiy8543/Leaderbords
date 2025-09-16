@@ -6,3 +6,4 @@
 009{item_quelling_blade,item_desolator,item_heart,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0010{item_quelling_blade,item_desolator,item_heart,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_quelling_blade,item_desolator,item_heart,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0012{item_quelling_blade,item_desolator,item_heart,item_vanguard,item_radiance,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
