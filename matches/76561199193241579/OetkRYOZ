@@ -4,3 +4,4 @@
 5{item_ward_observer,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_point_booster,item_bfury,item_staff_of_wizardry,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_ultimate_scepter,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_ultimate_scepter,item_bfury,item_lesser_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
