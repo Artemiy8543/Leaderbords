@@ -1,3 +1,4 @@
 35=1{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_moon_shard,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_moon_shard,item_mjollnir,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+10{item_moon_shard,item_mjollnir,item_creep_desolator,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
