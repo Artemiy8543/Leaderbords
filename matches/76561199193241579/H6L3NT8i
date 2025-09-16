@@ -1,3 +1,4 @@
 2=001{item_midas_component,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_bracer,item_blade_midas,item_ultimate_scepter,-,-,item_ogre_axe,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_bracer,item_blade_midas,item_ultimate_scepter,item_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
