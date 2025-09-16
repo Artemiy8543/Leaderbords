@@ -4,3 +4,4 @@
 4{item_power_treads,item_desolator,item_helm_of_iron_will,item_crown,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_power_treads,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_power_treads,item_creep_desolator,item_relic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+007{item_power_treads,item_creep_desolator,item_radiance,item_urn_of_shadows,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
