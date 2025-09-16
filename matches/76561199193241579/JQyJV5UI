@@ -9,4 +9,4 @@
 0020{item_battle_lance,item_ultimate_scepter,item_infinity_moon_shard,item_octarine_core,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0023{item_battle_lance,item_ultimate_scepter,item_infinity_moon_shard,item_midas_component,item_great_crit_custom3,item_skadi,}{item_octarine_core,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 25{item_battle_lance,-,item_infinity_moon_shard,item_octarine_core,item_great_crit_custom3,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_magnifying_monocle,};
-30{item_battle_lance,-,item_infinity_moon_shard,item_octarine_core,item_great_crit_custom3,item_skadi,}{item_magnifying_monocle,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+31{item_battle_lance,-,item_infinity_moon_shard,item_octarine_core,item_great_crit_custom3,item_skadi,}{item_magnifying_monocle,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
