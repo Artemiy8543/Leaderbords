@@ -1,3 +1,4 @@
 36=10{item_shivas_guard,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 13{item_shivas_guard,item_ultimate_scepter,item_heart,item_radiance,item_ring_of_health,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0014{item_shivas_guard,item_spirit_vessel,-,item_radiance,item_ultimate_scepter,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0016{item_shivas_strom,item_radiance_prc,-,-,item_ultimate_scepter,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
