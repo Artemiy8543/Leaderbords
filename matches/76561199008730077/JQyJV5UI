@@ -7,3 +7,4 @@
 29{item_shivas_strom,item_gladiator_guard,item_kaya_and_sange,item_radiance_prc,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0044{item_shivas_strom,item_gladiator_guard,item_kaya_and_sange,item_radiance_prc,item_vladimir_pact,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 46{item_shivas_strom,item_gladiator_guard,item_kaya_and_sange,item_radiance_prc,item_vladimir_pact,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+59{item_shivas_strom,item_gladiator_guard,item_kaya_and_sange,item_radiance_prc,item_vladimir_pact,item_lotus_cuirass,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
