@@ -7,3 +7,4 @@
 008{item_battle_lance,item_moon_shard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 009{item_battle_lance,item_moon_shard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0011{item_battle_lance,item_moon_shard,item_great_crit_custom,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+12{item_battle_lance,item_moon_shard,item_great_crit_custom,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
