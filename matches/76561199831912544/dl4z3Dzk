@@ -1,3 +1,4 @@
 11=1{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_power_treads,item_blight_stone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_power_treads,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_power_treads,item_desolator,item_helm_of_iron_will,item_crown,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
