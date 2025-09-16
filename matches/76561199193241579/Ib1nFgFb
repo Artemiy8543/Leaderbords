@@ -6,3 +6,4 @@
 12{item_trident_custom,item_attacker_midas_int,item_mask_of_madness,item_battle_lance,item_great_crit_custom3,item_infinity_moon_shard,}{item_gloves,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0015{item_trident_custom,item_attacker_midas_int,item_mask_of_madness,item_battle_lance,item_great_crit_custom3,item_infinity_moon_shard,}{item_gloves,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 18{item_trident_custom,item_attacker_midas_int,item_satanic_of_madness,item_battle_lance,item_great_crit_custom3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+21{item_trident_custom,item_attacker_midas_int,item_satanic_of_madness,item_battle_lance,item_great_crit_custom3,item_infinity_moon_shard,}{item_moon_shard,item_hyperstone,-,}{-,-,-,-,-,-,}{item_misericorde,};
