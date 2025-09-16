@@ -2,3 +2,4 @@
 3{item_ward_observer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_ward_observer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ward_observer,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_point_booster,item_bfury,item_staff_of_wizardry,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
