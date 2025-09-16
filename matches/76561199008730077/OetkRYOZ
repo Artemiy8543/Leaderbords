@@ -3,3 +3,4 @@
 7{item_moon_shard,item_mjollnir,item_mithril_hammer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 10{item_moon_shard,item_mjollnir,item_creep_desolator,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0015{item_mask_of_madness,item_mjollnir,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+17{item_mask_of_madness,item_mjollnir,item_creep_desolator,item_infinity_moon_shard,-,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
