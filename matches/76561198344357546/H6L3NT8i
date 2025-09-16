@@ -3,3 +3,4 @@
 004{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_reaver,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_heart,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_heart,item_holy_urn,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
