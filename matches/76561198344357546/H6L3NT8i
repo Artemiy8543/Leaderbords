@@ -5,4 +5,4 @@
 7{item_heart,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_heart,item_holy_urn,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 16{item_heart,item_holy_urn,item_great_magic_crit,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-20{item_gladiator_guard,item_holy_urn,item_great_magic_crit,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+22{item_gladiator_guard,item_holy_urn,item_great_magic_crit,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
