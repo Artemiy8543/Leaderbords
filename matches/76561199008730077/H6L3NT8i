@@ -9,3 +9,4 @@
 0085{item_mask_of_madness,item_infinity_moon_shard,item_battle_lance,item_creep_desolator,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0088{item_mask_of_madness,item_infinity_moon_shard,item_battle_lance,item_creep_desolator,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0092{item_mask_of_madness,item_infinity_moon_shard,item_battle_lance,item_creep_desolator,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0099{item_mask_of_madness,item_infinity_moon_shard,item_battle_lance,item_creep_desolator,item_great_crit_custom3,-,}{-,-,item_great_crit_custom3,}{-,-,-,-,-,-,}{item_dormant_curio,};
