@@ -10,3 +10,4 @@
 12{item_ultimate_scepter,item_bfury,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 14{item_ultimate_scepter,item_bfury,item_great_crit_custom3,item_creep_desolator,item_octarine_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 16{item_ultimate_scepter,item_bfury,item_great_crit_custom3,item_creep_desolator,item_octarine_core,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+17{item_ultimate_scepter,item_bfury,item_great_crit_custom3,item_creep_desolator,item_refresher_core,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
