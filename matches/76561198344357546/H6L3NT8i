@@ -16,3 +16,4 @@
 52{item_gladiator_guard,item_holy_urn,-,item_trident_custom,item_radiance_prc,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 80{item_gladiator_guard,-,item_infinity_moon_shard,item_trident_custom,item_radiance_prc,item_great_magic_crit3,}{-,item_holy_urn,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 84{item_gladiator_guard,item_shivas_strom,item_infinity_moon_shard,item_trident_custom,item_radiance_prc,item_great_magic_crit3,}{-,item_holy_urn,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+87{item_gladiator_guard,item_holy_urn,item_infinity_moon_shard,item_trident_custom,item_radiance_prc,item_great_magic_crit3,}{-,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
