@@ -4,3 +4,4 @@
 006{item_dragon_lance,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 7{item_dragon_lance,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 14{item_battle_lance,item_ultimate_scepter,item_infinity_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+15{item_battle_lance,item_ultimate_scepter,item_infinity_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
