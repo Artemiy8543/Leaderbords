@@ -24,3 +24,4 @@
 0098{item_gladiator_guard,item_holy_urn,-,item_trident_custom,item_radiance_prc,item_great_magic_crit3,}{-,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 103{item_gladiator_guard,-,item_refresher_core,item_trident_custom,item_radiance_prc,item_great_magic_crit3,}{item_holy_urn,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 105{item_gladiator_guard,-,item_refresher_core,item_trident_custom,item_radiance_prc,item_great_magic_crit3,}{item_holy_urn,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+106{item_gladiator_guard,item_holy_urn,item_refresher_core,item_trident_custom,item_radiance_prc,item_great_magic_crit3,}{-,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
