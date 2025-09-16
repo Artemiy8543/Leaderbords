@@ -3,3 +3,4 @@
 10{item_attacker_midas_str,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 11{item_attacker_midas_str,item_heart,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0013{-,-,-,item_attacker_midas_str,item_heart,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+14{item_blade_mail,-,-,item_attacker_midas_str,item_heart,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
