@@ -22,3 +22,4 @@
 69{item_battle_lance,item_trident_custom,item_infinity_moon_shard,item_satanic_of_madness,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_magnifying_monocle,};
 72{item_battle_lance,item_trident_custom,item_infinity_moon_shard,item_satanic_of_madness,item_great_crit_custom3,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_magnifying_monocle,};
 73{item_battle_lance,item_trident_custom,item_infinity_moon_shard,item_satanic_of_madness,item_great_crit_custom3,item_butterfly,}{-,-,-,}{item_hyperstone,-,-,-,-,-,}{item_magnifying_monocle,};
+75{item_battle_lance,item_trident_custom,item_infinity_moon_shard,item_satanic_of_madness,item_great_crit_custom3,item_butterfly,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_magnifying_monocle,};
