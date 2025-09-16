@@ -6,4 +6,4 @@
 008{item_bracer,item_blade_midas,item_ultimate_scepter,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_bracer,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 19{item_bracer,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-26{item_bracer,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+28{item_bracer,item_blade_midas,item_lotus_cuirass,item_trident_custom,item_bloodstone_shield,item_gladiator_guard,}{item_str_book,item_str_book2,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
