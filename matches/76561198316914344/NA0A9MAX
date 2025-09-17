@@ -1,2 +1,3 @@
 94=3{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_agi,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0010{item_attacker_midas_agi,item_battle_lance,item_butterfly,item_great_crit_custom3,item_ultimate_scepter,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
