@@ -6,3 +6,4 @@
 7{item_hand_of_midas,item_attacker_midas_str,item_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_hand_of_midas,item_attacker_midas_str,item_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_hand_of_midas,item_attacker_midas_str,item_magic_crit,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_hand_of_midas,item_attacker_midas_str,item_magic_crit,item_radiance_prc,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
