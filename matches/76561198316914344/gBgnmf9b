@@ -7,3 +7,4 @@
 29{item_battle_lance,item_radiance_prc,item_armlet_of_mjolnir,item_lotus_cuirass,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0031{item_battle_lance,item_radiance_prc,item_armlet_of_mjolnir,item_lotus_cuirass,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 33{item_battle_lance,item_radiance_prc,item_armlet_of_mjolnir,item_lotus_cuirass,item_gladiator_guard,item_refresher_core,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+37{item_battle_lance,item_gladiator_guard,item_armlet_of_mjolnir,item_lotus_cuirass,item_radiance_prc,item_refresher_core,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
