@@ -4,3 +4,4 @@
 8{item_heart,item_bloodstone,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 009{item_gladiator_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 12{item_gladiator_guard,item_bloodstone,item_shivas_guard,item_platemail,item_buckler,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+13{item_gladiator_guard,item_bloodstone,item_shivas_guard,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
