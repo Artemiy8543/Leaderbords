@@ -1,3 +1,4 @@
 73=3{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_battle_lance,item_radiance_prc,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0013{item_battle_lance,item_radiance_prc,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0016{item_battle_lance,item_radiance_prc,item_armlet_of_mjolnir,item_lotus_cuirass,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
