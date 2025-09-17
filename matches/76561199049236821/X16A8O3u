@@ -10,4 +10,5 @@
 12{item_hand_of_midas,item_attacker_midas_str,item_magic_crit,item_radiance_prc,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0013{item_hand_of_midas,item_attacker_midas_str,item_magic_crit,item_radiance_prc,item_shivas_strom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 16{item_hand_of_midas,item_attacker_midas_str,item_great_magic_crit3,item_radiance_prc,item_shivas_strom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0019{-,item_attacker_midas_str,item_great_magic_crit3,item_radiance_prc,item_shivas_strom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0018{-,item_attacker_midas_str,item_great_magic_crit3,item_radiance_prc,item_shivas_strom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+21{item_infinity_moon_shard,item_attacker_midas_str,item_great_magic_crit3,item_radiance_prc,item_shivas_strom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
