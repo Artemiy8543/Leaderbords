@@ -2,3 +2,4 @@
 2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_ring_of_tarrasque,-,-,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_heart,item_bloodstone,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+009{item_gladiator_guard,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
