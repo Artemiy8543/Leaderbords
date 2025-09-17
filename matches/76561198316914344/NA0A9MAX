@@ -8,4 +8,4 @@
 0033{item_attacker_midas_agi,item_armlet_of_mjolnir,item_butterfly,item_great_crit_custom3,item_battle_lance,item_creep_desolator,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 37{item_attacker_midas_agi,item_armlet_of_mjolnir,item_butterfly,item_great_crit_custom3,item_battle_lance,item_creep_desolator,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 41{item_attacker_midas_agi,item_armlet_of_mjolnir,item_butterfly,item_great_crit_custom3,item_battle_lance,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-45{item_attacker_midas_agi,item_armlet_of_mjolnir,-,item_great_crit_custom3,item_battle_lance,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+46{item_attacker_midas_agi,item_armlet_of_mjolnir,-,item_great_crit_custom3,item_battle_lance,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
