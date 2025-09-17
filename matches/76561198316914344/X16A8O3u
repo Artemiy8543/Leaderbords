@@ -5,3 +5,4 @@
 13{item_hand_of_midas,item_butterfly,item_gladiator_guard,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0014{item_hand_of_midas,item_butterfly,item_gladiator_guard,item_trident_custom,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 20{item_hand_of_midas,item_butterfly,item_gladiator_guard,item_trident_custom,item_battle_lance,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0022{item_hand_of_midas,item_butterfly,item_gladiator_guard,-,item_battle_lance,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
