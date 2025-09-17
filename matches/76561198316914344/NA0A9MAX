@@ -1,2 +1,2 @@
 94=3{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_attacker_midas_agi,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_attacker_midas_agi,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
