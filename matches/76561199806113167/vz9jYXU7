@@ -5,3 +5,4 @@
 006{-,item_bfury,-,item_boots,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_blade_midas,item_bfury,-,item_boots,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 008{item_blade_midas,item_refresher,item_bfury,item_boots,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_blade_midas,item_refresher_core,item_bfury,item_boots,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
