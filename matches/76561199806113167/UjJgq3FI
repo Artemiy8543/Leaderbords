@@ -2,3 +2,4 @@
 002{item_quelling_blade,item_lifesteal,item_broadsword,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_bfury,-,-,-,-,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_bfury,item_cornucopia,-,-,-,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+5{item_bfury,item_cornucopia,-,-,-,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
