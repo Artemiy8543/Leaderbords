@@ -11,3 +11,4 @@
 0016{item_attacker_midas_str,item_gladiator_guard,item_battle_lance,item_armlet_of_mjolnir,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 22{item_attacker_midas_str,item_gladiator_guard,item_battle_lance,item_armlet_of_mjolnir,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0023{item_attacker_midas_str,item_gladiator_guard,item_battle_lance,item_armlet_of_mjolnir,item_great_crit_custom3,item_trident_custom,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+25{item_attacker_midas_str,item_gladiator_guard,item_battle_lance,item_armlet_of_mjolnir,item_great_crit_custom3,item_trident_custom,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
