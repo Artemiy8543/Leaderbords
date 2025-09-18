@@ -1,4 +1,4 @@
 91=3{item_mekansm,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 29{item_headdress,item_ultimate_boots,item_gladiator_guard,item_holy_urn,-,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
 57{item_headdress,item_ultimate_boots,item_gladiator_guard,item_holy_urn,item_radiance_prc,item_vladimir_pact,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
-64{item_infinity_moon_shard,item_ultimate_boots,item_gladiator_guard,item_holy_urn,item_radiance_prc,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
+65{item_armlet_of_mjolnir,item_ultimate_boots,item_gladiator_guard,item_holy_urn,item_radiance_prc,item_vladimir_pact,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
