@@ -17,4 +17,5 @@
 0030{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_refresher,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0031{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 33{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-35{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_refresher_core,item_str_book3,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+34{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+36{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
