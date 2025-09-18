@@ -32,3 +32,4 @@
 0072{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_bloodstone_shield,item_str_book3,}{item_pyrrhic_cloak,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0075{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_str_book3,-,}{item_pyrrhic_cloak,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0077{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_str_book3,-,}{item_pyrrhic_cloak,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0078{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{-,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_pyrrhic_cloak,};
