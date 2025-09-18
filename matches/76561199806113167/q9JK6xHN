@@ -2,3 +2,4 @@
 2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_blade_midas,item_lifesteal,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+006{item_blade_midas,item_refresher,item_vitality_booster,item_quelling_blade,item_lifesteal,item_mask_of_madness,}{item_point_booster,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
