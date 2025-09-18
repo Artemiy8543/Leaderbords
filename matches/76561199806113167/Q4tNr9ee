@@ -2,3 +2,4 @@
 3{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_blade_midas,item_refresher,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_blade_midas,item_refresher,-,-,-,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+7{item_blade_midas,item_refresher_core,item_bfury,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
