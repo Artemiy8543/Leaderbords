@@ -35,4 +35,4 @@
 0078{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{-,item_bloodstone_shield,-,}{-,-,-,-,-,-,}{item_pyrrhic_cloak,};
 0080{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_great_crit_custom3,item_str_book3,}{-,-,item_bloodstone_shield,}{-,-,-,-,-,-,}{item_pyrrhic_cloak,};
 85{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_great_crit_custom3,item_str_book3,}{-,-,item_bloodstone_shield,}{-,-,-,-,-,-,}{item_pyrrhic_cloak,};
-87{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_great_crit_custom3,-,}{-,-,item_bloodstone_shield,}{-,-,-,-,-,-,}{item_pyrrhic_cloak,};
+88{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_great_crit_custom3,-,}{-,-,item_bloodstone_shield,}{-,-,-,-,-,-,}{item_pyrrhic_cloak,};
