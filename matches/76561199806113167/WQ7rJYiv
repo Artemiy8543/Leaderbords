@@ -9,4 +9,5 @@
 10{item_blade_mail,item_refresher,item_bfury,item_platemail,item_hyperstone,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{item_blade_mail,item_refresher_core,item_bfury,item_assault,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_blade_mail,item_refresher_core,item_bfury,item_assault,item_boots,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0016{item_blade_midas,item_refresher_core,item_bfury,item_lotus_cuirass,item_boots,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0015{item_blade_midas,item_refresher_core,item_bfury,item_lotus_cuirass,item_boots,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+17{item_blade_midas,item_refresher_core,item_bfury,item_lotus_cuirass,item_boots,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
