@@ -3,3 +3,4 @@
 4{item_blade_midas,-,-,item_quelling_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 5{item_blade_midas,item_lifesteal,-,item_quelling_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_blade_midas,item_refresher_core,-,item_quelling_blade,-,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+007{item_blade_midas,item_refresher_core,-,item_quelling_blade,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
