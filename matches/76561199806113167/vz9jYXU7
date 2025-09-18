@@ -2,3 +2,4 @@
 002{item_quelling_blade,item_broadsword,-,-,-,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_bfury,-,-,-,-,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bfury,item_boots,-,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{-,item_bfury,-,item_boots,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
