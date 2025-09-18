@@ -1,4 +1,4 @@
 2=001{item_urn_of_shadows,item_diadem,-,-,-,-,}{item_recipe_urn_of_shadows,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_spirit_vessel,-,-,-,-,-,}{item_recipe_urn_of_shadows,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_spirit_vessel,-,-,-,-,-,}{item_recipe_urn_of_shadows,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_blade_mail,-,item_spirit_vessel,-,-,-,}{item_recipe_urn_of_shadows,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+004{item_blade_mail,item_spirit_vessel,-,-,-,-,}{item_recipe_urn_of_shadows,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_blade_mail,-,item_spirit_vessel,-,-,-,}{item_recipe_urn_of_shadows,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
