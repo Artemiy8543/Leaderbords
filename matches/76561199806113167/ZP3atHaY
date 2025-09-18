@@ -2,3 +2,4 @@
 2{item_blade_mail,item_quelling_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_blade_midas,item_quelling_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_blade_midas,item_quelling_blade,-,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+005{item_blade_midas,item_cornucopia,item_ring_of_tarrasque,-,item_quelling_blade,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
