@@ -1,4 +1,4 @@
 49=1{item_power_treads,-,item_buckler,item_flask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_power_treads,item_talisman_of_evasion,item_buckler,item_flask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_power_treads,item_radiance,item_buckler,item_flask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-6{item_power_treads,item_radiance,item_buckler,item_flask,item_lifesteal,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_power_treads,item_radiance,item_buckler,item_flask,item_lifesteal,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
