@@ -3,3 +3,4 @@
 003{item_bfury,-,-,-,-,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bfury,item_boots,-,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{-,item_bfury,-,item_boots,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+007{item_blade_midas,item_bfury,-,item_boots,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
