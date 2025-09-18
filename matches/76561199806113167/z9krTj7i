@@ -15,4 +15,4 @@
 27{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 30{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 32{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-34{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_refresher,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+35{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
