@@ -3,3 +3,4 @@
 3{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_blade_midas,item_bloodstone,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
