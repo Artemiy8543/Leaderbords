@@ -4,3 +4,4 @@
 004{item_bfury,-,-,-,-,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bfury,item_refresher,-,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_bfury,item_refresher,-,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{item_blade_mail,item_refresher,item_bfury,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
