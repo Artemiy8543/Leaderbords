@@ -6,4 +6,4 @@
 7{item_blade_midas,item_refresher_core,-,item_quelling_blade,item_lifesteal,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_blade_midas,item_refresher_core,item_bloodstone,item_assault,item_bfury,item_mask_of_madness,}{item_lifesteal,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_blade_midas,item_refresher_core,item_bloodstone,item_lotus_cuirass,item_battle_lance,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-13{item_blade_midas,item_refresher_core,item_bloodstone_shield,item_lotus_cuirass,item_battle_lance,item_satanic_of_madness,}{item_moon_shard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+14{item_blade_midas,item_refresher_core,item_bloodstone_shield,item_lotus_cuirass,item_battle_lance,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
