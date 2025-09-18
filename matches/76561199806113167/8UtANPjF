@@ -11,4 +11,4 @@
 0017{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0020{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0022{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0024{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0025{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_bloodstone_shield,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
