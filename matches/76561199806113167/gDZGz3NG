@@ -17,4 +17,5 @@
 30{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{item_pyrrhic_cloak,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 32{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{item_pyrrhic_cloak,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 36{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{item_pyrrhic_cloak,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-40{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{item_pyrrhic_cloak,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+39{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{item_pyrrhic_cloak,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+41{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_str_book3,-,}{item_pyrrhic_cloak,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
