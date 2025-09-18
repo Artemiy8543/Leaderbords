@@ -2,3 +2,4 @@
 004{item_hand_of_midas,item_bracer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_hand_of_midas,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_vanguard,item_attacker_midas_str,item_hand_of_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_vanguard,item_attacker_midas_str,item_hand_of_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
