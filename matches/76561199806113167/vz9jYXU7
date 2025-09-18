@@ -9,5 +9,6 @@
 0010{item_blade_midas,item_refresher_core,item_bfury,item_boots,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 11{item_blade_midas,item_refresher_core,item_bfury,item_boots,item_lotus_cuirass,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 12{item_blade_midas,item_refresher_core,item_bfury,item_boots,item_lotus_cuirass,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0014{item_blade_midas,item_refresher_core,item_battle_lance,item_boots,item_lotus_cuirass,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-16{item_blade_midas,item_refresher_core,item_battle_lance,item_boots_of_bearing,item_lotus_cuirass,item_satanic,}{item_recipe_travel_boots,item_recipe_travel_boots,item_mekansm,}{item_ring_of_basilius,item_recipe_arcane_boots,item_buckler,item_recipe_guardian_greaves,item_chainmail,item_blades_of_attack,}{item_dormant_curio,};
+0013{item_blade_midas,item_refresher_core,item_bfury,item_boots,item_lotus_cuirass,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+15{item_blade_midas,item_refresher_core,item_battle_lance,item_boots,item_lotus_cuirass,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+17{item_blade_midas,item_refresher_core,item_battle_lance,item_boots_of_bearing,item_lotus_cuirass,item_satanic,}{item_recipe_travel_boots,item_recipe_travel_boots,item_mekansm,}{item_ring_of_basilius,item_recipe_arcane_boots,item_buckler,item_recipe_guardian_greaves,item_chainmail,item_blades_of_attack,}{item_dormant_curio,};
