@@ -3,4 +3,4 @@
 7{item_vladmir,item_bracer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_vladmir,item_bracer,-,-,item_guardian_greaves,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 17{item_vladimir_pact,item_bracer,-,-,item_guardian_greaves,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0023{item_vladimir_pact,item_bracer,item_ultimate_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0024{item_vladimir_pact,item_bracer,item_ultimate_boots,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
