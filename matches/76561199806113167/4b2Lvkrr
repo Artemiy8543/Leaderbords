@@ -1,2 +1,3 @@
 104=1{item_quelling_blade,item_broadsword,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+2{item_quelling_blade,item_broadsword,item_broadsword,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
