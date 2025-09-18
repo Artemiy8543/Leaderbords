@@ -3,5 +3,5 @@
 005{item_blade_midas,item_refresher,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_blade_midas,item_refresher,-,-,-,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_blade_midas,item_refresher_core,item_bfury,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-8{item_blade_midas,item_refresher_core,item_bfury,-,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-10{item_blade_midas,item_refresher_core,item_battle_lance,item_lotus_cuirass,-,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_blade_midas,item_refresher_core,item_bfury,item_lotus_cuirass,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0011{item_blade_midas,item_refresher_core,item_battle_lance,item_lotus_cuirass,-,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
