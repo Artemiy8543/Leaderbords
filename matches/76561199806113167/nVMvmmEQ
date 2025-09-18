@@ -6,4 +6,4 @@
 8{item_blade_midas,item_bloodstone,item_spirit_vessel,item_platemail,item_hyperstone,-,}{item_recipe_urn_of_shadows,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_blade_midas,item_bloodstone_shield,item_spirit_vessel,item_lotus_cuirass,-,-,}{item_recipe_urn_of_shadows,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0010{item_blade_midas,item_bloodstone_shield,item_spirit_vessel,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0011{item_blade_midas,item_bloodstone_shield,item_spirit_vessel,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0012{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
