@@ -7,4 +7,5 @@
 9{item_blade_midas,item_refresher_core,item_bfury,item_assault,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0011{item_blade_midas,item_refresher_core,item_bfury,item_lotus_cuirass,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0013{item_blade_midas,item_refresher_core,item_bfury,item_lotus_cuirass,item_bloodstone_shield,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0016{item_blade_midas,item_refresher_core,item_battle_lance,item_lotus_cuirass,item_bloodstone_shield,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0015{item_blade_midas,item_refresher_core,item_battle_lance,item_lotus_cuirass,item_bloodstone_shield,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+17{item_blade_midas,item_refresher_core,item_battle_lance,item_lotus_cuirass,item_bloodstone_shield,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
