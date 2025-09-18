@@ -5,4 +5,5 @@
 007{item_vanguard,item_attacker_midas_str,item_hand_of_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_attacker_midas_str,item_gladiator_guard,item_hand_of_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_attacker_midas_str,item_gladiator_guard,item_hand_of_midas,item_butterfly,item_armlet,-,}{item_recipe_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0011{item_attacker_midas_str,item_gladiator_guard,item_hand_of_midas,item_armlet_of_mjolnir,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0010{item_attacker_midas_str,item_gladiator_guard,item_hand_of_midas,item_armlet_of_mjolnir,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_attacker_midas_str,item_gladiator_guard,-,item_armlet_of_mjolnir,item_butterfly,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
