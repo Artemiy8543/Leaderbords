@@ -1,3 +1,4 @@
 104=1{item_quelling_blade,item_broadsword,item_chainmail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_blade_mail,-,-,item_quelling_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,-,-,item_quelling_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+5{item_blade_midas,item_lifesteal,-,item_quelling_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
