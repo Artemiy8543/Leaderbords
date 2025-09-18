@@ -1,3 +1,4 @@
 104=1{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_blade_midas,-,-,-,-,item_lifesteal,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
