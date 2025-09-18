@@ -3,4 +3,5 @@
 005{item_blade_midas,-,-,item_quelling_blade,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_midas,item_refresher,item_soul_booster,item_quelling_blade,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_blade_midas,item_refresher_core,item_broadsword,item_quelling_blade,item_broadsword,item_mask_of_madness,}{item_cornucopia,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-9{item_blade_midas,item_refresher_core,item_battle_lance,item_assault,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+8{item_blade_midas,item_refresher_core,item_battle_lance,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+10{item_blade_midas,item_refresher_core,item_battle_lance,item_assault,-,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
