@@ -13,4 +13,5 @@
 0020{item_blade_midas,item_refresher_core,item_battle_lance,item_lotus_cuirass,item_creep_desolator,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 24{item_blade_midas,item_refresher_core,item_battle_lance,item_lotus_cuirass,item_creep_desolator,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0029{item_blade_midas,item_refresher_core,item_battle_lance,item_lotus_cuirass,item_bloodstone_shield,item_satanic_of_madness,}{item_creep_desolator,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-33{item_blade_midas,item_refresher_core,item_bloodstone_shield,item_lotus_cuirass,item_battle_lance,item_satanic_of_madness,}{item_creep_desolator,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+32{item_blade_midas,item_refresher_core,item_bloodstone_shield,item_lotus_cuirass,item_battle_lance,item_satanic_of_madness,}{item_creep_desolator,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0034{item_blade_midas,item_refresher_core,item_bloodstone_shield,item_lotus_cuirass,item_battle_lance,item_satanic_of_madness,}{item_creep_desolator,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
