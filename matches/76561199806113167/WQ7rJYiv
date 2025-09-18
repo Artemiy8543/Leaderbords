@@ -6,3 +6,4 @@
 7{item_bfury,item_refresher,-,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_blade_mail,item_refresher,item_bfury,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_blade_mail,item_refresher,item_bfury,-,-,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_blade_mail,item_refresher,item_bfury,item_platemail,item_hyperstone,item_mask_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
