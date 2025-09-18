@@ -27,3 +27,4 @@
 0051{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_great_crit_custom3,item_str_book3,}{-,-,item_refresher_core,}{-,-,-,-,-,-,}{item_chipped_vest,};
 52{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_great_crit_custom3,item_bloodstone_shield,}{-,-,item_refresher_core,}{-,-,-,-,-,-,}{item_gale_guard,};
 0053{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_bloodstone_shield,-,}{-,item_refresher_core,item_great_crit_custom3,}{-,-,-,-,-,-,}{item_gale_guard,};
+54{item_blade_midas,item_bloodstone_shield,item_radiance_prc,item_lotus_cuirass,item_bloodstone_shield,item_str_book3,}{-,item_refresher_core,item_great_crit_custom3,}{-,-,-,-,-,-,}{item_gale_guard,};
