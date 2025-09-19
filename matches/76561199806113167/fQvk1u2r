@@ -5,4 +5,4 @@
 007{item_blade_midas,item_bloodstone_shield,-,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 9{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 11{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0013{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0014{item_blade_midas,-,-,item_lotus_cuirass,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
