@@ -3,3 +3,4 @@
 4{item_blade_midas,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_blade_midas,item_bloodstone,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_blade_midas,item_bloodstone_shield,-,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_blade_midas,item_bloodstone_shield,item_pers,item_assault,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
