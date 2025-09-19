@@ -1,4 +1,4 @@
 96=1{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_blade_mail,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_blade_mail,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_blade_midas,item_assault,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+4{item_blade_midas,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+006{item_blade_midas,item_voodoo_mask,-,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
