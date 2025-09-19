@@ -4,4 +4,5 @@
 7{item_blade_midas,item_bloodstone,-,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_blade_midas,item_bloodstone_shield,item_platemail,item_lotus_cuirass,item_platemail,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_assault,item_lotus_orb,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-14{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+13{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+15{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
