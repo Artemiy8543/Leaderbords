@@ -3,4 +3,4 @@
 5{item_blade_midas,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_blade_midas,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_blade_midas,item_bloodstone_shield,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-008{item_blade_midas,item_bloodstone_shield,-,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_blade_midas,item_bloodstone_shield,-,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
