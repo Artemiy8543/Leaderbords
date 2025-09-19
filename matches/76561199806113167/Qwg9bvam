@@ -6,4 +6,5 @@
 8{item_blade_midas,item_bloodstone_shield,item_pers,item_assault,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-14{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+13{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0015{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
