@@ -4,3 +4,4 @@
 004{item_blade_midas,item_voodoo_mask,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_blade_midas,item_bloodstone,-,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 007{item_blade_midas,item_bloodstone,item_platemail,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_blade_midas,item_bloodstone_shield,item_platemail,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
