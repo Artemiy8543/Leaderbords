@@ -8,4 +8,5 @@
 10{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_platemail,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 12{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 14{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-17{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,item_str_book2,}{-,-,-,-,-,-,}{item_dormant_curio,};
+16{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+18{item_blade_midas,item_bloodstone_shield,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,item_lotus_cuirass,}{-,-,item_str_book2,}{-,-,-,-,-,-,}{item_dormant_curio,};
