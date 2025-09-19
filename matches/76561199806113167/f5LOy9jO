@@ -4,5 +4,6 @@
 005{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_blade_midas,item_bloodstone_shield,-,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-9{item_blade_midas,item_bloodstone_shield,item_platemail,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-11{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_blade_midas,item_bloodstone_shield,item_platemail,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
