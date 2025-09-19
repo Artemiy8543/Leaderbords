@@ -3,3 +3,4 @@
 005{item_blade_midas,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_blade_midas,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_blade_midas,item_bloodstone_shield,-,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+009{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
