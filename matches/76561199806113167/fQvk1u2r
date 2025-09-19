@@ -11,4 +11,5 @@
 0020{item_blade_midas,-,-,item_lotus_cuirass,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0023{item_blade_midas,item_str_book3,-,item_lotus_cuirass,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 27{item_blade_midas,-,-,item_lotus_cuirass,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-32{item_blade_midas,-,-,item_lotus_cuirass,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+31{item_blade_midas,-,-,item_lotus_cuirass,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0033{item_blade_midas,item_str_book3,-,item_lotus_cuirass,-,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
