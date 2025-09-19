@@ -4,4 +4,5 @@
 006{item_blade_midas,item_bloodstone,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_blade_midas,item_bloodstone_shield,-,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_blade_midas,item_bloodstone_shield,item_pers,item_assault,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0010{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0011{item_blade_midas,item_bloodstone_shield,-,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
