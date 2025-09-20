@@ -1,2 +1,2 @@
 94=1{item_claymore,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_butterfly,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+5{item_butterfly,item_dragon_lance,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
