@@ -2,3 +2,4 @@
 002{item_quelling_blade,item_wraith_band,item_power_treads,item_gloves,item_javelin,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_quelling_blade,item_wraith_band,item_power_treads,item_gloves,item_javelin,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_quelling_blade,item_wraith_band,item_power_treads,item_maelstrom,item_vanguard,item_flask,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+006{item_quelling_blade,item_wraith_band,item_power_treads,item_maelstrom,item_vanguard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
