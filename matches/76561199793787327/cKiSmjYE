@@ -20,4 +20,4 @@
 0043{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_blade_midas,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0050{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_blade_midas,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0060{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_blade_midas,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-77{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_vladimir_pact,item_blade_midas,item_creep_desolator,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+78{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_vladimir_pact,item_blade_midas,item_creep_desolator,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
