@@ -2,4 +2,4 @@
 6{item_battle_lance,item_vladimir_pact,item_butterfly,item_butterfly,item_orb_of_frost,item_basher_slardar,}{item_ultimate_orb,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 41{item_battle_lance,item_vladimir_pact,item_butterfly,item_butterfly,item_great_magic_crit3,item_basher_slardar,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 43{item_battle_lance,item_vladimir_pact,item_butterfly,item_butterfly,item_great_magic_crit3,item_basher_slardar,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-45{item_battle_lance,item_vladimir_pact,item_butterfly,item_butterfly,item_great_magic_crit3,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+46{item_battle_lance,item_vladimir_pact,item_butterfly,item_butterfly,item_great_magic_crit3,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
