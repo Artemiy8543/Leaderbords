@@ -10,3 +10,4 @@
 0014{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0015{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 16{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_blade_midas,item_desolator,}{item_helm_of_iron_will,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0017{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_blade_midas,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
