@@ -3,3 +3,4 @@
 3{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_radiance,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_radiance,item_shivas_strom,item_refresher_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
