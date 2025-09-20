@@ -2,3 +2,4 @@
 004{item_flask,item_tango,item_wraith_band,item_magic_wand,-,item_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_flask,item_tango,item_wraith_band,item_magic_wand,item_dragon_lance,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_flask,item_tango,item_wraith_band,item_magic_wand,item_hurricane_pike,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+13{item_silver_edge,item_black_king_bar,item_wraith_band,item_magic_wand,item_hurricane_pike,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
