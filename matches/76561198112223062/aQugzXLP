@@ -2,3 +2,4 @@
 5{item_power_treads,item_quelling_blade,item_blight_stone,item_broadsword,item_broadsword,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_power_treads,item_bfury,item_desolator,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 15{-,item_bfury,item_desolator,item_satanic,item_basher,item_monkey_king_bar,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0019{item_lotus_cuirass,item_bfury,item_creep_desolator,item_satanic,item_abyssal_blade,item_monkey_king_bar,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
