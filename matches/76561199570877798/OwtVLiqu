@@ -3,3 +3,4 @@
 5{item_lifesteal,item_wraith_band,item_ultimate_scepter,item_flask,item_dragon_lance,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_lifesteal,item_wraith_band,item_ultimate_scepter,item_talisman_of_evasion,item_dragon_lance,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 008{item_vladmir,item_wraith_band,item_ultimate_scepter,item_talisman_of_evasion,item_dragon_lance,item_null_talisman,}{item_eagle,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_vladmir,item_hurricane_pike,item_ultimate_scepter,item_butterfly,item_ring_of_tarrasque,item_helm_of_the_dominator,}{item_wraith_band,item_null_talisman,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
