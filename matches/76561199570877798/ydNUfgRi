@@ -1,3 +1,4 @@
 33=1{item_ring_of_basilius,item_buckler,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_vladmir,item_veil_of_discord,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_vladmir,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_vladmir,item_shivas_guard,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
