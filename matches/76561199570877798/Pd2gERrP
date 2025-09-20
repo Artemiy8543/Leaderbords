@@ -6,6 +6,7 @@
 007{item_bfury,item_butterfly,item_boots,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 008{item_bfury,item_butterfly,item_boots,item_radiance,item_talisman_of_evasion,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 009{item_bfury,item_butterfly,item_boots,item_radiance,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-11{item_bfury,item_butterfly,item_boots,item_radiance,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-13{item_battle_lance,item_butterfly,item_boots,item_radiance,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-15{item_battle_lance,item_butterfly,item_satanic,item_radiance,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+10{item_bfury,item_butterfly,item_boots,item_radiance,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0012{item_battle_lance,item_butterfly,item_boots,item_radiance,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+14{item_battle_lance,item_butterfly,item_satanic,item_radiance,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+16{item_battle_lance,item_butterfly,item_satanic,item_radiance,item_butterfly,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
