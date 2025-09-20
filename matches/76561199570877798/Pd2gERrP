@@ -2,3 +2,4 @@
 002{item_quelling_blade,item_cornucopia,item_broadsword,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_bfury,item_talisman_of_evasion,item_boots,item_claymore,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+6{item_bfury,item_butterfly,item_boots,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
