@@ -2,3 +2,4 @@
 4{item_vladmir,item_veil_of_discord,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_vladmir,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_vladmir,item_shivas_guard,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0011{item_vladmir,item_shivas_guard,item_bloodstone,item_guardian_greaves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
