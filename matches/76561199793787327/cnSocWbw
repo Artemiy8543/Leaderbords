@@ -5,4 +5,4 @@
 46{item_battle_lance,item_vladimir_pact,item_butterfly,item_butterfly,item_great_magic_crit3,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 48{item_battle_lance,item_vladimir_pact,item_butterfly,item_butterfly,item_great_magic_crit3,item_basher_slardar,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 0050{item_battle_lance,item_vladimir_pact,item_butterfly,item_butterfly,item_great_magic_crit3,item_basher_slardar,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
-82{item_butterfly,item_vladimir_pact,item_butterfly,item_battle_lance,item_great_magic_crit3,item_basher_slardar,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
+83{item_butterfly,item_vladimir_pact,item_butterfly,item_battle_lance,item_great_magic_crit3,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
