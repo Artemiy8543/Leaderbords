@@ -3,3 +3,4 @@
 3{item_branches,item_maelstrom,item_blade_of_alacrity,item_branches,item_branches,item_branches,}{item_belt_of_strength,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_branches,item_maelstrom,item_dragon_lance,item_branches,item_branches,item_branches,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 6{item_branches,item_maelstrom,item_dragon_lance,item_branches,item_branches,item_branches,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+7{item_branches,item_maelstrom,item_dragon_lance,item_hyperstone,item_branches,item_branches,}{item_branches,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
