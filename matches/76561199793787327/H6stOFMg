@@ -4,4 +4,4 @@
 7{item_eternal_shroud,item_assault,-,-,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_eternal_shroud,item_assault,-,-,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{item_eternal_shroud,item_lotus_cuirass,-,-,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-12{item_lotus_cuirass,item_eternal_shroud,-,-,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+13{item_lotus_cuirass,item_eternal_shroud,item_blade_mail,-,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
