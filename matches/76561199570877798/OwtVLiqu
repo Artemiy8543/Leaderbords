@@ -10,3 +10,4 @@
 0014{item_vladmir,item_hurricane_pike,item_mjollnir,item_butterfly,item_heart,item_helm_of_the_overlord,}{item_claymore,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0015{item_satanic,item_hurricane_pike,item_mjollnir,item_butterfly,item_heart,item_helm_of_the_overlord,}{item_lifesteal,item_ward_observer,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0016{item_satanic,item_hurricane_pike,item_helm_of_the_overlord,item_butterfly,item_butterfly,item_mjollnir,}{-,item_ward_observer,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0017{item_satanic,item_hurricane_pike,item_helm_of_the_overlord,item_butterfly,item_butterfly,item_mjollnir,}{-,item_ward_observer,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
