@@ -1,4 +1,5 @@
 99=1{item_cloak,item_ogre_axe,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_eternal_shroud,item_bracer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_eternal_shroud,item_platemail,-,-,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-8{item_eternal_shroud,item_assault,-,-,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_eternal_shroud,item_assault,-,-,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_eternal_shroud,item_assault,-,-,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
