@@ -8,4 +8,4 @@
 93{item_lotus_cuirass,item_vladimir_pact,item_butterfly,item_battle_lance,item_great_magic_crit3,item_butterfly,}{-,item_basher_slardar,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 102{item_lotus_cuirass,item_vladimir_pact,item_butterfly,item_battle_lance,item_great_magic_crit3,item_butterfly,}{-,item_basher_slardar,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 103{item_lotus_cuirass,item_vladimir_pact,item_butterfly,item_battle_lance,item_great_magic_crit3,item_butterfly,}{-,item_basher_slardar,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
-104{item_lotus_cuirass,item_vladimir_pact,item_butterfly,item_battle_lance,item_great_magic_crit3,item_butterfly,}{-,item_basher_slardar,-,}{-,-,-,-,-,-,}{item_giant_maul,};
+105{item_shivas_strom,item_vladimir_pact,item_butterfly,item_battle_lance,item_great_magic_crit3,item_butterfly,}{item_lotus_cuirass,item_basher_slardar,-,}{-,-,-,-,-,-,}{item_giant_maul,};
