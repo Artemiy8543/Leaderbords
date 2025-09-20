@@ -4,5 +4,6 @@
 5{item_assault,item_pers,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_assault,item_pers,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 007{item_lotus_cuirass,item_broadsword,item_chainmail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-009{item_lotus_cuirass,-,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0011{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{item_lotus_cuirass,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_lotus_cuirass,item_gladiator_guard,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
