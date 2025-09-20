@@ -5,3 +5,4 @@
 0011{item_vladmir,item_shivas_guard,item_bloodstone,item_guardian_greaves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0012{item_vladmir,item_shivas_guard,item_bloodstone,item_guardian_greaves,item_tiara_of_selemene,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0015{item_vladmir,item_shivas_guard,item_bloodstone,item_guardian_greaves,item_octarine_core,item_gungir,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0017{item_vladmir,item_shivas_guard,item_bloodstone,item_guardian_greaves,item_octarine_core,item_gungir,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_chipped_vest,};
