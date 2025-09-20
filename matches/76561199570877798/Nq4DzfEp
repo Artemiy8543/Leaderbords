@@ -7,3 +7,4 @@
 8{item_branches,item_mjollnir,item_dragon_lance,item_branches,item_branches,item_branches,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 009{-,item_mjollnir,item_dragon_lance,item_branches,item_branches,item_branches,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 10{item_hurricane_pike,item_mjollnir,-,item_branches,item_branches,item_branches,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0011{item_hurricane_pike,item_mjollnir,-,item_branches,item_branches,item_branches,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
