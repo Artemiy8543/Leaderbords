@@ -2,3 +2,4 @@
 002{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_veil_of_discord,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+5{item_veil_of_discord,item_platemail,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
