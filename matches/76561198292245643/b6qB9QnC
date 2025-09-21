@@ -3,3 +3,4 @@
 4{item_attacker_midas_agi,item_ring_of_tarrasque,item_vanguard,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_attacker_midas_agi,-,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_attacker_midas_agi,-,-,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+007{item_attacker_midas_agi,item_moon_shard,item_battle_lance,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
