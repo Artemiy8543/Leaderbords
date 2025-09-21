@@ -16,5 +16,5 @@
 0051{item_creep_desolator,item_shivas_strom,item_gladiator_guard,item_satanic_of_madness,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0055{item_creep_desolator,item_shivas_strom,item_gladiator_guard,item_satanic_of_madness,item_agi_book2,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 57{item_creep_desolator,item_shivas_strom,item_gladiator_guard,item_satanic_of_madness,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-58{item_creep_desolator,item_shivas_strom,item_gladiator_guard,item_satanic_of_madness,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-0061{item_creep_desolator,item_shivas_strom,item_gladiator_guard,item_satanic_of_madness,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+60{item_creep_desolator,item_shivas_strom,item_gladiator_guard,item_satanic_of_madness,-,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0062{item_creep_desolator,item_agi_book2,item_gladiator_guard,item_satanic_of_madness,item_wraith_band,item_battle_lance,}{-,-,item_shivas_strom,}{-,-,-,-,-,-,}{item_desolator_2,};
