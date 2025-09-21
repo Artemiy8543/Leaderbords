@@ -7,4 +7,5 @@
 007{item_shivas_guard,item_vanguard,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_shivas_guard,item_crimson_guard,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_shivas_guard,item_crimson_guard,item_ring_of_tarrasque,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0014{item_shivas_guard,item_gladiator_guard,item_radiance_prc,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0013{item_shivas_guard,item_gladiator_guard,item_radiance,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0015{item_shivas_guard,item_gladiator_guard,item_radiance_prc,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
