@@ -25,3 +25,4 @@
 0052{item_skadi,item_vladimir_pact,item_shivas_strom,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 53{item_skadi,item_vladimir_pact,item_shivas_strom,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 59{item_skadi,item_vladimir_pact,item_shivas_strom,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+65{item_skadi,item_vladimir_pact,item_shivas_strom,item_lotus_cuirass,item_battle_lance,item_gladiator_guard,}{item_str_book2,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
