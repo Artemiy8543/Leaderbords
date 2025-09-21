@@ -3,4 +3,4 @@
 10{item_ultimate_scepter,item_trident_custom,item_clarity,item_moon_shard,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0011{item_ultimate_scepter,item_trident_custom,-,item_moon_shard,item_phylactery_blade,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 12{item_ultimate_scepter,item_trident_custom,item_clarity,item_moon_shard,item_phylactery_blade,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-16{item_ultimate_scepter,item_trident_custom,-,item_moon_shard,item_phylactery_blade,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+17{item_ultimate_scepter,item_trident_custom,item_refresher_core,item_moon_shard,item_phylactery_blade,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
