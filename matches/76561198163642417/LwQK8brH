@@ -5,4 +5,4 @@
 006{item_bfury,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_bfury,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 9{item_bfury,item_vladmir,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-11{item_bfury,item_vladmir,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+12{item_bfury,item_vladmir,item_blade_midas,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
