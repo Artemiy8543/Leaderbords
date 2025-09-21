@@ -13,4 +13,4 @@
 26{item_attacker_midas_agi,item_armlet_of_mjolnir,item_bloodstone_shield,item_khandas_brooch,item_butterfly,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 92{item_attacker_midas_agi,item_armlet_of_mjolnir,item_bloodstone_shield,item_khandas_brooch,item_butterfly,item_battle_lance,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 136{item_attacker_midas_agi,item_armlet_of_mjolnir,item_bloodstone_shield,item_khandas_brooch,item_skadi,item_battle_lance,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-167{item_attacker_midas_agi,item_armlet_of_mjolnir,item_bloodstone_shield,item_khandas_brooch,item_great_crit_custom3,item_battle_lance,}{item_agi_book3,item_skadi,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+168{item_attacker_midas_agi,item_armlet_of_mjolnir,item_bloodstone_shield,item_khandas_brooch,item_great_crit_custom3,item_battle_lance,}{item_agi_book3,item_skadi,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
