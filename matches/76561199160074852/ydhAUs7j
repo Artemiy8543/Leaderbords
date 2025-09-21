@@ -6,4 +6,4 @@
 006{item_magic_stick,item_bfury,item_lifesteal,item_lesser_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_mask_of_madness,item_magic_stick,item_bfury,item_lesser_crit,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 8{item_mask_of_madness,item_magic_stick,item_bfury,item_lesser_crit,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-009{item_satanic,item_recipe_heart,item_bfury,item_lesser_crit,item_moon_shard,item_ring_of_tarrasque,}{item_magic_stick,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0010{item_satanic,item_heart,item_bfury,item_lesser_crit,item_moon_shard,-,}{item_magic_stick,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
