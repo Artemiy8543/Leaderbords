@@ -8,3 +8,4 @@
 11{item_bfury,item_vladmir,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0013{item_bfury,item_vladmir,item_blade_midas,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 14{item_bfury,item_vladmir,item_blade_midas,item_lotus_cuirass,item_radiance_prc,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0016{item_bfury,item_vladmir,item_blade_midas,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
