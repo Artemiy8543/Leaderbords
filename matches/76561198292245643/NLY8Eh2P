@@ -4,3 +4,4 @@
 8{item_attacker_midas_int,item_manaback3,item_voodoo_mask,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 12{item_attacker_midas_int,item_manaback3,item_bloodstone_shield,item_moon_shard,item_battle_lance,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 16{item_bloodstone_shield,item_manaback3,item_attacker_midas_int,item_phylactery_blade,item_battle_lance,item_trident_custom,}{item_moon_shard,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+19{item_bloodstone_shield,item_manaback3,item_attacker_midas_int,item_phylactery_blade,item_refresher_core,item_trident_custom,}{item_moon_shard,item_battle_lance,item_khandas_brooch,}{-,-,-,-,-,-,}{item_polliwog_charm,};
