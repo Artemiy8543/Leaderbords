@@ -55,3 +55,4 @@
 265{item_attacker_midas_agi,item_vladimir_pact,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_battle_lance,}{item_satanic_of_madness,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 267{item_attacker_midas_agi,item_vladimir_pact,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_battle_lance,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 269{item_attacker_midas_agi,item_vladimir_pact,item_bloodstone_shield,item_creep_desolator,item_great_crit_custom3,item_battle_lance,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+270{item_attacker_midas_agi,item_vladimir_pact,item_bloodstone_shield,item_agi_book3,item_great_crit_custom3,item_battle_lance,}{item_creep_desolator,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
