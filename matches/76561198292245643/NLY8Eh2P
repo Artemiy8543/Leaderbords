@@ -2,3 +2,4 @@
 006{item_attacker_midas_int,item_manaback2,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 7{item_attacker_midas_int,item_manaback3,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 8{item_attacker_midas_int,item_manaback3,item_voodoo_mask,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+12{item_attacker_midas_int,item_manaback3,item_bloodstone_shield,item_moon_shard,item_battle_lance,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
