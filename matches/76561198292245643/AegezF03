@@ -3,3 +3,4 @@
 4{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_attacker_midas_agi,item_bfury,item_blade_of_alacrity,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_agi,item_battle_lance,item_blight_stone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_agi,item_battle_lance,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
