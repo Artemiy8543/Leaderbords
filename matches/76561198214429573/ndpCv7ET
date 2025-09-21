@@ -1,4 +1,4 @@
 36=1{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_str,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-6{item_attacker_midas_str,item_radiance,item_ring_of_tarrasque,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_attacker_midas_str,item_radiance,item_heart,item_ogre_axe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
