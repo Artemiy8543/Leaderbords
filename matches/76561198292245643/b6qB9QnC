@@ -7,3 +7,4 @@
 9{item_attacker_midas_agi,-,-,item_gladiator_guard,-,-,}{-,-,item_battle_lance,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_attacker_midas_agi,item_creep_desolator,-,item_gladiator_guard,-,-,}{-,-,item_battle_lance,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0011{item_attacker_midas_agi,item_creep_desolator,-,item_gladiator_guard,-,-,}{-,-,item_battle_lance,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_attacker_midas_agi,item_creep_desolator,item_gladiator_guard,item_satanic_of_madness,-,-,}{-,-,item_battle_lance,}{-,-,-,-,-,-,}{item_dormant_curio,};
