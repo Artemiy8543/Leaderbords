@@ -9,4 +9,5 @@
 17{item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 19{item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 22{item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-26{item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+25{item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0027{item_attacker_midas_str,item_radiance_prc,item_gladiator_guard,item_bloodstone_shield,item_great_magic_crit3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
