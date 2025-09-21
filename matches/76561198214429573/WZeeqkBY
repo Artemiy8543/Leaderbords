@@ -41,3 +41,4 @@
 00245{item_attacker_midas_agi,item_armlet_of_mjolnir,item_bloodstone_shield,item_khandas_brooch,item_great_crit_custom3,item_battle_lance,}{item_str_book3,item_skadi,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 246{item_attacker_midas_agi,item_armlet_of_mjolnir,item_bloodstone_shield,item_khandas_brooch,item_great_crit_custom3,item_battle_lance,}{item_str_book3,item_skadi,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 247{item_attacker_midas_agi,item_satanic_of_madness,item_bloodstone_shield,item_khandas_brooch,item_great_crit_custom3,item_battle_lance,}{item_armlet_of_mjolnir,item_skadi,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+248{item_attacker_midas_agi,item_satanic_of_madness,item_bloodstone_shield,item_khandas_brooch,item_great_crit_custom3,item_battle_lance,}{-,item_skadi,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
