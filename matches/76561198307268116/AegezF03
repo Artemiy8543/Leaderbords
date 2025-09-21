@@ -4,4 +4,4 @@
 12{item_assault,-,-,item_blade_mail,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 16{item_lotus_cuirass,item_satanic_of_madness,item_refresher_core,item_blade_mail,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 73{item_lotus_cuirass,item_satanic_of_madness,item_great_crit_custom3,item_blade_mail,item_gladiator_guard,item_refresher_core,}{-,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-117{item_lotus_cuirass,item_satanic_of_madness,item_great_crit_custom3,item_blade_mail,item_gladiator_guard,item_refresher_core,}{-,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_misericorde,};
+121{item_lotus_cuirass,item_satanic_of_madness,item_great_crit_custom3,item_blade_mail,item_gladiator_guard,item_refresher_core,}{-,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_misericorde,};
