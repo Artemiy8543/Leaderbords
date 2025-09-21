@@ -3,4 +3,4 @@
 006{item_assault,-,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_assault,-,-,item_blade_mail,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 16{item_lotus_cuirass,item_satanic_of_madness,item_refresher_core,item_blade_mail,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-24{item_lotus_cuirass,item_satanic_of_madness,-,item_blade_mail,item_gladiator_guard,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+26{item_lotus_cuirass,item_satanic_of_madness,-,item_blade_mail,item_gladiator_guard,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
