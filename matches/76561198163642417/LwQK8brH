@@ -22,3 +22,4 @@
 45{item_skadi,item_vladimir_pact,item_shivas_strom,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0047{item_skadi,item_vladimir_pact,item_shivas_strom,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
 50{item_skadi,item_vladimir_pact,item_shivas_strom,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
+0052{item_skadi,item_vladimir_pact,item_shivas_strom,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_psychic_headband,};
