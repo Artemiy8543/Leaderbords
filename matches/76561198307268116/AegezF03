@@ -1,3 +1,4 @@
 104=1{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_assault,-,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_assault,-,-,item_blade_mail,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
