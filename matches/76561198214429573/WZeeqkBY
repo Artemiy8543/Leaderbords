@@ -1,4 +1,4 @@
 94=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_agi,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-6{item_attacker_midas_agi,item_mjollnir,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+7{item_attacker_midas_agi,item_mjollnir,item_bloodstone_shield,item_point_booster,item_staff_of_wizardry,item_blade_of_alacrity,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
