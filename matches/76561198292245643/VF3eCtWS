@@ -4,4 +4,4 @@
 9{item_attacker_midas_agi,item_creep_desolator,item_octarine_core,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_attacker_midas_agi,item_creep_desolator,item_octarine_core,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_attacker_midas_agi,item_creep_desolator,item_octarine_core,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-39{item_attacker_midas_agi,item_creep_desolator,item_octarine_core,item_battle_lance,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+42{item_attacker_midas_agi,item_creep_desolator,item_octarine_core,item_battle_lance,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
