@@ -8,3 +8,4 @@
 0020{item_radiance_prc,item_bloodstone_shield,item_veil_of_dagon,item_octarine_core,item_silver_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 22{-,item_bloodstone_shield,item_veil_of_dagon,item_octarine_core,item_silver_edge,-,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 25{-,item_bloodstone_shield,item_veil_of_dagon,item_octarine_core,item_silver_edge,item_great_magic_crit3,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+27{-,item_bloodstone_shield,item_veil_of_dagon,item_octarine_core,item_silver_edge,item_great_magic_crit3,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
