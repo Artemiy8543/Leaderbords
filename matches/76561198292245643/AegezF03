@@ -10,4 +10,4 @@
 0020{item_attacker_midas_agi,item_battle_lance,item_creep_desolator,item_satanic_of_madness,-,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 76{item_attacker_midas_agi,item_battle_lance,item_creep_desolator,item_satanic_of_madness,item_butterfly,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 126{item_attacker_midas_agi,item_battle_lance,item_creep_desolator,item_agi_book3,item_butterfly,item_gladiator_guard,}{item_satanic_of_madness,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-235{item_attacker_midas_agi,item_battle_lance,item_creep_desolator,item_satanic_of_madness,item_agi_book3,item_gladiator_guard,}{-,item_butterfly,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+237{item_attacker_midas_agi,item_battle_lance,item_creep_desolator,item_satanic_of_madness,item_agi_book3,item_gladiator_guard,}{-,item_butterfly,-,}{-,-,-,-,-,-,}{item_desolator_2,};
