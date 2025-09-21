@@ -5,3 +5,4 @@
 0010{item_silver_edge,item_octarine_core,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0014{item_silver_edge,item_octarine_core,item_vladimir_pact,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0018{-,item_octarine_core,item_vladimir_pact,-,item_silver_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+19{-,item_octarine_core,item_vladimir_pact,-,item_silver_edge,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
