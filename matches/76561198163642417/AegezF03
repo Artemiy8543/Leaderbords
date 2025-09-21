@@ -9,4 +9,4 @@
 76{item_shivas_strom,item_refresher_core,item_vladimir_pact,item_great_magic_crit3,item_silver_edge,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 124{item_shivas_strom,item_refresher_core,item_vladimir_pact,item_great_magic_crit3,item_silver_edge,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 250{item_shivas_strom,item_refresher_core,item_vladimir_pact,item_great_magic_crit3,item_silver_edge,item_radiance_prc,}{item_str_book3,item_ultimate_boots,item_agi_book3,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-290{item_shivas_strom,item_refresher_core,item_vladimir_pact,-,item_silver_edge,item_radiance_prc,}{item_great_magic_crit3,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+291{item_shivas_strom,item_refresher_core,item_vladimir_pact,-,item_silver_edge,item_radiance_prc,}{item_great_magic_crit3,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
