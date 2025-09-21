@@ -1,3 +1,4 @@
 44=2{item_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_desolator,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_desolator,item_lifesteal,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+10{-,-,-,item_satanic_of_madness,item_desolator,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
