@@ -5,3 +5,4 @@
 5{item_ultimate_scepter,-,-,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_ultimate_scepter,item_broadsword,item_quelling_blade,item_broadsword,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_ultimate_scepter,item_bfury,item_wraith_band,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_ultimate_scepter,item_battle_lance,item_attacker_midas_agi,item_ring_of_protection,item_energy_booster,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
