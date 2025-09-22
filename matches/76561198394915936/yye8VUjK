@@ -2,3 +2,4 @@
 2{item_blade_of_alacrity,item_point_booster,item_staff_of_wizardry,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_ultimate_scepter,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_ultimate_scepter,item_voodoo_mask,item_void_stone,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_ultimate_scepter,-,-,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
