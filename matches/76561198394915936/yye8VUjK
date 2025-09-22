@@ -4,3 +4,4 @@
 4{item_ultimate_scepter,item_voodoo_mask,item_void_stone,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ultimate_scepter,-,-,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_ultimate_scepter,item_broadsword,item_quelling_blade,item_broadsword,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_ultimate_scepter,item_bfury,item_wraith_band,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
