@@ -4,3 +4,4 @@
 004{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_bfury,item_platemail,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_bfury,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_bfury,item_assault,item_claymore,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
