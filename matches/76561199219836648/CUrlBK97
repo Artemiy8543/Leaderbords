@@ -2,3 +2,4 @@
 3{item_bottle,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 4{item_bottle,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 005{-,-,item_octarine_core,item_voodoo_mask,item_bottle,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+6{item_kaya,-,item_octarine_core,item_voodoo_mask,item_bottle,item_null_talisman,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
