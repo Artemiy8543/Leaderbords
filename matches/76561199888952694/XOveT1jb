@@ -3,4 +3,4 @@
 4{item_ultimate_boots,item_great_magic_crit3,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 006{item_ultimate_boots,item_great_magic_crit3,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 8{item_ultimate_boots,item_great_magic_crit3,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-0010{item_ultimate_boots,item_great_magic_crit3,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+0011{item_refresher_core,item_great_magic_crit3,item_radiance_prc,item_ultimate_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
