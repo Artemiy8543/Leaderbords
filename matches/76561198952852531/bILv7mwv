@@ -8,3 +8,4 @@
 11{item_moon_shard,item_satanic,item_maelstrom,item_octarine_core,item_voodoo_mask,item_kaya,}{item_boots,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 13{item_infinity_moon_shard,item_satanic,item_maelstrom,item_octarine_core,item_revenants_brooch,item_kaya,}{item_boots,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 14{item_infinity_moon_shard,item_satanic,item_maelstrom,item_octarine_core,item_revenants_brooch,item_kaya,}{item_boots,item_moon_shard,item_hyperstone,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0015{item_infinity_moon_shard,item_satanic,item_maelstrom,item_octarine_core,item_revenants_brooch,item_kaya,}{item_boots,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
