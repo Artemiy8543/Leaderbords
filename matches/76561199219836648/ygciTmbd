@@ -1,4 +1,4 @@
 96=1{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_vanguard,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_vanguard,item_ring_of_tarrasque,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-7{-,-,item_heart,item_crimson_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_gladiator_guard,item_heart,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
