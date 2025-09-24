@@ -1,2 +1,3 @@
 34=1{item_bottle,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_bottle,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+4{item_bottle,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
