@@ -2,4 +2,5 @@
 3{item_vanguard,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_vanguard,item_ring_of_tarrasque,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{-,-,item_heart,item_crimson_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-10{item_gladiator_guard,item_heart,item_assault,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_gladiator_guard,item_heart,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_gladiator_guard,item_heart,item_assault,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
