@@ -1,2 +1,2 @@
 96=1{item_ring_of_health,item_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_vanguard,item_boots,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_vanguard,item_boots,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
