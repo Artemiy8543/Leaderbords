@@ -5,3 +5,4 @@
 7{item_boots,item_mask_of_madness,item_maelstrom,item_tiara_of_selemene,item_vitality_booster,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_boots,item_mask_of_madness,item_maelstrom,item_octarine_core,item_voodoo_mask,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_boots,item_satanic,item_maelstrom,item_octarine_core,item_voodoo_mask,item_staff_of_wizardry,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_moon_shard,item_satanic,item_maelstrom,item_octarine_core,item_voodoo_mask,item_kaya,}{item_boots,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
