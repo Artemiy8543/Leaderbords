@@ -2,3 +2,4 @@
 3{-,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_boots,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_boots,item_mask_of_madness,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_boots,item_mask_of_madness,item_maelstrom,item_tiara_of_selemene,item_vitality_booster,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
