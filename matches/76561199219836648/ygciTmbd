@@ -4,4 +4,4 @@
 7{-,-,item_heart,item_crimson_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_gladiator_guard,item_heart,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_gladiator_guard,item_heart,item_assault,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-14{item_gladiator_guard,item_heart,item_assault,item_trident_custom,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+15{item_gladiator_guard,item_heart,item_assault,item_trident_custom,item_blade_midas,-,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_chipped_vest,};
