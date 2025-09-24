@@ -2,4 +2,4 @@
 2{item_ultimate_boots,item_battle_lance,item_great_magic_crit3,-,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_satanic_of_madness,item_battle_lance,item_great_magic_crit3,item_ultimate_boots,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
 006{item_satanic_of_madness,item_battle_lance,item_great_magic_crit3,item_ultimate_boots,item_infinity_moon_shard,item_rapier,}{item_moon_shard,-,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
-008{item_satanic_of_madness,item_battle_lance,item_great_magic_crit3,item_ultimate_boots,item_infinity_moon_shard,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
+009{item_satanic_of_madness,item_battle_lance,item_great_magic_crit3,item_ultimate_boots,item_infinity_moon_shard,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
