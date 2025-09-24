@@ -4,4 +4,5 @@
 006{item_vanguard,item_boots,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_sange,item_boots,-,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_sange,item_boots,-,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-13{item_sange,item_boots,-,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_sange,item_boots,-,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0014{item_sange,item_boots,item_heart,item_gladiator_guard,item_blade_midas,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
