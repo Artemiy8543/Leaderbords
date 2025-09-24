@@ -3,4 +3,4 @@
 4{item_power_treads,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_power_treads,item_radiance,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_power_treads,item_radiance,item_butterfly,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-9{item_power_treads,item_radiance,item_butterfly,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_power_treads,item_radiance,item_butterfly,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
