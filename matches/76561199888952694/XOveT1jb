@@ -8,5 +8,6 @@
 16{item_refresher_core,item_great_magic_crit3,item_radiance_prc,item_ultimate_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 20{item_refresher_core,item_great_magic_crit3,item_radiance_prc,item_ultimate_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 24{item_refresher_core,item_great_magic_crit3,item_radiance_prc,item_ultimate_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-28{item_refresher_core,item_great_magic_crit3,item_radiance_prc,item_ultimate_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-30{item_refresher_core,item_great_magic_crit3,item_radiance_prc,item_ultimate_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia_broken,};
+27{item_refresher_core,item_great_magic_crit3,item_radiance_prc,item_ultimate_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+29{item_refresher_core,item_great_magic_crit3,item_radiance_prc,item_ultimate_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia_broken,};
+0031{item_refresher_core,item_great_magic_crit3,item_radiance_prc,item_ultimate_boots,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia_broken,};
