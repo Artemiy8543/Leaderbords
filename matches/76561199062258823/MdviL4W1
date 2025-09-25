@@ -4,3 +4,4 @@
 6{item_branches,item_branches,item_quelling_blade,item_gauntlets,item_gauntlets,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_branches,item_branches,item_quelling_blade,item_gauntlets,item_gauntlets,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 8{item_branches,item_branches,item_gladiator_guard,item_gauntlets,item_gauntlets,item_radiance_prc,}{item_quelling_blade,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+9{item_branches,item_branches,item_gladiator_guard,item_gauntlets,item_gauntlets,item_radiance_prc,}{item_quelling_blade,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
