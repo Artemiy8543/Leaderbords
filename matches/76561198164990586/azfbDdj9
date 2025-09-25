@@ -2,4 +2,4 @@
 9{item_maelstrom,item_skadi,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0012{item_mjollnir,item_skadi,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 16{item_mjollnir,item_skadi,item_ultimate_scepter,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-26{item_mjollnir,item_skadi,-,item_battle_lance,-,-,}{item_desolator_2,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+28{item_mjollnir,item_skadi,item_great_crit_custom3,item_battle_lance,-,-,}{item_desolator_2,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
