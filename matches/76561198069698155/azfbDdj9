@@ -1,3 +1,4 @@
 54=1{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_str,item_ring_of_tarrasque,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_attacker_midas_str,item_ring_of_tarrasque,item_crimson_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
