@@ -6,3 +6,4 @@
 0012{item_gladiator_guard,item_blade_mail,item_ultimate_scepter,item_eternal_shroud,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0014{item_gladiator_guard,item_blade_mail,item_ultimate_scepter,item_eternal_shroud,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 16{item_gladiator_guard,item_blade_mail,item_ultimate_scepter,item_eternal_shroud,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+18{item_gladiator_guard,item_blade_mail,-,item_eternal_shroud,item_great_magic_crit,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
