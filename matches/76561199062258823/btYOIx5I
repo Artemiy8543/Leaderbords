@@ -9,4 +9,5 @@
 14{-,item_ultimate_scepter,item_bloodstone,item_gladiator_guard,item_blade_midas,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 16{-,item_ultimate_scepter,item_bloodstone,item_gladiator_guard,item_blade_midas,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 18{item_bloodstone_shield,-,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-21{item_bloodstone_shield,-,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+20{item_bloodstone_shield,-,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0022{item_bloodstone_shield,-,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
