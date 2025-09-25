@@ -1,4 +1,5 @@
 73=1{item_magic_stick,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_magic_stick,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_magic_stick,item_radiance,item_heart,item_bottle,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_gladiator_guard,item_radiance,item_satanic,item_bottle,item_magic_stick,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_gladiator_guard,item_radiance,item_satanic,item_bottle,item_magic_stick,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0013{item_gladiator_guard,item_radiance,item_satanic,item_bottle,item_magic_stick,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
