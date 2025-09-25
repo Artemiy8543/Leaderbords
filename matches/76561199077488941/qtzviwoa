@@ -2,3 +2,4 @@
 002{item_broadsword,item_quelling_blade,item_broadsword,item_cornucopia,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bfury,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+5{item_bfury,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
