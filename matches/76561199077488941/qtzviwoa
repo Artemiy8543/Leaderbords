@@ -13,3 +13,4 @@
 0013{item_battle_lance,item_satanic,item_moon_shard,item_gladiator_guard,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 14{item_battle_lance,item_satanic,item_moon_shard,item_gladiator_guard,item_creep_desolator,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0015{item_battle_lance,item_satanic,item_moon_shard,item_gladiator_guard,item_creep_desolator,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0016{item_battle_lance,item_satanic,item_moon_shard,item_gladiator_guard,item_creep_desolator,item_attacker_midas_agi,}{item_battle_lance,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
