@@ -1,2 +1,3 @@
 94=2{item_gloves,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_gloves,item_attacker_midas_agi,item_javelin,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+003{item_gloves,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_maelstrom,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
