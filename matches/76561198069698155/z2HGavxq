@@ -3,3 +3,4 @@
 6{item_crimson_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_crimson_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 009{item_crimson_guard,item_blade_mail,item_ultimate_scepter,item_eternal_shroud,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0011{item_gladiator_guard,item_blade_mail,item_ultimate_scepter,item_eternal_shroud,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
