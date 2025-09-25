@@ -2,3 +2,4 @@
 2{item_branches,item_branches,item_quelling_blade,item_gauntlets,item_gauntlets,item_relic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_branches,item_branches,item_quelling_blade,item_gauntlets,item_gauntlets,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_branches,item_branches,item_quelling_blade,item_gauntlets,item_gauntlets,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_branches,item_branches,item_quelling_blade,item_gauntlets,item_gauntlets,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
