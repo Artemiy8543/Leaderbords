@@ -3,4 +3,5 @@
 6{item_crimson_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_crimson_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 009{item_crimson_guard,item_blade_mail,item_ultimate_scepter,item_eternal_shroud,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0013{item_gladiator_guard,item_blade_mail,item_ultimate_scepter,item_eternal_shroud,item_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0012{item_gladiator_guard,item_blade_mail,item_ultimate_scepter,item_eternal_shroud,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0014{item_gladiator_guard,item_blade_mail,item_ultimate_scepter,item_eternal_shroud,item_great_magic_crit,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
