@@ -3,4 +3,4 @@
 5{item_maelstrom,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 008{item_mjollnir,item_attacker_midas_agi,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 10{item_mjollnir,item_attacker_midas_agi,item_ultimate_scepter,item_skadi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-17{item_mjollnir,item_attacker_midas_agi,item_ultimate_scepter,item_skadi,item_creep_desolator,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+18{item_mjollnir,item_attacker_midas_agi,item_ultimate_scepter,item_skadi,item_creep_desolator,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
