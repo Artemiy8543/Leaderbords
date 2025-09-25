@@ -1,3 +1,4 @@
 75=1{item_kaya,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_kaya,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_kaya,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_kaya,item_attacker_midas_int,item_revenants_brooch,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
