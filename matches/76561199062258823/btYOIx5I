@@ -1,3 +1,4 @@
 2=001{-,-,-,-,-,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_ring_of_health,-,-,-,-,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_vanguard,-,item_staff_of_wizardry,item_ogre_axe,-,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+3{item_vanguard,-,-,-,-,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_vanguard,item_clarity,item_staff_of_wizardry,item_ogre_axe,-,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
