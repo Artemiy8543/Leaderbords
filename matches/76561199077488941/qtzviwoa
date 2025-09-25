@@ -8,3 +8,4 @@
 8{item_battle_lance,item_satanic,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 9{item_battle_lance,item_satanic,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 10{item_battle_lance,item_satanic,item_moon_shard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0011{item_battle_lance,item_satanic,item_moon_shard,item_heart,item_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
