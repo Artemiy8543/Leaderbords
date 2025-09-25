@@ -4,3 +4,4 @@
 8{item_kaya,item_attacker_midas_int,item_revenants_brooch,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_kaya,item_attacker_midas_int,item_revenants_brooch,item_phylactery,item_tiara_of_selemene,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_magic_crit,item_attacker_midas_int,item_khandas_brooch,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0015{item_great_magic_crit2,item_attacker_midas_int,item_khandas_brooch,item_trident_custom,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
