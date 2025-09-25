@@ -32,3 +32,4 @@
 70{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,item_rapier,}{item_whisper_of_the_dread,};
 0071{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,item_rapier,}{item_whisper_of_the_dread,};
 0072{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,item_str_book,}{item_radiance_prc,-,-,}{-,-,-,-,-,item_rapier,}{item_whisper_of_the_dread,};
+0073{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,item_agi_book,}{item_radiance_prc,-,-,}{-,-,-,-,-,item_rapier,}{item_whisper_of_the_dread,};
