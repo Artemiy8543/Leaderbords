@@ -19,4 +19,4 @@
 0037{item_bloodstone_shield,-,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 40{item_bloodstone_shield,-,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0042{item_bloodstone_shield,-,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-43{item_bloodstone_shield,-,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+44{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
