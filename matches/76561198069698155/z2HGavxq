@@ -2,3 +2,4 @@
 3{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_crimson_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_crimson_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+008{item_crimson_guard,item_blade_mail,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
