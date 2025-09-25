@@ -23,6 +23,7 @@
 0045{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 47{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 50{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,item_meteor_rain,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-53{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
-55{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
-0057{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+52{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+54{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+0056{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+58{item_bloodstone_shield,item_manaback3,item_shivas_strom,item_gladiator_guard,item_blade_midas,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
