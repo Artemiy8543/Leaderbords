@@ -3,3 +3,4 @@
 7{item_magic_stick,item_radiance,item_heart,item_bottle,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_gladiator_guard,item_radiance,item_satanic,item_bottle,item_magic_stick,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0014{item_gladiator_guard,item_radiance,item_satanic,item_bottle,item_magic_stick,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+17{item_gladiator_guard,item_radiance,item_satanic,item_bottle,item_magic_stick,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
