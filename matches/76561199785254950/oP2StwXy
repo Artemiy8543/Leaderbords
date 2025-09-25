@@ -5,3 +5,4 @@
 006{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_manta,-,-,item_radiance,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_manta,item_ward_observer,item_helm_of_the_dominator,item_radiance,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_manta,-,item_helm_of_the_dominator,item_radiance,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
