@@ -2,3 +2,4 @@
 2{item_boots,item_voodoo_mask,item_javelin,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_boots,item_voodoo_mask,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_boots,item_voodoo_mask,item_maelstrom,item_kaya,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+7{item_boots,item_bloodstone_shield,item_maelstrom,item_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
