@@ -8,4 +8,4 @@
 11{item_attacker_midas_int,item_ultimate_scepter,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 14{item_attacker_midas_int,item_mjollnir,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0017{item_attacker_midas_int,item_mjollnir,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-20{item_attacker_midas_int,item_mjollnir,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+21{item_attacker_midas_int,item_mjollnir,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
