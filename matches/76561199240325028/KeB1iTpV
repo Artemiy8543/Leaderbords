@@ -5,3 +5,4 @@
 008{item_radiance_prc,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0010{item_radiance_prc,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 13{item_radiance_prc,item_heart,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+14{item_radiance_prc,item_heart,item_bloodstone,item_phylactery_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
