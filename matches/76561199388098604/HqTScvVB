@@ -3,3 +3,4 @@
 4{item_magic_crit,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_magic_crit,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 7{item_magic_crit,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+8{item_magic_crit,item_bloodstone,item_maelstrom,item_veil_of_discord,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
