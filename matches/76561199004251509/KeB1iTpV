@@ -4,3 +4,4 @@
 20{item_hand_of_midas,item_manaback2,item_bloodstone_shield,item_phylactery_blade,item_lightning_sword,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 56{item_shivas_strom,item_manaback2,item_bloodstone_shield,item_phylactery_blade,item_lightning_sword,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 67{item_shivas_strom,item_manaback2,item_bloodstone_shield,item_phylactery_blade,item_lightning_sword,item_refresher_core,}{-,item_dezun_bloodrite,item_great_magic_crit,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
+70{item_shivas_strom,item_phylactery_blade,item_bloodstone_shield,item_hand_of_midas,item_lightning_sword,item_refresher_core,}{item_great_magic_crit,-,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
