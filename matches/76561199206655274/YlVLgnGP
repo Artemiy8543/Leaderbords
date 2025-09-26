@@ -12,4 +12,4 @@
 33{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0035{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_shivas_strom,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 37{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_shivas_strom,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0039{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_shivas_strom,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0040{item_bloodstone_shield,item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_shivas_strom,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
