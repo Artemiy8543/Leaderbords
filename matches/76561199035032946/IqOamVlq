@@ -2,5 +2,5 @@
 2{item_attacker_midas_int,item_staff_of_wizardry,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_attacker_midas_int,item_staff_of_wizardry,item_blade_of_alacrity,item_ogre_axe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_int,item_ultimate_scepter,item_lesser_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-005{item_attacker_midas_int,item_ultimate_scepter,item_magic_crit,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-7{item_attacker_midas_int,item_ultimate_scepter,item_great_magic_crit3,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+006{item_attacker_midas_int,item_ultimate_scepter,item_magic_crit,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_attacker_midas_int,item_ultimate_scepter,item_great_magic_crit3,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
