@@ -21,4 +21,4 @@
 0052{item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,item_great_magic_crit3,item_moon_shard,item_attacker_midas_str,}{item_flask,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 54{item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,item_great_magic_crit3,item_moon_shard,item_attacker_midas_str,}{item_flask,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0056{item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,item_great_magic_crit3,item_moon_shard,item_attacker_midas_str,}{item_flask,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-58{item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,item_great_magic_crit3,item_infinity_moon_shard,-,}{item_flask,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+59{item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,item_great_magic_crit3,item_infinity_moon_shard,item_moon_shard,}{item_flask,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
