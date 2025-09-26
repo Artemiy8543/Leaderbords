@@ -12,3 +12,4 @@
 0012{item_gladiator_guard,item_radiance_prc,item_great_magic_crit3,item_attacker_midas_str,item_lifesteal,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0013{item_gladiator_guard,item_radiance_prc,item_great_magic_crit3,item_attacker_midas_str,item_lifesteal,item_octarine_core,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 14{item_gladiator_guard,item_radiance_prc,item_great_magic_crit3,item_attacker_midas_str,item_lifesteal,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0015{item_gladiator_guard,item_radiance_prc,item_great_magic_crit3,item_attacker_midas_str,-,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
