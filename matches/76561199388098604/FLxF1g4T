@@ -1,2 +1,3 @@
 22=1{item_boots,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_boots,item_voodoo_mask,item_javelin,item_mithril_hammer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+2{item_boots,item_voodoo_mask,item_javelin,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_boots,item_voodoo_mask,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
