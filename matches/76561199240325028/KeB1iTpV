@@ -12,4 +12,5 @@
 30{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_phylactery_blade,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
 31{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_phylactery_blade,item_bloodstone_shield,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
 0035{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_phylactery_blade,item_bloodstone_shield,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
-0042{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_phylactery_blade,item_bloodstone_shield,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
+0039{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_phylactery_blade,item_bloodstone_shield,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
+0044{item_radiance_prc,item_gladiator_guard,item_ultimate_scepter,item_phylactery_blade,item_bloodstone_shield,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
