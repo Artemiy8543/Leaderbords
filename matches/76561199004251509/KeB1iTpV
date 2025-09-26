@@ -1,3 +1,4 @@
 108=4{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_hand_of_midas,item_manaback2,item_bloodstone,-,item_gungir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 16{item_hand_of_midas,item_manaback2,item_bloodstone_shield,item_phylactery_blade,item_lightning_sword,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+19{item_hand_of_midas,item_manaback2,item_bloodstone_shield,item_phylactery_blade,item_lightning_sword,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
