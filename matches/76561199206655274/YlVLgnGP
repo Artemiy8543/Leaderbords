@@ -1,3 +1,4 @@
 2=001{-,-,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{-,-,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-005{item_voodoo_mask,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+2{-,-,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+004{item_voodoo_mask,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_voodoo_mask,item_heart,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
