@@ -4,3 +4,4 @@
 006{item_boots,item_voodoo_mask,item_maelstrom,item_kaya,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_boots,item_bloodstone_shield,item_maelstrom,item_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_boots,item_bloodstone_shield,item_maelstrom,item_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_boots,item_bloodstone_shield,item_maelstrom,item_magic_crit,item_kaya_and_sange,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
