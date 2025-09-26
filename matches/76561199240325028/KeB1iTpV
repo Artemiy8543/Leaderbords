@@ -12,4 +12,4 @@
 55{item_shivas_strom,item_gladiator_guard,item_radiance_prc,item_phylactery_blade,item_bloodstone_shield,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
 68{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_phylactery_blade,item_refresher_core,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
 69{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_phylactery_blade,item_trident_custom,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
-73{item_lotus_cuirass,item_gladiator_guard,item_phylactery_blade,item_hand_of_midas,item_trident_custom,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
+74{item_lotus_cuirass,item_gladiator_guard,item_phylactery_blade,-,item_trident_custom,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
