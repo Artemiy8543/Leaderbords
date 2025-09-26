@@ -9,4 +9,4 @@
 14{item_bfury,item_satanic_of_madness,item_desolator,item_hand_of_midas,item_great_crit_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0015{item_bfury,item_satanic_of_madness,item_desolator,item_hand_of_midas,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 16{item_bfury,item_satanic_of_madness,item_desolator,item_hand_of_midas,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-19{item_bfury,item_satanic_of_madness,item_creep_desolator,item_hand_of_midas,item_great_crit_custom3,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+20{item_bfury,item_satanic_of_madness,item_creep_desolator,item_hand_of_midas,item_infinity_moon_shard,item_heart,}{item_great_crit_custom3,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
