@@ -5,3 +5,4 @@
 005{item_attacker_midas_str,item_circlet,item_sobi_mask,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_gladiator_guard,item_attacker_midas_str,item_magic_crit,item_demon_edge,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_gladiator_guard,item_attacker_midas_str,item_great_magic_crit2,item_demon_edge,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_gladiator_guard,item_attacker_midas_str,item_great_magic_crit3,item_platemail,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
