@@ -1,3 +1,4 @@
 73=3{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_hand_of_midas,-,-,-,-,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_hand_of_midas,-,-,-,-,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+008{item_hand_of_midas,item_satanic,item_hyperstone,-,-,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
