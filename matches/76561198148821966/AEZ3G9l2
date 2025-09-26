@@ -3,3 +3,4 @@
 6{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_hand_of_midas,item_blade_mail,item_bfury,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_hand_of_midas,item_blade_mail,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
