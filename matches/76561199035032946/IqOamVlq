@@ -5,4 +5,5 @@
 005{item_attacker_midas_int,item_ultimate_scepter,item_magic_crit,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_attacker_midas_int,item_ultimate_scepter,item_great_magic_crit3,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_attacker_midas_int,item_ultimate_scepter,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-12{item_attacker_midas_int,item_ultimate_scepter,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_attacker_midas_int,item_ultimate_scepter,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+13{item_ultimate_scepter,item_mjollnir,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,item_battle_lance,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
