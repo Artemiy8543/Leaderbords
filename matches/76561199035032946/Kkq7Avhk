@@ -7,4 +7,5 @@
 008{item_attacker_midas_int,item_mjollnir,item_skadi,item_ultimate_scepter,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 9{item_attacker_midas_int,item_mjollnir,item_skadi,item_ultimate_scepter,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 11{item_attacker_midas_int,item_mjollnir,item_skadi,-,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-14{item_manta,item_mjollnir,item_skadi,item_attacker_midas_int,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+13{item_manta,item_mjollnir,item_skadi,item_attacker_midas_int,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+0015{item_manta,item_mjollnir,item_skadi,item_attacker_midas_int,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
