@@ -10,4 +10,4 @@
 13{item_manta,item_mjollnir,item_skadi,item_attacker_midas_int,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0015{item_manta,item_mjollnir,item_skadi,item_attacker_midas_int,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 17{item_manta,item_mjollnir,item_skadi,item_attacker_midas_int,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-0020{item_manta,item_mjollnir,item_skadi,item_attacker_midas_int,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+0021{item_manta,item_mjollnir,item_skadi,-,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
