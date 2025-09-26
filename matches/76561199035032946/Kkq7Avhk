@@ -6,3 +6,4 @@
 007{item_attacker_midas_int,item_maelstrom,item_skadi,item_ultimate_scepter,item_dragon_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 008{item_attacker_midas_int,item_mjollnir,item_skadi,item_ultimate_scepter,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 9{item_attacker_midas_int,item_mjollnir,item_skadi,item_ultimate_scepter,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+10{item_attacker_midas_int,item_mjollnir,item_skadi,item_ultimate_scepter,item_battle_lance,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
