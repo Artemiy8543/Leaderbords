@@ -6,4 +6,5 @@
 6{item_gladiator_guard,item_attacker_midas_str,item_magic_crit,item_demon_edge,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_gladiator_guard,item_attacker_midas_str,item_great_magic_crit2,item_demon_edge,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_gladiator_guard,item_attacker_midas_str,item_great_magic_crit3,item_platemail,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-10{item_lotus_cuirass,item_attacker_midas_str,item_gladiator_guard,item_great_magic_crit3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+9{item_gladiator_guard,item_attacker_midas_str,item_great_magic_crit3,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+11{item_lotus_cuirass,item_attacker_midas_str,item_gladiator_guard,item_great_magic_crit3,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
