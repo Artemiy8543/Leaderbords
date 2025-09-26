@@ -9,4 +9,4 @@
 0014{item_hand_of_midas,item_satanic,item_assault,item_skadi,item_radiance_prc,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 17{item_hand_of_midas,item_satanic,item_assault,item_skadi,item_radiance_prc,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 19{item_hand_of_midas,item_satanic,item_lotus_cuirass,item_skadi,item_radiance_prc,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-21{item_hand_of_midas,item_satanic,item_lotus_cuirass,item_skadi,item_radiance_prc,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+24{item_skadi,item_satanic,item_lotus_cuirass,item_infinity_moon_shard,item_radiance_prc,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
