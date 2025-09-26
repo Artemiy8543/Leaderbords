@@ -3,3 +3,4 @@
 003{item_hand_of_midas,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_hand_of_midas,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 5{item_hand_of_midas,item_attacker_midas_str,item_lesser_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+006{item_hand_of_midas,item_attacker_midas_str,item_lesser_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
