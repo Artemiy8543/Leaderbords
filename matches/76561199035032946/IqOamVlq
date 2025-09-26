@@ -11,4 +11,4 @@
 20{item_attacker_midas_int,item_mjollnir,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 0024{item_attacker_midas_int,item_mjollnir,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
 28{item_moon_shard,item_mjollnir,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
-31{item_infinity_moon_shard,item_mjollnir,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
+32{-,item_mjollnir,item_great_magic_crit3,item_infinity_moon_shard,item_rapier,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
