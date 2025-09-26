@@ -2,3 +2,4 @@
 2{item_gloves,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_broadsword,item_quelling_blade,-,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_broadsword,item_quelling_blade,item_broadsword,item_hand_of_midas,item_cornucopia,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_bfury,item_satanic,item_desolator,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
