@@ -5,3 +5,4 @@
 5{item_hand_of_midas,item_attacker_midas_str,item_lesser_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_hand_of_midas,item_attacker_midas_str,item_lesser_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_hand_of_midas,item_attacker_midas_str,item_lesser_crit,item_blade_mail,item_lifesteal,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{item_hand_of_midas,item_attacker_midas_str,item_lesser_crit,item_blade_mail,item_lifesteal,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
