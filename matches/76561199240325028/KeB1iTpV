@@ -3,3 +3,4 @@
 006{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 008{item_radiance_prc,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0010{item_radiance_prc,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
