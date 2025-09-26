@@ -1,3 +1,4 @@
 94=1{item_null_talisman,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_int,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_attacker_midas_int,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+3{item_attacker_midas_int,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_attacker_midas_int,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
