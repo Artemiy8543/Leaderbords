@@ -5,4 +5,5 @@
 7{item_boots,item_bloodstone_shield,item_maelstrom,item_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_boots,item_bloodstone_shield,item_maelstrom,item_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_boots,item_bloodstone_shield,item_maelstrom,item_magic_crit,item_kaya_and_sange,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-11{item_boots,item_bloodstone_shield,item_mjollnir,item_magic_crit,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+10{item_boots,item_bloodstone_shield,item_maelstrom,item_magic_crit,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+12{item_boots,item_bloodstone_shield,item_mjollnir,item_magic_crit,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
