@@ -8,3 +8,4 @@
 11{item_hand_of_midas,item_blade_mail,item_battle_lance,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_hand_of_midas,item_blade_mail,item_battle_lance,item_satanic,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_hand_of_midas,item_blade_mail,item_battle_lance,item_satanic,item_assault,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+14{item_hand_of_midas,item_blade_mail,item_battle_lance,item_satanic,item_assault,item_phylactery_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
