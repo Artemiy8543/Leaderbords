@@ -2,3 +2,4 @@
 002{item_attacker_midas_str,item_circlet,item_sobi_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_str,item_circlet,item_sobi_mask,item_ring_of_tarrasque,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_str,item_circlet,item_sobi_mask,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+005{item_attacker_midas_str,item_circlet,item_sobi_mask,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
