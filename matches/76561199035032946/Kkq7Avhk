@@ -3,3 +3,4 @@
 3{item_attacker_midas_int,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_int,item_maelstrom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 6{item_attacker_midas_int,item_maelstrom,item_skadi,item_staff_of_wizardry,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+007{item_attacker_midas_int,item_maelstrom,item_skadi,item_ultimate_scepter,item_dragon_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
