@@ -6,3 +6,4 @@
 8{item_phylactery_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_phylactery_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0010{item_phylactery_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_phylactery_blade,item_trident_custom,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
