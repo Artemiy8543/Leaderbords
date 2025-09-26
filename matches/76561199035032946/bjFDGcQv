@@ -9,3 +9,4 @@
 9{item_heart,item_radiance_prc,item_lesser_crit,item_attacker_midas_str,item_lifesteal,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_heart,item_radiance_prc,item_lesser_crit,item_attacker_midas_str,item_lifesteal,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 11{item_gladiator_guard,item_radiance_prc,item_lesser_crit,item_attacker_midas_str,item_lifesteal,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0012{item_gladiator_guard,item_radiance_prc,item_great_magic_crit3,item_attacker_midas_str,item_lifesteal,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
