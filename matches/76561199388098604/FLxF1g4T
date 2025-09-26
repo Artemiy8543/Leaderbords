@@ -9,4 +9,5 @@
 12{item_boots,item_bloodstone_shield,item_mjollnir,item_magic_crit,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 15{item_boots,item_bloodstone_shield,item_mjollnir,item_magic_crit,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 17{item_boots,item_bloodstone_shield,item_mjollnir,item_magic_crit,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-20{item_boots_of_bearing,item_bloodstone_shield,item_mjollnir,item_great_magic_crit,item_trident_custom,item_shivas_strom,}{item_recipe_travel_boots,item_recipe_travel_boots,item_mekansm,}{item_ring_of_basilius,item_recipe_arcane_boots,item_buckler,item_recipe_guardian_greaves,item_chainmail,item_blades_of_attack,}{item_spark_of_courage,};
+19{item_boots,item_bloodstone_shield,item_mjollnir,item_great_magic_crit,item_trident_custom,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0021{item_boots_of_bearing,item_bloodstone_shield,item_mjollnir,item_great_magic_crit,item_trident_custom,item_shivas_strom,}{item_recipe_travel_boots,item_recipe_travel_boots,item_mekansm,}{item_ring_of_basilius,item_recipe_arcane_boots,item_buckler,item_recipe_guardian_greaves,item_chainmail,item_blades_of_attack,}{item_spark_of_courage,};
