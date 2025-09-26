@@ -4,4 +4,4 @@
 6{item_voodoo_mask,item_heart,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_voodoo_mask,item_gladiator_guard,item_blade_midas,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_bloodstone,item_gladiator_guard,item_blade_midas,item_ultimate_scepter,item_energy_booster,item_ring_of_protection,}{item_fluffy_hat,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0013{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0014{item_bloodstone_shield,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
