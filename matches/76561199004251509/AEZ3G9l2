@@ -5,3 +5,4 @@
 9{item_hand_of_midas,item_satanic,item_hyperstone,-,-,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_hand_of_midas,item_satanic,item_hyperstone,-,-,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0011{item_hand_of_midas,item_satanic,item_assault,-,-,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0012{item_hand_of_midas,item_satanic,item_assault,item_skadi,-,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
