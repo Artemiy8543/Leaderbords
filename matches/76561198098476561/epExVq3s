@@ -7,4 +7,4 @@
 0012{item_radiance_prc,item_butterfly,item_satanic_of_madness,item_moon_shard,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 14{item_radiance_prc,item_butterfly,item_satanic_of_madness,item_moon_shard,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0016{item_radiance_prc,item_butterfly,item_satanic_of_madness,item_moon_shard,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-18{item_radiance_prc,item_butterfly,item_satanic_of_madness,item_moon_shard,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+19{item_radiance_prc,item_butterfly,item_satanic_of_madness,-,item_battle_lance,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{-,};
