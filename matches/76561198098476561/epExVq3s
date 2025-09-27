@@ -27,4 +27,4 @@
 56{item_radiance_prc,item_butterfly,item_battle_lance,item_shivas_strom,item_bfury,item_butterfly,}{-,-,item_satanic_of_madness,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0058{item_shivas_strom,item_butterfly,item_battle_lance,item_radiance_prc,item_bfury,item_butterfly,}{-,-,item_satanic_of_madness,}{-,-,-,-,-,-,}{item_divine_regalia,};
 60{item_shivas_strom,item_butterfly,item_battle_lance,item_radiance_prc,item_bfury,item_butterfly,}{-,-,item_satanic_of_madness,}{-,-,-,-,-,-,}{item_divine_regalia,};
-0062{item_shivas_strom,item_butterfly,item_battle_lance,item_radiance_prc,item_bfury,item_butterfly,}{item_agi_book2,-,item_satanic_of_madness,}{-,-,-,-,-,-,}{item_divine_regalia,};
+0063{item_shivas_strom,item_butterfly,item_battle_lance,item_radiance_prc,item_bfury,item_butterfly,}{-,-,item_satanic_of_madness,}{-,-,-,-,-,-,}{item_divine_regalia,};
