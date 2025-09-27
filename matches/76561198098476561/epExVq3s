@@ -1,2 +1,3 @@
 44=1{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+2{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
