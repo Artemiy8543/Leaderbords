@@ -41,3 +41,4 @@
 94{item_shivas_strom,item_butterfly,item_butterfly,item_butterfly,item_battle_lance,item_butterfly,}{-,item_blade_midas,-,}{item_agi_book2,-,-,-,-,-,}{item_dormant_curio,};
 95{item_butterfly,item_butterfly,item_butterfly,item_butterfly,item_battle_lance,item_butterfly,}{-,item_blade_midas,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0096{item_butterfly,item_butterfly,item_battle_lance,item_butterfly,item_butterfly,item_butterfly,}{-,item_hand_of_midas,item_blade_midas,}{-,-,-,-,-,-,}{item_dormant_curio,};
+97{item_butterfly,item_butterfly,item_battle_lance,item_butterfly,item_butterfly,item_butterfly,}{-,item_hand_of_midas,item_blade_midas,}{-,-,-,-,-,-,}{item_dormant_curio,};
