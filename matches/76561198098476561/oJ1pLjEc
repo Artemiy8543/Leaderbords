@@ -3,3 +3,4 @@
 3{item_null_talisman,item_kaya,item_arcane_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_null_talisman,item_kaya,item_arcane_boots,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 005{item_null_talisman,item_bloodstone,item_arcane_boots,item_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_null_talisman,item_bloodstone_shield,item_arcane_boots,item_kaya,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
