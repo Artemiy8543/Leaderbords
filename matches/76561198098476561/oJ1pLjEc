@@ -1,3 +1,4 @@
 121=1{item_null_talisman,item_staff_of_wizardry,item_robe,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_null_talisman,item_kaya,item_boots,item_ring_of_basilius,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_null_talisman,item_kaya,item_arcane_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_null_talisman,item_kaya,item_arcane_boots,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
