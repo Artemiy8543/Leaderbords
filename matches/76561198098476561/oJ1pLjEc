@@ -5,3 +5,4 @@
 005{item_null_talisman,item_bloodstone,item_arcane_boots,item_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_null_talisman,item_bloodstone_shield,item_arcane_boots,item_kaya,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_null_talisman,item_bloodstone_shield,item_arcane_boots,item_kaya,item_vitality_booster,item_tiara_of_selemene,}{item_energy_booster,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_null_talisman,item_bloodstone_shield,item_arcane_boots,item_kaya,item_octarine_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
