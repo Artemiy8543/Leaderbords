@@ -4,4 +4,4 @@
 7{item_radiance_prc,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 9{item_radiance_prc,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0010{item_radiance_prc,item_butterfly,item_satanic_of_madness,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-0011{item_radiance_prc,item_butterfly,item_satanic_of_madness,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+0012{item_radiance_prc,item_butterfly,item_satanic_of_madness,item_moon_shard,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
