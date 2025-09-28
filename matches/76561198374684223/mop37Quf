@@ -2,3 +2,4 @@
 002{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_power_treads,item_oblivion_staff,item_chainmail,item_orb_of_venom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_power_treads,item_witch_blade,item_null_talisman,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
