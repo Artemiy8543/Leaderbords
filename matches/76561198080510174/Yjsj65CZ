@@ -1,3 +1,4 @@
 64=1{item_javelin,item_power_treads,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_javelin,item_power_treads,item_gloves,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_javelin,item_power_treads,item_gloves,item_lifesteal,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+005{item_javelin,item_power_treads,item_gloves,item_lifesteal,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
