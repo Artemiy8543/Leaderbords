@@ -7,4 +7,4 @@
 9{item_radiance_prc,item_attacker_midas_int,item_voodoo_mask,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0010{item_radiance_prc,item_attacker_midas_int,item_voodoo_mask,item_shivas_strom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_radiance_prc,item_attacker_midas_int,item_voodoo_mask,item_shivas_strom,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0016{item_radiance_prc,item_attacker_midas_int,item_bloodstone,item_shivas_strom,item_gladiator_guard,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0017{item_radiance_prc,item_attacker_midas_int,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
