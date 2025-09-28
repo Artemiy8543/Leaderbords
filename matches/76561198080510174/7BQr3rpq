@@ -10,3 +10,4 @@
 0011{item_gladiator_guard,item_bloodstone_shield,-,item_power_treads,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_power_treads,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0015{item_gladiator_guard,item_bloodstone_shield,-,item_power_treads,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+16{item_gladiator_guard,item_bloodstone_shield,-,item_power_treads,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
