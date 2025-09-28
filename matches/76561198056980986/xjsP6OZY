@@ -1,2 +1,3 @@
 35=3{item_ward_observer,item_dragon_lance,item_blitz_knuckles,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_ward_observer,item_dragon_lance,item_blitz_knuckles,item_javelin,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_ward_observer,item_dragon_lance,item_oblivion_staff,item_javelin,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
