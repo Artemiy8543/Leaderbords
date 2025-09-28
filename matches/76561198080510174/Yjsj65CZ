@@ -3,5 +3,6 @@
 4{item_javelin,item_power_treads,item_gloves,item_lifesteal,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 005{item_javelin,item_power_treads,item_gloves,item_lifesteal,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_power_treads,item_mjollnir,item_voodoo_mask,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-8{item_power_treads,item_mjollnir,item_voodoo_mask,item_satanic_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0010{item_power_treads,item_satanic_of_madness,item_mjollnir,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_power_treads,item_mjollnir,item_voodoo_mask,item_lifesteal,item_reaver,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_power_treads,item_mjollnir,item_satanic_of_madness,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0011{item_power_treads,item_satanic_of_madness,item_mjollnir,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
