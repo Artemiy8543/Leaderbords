@@ -5,3 +5,4 @@
 005{item_power_treads,item_bloodstone,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_power_treads,item_bloodstone,item_ring_of_tarrasque,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_crimson_guard,item_bloodstone,item_ring_of_tarrasque,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{item_crimson_guard,item_bloodstone,item_ring_of_tarrasque,item_power_treads,item_kaya,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
