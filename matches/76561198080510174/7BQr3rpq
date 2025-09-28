@@ -23,3 +23,4 @@
 34{item_gladiator_guard,item_bloodstone_shield,item_ultimate_boots,item_radiance_prc,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0035{item_gladiator_guard,item_bloodstone_shield,item_ultimate_boots,item_radiance_prc,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 36{item_gladiator_guard,item_bloodstone_shield,item_ultimate_boots,item_radiance_prc,item_trident_custom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0037{item_gladiator_guard,item_bloodstone_shield,item_infinity_moon_shard,item_radiance_prc,item_trident_custom,item_lotus_cuirass,}{item_ultimate_boots,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
