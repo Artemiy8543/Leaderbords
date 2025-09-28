@@ -3,3 +3,4 @@
 005{item_ward_observer,item_dragon_lance,item_oblivion_staff,item_javelin,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_ward_observer,item_dragon_lance,item_bloodthorn,-,item_bracer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 11{item_ward_observer,item_battle_lance,item_lightning_sword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+14{-,item_battle_lance,item_lightning_sword,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
