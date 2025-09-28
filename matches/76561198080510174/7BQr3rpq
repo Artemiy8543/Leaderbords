@@ -4,3 +4,4 @@
 4{item_power_treads,item_voodoo_mask,item_void_stone,item_energy_booster,item_point_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 005{item_power_treads,item_bloodstone,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_power_treads,item_bloodstone,item_ring_of_tarrasque,item_vitality_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_crimson_guard,item_bloodstone,item_ring_of_tarrasque,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
