@@ -4,3 +4,4 @@
 005{item_talisman_of_evasion,item_attacker_midas_int,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_radiance,item_attacker_midas_int,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_radiance,item_attacker_midas_int,item_voodoo_mask,item_urn_of_shadows,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_radiance_prc,item_attacker_midas_int,item_voodoo_mask,item_shivas_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
