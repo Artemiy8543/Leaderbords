@@ -13,3 +13,4 @@
 0032{item_gladiator_guard,item_great_crit_custom3,item_lightning_sword,item_armlet_of_mjolnir,item_satanic_of_madness,item_infinity_moon_shard,}{item_moon_shard,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 33{item_gladiator_guard,item_great_crit_custom3,item_lightning_sword,item_armlet_of_mjolnir,item_satanic_of_madness,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 36{item_gladiator_guard,item_skadi,item_lightning_sword,item_armlet_of_mjolnir,item_satanic_of_madness,item_infinity_moon_shard,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+37{item_gladiator_guard,item_skadi,item_lightning_sword,item_armlet_of_mjolnir,item_satanic_of_madness,item_infinity_moon_shard,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
