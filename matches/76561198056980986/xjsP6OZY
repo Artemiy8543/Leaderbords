@@ -9,3 +9,4 @@
 21{item_gladiator_guard,item_battle_lance,item_lightning_sword,item_armlet_of_mjolnir,item_satanic_of_madness,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 27{item_gladiator_guard,item_battle_lance,item_lightning_sword,item_armlet_of_mjolnir,item_satanic_of_madness,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0029{item_gladiator_guard,-,item_lightning_sword,item_armlet_of_mjolnir,item_satanic_of_madness,item_infinity_moon_shard,}{item_desolator_2,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+30{item_gladiator_guard,item_great_crit_custom3,item_lightning_sword,item_armlet_of_mjolnir,item_satanic_of_madness,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
