@@ -17,3 +17,4 @@
 30{item_radiance_prc,item_refresher_core,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_trident_custom,}{item_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 31{item_radiance_prc,item_great_magic_crit3,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_trident_custom,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 34{item_radiance_prc,item_great_magic_crit3,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_trident_custom,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+35{item_shivas_strom,item_great_magic_crit3,item_bloodstone_shield,item_radiance_prc,item_gladiator_guard,item_trident_custom,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
