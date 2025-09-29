@@ -14,3 +14,4 @@
 51{item_gladiator_guard,item_lotus_cuirass,item_manaback3,item_bloodstone_shield,item_blade_midas,item_gungir,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 79{item_gladiator_guard,item_lotus_cuirass,item_manaback3,item_bloodstone_shield,item_blade_midas,item_gungir,}{item_helm_of_the_overlord,item_agi_book3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 82{item_gladiator_guard,item_great_magic_crit3,item_manaback3,item_bloodstone_shield,item_blade_midas,item_gungir,}{item_helm_of_the_overlord,item_agi_book3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+85{item_trident_custom,item_great_magic_crit3,item_manaback3,item_bloodstone_shield,item_blade_midas,item_gungir,}{item_helm_of_the_overlord,item_agi_book3,item_gladiator_guard,}{item_lotus_cuirass,item_blades_of_attack,-,-,-,-,}{item_dormant_curio,};
