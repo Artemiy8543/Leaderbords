@@ -10,4 +10,5 @@
 0029{item_bloodstone_shield,item_trident_custom,item_infinity_moon_shard,-,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 32{item_bloodstone_shield,item_trident_custom,item_infinity_moon_shard,-,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0034{item_bloodstone_shield,item_trident_custom,item_infinity_moon_shard,-,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-40{item_bloodstone_shield,item_trident_custom,item_infinity_moon_shard,-,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+39{item_bloodstone_shield,item_trident_custom,item_infinity_moon_shard,-,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+0043{item_bloodstone_shield,item_trident_custom,item_infinity_moon_shard,item_battle_lance,item_satanic_of_madness,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
