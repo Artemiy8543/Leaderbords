@@ -3,4 +3,4 @@
 3{item_blade_midas,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_blade_midas,item_lotus_cuirass,item_lesser_crit,item_staff_of_wizardry,item_robe,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-8{item_blade_midas,item_lotus_cuirass,item_great_magic_crit3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_blade_midas,item_lotus_cuirass,item_great_magic_crit3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
