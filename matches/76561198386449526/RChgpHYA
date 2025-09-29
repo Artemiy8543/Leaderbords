@@ -9,4 +9,4 @@
 23{item_attacker_midas_agi,item_vladimir_pact,item_lotus_cuirass,item_basher_slardar,item_armlet_of_mjolnir,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0026{item_attacker_midas_agi,item_vladimir_pact,item_lotus_cuirass,item_basher_slardar,item_armlet_of_mjolnir,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0030{item_attacker_midas_agi,item_vladimir_pact,item_lotus_cuirass,item_gladiator_guard,item_armlet_of_mjolnir,-,}{item_basher_slardar,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-60{item_attacker_midas_agi,item_vladimir_pact,-,item_gladiator_guard,item_armlet_of_mjolnir,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+63{item_attacker_midas_agi,item_vladimir_pact,item_monkey_king_bar,item_gladiator_guard,item_armlet_of_mjolnir,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
