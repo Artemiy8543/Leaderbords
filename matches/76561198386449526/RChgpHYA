@@ -12,4 +12,4 @@
 70{item_attacker_midas_agi,item_vladimir_pact,item_monkey_king_bar,item_blade_mail,item_shivas_strom,item_lotus_cuirass,}{item_gladiator_guard,item_armlet_of_mjolnir,item_battle_lance,}{-,-,-,-,-,-,}{item_dormant_curio,};
 74{item_attacker_midas_agi,item_vladimir_pact,item_radiance_prc,item_blade_mail,item_shivas_strom,item_lotus_cuirass,}{item_monkey_king_bar,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 79{item_attacker_midas_agi,item_vladimir_pact,item_radiance_prc,item_blade_mail,item_shivas_strom,item_lotus_cuirass,}{item_monkey_king_bar,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-84{item_attacker_midas_agi,item_vladimir_pact,item_radiance_prc,item_blade_mail,item_shivas_strom,item_lotus_cuirass,}{item_monkey_king_bar,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+85{item_attacker_midas_agi,item_vladimir_pact,item_radiance_prc,item_blade_mail,item_agi_book2,item_lotus_cuirass,}{item_monkey_king_bar,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
