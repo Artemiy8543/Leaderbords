@@ -27,3 +27,4 @@
 106{item_trident_custom,item_great_magic_crit3,item_manaback3,item_dagon_5,item_radiance_prc,item_gungir,}{item_helm_of_the_overlord,item_agi_book3,item_bloodstone_shield,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
 108{item_trident_custom,item_great_magic_crit3,item_manaback3,item_bloodstone_shield,item_radiance_prc,item_gungir,}{item_helm_of_the_overlord,item_agi_book3,item_dagon_5,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
 109{item_trident_custom,item_great_magic_crit3,item_manaback3,item_bloodstone_shield,item_radiance_prc,item_gungir,}{item_helm_of_the_overlord,item_agi_book3,item_dagon_5,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
+110{item_trident_custom,item_great_magic_crit3,item_manaback3,item_bloodstone_shield,item_radiance_prc,item_gungir,}{item_helm_of_the_overlord,item_agi_book3,item_dagon_5,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
