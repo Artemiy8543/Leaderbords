@@ -1,3 +1,4 @@
 91=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_agi,item_vladimir_pact,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_attacker_midas_agi,item_vladimir_pact,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
