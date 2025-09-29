@@ -4,4 +4,4 @@
 8{item_wraith_band,item_ultimate_scepter,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_wraith_band,item_ultimate_scepter,item_creep_desolator,item_satanic_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 14{item_wraith_band,item_ultimate_scepter,item_creep_desolator,item_satanic_of_madness,item_mjollnir,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0018{item_battle_lance,-,item_creep_desolator,item_satanic_of_madness,item_mjollnir,item_basher_slardar,}{item_wraith_band,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0019{item_battle_lance,item_infinity_moon_shard,item_creep_desolator,item_satanic_of_madness,item_mjollnir,item_basher_slardar,}{item_wraith_band,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
