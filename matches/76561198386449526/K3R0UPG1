@@ -5,4 +5,4 @@
 17{item_gladiator_guard,item_lotus_cuirass,-,item_bloodstone_shield,item_blade_midas,item_gungir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0023{item_gladiator_guard,item_lotus_cuirass,-,item_bloodstone_shield,item_blade_midas,item_gungir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 25{item_gladiator_guard,item_lotus_cuirass,item_agi_book2,item_bloodstone_shield,item_blade_midas,item_gungir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-27{item_gladiator_guard,item_lotus_cuirass,item_manaback3,item_bloodstone_shield,item_blade_midas,item_gungir,}{item_agi_book2,item_refresher,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+28{item_gladiator_guard,item_lotus_cuirass,item_manaback3,item_bloodstone_shield,item_blade_midas,item_gungir,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
