@@ -14,4 +14,4 @@
 79{item_attacker_midas_agi,item_vladimir_pact,item_radiance_prc,item_blade_mail,item_shivas_strom,item_lotus_cuirass,}{item_monkey_king_bar,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 85{item_attacker_midas_agi,item_vladimir_pact,item_radiance_prc,item_blade_mail,item_agi_book2,item_lotus_cuirass,}{item_monkey_king_bar,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 86{item_attacker_midas_agi,item_vladimir_pact,item_radiance_prc,item_blade_mail,item_agi_book2,item_lotus_cuirass,}{item_monkey_king_bar,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-94{item_attacker_midas_agi,item_monkey_king_bar,item_radiance_prc,item_blade_mail,item_shivas_strom,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+96{item_attacker_midas_agi,item_refresher_core,item_radiance_prc,item_dagon_5,item_octarine_core,item_lotus_cuirass,}{item_blade_mail,item_monkey_king_bar,item_shivas_strom,}{-,-,-,-,-,-,}{item_dormant_curio,};
