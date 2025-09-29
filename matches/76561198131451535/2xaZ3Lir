@@ -2,3 +2,4 @@
 2{item_blade_midas,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_blade_midas,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+5{item_blade_midas,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
