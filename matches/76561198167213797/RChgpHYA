@@ -3,3 +3,4 @@
 005{item_wraith_band,item_ultimate_scepter,item_blight_stone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_wraith_band,item_ultimate_scepter,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_wraith_band,item_ultimate_scepter,item_creep_desolator,item_satanic_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+13{item_wraith_band,item_ultimate_scepter,item_creep_desolator,item_satanic_of_madness,item_mjollnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
