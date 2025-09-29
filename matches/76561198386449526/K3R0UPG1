@@ -11,3 +11,4 @@
 0042{item_gladiator_guard,item_lotus_cuirass,item_manaback3,item_bloodstone_shield,item_blade_midas,item_gungir,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0047{item_gladiator_guard,item_lotus_cuirass,item_manaback3,item_bloodstone_shield,item_blade_midas,item_gungir,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0049{item_gladiator_guard,item_lotus_cuirass,item_manaback3,item_bloodstone_shield,item_blade_midas,item_gungir,}{item_agi_book2,item_divine_regalia,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+50{item_gladiator_guard,item_lotus_cuirass,item_manaback3,item_bloodstone_shield,item_blade_midas,item_gungir,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
