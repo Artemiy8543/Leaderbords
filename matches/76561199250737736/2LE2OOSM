@@ -1,3 +1,4 @@
 138=1{item_javelin,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_javelin,item_gloves,item_wraith_band,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_javelin,item_gloves,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_maelstrom,-,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
