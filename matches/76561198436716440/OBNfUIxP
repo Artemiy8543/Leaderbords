@@ -1,3 +1,4 @@
 104=1{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_quelling_blade,item_cornucopia,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_bfury,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_bfury,-,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
