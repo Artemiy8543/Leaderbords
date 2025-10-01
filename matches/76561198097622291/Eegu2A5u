@@ -5,3 +5,4 @@
 0025{item_gladiator_guard,item_lotus_cuirass,item_power_treads,item_creep_desolator,item_vladimir_pact,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0028{item_gladiator_guard,item_lotus_cuirass,item_power_treads,item_creep_desolator,item_vladimir_pact,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 35{item_gladiator_guard,item_lotus_cuirass,item_vladimir_pact,item_creep_desolator,item_ultimate_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0039{item_gladiator_guard,item_lotus_cuirass,item_satanic_of_madness,item_creep_desolator,item_ultimate_boots,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
