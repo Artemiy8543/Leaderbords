@@ -23,3 +23,4 @@
 0051{item_lotus_cuirass,item_satanic_of_madness,item_ultimate_boots,item_great_crit_custom3,item_infinity_moon_shard,item_battle_lance,}{item_basher_slardar,-,-,}{item_attacker_midas_agi,item_skadi,-,-,-,-,}{item_misericorde,};
 0055{item_lotus_cuirass,item_satanic_of_madness,item_ultimate_boots,item_great_crit_custom3,item_infinity_moon_shard,item_meteor_rain,}{item_basher_slardar,-,item_battle_lance,}{item_attacker_midas_agi,item_skadi,-,-,-,-,}{item_misericorde,};
 0057{item_lotus_cuirass,item_satanic_of_madness,item_radiance_prc,item_great_crit_custom3,item_infinity_moon_shard,item_ultimate_boots,}{-,-,item_battle_lance,}{item_attacker_midas_agi,item_skadi,-,-,-,-,}{item_misericorde,};
+59{item_lotus_cuirass,item_satanic_of_madness,item_radiance_prc,item_great_crit_custom3,item_infinity_moon_shard,item_ultimate_boots,}{-,-,item_battle_lance,}{item_attacker_midas_agi,item_skadi,-,-,-,-,}{item_misericorde,};
