@@ -18,3 +18,4 @@
 0042{item_infinity_moon_shard,item_battle_lance,item_attacker_midas_agi,item_great_crit_custom3,-,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0043{item_basher_slardar,item_battle_lance,item_attacker_midas_agi,item_great_crit_custom3,item_infinity_moon_shard,item_skadi,}{-,-,-,}{-,-,-,item_moon_shard,item_hyperstone,-,}{item_misericorde,};
 44{item_basher_slardar,item_battle_lance,item_attacker_midas_agi,item_great_crit_custom3,item_infinity_moon_shard,-,}{-,-,item_skadi,}{-,-,-,-,-,-,}{item_misericorde,};
+46{item_basher_slardar,item_satanic_of_madness,-,item_great_crit_custom3,item_infinity_moon_shard,item_battle_lance,}{-,-,-,}{item_attacker_midas_agi,item_skadi,-,-,-,-,}{item_misericorde,};
