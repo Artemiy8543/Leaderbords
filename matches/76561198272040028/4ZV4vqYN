@@ -3,3 +3,4 @@
 3{item_dragon_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{-,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 008{item_moon_shard,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_moon_shard,item_battle_lance,item_great_crit_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
