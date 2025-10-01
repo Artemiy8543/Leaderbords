@@ -1,4 +1,5 @@
 94=1{item_dragon_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_dragon_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_battle_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-6{-,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+3{item_dragon_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{-,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+007{item_moon_shard,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
