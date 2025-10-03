@@ -6,3 +6,4 @@
 8{item_great_magic_crit,item_voodoo_mask,item_branches,item_vitality_booster,item_tango,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_great_magic_crit,item_bloodstone,-,-,item_tango,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 12{item_great_magic_crit,item_bloodstone,item_creep_desolator,item_ultimate_scepter,item_tango,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0013{item_great_magic_crit,item_bloodstone,item_creep_desolator,item_ultimate_scepter,item_tango,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
