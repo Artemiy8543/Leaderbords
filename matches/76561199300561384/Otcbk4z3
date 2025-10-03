@@ -3,3 +3,4 @@
 005{item_magic_crit,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_magic_crit,item_demon_edge,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_great_magic_crit,-,item_branches,item_branches,item_tango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_great_magic_crit,item_voodoo_mask,item_branches,item_vitality_booster,item_tango,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{-,};
