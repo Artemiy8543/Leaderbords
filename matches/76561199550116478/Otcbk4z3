@@ -4,3 +4,4 @@
 005{item_bfury,item_ogre_axe,-,item_belt_of_strength,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bfury,item_sange,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_battle_lance,item_sange,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_battle_lance,item_sange,item_mask_of_madness,item_gloves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
