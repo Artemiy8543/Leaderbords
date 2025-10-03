@@ -1,3 +1,4 @@
 26=1{item_tranquil_boots,item_void_stone,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_tranquil_boots,item_aether_lens,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_tranquil_boots,item_aether_lens,item_kaya,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_tranquil_boots,item_aether_lens,item_kaya,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
