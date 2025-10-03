@@ -6,3 +6,4 @@
 7{item_battle_lance,item_sange,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_battle_lance,item_sange,item_mask_of_madness,item_gloves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_battle_lance,item_sange,item_mask_of_madness,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_battle_lance,item_sange_and_yasha,item_mask_of_madness,item_hand_of_midas,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
