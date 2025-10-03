@@ -8,3 +8,4 @@
 9{item_battle_lance,item_sange,item_mask_of_madness,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_battle_lance,item_sange_and_yasha,item_mask_of_madness,item_hand_of_midas,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_battle_lance,item_sange_and_yasha,item_mask_of_madness,item_hand_of_midas,item_moon_shard,item_demon_edge,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0013{item_battle_lance,item_sange_and_yasha,item_mask_of_madness,item_hand_of_midas,item_moon_shard,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
