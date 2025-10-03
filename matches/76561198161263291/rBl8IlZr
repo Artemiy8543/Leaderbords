@@ -8,4 +8,5 @@
 11{item_bottle,item_lotus_cuirass,item_gladiator_guard,item_boots,item_sange_and_yasha,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{-,item_lotus_cuirass,item_gladiator_guard,item_boots,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 15{item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,item_boots,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-19{item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,-,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+18{item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,-,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0020{item_satanic_of_madness,item_lotus_cuirass,item_gladiator_guard,-,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
