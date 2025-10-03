@@ -2,3 +2,4 @@
 3{item_lesser_crit,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_magic_crit,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_magic_crit,item_demon_edge,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_great_magic_crit,-,item_branches,item_branches,item_tango,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
