@@ -2,5 +2,6 @@
 002{item_bottle,item_boots,item_magic_wand,item_soul_ring,item_quelling_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_bottle,item_boots,item_magic_wand,item_soul_ring,item_quelling_blade,item_relic,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bottle,item_boots,item_magic_wand,item_soul_ring,item_blade_of_alacrity,item_radiance,}{item_boots_of_elves,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-6{item_bottle,item_boots,item_ring_of_tarrasque,item_soul_ring,item_sange_and_yasha,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-8{item_bottle,item_boots,item_heart,item_hyperstone,item_sange_and_yasha,item_radiance,}{item_platemail,item_buckler,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+5{item_bottle,item_boots,item_magic_wand,item_soul_ring,item_sange_and_yasha,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+007{item_bottle,item_boots,item_heart,item_soul_ring,item_sange_and_yasha,item_radiance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_bottle,item_boots,item_heart,item_assault,item_sange_and_yasha,item_radiance,}{item_pers,item_platemail,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
