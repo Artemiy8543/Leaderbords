@@ -1,3 +1,4 @@
 54=1{item_magic_wand,item_blades_of_attack,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_magic_wand,item_armlet,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_magic_wand,item_armlet,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+5{item_magic_wand,item_armlet,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
