@@ -4,3 +4,4 @@
 5{item_ward_observer,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_ward_observer,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 8{item_ward_observer,item_radiance,item_attacker_midas_int,item_heart,item_point_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+9{item_ward_observer,item_radiance,item_attacker_midas_int,item_heart,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
