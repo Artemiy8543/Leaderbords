@@ -1,4 +1,4 @@
 36=1{item_ward_observer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_ward_observer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_ward_observer,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_ward_observer,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+4{item_ward_observer,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+6{item_ward_observer,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
