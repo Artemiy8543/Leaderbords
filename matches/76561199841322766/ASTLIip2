@@ -6,4 +6,5 @@
 8{item_ward_observer,item_radiance,item_attacker_midas_int,item_heart,item_point_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 9{item_ward_observer,item_radiance,item_attacker_midas_int,item_heart,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 11{item_ward_observer,item_radiance_prc,item_attacker_midas_int,item_heart,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0013{item_ward_observer,item_radiance_prc,item_attacker_midas_int,item_heart,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0012{item_ward_observer,item_radiance_prc,item_attacker_midas_int,item_heart,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+14{item_ghost,item_blade_mail,item_attacker_midas_int,item_heart,item_ultimate_scepter,item_radiance_prc,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
