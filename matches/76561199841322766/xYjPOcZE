@@ -4,4 +4,5 @@
 5{item_attacker_midas_agi,item_lifesteal,-,item_power_treads,item_sange_and_yasha,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 6{item_attacker_midas_agi,item_satanic,-,item_power_treads,item_sange_and_yasha,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 8{item_attacker_midas_agi,item_satanic,item_battle_lance,item_power_treads,item_sange_and_yasha,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0011{item_attacker_midas_agi,item_satanic,item_battle_lance,item_power_treads,item_sange_and_yasha,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0010{item_attacker_midas_agi,item_satanic,item_battle_lance,item_power_treads,item_sange_and_yasha,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+12{item_attacker_midas_agi,item_satanic,item_battle_lance,item_power_treads,item_sange_and_yasha,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
