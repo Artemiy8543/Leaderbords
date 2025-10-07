@@ -1,2 +1,2 @@
 73=1{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_radiance,item_diadem,-,-,-,item_urn_of_shadows,}{-,-,-,}{-,-,-,-,-,-,}{-,};
