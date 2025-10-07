@@ -33,3 +33,4 @@
 0046{item_refresher_core,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_armlet_of_mjolnir,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0047{item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_armlet_of_mjolnir,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0048{item_refresher_core,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_armlet_of_mjolnir,}{item_refresher_core,item_attacker_midas_str,item_refresher_core,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0049{item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_armlet_of_mjolnir,}{item_refresher_core,item_refresher_core,item_refresher_core,}{item_str_book2,-,-,-,-,-,}{item_dormant_curio,};
