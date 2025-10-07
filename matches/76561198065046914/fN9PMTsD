@@ -2,4 +2,5 @@
 3{item_attacker_midas_str,item_hyperstone,item_platemail,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_str,item_assault,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_attacker_midas_str,item_lotus_cuirass,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0010{item_attacker_midas_str,item_lotus_cuirass,item_blade_mail,-,-,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+009{item_attacker_midas_str,item_lotus_cuirass,item_blade_mail,-,-,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_attacker_midas_str,item_lotus_cuirass,item_blade_mail,-,-,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
