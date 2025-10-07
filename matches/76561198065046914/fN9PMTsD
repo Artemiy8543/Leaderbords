@@ -19,3 +19,4 @@
 0032{item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_armlet_of_mjolnir,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0033{item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_armlet_of_mjolnir,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0034{item_attacker_midas_str,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_armlet_of_mjolnir,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0035{item_refresher_core,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_armlet_of_mjolnir,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
