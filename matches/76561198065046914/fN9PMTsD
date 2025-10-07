@@ -1,3 +1,3 @@
 104=1{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_attacker_midas_str,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+3{item_attacker_midas_str,item_hyperstone,item_platemail,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_attacker_midas_str,item_assault,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
