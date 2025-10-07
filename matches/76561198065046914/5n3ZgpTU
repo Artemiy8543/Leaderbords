@@ -1,4 +1,5 @@
 73=1{item_talisman_of_evasion,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-7{item_radiance_prc,item_sange_and_yasha,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_radiance_prc,item_sange_and_yasha,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{item_radiance_prc,item_sange_and_yasha,item_heart,item_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
