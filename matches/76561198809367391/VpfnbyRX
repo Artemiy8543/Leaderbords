@@ -1,2 +1,3 @@
 18=1{item_lifesteal,item_gloves,item_quelling_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_mask_of_madness,item_gloves,item_quelling_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_mask_of_madness,item_gloves,item_quelling_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
