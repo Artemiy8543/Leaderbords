@@ -8,4 +8,5 @@
 14{item_satanic,item_gloves,item_quelling_blade,item_lotus_cuirass,item_great_crit_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 15{item_satanic,item_gloves,item_quelling_blade,item_lotus_cuirass,item_great_crit_custom,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 17{item_satanic_of_madness,item_gloves,item_quelling_blade,item_lotus_cuirass,item_great_crit_custom,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-21{item_satanic_of_madness,item_gloves,item_moon_shard,item_lotus_cuirass,item_great_crit_custom,item_butterfly,}{item_quelling_blade,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+19{item_satanic_of_madness,item_gloves,item_quelling_blade,item_lotus_cuirass,item_great_crit_custom,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+0023{item_satanic_of_madness,item_gloves,item_moon_shard,item_lotus_cuirass,item_great_crit_custom,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
