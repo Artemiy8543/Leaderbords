@@ -2,3 +2,4 @@
 004{item_boots,item_bracer,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_phase_boots,item_bracer,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_phase_boots,item_blade_mail,item_vanguard,item_heart,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+16{item_phase_boots,item_blade_mail,item_gladiator_guard,item_heart,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
