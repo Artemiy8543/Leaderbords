@@ -3,4 +3,5 @@
 005{item_radiance,item_voodoo_mask,item_soul_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_radiance,item_bloodstone_shield,item_ring_of_tarrasque,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 009{item_radiance,item_bloodstone_shield,item_heart,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0012{item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0011{item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0013{item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
