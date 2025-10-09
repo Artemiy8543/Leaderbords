@@ -2,4 +2,4 @@
 2{item_mask_of_madness,item_wraith_band,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_mask_of_madness,item_wraith_band,item_gloves,item_platemail,item_ring_of_protection,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_mask_of_madness,item_wraith_band,item_gloves,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-8{item_satanic,item_wraith_band,item_gloves,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_satanic,item_wraith_band,item_gloves,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
