@@ -1,4 +1,4 @@
 18=1{item_lifesteal,item_wraith_band,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_mask_of_madness,item_wraith_band,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_mask_of_madness,item_wraith_band,item_gloves,item_platemail,item_ring_of_protection,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-6{item_mask_of_madness,item_wraith_band,item_gloves,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_mask_of_madness,item_wraith_band,item_gloves,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
