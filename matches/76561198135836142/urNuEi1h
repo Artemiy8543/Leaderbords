@@ -1,4 +1,4 @@
 36=1{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_radiance,item_voodoo_mask,item_soul_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-7{item_radiance,item_bloodstone_shield,item_ring_of_tarrasque,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+8{item_radiance,item_bloodstone_shield,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
