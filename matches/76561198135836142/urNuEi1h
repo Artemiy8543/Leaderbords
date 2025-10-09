@@ -12,3 +12,4 @@
 26{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_rapier,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 28{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_rapier,item_radiance_prc,}{item_meteor_rain,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 30{item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_rapier,item_radiance_prc,}{item_meteor_rain,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+31{item_meteor_rain,item_bloodstone_shield,item_gladiator_guard,item_refresher_core,item_rapier,item_radiance_prc,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
