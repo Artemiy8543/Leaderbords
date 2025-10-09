@@ -1,2 +1,3 @@
 36=1{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+2{item_relic,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_radiance,item_voodoo_mask,item_vitality_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
