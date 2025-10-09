@@ -1,4 +1,5 @@
 104=1{item_gloves,item_bracer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_hand_of_midas,item_bracer,item_gloves,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hand_of_midas,item_bracer,item_gloves,item_mithril_hammer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_hand_of_midas,item_bracer,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+005{item_hand_of_midas,item_bracer,item_maelstrom,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_hand_of_midas,item_bracer,item_mjollnir,item_platemail,item_hyperstone,item_buckler,}{item_lifesteal,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
