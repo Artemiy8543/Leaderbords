@@ -6,4 +6,4 @@
 37{item_lotus_cuirass,item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,item_butterfly,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 40{item_lotus_cuirass,item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,item_butterfly,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0041{item_lotus_cuirass,item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,-,item_battle_lance,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
-54{item_lotus_cuirass,item_creep_desolator,item_vladimir_pact,-,item_great_crit_custom3,item_battle_lance,}{item_bloodstone_shield,-,-,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
+57{item_lotus_cuirass,item_creep_desolator,item_vladimir_pact,-,item_great_crit_custom3,item_battle_lance,}{item_bloodstone_shield,-,-,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
