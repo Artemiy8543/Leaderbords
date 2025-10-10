@@ -2,3 +2,4 @@
 2{item_attacker_midas_int,-,-,-,-,item_soul_ring,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_int,-,item_arcane_boots,-,-,item_soul_ring,}{item_recipe_manaback,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_int,item_manaback,-,-,-,item_soul_ring,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+5{item_attacker_midas_int,item_manaback,item_veil_of_discord,-,-,item_soul_ring,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
