@@ -6,4 +6,4 @@
 006{item_midas_component,item_vladimir_pact,item_platemail,item_buckler,-,-,}{item_recipe_assault,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_midas_component,item_vladimir_pact,item_assault,item_pers,item_energy_booster,item_platemail,}{item_recipe_lotus_cuirass,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_midas_component,item_vladimir_pact,-,item_heart,-,item_lotus_cuirass,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0011{item_midas_component,item_vladimir_pact,item_vanguard,item_heart,-,item_lotus_cuirass,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0012{item_midas_component,item_vladimir_pact,item_gladiator_guard,-,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
