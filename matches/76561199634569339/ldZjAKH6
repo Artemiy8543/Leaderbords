@@ -1,4 +1,4 @@
 106=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_attacker_midas_agi,item_relic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-6{item_attacker_midas_agi,item_radiance_prc,item_platemail,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+7{item_attacker_midas_agi,item_radiance_prc,item_assault,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
