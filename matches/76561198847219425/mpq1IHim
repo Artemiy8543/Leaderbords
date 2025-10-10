@@ -2,3 +2,4 @@
 5{item_sange_and_yasha,-,-,-,-,-,}{item_recipe_trident_custom,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_trident_custom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_trident_custom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+16{item_trident_custom,item_great_magic_crit3,item_manaback3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
