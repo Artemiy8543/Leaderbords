@@ -2,4 +2,4 @@
 6{item_assault,item_helm_of_the_dominator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_assault,item_creep_desolator,item_vladmir,item_vladmir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0021{item_lotus_cuirass,item_creep_desolator,item_vladimir_pact,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-24{item_lotus_cuirass,item_creep_desolator,item_vladimir_pact,item_voodoo_mask,item_vitality_booster,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+25{item_lotus_cuirass,item_creep_desolator,item_vladimir_pact,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
