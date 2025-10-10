@@ -2,3 +2,4 @@
 002{item_midas_component,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_midas_component,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_midas_component,item_vladmir,item_buckler,item_ring_of_basilius,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_midas_component,item_vladimir_pact,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
