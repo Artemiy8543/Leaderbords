@@ -3,4 +3,4 @@
 0013{item_gladiator_guard,item_ancient_janggo,item_guardian_greaves,item_sange,item_phase_boots,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0016{item_gladiator_guard,item_ultimate_boots,-,item_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0019{item_gladiator_guard,item_ultimate_boots,item_trident_custom,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-27{item_gladiator_guard,item_ultimate_boots,item_trident_custom,item_heart,item_shivas_strom,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+30{item_gladiator_guard,item_ultimate_boots,item_trident_custom,item_heart,-,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
