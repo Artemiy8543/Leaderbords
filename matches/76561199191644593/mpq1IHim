@@ -3,4 +3,4 @@
 4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 007{item_gladiator_guard,item_blade_midas,item_heart,item_kaya_and_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 9{item_gladiator_guard,item_blade_midas,item_heart,item_trident_custom,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0013{item_gladiator_guard,item_blade_midas,item_heart,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0014{item_gladiator_guard,item_blade_midas,item_heart,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
