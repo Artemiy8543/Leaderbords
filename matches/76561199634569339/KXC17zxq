@@ -3,4 +3,5 @@
 3{item_platemail,item_hyperstone,item_enchanted_mango,item_enchanted_mango,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 5{item_assault,item_midas_component,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-7{item_lotus_cuirass,item_midas_component,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+6{item_assault,item_midas_component,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_lotus_cuirass,item_midas_component,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
