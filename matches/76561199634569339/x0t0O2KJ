@@ -8,4 +8,4 @@
 8{item_attacker_midas_int,item_manaback2,item_soul_ring,item_bloodstone_shield,-,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 9{item_attacker_midas_int,item_bloodstone_shield,item_soul_ring,item_manaback3,item_dagon,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0010{item_attacker_midas_int,item_bloodstone_shield,item_soul_ring,item_manaback3,item_dagon_4,item_shivas_guard,}{item_veil_of_discord,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-11{item_attacker_midas_int,item_bloodstone_shield,item_soul_ring,item_manaback3,item_veil_of_dagon,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+12{item_attacker_midas_int,item_bloodstone_shield,item_aether_lens,item_manaback3,item_veil_of_dagon,item_shivas_strom,}{item_ghost,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
