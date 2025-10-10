@@ -2,3 +2,4 @@
 002{-,-,-,-,-,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{-,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_heart,item_platemail,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_heart,item_assault,item_ward_observer,item_claymore,-,item_blade_midas,}{item_recipe_lesser_crit,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
