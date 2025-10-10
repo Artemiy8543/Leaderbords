@@ -3,3 +3,4 @@
 3{item_midas_component,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_midas_component,item_vladmir,item_buckler,item_ring_of_basilius,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_midas_component,item_vladimir_pact,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+006{item_midas_component,item_vladimir_pact,item_platemail,item_buckler,-,-,}{item_recipe_assault,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
