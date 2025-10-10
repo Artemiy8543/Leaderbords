@@ -1,3 +1,4 @@
 99=1{item_broadsword,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+007{item_gladiator_guard,item_blade_midas,item_heart,item_kaya_and_sange,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
