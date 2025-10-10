@@ -1,3 +1,4 @@
 104=1{item_broadsword,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{-,-,-,-,-,item_blade_mail,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{-,-,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_heart,item_platemail,-,-,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{-,};
