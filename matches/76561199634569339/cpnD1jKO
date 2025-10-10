@@ -5,3 +5,4 @@
 5{item_midas_component,item_vladimir_pact,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_midas_component,item_vladimir_pact,item_platemail,item_buckler,-,-,}{item_recipe_assault,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_midas_component,item_vladimir_pact,item_assault,item_pers,item_energy_booster,item_platemail,}{item_recipe_lotus_cuirass,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_midas_component,item_vladimir_pact,item_lotus_cuirass,item_ring_of_tarrasque,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
