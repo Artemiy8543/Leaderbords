@@ -1,2 +1,3 @@
 2=001{item_platemail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_platemail,item_hyperstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_platemail,item_hyperstone,item_enchanted_mango,item_enchanted_mango,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
