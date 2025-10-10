@@ -5,3 +5,4 @@
 8{item_sange_and_yasha,item_wraith_band,item_hand_of_midas,item_power_treads,item_buckler,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_sange_and_yasha,item_wraith_band,item_hand_of_midas,item_power_treads,item_assault,item_vladmir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_sange_and_yasha,item_wraith_band,item_hand_of_midas,item_power_treads,item_assault,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+14{item_trident_custom,item_butterfly,item_hand_of_midas,item_power_treads,item_assault,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
