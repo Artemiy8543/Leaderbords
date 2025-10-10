@@ -6,4 +6,4 @@
 0013{item_gladiator_guard,item_blade_midas,item_heart,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 15{item_gladiator_guard,item_blade_midas,item_heart,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 17{item_gladiator_guard,item_blade_midas,item_heart,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-26{item_gladiator_guard,item_blade_midas,item_heart,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+32{item_refresher_core,item_blade_midas,item_manaback3,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{item_gladiator_guard,item_str_book3,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
