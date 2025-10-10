@@ -7,5 +7,5 @@
 11{item_sange_and_yasha,item_wraith_band,item_hand_of_midas,item_power_treads,item_assault,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 14{item_trident_custom,item_butterfly,item_hand_of_midas,item_power_treads,item_assault,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 17{item_trident_custom,item_butterfly,item_hand_of_midas,item_power_treads,item_assault,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-22{item_trident_custom,item_butterfly,item_creep_desolator,item_skadi,item_assault,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-24{item_trident_custom,item_butterfly,item_creep_desolator,item_skadi,item_assault,item_vladimir_pact,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+23{item_trident_custom,item_butterfly,item_creep_desolator,item_skadi,item_assault,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+25{item_trident_custom,item_butterfly,item_creep_desolator,item_skadi,item_lotus_cuirass,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
