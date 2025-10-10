@@ -17,4 +17,5 @@
 29{item_great_magic_crit3,item_bloodstone_shield,item_phylactery_blade,item_manaback3,item_veil_of_dagon,item_shivas_strom,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 35{item_great_magic_crit3,item_bloodstone_shield,item_phylactery_blade,item_manaback3,item_veil_of_dagon,item_shivas_strom,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 40{item_great_magic_crit3,item_bloodstone_shield,item_phylactery_blade,item_manaback3,item_veil_of_dagon,item_shivas_strom,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-46{item_great_magic_crit3,item_bloodstone_shield,item_phylactery_blade,item_manaback3,item_veil_of_dagon,item_shivas_strom,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
+45{item_great_magic_crit3,item_bloodstone_shield,item_phylactery_blade,item_manaback3,item_veil_of_dagon,item_shivas_strom,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
+0048{item_great_magic_crit3,item_bloodstone_shield,item_phylactery_blade,item_manaback3,item_veil_of_dagon,item_shivas_strom,}{item_attacker_midas_int,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
