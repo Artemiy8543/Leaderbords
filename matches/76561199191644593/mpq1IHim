@@ -1,2 +1,3 @@
 99=1{item_broadsword,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
