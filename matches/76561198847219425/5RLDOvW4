@@ -2,3 +2,4 @@
 3{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_agi,item_bfury,item_blade_of_alacrity,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_attacker_midas_agi,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_attacker_midas_agi,item_battle_lance,item_great_crit_custom3,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
