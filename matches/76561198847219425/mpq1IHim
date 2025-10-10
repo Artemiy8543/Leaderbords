@@ -5,3 +5,4 @@
 18{item_trident_custom,item_great_magic_crit3,item_manaback3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 20{item_trident_custom,item_great_magic_crit3,item_manaback3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0023{item_trident_custom,item_great_magic_crit3,item_manaback3,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+30{item_trident_custom,item_great_magic_crit3,item_manaback3,item_bloodstone_shield,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
