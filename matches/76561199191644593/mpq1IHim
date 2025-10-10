@@ -7,4 +7,4 @@
 15{item_gladiator_guard,item_blade_midas,item_heart,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 17{item_gladiator_guard,item_blade_midas,item_heart,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 35{item_refresher_core,item_blade_midas,item_manaback3,item_trident_custom,item_bloodstone_shield,-,}{item_gladiator_guard,item_great_magic_crit3,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-60{item_refresher_core,item_blade_midas,item_manaback3,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+67{item_refresher_core,item_blade_midas,item_manaback3,item_trident_custom,item_bloodstone_shield,item_great_magic_crit3,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
