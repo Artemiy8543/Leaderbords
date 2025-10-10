@@ -5,3 +5,4 @@
 5{item_attacker_midas_int,item_manaback,item_veil_of_discord,-,-,item_soul_ring,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 6{item_attacker_midas_int,item_manaback,item_soul_ring,-,item_voodoo_mask,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 007{item_attacker_midas_int,item_manaback,item_soul_ring,-,item_bloodstone,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+8{item_attacker_midas_int,item_manaback2,item_soul_ring,item_bloodstone_shield,-,item_shivas_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
