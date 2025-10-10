@@ -3,4 +3,4 @@
 5{item_attacker_midas_agi,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 6{item_attacker_midas_agi,item_radiance_prc,item_platemail,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 8{item_attacker_midas_agi,item_radiance_prc,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0010{item_attacker_midas_agi,item_radiance_prc,item_lotus_cuirass,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0011{item_attacker_midas_agi,item_radiance_prc,item_lotus_cuirass,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
