@@ -1,3 +1,3 @@
 12=5{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_assault,item_helm_of_the_dominator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-10{item_assault,item_creep_desolator,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_assault,item_creep_desolator,item_vladmir,item_vladmir,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
