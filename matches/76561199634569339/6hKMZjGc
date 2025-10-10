@@ -25,4 +25,5 @@
 50{item_gladiator_guard,item_armlet_of_mjolnir,item_lotus_cuirass,item_great_crit_custom3,item_lotus_cuirass,item_radiance_prc,}{item_blade_midas,item_butterfly,item_ward_observer,}{-,-,-,-,-,-,}{item_misericorde,};
 52{item_gladiator_guard,item_armlet_of_mjolnir,item_blade_midas,item_great_crit_custom3,item_lotus_cuirass,item_radiance_prc,}{-,item_butterfly,item_ward_observer,}{-,-,-,-,-,-,}{item_misericorde,};
 0054{item_gladiator_guard,item_armlet_of_mjolnir,item_gladiator_guard,item_great_crit_custom3,item_lotus_cuirass,item_radiance_prc,}{item_blade_midas,item_butterfly,item_ward_observer,}{-,-,-,-,-,-,}{item_misericorde,};
-58{item_gladiator_guard,item_armlet_of_mjolnir,-,item_great_crit_custom3,item_lotus_cuirass,item_radiance_prc,}{item_blade_midas,item_butterfly,item_ward_observer,}{-,-,-,-,-,-,}{item_misericorde,};
+57{item_gladiator_guard,item_armlet_of_mjolnir,-,item_great_crit_custom3,item_lotus_cuirass,item_radiance_prc,}{item_blade_midas,item_butterfly,item_ward_observer,}{-,-,-,-,-,-,}{item_misericorde,};
+59{item_gladiator_guard,item_armlet_of_mjolnir,-,item_great_crit_custom3,item_lotus_cuirass,item_radiance_prc,}{item_blade_midas,item_butterfly,item_ward_observer,}{-,-,-,-,-,-,}{item_misericorde,};
