@@ -13,3 +13,4 @@
 0020{item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_khandas_brooch,item_gladiator_guard,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 22{item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_khandas_brooch,item_gladiator_guard,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0023{item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_khandas_brooch,item_gladiator_guard,-,}{-,-,item_refresher_core,}{-,-,-,-,-,-,}{item_chipped_vest,};
+24{item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_khandas_brooch,item_gladiator_guard,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
