@@ -3,3 +3,4 @@
 3{item_corrosion_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_corrosion_blade,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_corrosion_blade,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_corrosion_blade,item_radiance,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
