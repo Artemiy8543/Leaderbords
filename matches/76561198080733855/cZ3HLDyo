@@ -4,3 +4,4 @@
 005{item_corrosion_blade,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_corrosion_blade,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_corrosion_blade,item_radiance,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_corrosion_blade,item_radiance,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
