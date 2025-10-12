@@ -1,3 +1,4 @@
 36=1{item_corrosion_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_corrosion_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_corrosion_blade,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_corrosion_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_corrosion_blade,item_radiance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
