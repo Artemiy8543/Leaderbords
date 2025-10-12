@@ -1,4 +1,4 @@
 98=1{item_arcane_boots,item_vitality_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_arcane_boots,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_arcane_boots,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_arcane_boots,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+3{item_arcane_boots,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_arcane_boots,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+007{item_arcane_boots,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
