@@ -6,3 +6,4 @@
 13{item_witch_blade,item_desolator,item_moon_shard,item_satanic_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0015{item_witch_blade,item_desolator,item_moon_shard,item_satanic_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0017{item_devastator,item_creep_desolator,item_moon_shard,item_satanic_of_madness,item_kaya,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+0024{item_devastator,item_creep_desolator,-,item_satanic_of_madness,item_great_magic_crit3,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
