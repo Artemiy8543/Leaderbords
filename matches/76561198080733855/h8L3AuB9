@@ -1,3 +1,4 @@
 42=1{item_enchanted_mango,item_sange,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_enchanted_mango,item_sange,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_enchanted_mango,item_sange,item_platemail,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+5{item_enchanted_mango,item_sange,item_platemail,item_buckler,item_hyperstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
