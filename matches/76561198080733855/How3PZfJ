@@ -1,4 +1,4 @@
 35=1{item_javelin,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_maelstrom,item_dragon_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_mjollnir,item_dragon_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+4{item_maelstrom,item_dragon_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_mjollnir,-,item_hurricane_pike,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
