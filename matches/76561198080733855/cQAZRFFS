@@ -2,3 +2,4 @@
 3{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_gladiator_guard,item_lotus_orb,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_gladiator_guard,item_lotus_orb,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
