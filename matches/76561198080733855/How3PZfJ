@@ -6,3 +6,4 @@
 008{item_armlet_of_mjolnir,-,item_hurricane_pike,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_armlet_of_mjolnir,item_hyperstone,item_hurricane_pike,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_armlet_of_mjolnir,item_moon_shard,item_hurricane_pike,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_armlet_of_mjolnir,item_moon_shard,item_hurricane_pike,item_monkey_king_bar,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
