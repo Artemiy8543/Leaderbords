@@ -1,3 +1,3 @@
 35=1{item_javelin,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_maelstrom,item_dragon_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_maelstrom,item_dragon_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
