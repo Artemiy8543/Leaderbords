@@ -2,3 +2,4 @@
 002{item_lifesteal,item_power_treads,item_faerie_fire,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_lifesteal,item_power_treads,item_faerie_fire,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_blade_of_alacrity,item_power_treads,item_mask_of_madness,item_boots_of_elves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_mask_of_madness,item_power_treads,item_yasha,item_great_crit_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
