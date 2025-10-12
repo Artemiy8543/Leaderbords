@@ -5,3 +5,4 @@
 009{item_gladiator_guard,item_lotus_orb,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0010{item_gladiator_guard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_gladiator_guard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
