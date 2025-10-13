@@ -1,3 +1,4 @@
 44=1{item_broadsword,item_broadsword,-,-,-,item_gloves,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_broadsword,item_broadsword,item_quelling_blade,item_cornucopia,-,item_gloves,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_bfury,item_power_treads,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+003{item_bfury,-,-,-,-,item_gloves,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_bfury,item_power_treads,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
