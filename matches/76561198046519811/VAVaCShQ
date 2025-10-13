@@ -3,3 +3,4 @@
 003{item_bfury,-,-,-,-,item_gloves,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_bfury,item_power_treads,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bfury,item_power_treads,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+007{item_bfury,item_power_treads,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
