@@ -4,4 +4,5 @@
 5{item_bfury,item_power_treads,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bfury,item_power_treads,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 007{item_bfury,item_power_treads,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-9{item_bfury,item_power_treads,item_satanic,item_sange_and_yasha,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_bfury,item_power_treads,item_lifesteal,item_sange_and_yasha,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_bfury,item_power_treads,item_satanic,item_sange_and_yasha,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
