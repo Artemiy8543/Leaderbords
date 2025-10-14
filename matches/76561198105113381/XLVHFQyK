@@ -6,4 +6,4 @@
 6{item_attacker_midas_agi,item_hand_of_midas,item_mask_of_madness,item_hyperstone,item_dragon_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 007{item_attacker_midas_agi,item_hand_of_midas,item_satanic,item_hyperstone,item_battle_lance,item_lifesteal,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_attacker_midas_agi,item_hand_of_midas,item_satanic_of_madness,item_ward_observer,item_battle_lance,item_hyperstone,}{item_trident_custom,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-9{item_attacker_midas_agi,item_hand_of_midas,item_satanic_of_madness,item_trident_custom,item_battle_lance,item_hyperstone,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_attacker_midas_agi,item_hand_of_midas,item_satanic_of_madness,item_trident_custom,item_battle_lance,item_lotus_cuirass,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
