@@ -7,4 +7,4 @@
 9{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 11{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,item_agi_book,item_ward_observer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0013{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,-,item_ward_observer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0015{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,item_agi_book,item_ward_observer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0016{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,-,item_ward_observer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
