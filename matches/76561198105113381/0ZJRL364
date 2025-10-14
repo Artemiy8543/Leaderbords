@@ -2,3 +2,4 @@
 2{-,-,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{-,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_point_booster,item_staff_of_wizardry,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+5{item_ultimate_scepter,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
