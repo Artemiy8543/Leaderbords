@@ -4,4 +4,5 @@
 004{item_point_booster,item_staff_of_wizardry,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 5{item_ultimate_scepter,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_ultimate_scepter,item_crimson_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-10{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,item_agi_book,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+9{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+11{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,item_agi_book,item_ward_observer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
