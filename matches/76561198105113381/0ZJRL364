@@ -2,5 +2,6 @@
 2{-,-,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{-,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_point_booster,item_staff_of_wizardry,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-6{item_ultimate_scepter,item_crimson_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-8{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+5{item_ultimate_scepter,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+7{item_ultimate_scepter,item_crimson_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+9{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
