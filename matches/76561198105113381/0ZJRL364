@@ -13,4 +13,4 @@
 0027{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,item_agi_book,item_ward_observer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0030{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,item_str_book,item_ward_observer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0032{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,item_str_book,item_ward_observer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-0033{item_ultimate_scepter,item_gladiator_guard,item_blade_midas,item_str_book,item_ward_observer,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0034{-,item_gladiator_guard,item_blade_midas,-,item_shivas_strom,item_vladimir_pact,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
