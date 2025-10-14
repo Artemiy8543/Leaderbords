@@ -2,3 +2,4 @@
 2{-,item_hand_of_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_agi,item_hand_of_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_hand_of_midas,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+005{item_attacker_midas_agi,item_hand_of_midas,item_mask_of_madness,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
