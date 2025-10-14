@@ -17,3 +17,4 @@
 35{item_bloodstone_shield,item_shivas_strom,item_blade_midas,-,item_gladiator_guard,item_vladimir_pact,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 36{item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_radiance_prc,item_gladiator_guard,item_vladimir_pact,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 38{item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_radiance_prc,item_gladiator_guard,item_vladimir_pact,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+39{item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_radiance_prc,item_gladiator_guard,item_vladimir_pact,}{item_ward_observer,item_butterfly,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
