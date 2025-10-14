@@ -4,4 +4,4 @@
 6{item_attacker_midas_str,item_vanguard,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_attacker_midas_str,item_vanguard,item_ultimate_scepter,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{item_attacker_midas_str,item_gladiator_guard,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0014{item_attacker_midas_str,item_gladiator_guard,item_ultimate_scepter,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0015{item_attacker_midas_str,item_gladiator_guard,item_ultimate_scepter,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
