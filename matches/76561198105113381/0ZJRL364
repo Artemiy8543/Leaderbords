@@ -22,3 +22,4 @@
 0044{item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_radiance_prc,item_gladiator_guard,item_vladimir_pact,}{item_ward_observer,item_butterfly,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0045{item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_radiance_prc,item_gladiator_guard,item_vladimir_pact,}{item_ward_observer,item_butterfly,item_str_book,}{item_agi_book,-,-,-,-,-,}{item_sisters_shroud,};
 0047{item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_radiance_prc,item_gladiator_guard,item_vladimir_pact,}{item_ward_observer,item_butterfly,item_int_book,}{item_agi_book,-,-,-,-,-,}{item_sisters_shroud,};
+0048{item_bloodstone_shield,item_shivas_strom,item_blade_midas,item_radiance_prc,item_gladiator_guard,item_vladimir_pact,}{item_ward_observer,-,item_butterfly,}{-,-,-,-,-,-,}{item_sisters_shroud,};
