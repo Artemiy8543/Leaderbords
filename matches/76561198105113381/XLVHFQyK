@@ -8,4 +8,4 @@
 8{item_attacker_midas_agi,item_hand_of_midas,item_satanic_of_madness,item_ward_observer,item_battle_lance,item_hyperstone,}{item_trident_custom,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_attacker_midas_agi,item_hand_of_midas,item_satanic_of_madness,item_trident_custom,item_battle_lance,item_lotus_cuirass,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 12{item_attacker_midas_agi,item_hand_of_midas,item_satanic_of_madness,item_trident_custom,item_battle_lance,item_lotus_cuirass,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0014{item_attacker_midas_agi,item_hand_of_midas,item_satanic_of_madness,item_trident_custom,item_battle_lance,item_lotus_cuirass,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0015{item_attacker_midas_agi,item_hand_of_midas,item_satanic_of_madness,item_trident_custom,item_battle_lance,item_lotus_cuirass,}{item_ward_observer,item_moon_shard,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
