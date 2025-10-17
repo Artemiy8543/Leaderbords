@@ -4,3 +4,4 @@
 006{item_power_treads,item_null_talisman,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 008{item_power_treads,item_null_talisman,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_power_treads,item_null_talisman,item_dragon_lance,-,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_power_treads,item_null_talisman,item_dragon_lance,item_vanguard,item_lightning_sword,-,}{item_whisper_of_the_dread,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
