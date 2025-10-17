@@ -3,4 +3,4 @@
 4{item_heart,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_gladiator_guard,item_platemail,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_gladiator_guard,item_assault,item_pers,item_platemail,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
-10{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_lesser_crit,item_staff_of_wizardry,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
