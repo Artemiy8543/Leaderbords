@@ -1,3 +1,4 @@
 18=1{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_attacker_midas_str,item_lifesteal,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_attacker_midas_str,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_attacker_midas_str,item_satanic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
