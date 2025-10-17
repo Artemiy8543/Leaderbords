@@ -29,3 +29,4 @@
 0056{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_blade_midas,}{item_str_book3,-,-,}{item_rapier,-,-,-,-,-,}{item_divine_regalia,};
 0057{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_blade_midas,}{item_str_book3,-,-,}{item_rapier,-,-,-,-,-,}{item_divine_regalia,};
 0059{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_blade_midas,}{item_str_book3,-,-,}{item_rapier,-,-,-,-,-,}{item_divine_regalia,};
+0060{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_blade_midas,}{-,-,-,}{item_rapier,-,-,-,-,-,}{item_divine_regalia,};
