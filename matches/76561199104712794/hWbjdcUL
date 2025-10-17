@@ -1,4 +1,4 @@
 22=1{item_boots,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_power_treads,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_power_treads,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_power_treads,item_null_talisman,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+4{item_power_treads,item_null_talisman,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+006{item_power_treads,item_null_talisman,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
