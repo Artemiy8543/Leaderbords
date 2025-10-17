@@ -7,5 +7,6 @@
 13{item_gladiator_guard,item_lotus_cuirass,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_gladiator_guard,item_lotus_cuirass,item_gladiator_guard,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 16{item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-18{item_gladiator_guard,item_lotus_cuirass,item_great_magic_crit3,item_blade_midas,item_crimson_guard,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-20{item_gladiator_guard,item_lotus_cuirass,item_great_magic_crit3,item_blade_midas,item_crimson_guard,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+17{item_gladiator_guard,item_lotus_cuirass,item_great_magic_crit3,item_blade_midas,item_crimson_guard,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+19{item_gladiator_guard,item_lotus_cuirass,item_great_magic_crit3,item_blade_midas,item_crimson_guard,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+0021{item_gladiator_guard,item_lotus_cuirass,item_great_magic_crit3,item_blade_midas,item_crimson_guard,item_bloodstone_shield,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
