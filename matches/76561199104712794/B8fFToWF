@@ -3,4 +3,4 @@
 004{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_gladiator_guard,item_assault,item_pers,item_platemail,-,-,}{item_recipe_lotus_cuirass,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_gladiator_guard,item_lotus_cuirass,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_gladiator_guard,item_lotus_cuirass,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
