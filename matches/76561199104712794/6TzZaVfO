@@ -9,4 +9,5 @@
 0011{item_attacker_midas_str,item_satanic,item_lotus_cuirass,item_great_crit_custom,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0013{item_attacker_midas_str,item_satanic,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 16{item_attacker_midas_str,item_satanic,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0019{item_attacker_midas_str,item_satanic,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0018{item_attacker_midas_str,item_satanic,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+20{item_attacker_midas_str,item_satanic,item_lotus_cuirass,item_great_crit_custom3,item_gladiator_guard,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
