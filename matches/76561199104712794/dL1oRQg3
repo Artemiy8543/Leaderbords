@@ -2,4 +2,4 @@
 2{item_reaver,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_heart,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_gladiator_guard,item_platemail,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_gladiator_guard,item_assault,item_pers,item_platemail,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
+9{item_gladiator_guard,item_lotus_cuirass,item_voodoo_mask,item_vitality_booster,item_energy_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
