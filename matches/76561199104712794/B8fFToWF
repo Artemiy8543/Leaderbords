@@ -6,3 +6,4 @@
 10{item_gladiator_guard,item_lotus_cuirass,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_gladiator_guard,item_lotus_cuirass,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_gladiator_guard,item_lotus_cuirass,item_gladiator_guard,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+16{item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,item_blade_midas,item_crimson_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
