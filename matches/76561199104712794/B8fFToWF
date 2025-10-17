@@ -2,4 +2,4 @@
 2{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_gladiator_guard,item_assault,item_pers,item_platemail,-,-,}{item_recipe_lotus_cuirass,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_gladiator_guard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
