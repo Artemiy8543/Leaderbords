@@ -1,3 +1,4 @@
 96=1{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_reaver,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_heart,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_reaver,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_heart,item_vanguard,item_buckler,item_helm_of_iron_will,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{-,};
