@@ -50,4 +50,4 @@
 0093{item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_blade_midas,}{item_str_book3,item_lotus_cuirass,-,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
 0095{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_blade_midas,}{item_str_book3,item_shivas_strom,-,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
 0097{item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_blade_midas,}{item_str_book3,item_lotus_cuirass,-,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
-0098{item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_blade_midas,}{item_str_book3,item_lotus_cuirass,-,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
+0099{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit3,item_trident_custom,item_blade_midas,}{item_str_book3,item_shivas_strom,-,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
