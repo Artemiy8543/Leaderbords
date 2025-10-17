@@ -1,4 +1,5 @@
 96=1{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_vanguard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-006{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+003{item_vanguard,item_reaver,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_gladiator_guard,item_platemail,item_hyperstone,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
