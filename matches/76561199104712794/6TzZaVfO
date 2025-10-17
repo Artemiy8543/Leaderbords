@@ -6,3 +6,4 @@
 8{item_attacker_midas_str,item_satanic,item_assault,item_lesser_crit,item_reaver,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_attacker_midas_str,item_satanic,item_lotus_cuirass,item_lesser_crit,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0010{item_attacker_midas_str,item_satanic,item_lotus_cuirass,item_lesser_crit,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0011{item_attacker_midas_str,item_satanic,item_lotus_cuirass,item_great_crit_custom,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
