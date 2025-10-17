@@ -2,3 +2,4 @@
 002{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_str,item_lifesteal,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_attacker_midas_str,item_satanic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_attacker_midas_str,item_satanic,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
