@@ -3,4 +3,4 @@
 4{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_crimson_guard,item_heart,item_point_booster,item_staff_of_wizardry,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_gladiator_guard,-,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-10{item_gladiator_guard,-,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_gladiator_guard,-,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
