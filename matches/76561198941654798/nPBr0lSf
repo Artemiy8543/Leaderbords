@@ -7,3 +7,4 @@
 9{item_attacker_midas_agi,item_mask_of_madness,item_trident_custom,item_armlet_of_mjolnir,item_khandas_brooch,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0010{item_attacker_midas_agi,item_bloodstone_shield,item_mask_of_madness,item_armlet_of_mjolnir,item_khandas_brooch,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_attacker_midas_agi,item_bloodstone_shield,item_creep_desolator,item_armlet_of_mjolnir,item_khandas_brooch,item_trident_custom,}{item_mask_of_madness,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_attacker_midas_agi,item_bloodstone_shield,item_creep_desolator,item_armlet_of_mjolnir,item_khandas_brooch,item_trident_custom,}{item_mask_of_madness,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
