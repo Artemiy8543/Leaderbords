@@ -4,3 +4,4 @@
 004{item_attacker_midas_agi,item_lifesteal,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_attacker_midas_agi,item_lifesteal,item_mjollnir,item_sange_and_yasha,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_attacker_midas_agi,item_mask_of_madness,item_armlet_of_mjolnir,item_trident_custom,item_revenants_brooch,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_attacker_midas_agi,item_mask_of_madness,item_trident_custom,item_armlet_of_mjolnir,item_khandas_brooch,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
