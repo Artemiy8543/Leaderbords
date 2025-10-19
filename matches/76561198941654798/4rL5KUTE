@@ -6,4 +6,5 @@
 6{item_creep_desolator,item_attacker_midas_agi,item_lifesteal,item_eagle,item_talisman_of_evasion,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_butterfly,item_trident_custom,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-13{item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_battle_lance,item_trident_custom,item_khandas_brooch,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+12{item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_battle_lance,item_trident_custom,item_khandas_brooch,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+14{item_creep_desolator,item_attacker_midas_agi,item_satanic_of_madness,item_battle_lance,item_trident_custom,item_khandas_brooch,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
