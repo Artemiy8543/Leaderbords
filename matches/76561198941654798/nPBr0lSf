@@ -13,4 +13,4 @@
 0019{item_attacker_midas_agi,item_bloodstone_shield,item_creep_desolator,item_armlet_of_mjolnir,item_khandas_brooch,item_trident_custom,}{item_mask_of_madness,-,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
 0021{item_attacker_midas_agi,item_bloodstone_shield,item_creep_desolator,item_satanic_of_madness,item_armlet_of_mjolnir,item_bfury,}{item_khandas_brooch,item_trident_custom,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
 0022{item_gladiator_guard,item_bfury,item_creep_desolator,item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_agi,}{-,item_trident_custom,item_butterfly,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
-24{item_gladiator_guard,item_battle_lance,item_creep_desolator,item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_agi,}{-,item_trident_custom,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
+25{item_gladiator_guard,item_battle_lance,item_creep_desolator,item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_agi,}{-,item_trident_custom,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
