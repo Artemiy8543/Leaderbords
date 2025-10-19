@@ -2,3 +2,4 @@
 2{item_attacker_midas_agi,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_agi,item_lifesteal,item_gloves,item_mithril_hammer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_agi,item_lifesteal,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+5{item_attacker_midas_agi,item_lifesteal,item_mjollnir,item_yasha,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
