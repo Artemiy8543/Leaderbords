@@ -10,4 +10,4 @@
 13{item_attacker_midas_agi,item_bloodstone_shield,item_creep_desolator,item_armlet_of_mjolnir,item_khandas_brooch,item_trident_custom,}{item_mask_of_madness,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 15{item_attacker_midas_agi,item_bloodstone_shield,item_creep_desolator,item_armlet_of_mjolnir,item_khandas_brooch,item_trident_custom,}{item_mask_of_madness,-,-,}{-,-,-,-,-,-,}{-,};
 0017{item_attacker_midas_agi,item_bloodstone_shield,item_creep_desolator,item_armlet_of_mjolnir,item_khandas_brooch,item_trident_custom,}{item_mask_of_madness,-,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
-0019{item_attacker_midas_agi,item_bloodstone_shield,item_creep_desolator,item_armlet_of_mjolnir,item_khandas_brooch,item_trident_custom,}{item_mask_of_madness,-,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
+0020{item_attacker_midas_agi,item_bloodstone_shield,item_creep_desolator,item_armlet_of_mjolnir,item_khandas_brooch,item_trident_custom,}{item_satanic_of_madness,-,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
