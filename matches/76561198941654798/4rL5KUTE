@@ -1,3 +1,4 @@
 93=1{item_mithril_hammer,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_mithril_hammer,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_mithril_hammer,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_mithril_hammer,item_attacker_midas_agi,item_lifesteal,item_mithril_hammer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
