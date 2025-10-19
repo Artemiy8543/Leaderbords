@@ -16,4 +16,4 @@
 25{item_gladiator_guard,item_battle_lance,item_creep_desolator,item_satanic_of_madness,item_armlet_of_mjolnir,item_attacker_midas_agi,}{-,item_trident_custom,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
 29{item_gladiator_guard,item_battle_lance,item_trident_custom,item_satanic_of_madness,item_creep_desolator,item_attacker_midas_agi,}{-,item_armlet_of_mjolnir,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
 34{item_gladiator_guard,item_battle_lance,item_trident_custom,item_satanic_of_madness,item_creep_desolator,item_attacker_midas_agi,}{-,item_armlet_of_mjolnir,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
-37{item_gladiator_guard,item_battle_lance,item_trident_custom,-,item_creep_desolator,item_attacker_midas_agi,}{item_satanic_of_madness,item_armlet_of_mjolnir,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
+38{item_gladiator_guard,item_battle_lance,item_trident_custom,item_satanic_of_madness,item_creep_desolator,item_attacker_midas_agi,}{-,item_armlet_of_mjolnir,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
