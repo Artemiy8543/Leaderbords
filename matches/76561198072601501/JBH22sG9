@@ -6,3 +6,4 @@
 7{item_radiance,item_bfury,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_radiance,item_bfury,item_vanguard,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_radiance,item_bfury,item_vanguard,item_assault,item_great_crit_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_radiance,item_bfury,item_vanguard,item_assault,item_great_crit_custom,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
