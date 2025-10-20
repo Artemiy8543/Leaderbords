@@ -20,4 +20,4 @@
 51{item_great_crit_custom3,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_armlet_of_mjolnir,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 58{item_great_crit_custom3,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_armlet_of_mjolnir,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 67{item_great_crit_custom3,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_armlet_of_mjolnir,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-68{item_great_crit_custom3,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_armlet_of_mjolnir,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+70{item_great_crit_custom3,item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_armlet_of_mjolnir,-,}{-,-,item_butterfly,}{-,-,-,-,-,-,}{item_dormant_curio,};
