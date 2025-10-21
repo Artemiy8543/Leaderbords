@@ -2,3 +2,4 @@
 2{item_hand_of_midas,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hand_of_midas,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_hand_of_midas,item_attacker_midas_agi,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_hand_of_midas,item_mask_of_madness,item_attacker_midas_agi,item_ward_observer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
