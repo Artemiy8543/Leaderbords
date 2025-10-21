@@ -8,3 +8,4 @@
 10{item_hand_of_midas,item_satanic,item_attacker_midas_agi,item_ward_observer,item_butterfly,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 11{item_hand_of_midas,item_satanic,item_attacker_midas_agi,item_ward_observer,item_butterfly,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0012{item_hand_of_midas,item_satanic,item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,item_battle_lance,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+13{item_trident_custom,item_satanic,item_attacker_midas_agi,item_great_crit_custom3,item_butterfly,item_battle_lance,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
