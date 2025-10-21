@@ -1,3 +1,4 @@
 6=001{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_hand_of_midas,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hand_of_midas,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_hand_of_midas,item_attacker_midas_agi,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
