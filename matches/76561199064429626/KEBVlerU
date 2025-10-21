@@ -34,4 +34,5 @@
 61{item_lotus_cuirass,item_satanic,item_gladiator_guard,item_great_crit_custom3,item_butterfly,item_battle_lance,}{-,item_attacker_midas_agi,item_trident_custom,}{-,-,-,-,-,-,}{item_serrated_shiv,};
 0062{item_lotus_cuirass,item_satanic,item_gladiator_guard,item_great_crit_custom3,item_butterfly,item_battle_lance,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
 0064{item_creep_desolator,item_satanic,item_gladiator_guard,item_great_crit_custom3,item_butterfly,item_battle_lance,}{item_lotus_cuirass,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
-0066{item_creep_desolator,item_satanic,item_gladiator_guard,item_great_crit_custom3,item_butterfly,item_battle_lance,}{item_lotus_cuirass,item_agi_book3,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+0065{item_creep_desolator,item_satanic,item_gladiator_guard,item_great_crit_custom3,item_butterfly,item_battle_lance,}{item_lotus_cuirass,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+0067{item_creep_desolator,item_satanic,item_gladiator_guard,item_great_crit_custom3,item_butterfly,item_battle_lance,}{item_lotus_cuirass,item_agi_book3,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
