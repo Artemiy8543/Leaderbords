@@ -2,3 +2,4 @@
 002{item_gloves,item_javelin,item_belt_of_strength,item_belt_of_strength,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_maelstrom,item_ogre_axe,item_basher,item_belt_of_strength,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_maelstrom,item_ogre_axe,item_basher,item_belt_of_strength,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_maelstrom,item_ogre_axe,item_basher,item_belt_of_strength,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
