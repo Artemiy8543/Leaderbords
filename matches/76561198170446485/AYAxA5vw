@@ -4,3 +4,4 @@
 6{item_maelstrom,item_ogre_axe,item_basher,item_belt_of_strength,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_maelstrom,item_ogre_axe,item_basher,item_belt_of_strength,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_maelstrom,item_ogre_axe,item_basher,item_belt_of_strength,item_mask_of_madness,item_eagle,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_maelstrom,item_ogre_axe,item_basher,item_butterfly,item_mask_of_madness,-,}{item_belt_of_strength,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
