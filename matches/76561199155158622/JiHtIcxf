@@ -1,4 +1,4 @@
 96=1{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_blade_midas,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-006{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+3{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_blade_midas,item_heart,item_ring_of_health,-,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+007{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
