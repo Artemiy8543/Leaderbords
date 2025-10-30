@@ -1,2 +1,3 @@
 96=1{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_blade_midas,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
