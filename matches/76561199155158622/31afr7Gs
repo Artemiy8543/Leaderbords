@@ -10,4 +10,5 @@
 16{item_blade_midas,item_heart,item_satanic_of_madness,item_great_crit_custom3,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 0018{item_blade_midas,item_heart,item_satanic_of_madness,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 20{item_blade_midas,item_heart,item_satanic_of_madness,item_great_crit_custom3,item_enchanted_mango,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
-0024{item_blade_midas,item_gladiator_guard,item_satanic_of_madness,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+0023{item_blade_midas,item_gladiator_guard,item_satanic_of_madness,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+0025{item_blade_midas,item_gladiator_guard,item_satanic_of_madness,item_great_crit_custom3,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
