@@ -1,2 +1,3 @@
 2=001{item_broadsword,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+002{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_blade_midas,item_point_booster,item_staff_of_wizardry,item_ogre_axe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
