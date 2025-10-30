@@ -2,3 +2,4 @@
 2{item_attacker_midas_agi,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_agi,item_gloves,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_attacker_midas_agi,item_gloves,item_blade_mail,item_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+6{item_attacker_midas_agi,item_gloves,item_blade_mail,item_desolator,item_flask,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
