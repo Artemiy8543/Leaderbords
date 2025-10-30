@@ -3,3 +3,4 @@
 4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 6{item_blade_midas,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 9{item_blade_midas,item_heart,item_great_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+0010{item_blade_midas,item_heart,item_great_crit_custom3,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
