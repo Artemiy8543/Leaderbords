@@ -4,4 +4,4 @@
 005{item_attacker_midas_agi,item_gloves,item_blade_mail,item_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 6{item_attacker_midas_agi,item_gloves,item_blade_mail,item_desolator,item_flask,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_attacker_midas_agi,item_assault,item_blade_mail,item_desolator,-,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-008{item_attacker_midas_agi,item_assault,item_blade_mail,item_desolator,item_monkey_king_bar,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+009{item_attacker_midas_agi,item_assault,item_blade_mail,item_desolator,item_monkey_king_bar,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
