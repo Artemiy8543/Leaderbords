@@ -1,4 +1,5 @@
 108=1{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
-7{item_blade_midas,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+6{item_blade_midas,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+8{item_blade_midas,item_heart,item_great_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
