@@ -7,4 +7,4 @@
 13{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 16{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 18{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0020{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_radiance_prc,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0021{item_blade_midas,item_gladiator_guard,-,item_radiance_prc,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
