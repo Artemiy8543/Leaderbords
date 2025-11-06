@@ -4,4 +4,4 @@
 5{item_ring_of_tarrasque,item_reaver,item_blade_mail,-,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 6{item_heart,item_vanguard,item_blade_mail,-,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 7{item_gladiator_guard,-,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-8{item_gladiator_guard,item_armlet,item_blade_mail,-,-,-,}{item_recipe_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+9{item_gladiator_guard,item_armlet,item_blade_mail,item_maelstrom,-,-,}{item_recipe_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
