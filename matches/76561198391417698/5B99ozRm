@@ -12,3 +12,4 @@
 20{item_radiance_prc,item_gladiator_guard,item_great_magic_crit3,item_infinity_moon_shard,item_butterfly,item_battle_lance,}{item_power_treads,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 22{item_radiance_prc,item_gladiator_guard,item_great_magic_crit3,item_infinity_moon_shard,item_butterfly,item_battle_lance,}{item_power_treads,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 26{item_radiance_prc,item_gladiator_guard,item_great_magic_crit3,item_infinity_moon_shard,item_butterfly,item_battle_lance,}{item_power_treads,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+27{item_radiance_prc,item_gladiator_guard,item_great_magic_crit3,item_infinity_moon_shard,item_butterfly,item_battle_lance,}{item_power_treads,item_satanic,-,}{-,-,-,-,-,-,}{item_misericorde,};
