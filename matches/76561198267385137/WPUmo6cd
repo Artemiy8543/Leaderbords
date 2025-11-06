@@ -1,4 +1,5 @@
 94=3{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0011{item_attacker_midas_agi,item_vladimir_pact,item_battle_lance,item_hurricane_pike,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 13{item_attacker_midas_agi,item_vladimir_pact,item_battle_lance,item_hurricane_pike,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0016{item_attacker_midas_agi,item_vladimir_pact,item_battle_lance,item_hurricane_pike,item_armlet_of_mjolnir,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0015{item_attacker_midas_agi,item_vladimir_pact,item_battle_lance,item_hurricane_pike,item_armlet_of_mjolnir,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+17{item_attacker_midas_agi,item_vladimir_pact,item_battle_lance,item_hurricane_pike,item_armlet_of_mjolnir,item_skadi,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
