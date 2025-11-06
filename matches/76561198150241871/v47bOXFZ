@@ -2,3 +2,4 @@
 2{item_gloves,item_javelin,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_mjollnir,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_mjollnir,item_point_booster,item_satanic_of_madness,item_staff_of_wizardry,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_mjollnir,item_ultimate_scepter,item_satanic_of_madness,item_blade_of_alacrity,item_boots_of_elves,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
