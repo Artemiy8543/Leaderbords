@@ -3,3 +3,4 @@
 0013{item_assault,item_pipe,item_bloodstone,item_ultimate_scepter,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 15{item_assault,item_ultimate_scepter,item_bloodstone_shield,item_gladiator_guard,item_pipe,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 17{item_lotus_cuirass,item_shivas_guard,item_bloodstone_shield,item_gladiator_guard,item_pipe,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+18{item_lotus_cuirass,item_shivas_strom,item_bloodstone_shield,item_gladiator_guard,item_pipe,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
