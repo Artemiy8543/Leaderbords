@@ -10,3 +10,4 @@
 28{item_armlet_of_mjolnir,item_gladiator_guard,item_satanic_of_madness,item_infinity_moon_shard,item_skadi,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 32{item_armlet_of_mjolnir,item_gladiator_guard,item_satanic_of_madness,item_infinity_moon_shard,item_skadi,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 55{item_armlet_of_mjolnir,item_gladiator_guard,item_satanic_of_madness,item_lotus_cuirass,item_infinity_moon_shard,item_trident_custom,}{item_demonicon,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+56{item_armlet_of_mjolnir,item_gladiator_guard,item_satanic_of_madness,item_lotus_cuirass,item_infinity_moon_shard,item_trident_custom,}{item_demonicon,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
