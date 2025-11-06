@@ -8,3 +8,4 @@
 0016{item_vladimir_pact,item_battle_lance,item_butterfly,item_armlet_of_mjolnir,item_great_crit_custom2,item_great_magic_crit,}{item_demon_edge,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 18{item_vladimir_pact,item_battle_lance,item_butterfly,item_armlet_of_mjolnir,item_great_crit_custom3,item_great_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 20{item_vladimir_pact,item_battle_lance,item_butterfly,item_armlet_of_mjolnir,item_great_crit_custom3,item_great_magic_crit,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+25{item_armlet_of_mjolnir,item_vladimir_pact,item_butterfly,item_great_crit_custom3,item_battle_lance,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
