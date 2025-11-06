@@ -1,2 +1,2 @@
 6=005{-,-,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_battle_lance,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+10{item_battle_lance,item_ultimate_scepter,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
