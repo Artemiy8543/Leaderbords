@@ -3,3 +3,4 @@
 6{item_heart,item_vanguard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_gladiator_guard,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 15{item_gladiator_guard,item_armlet_of_mjolnir,item_blade_midas,item_infinity_moon_shard,item_str_book2,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+16{item_gladiator_guard,item_armlet_of_mjolnir,item_blade_midas,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
