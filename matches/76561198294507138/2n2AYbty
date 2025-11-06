@@ -2,4 +2,4 @@
 3{-,-,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_heart,item_vanguard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_gladiator_guard,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-9{item_gladiator_guard,item_armlet_of_mjolnir,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_gladiator_guard,item_armlet_of_mjolnir,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
