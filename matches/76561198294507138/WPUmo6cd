@@ -6,3 +6,4 @@
 7{item_gladiator_guard,-,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 8{item_gladiator_guard,item_armlet,item_blade_mail,-,-,-,}{item_recipe_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 10{item_gladiator_guard,item_armlet_of_mjolnir,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+18{item_gladiator_guard,item_armlet_of_mjolnir,item_blade_mail,item_satanic_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
