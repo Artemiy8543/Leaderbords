@@ -2,3 +2,4 @@
 3{item_ring_of_health,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_ring_of_health,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{-,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_vitality_booster,item_point_booster,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
