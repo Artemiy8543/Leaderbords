@@ -1,3 +1,4 @@
 73=4{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 15{item_lotus_cuirass,item_ultimate_scepter_2,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0021{item_lotus_cuirass,item_ultimate_scepter_2,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+24{item_lotus_cuirass,item_ultimate_scepter_2,item_radiance_prc,item_creep_desolator,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
