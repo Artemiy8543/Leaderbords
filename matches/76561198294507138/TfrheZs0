@@ -3,3 +3,4 @@
 4{item_vladimir_pact,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_vladimir_pact,item_talisman_of_evasion,item_claymore,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_vladimir_pact,item_butterfly,item_manta,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+12{item_vladimir_pact,item_butterfly,item_manta,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
