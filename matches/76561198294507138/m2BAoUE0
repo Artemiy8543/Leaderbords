@@ -7,4 +7,4 @@
 11{item_octarine_core,item_bloodstone_shield,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 13{item_refresher_core,item_bloodstone_shield,item_gladiator_guard,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0017{item_refresher_core,item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_ultimate_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-22{item_refresher_core,item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_ultimate_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+23{item_refresher_core,item_bloodstone_shield,item_gladiator_guard,item_blade_midas,item_ultimate_boots,item_crimson_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
