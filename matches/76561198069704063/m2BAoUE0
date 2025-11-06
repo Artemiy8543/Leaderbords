@@ -3,3 +3,4 @@
 7{item_vladimir_pact,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_vladimir_pact,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 009{item_vladimir_pact,item_battle_lance,item_claymore,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0010{item_vladimir_pact,item_battle_lance,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
