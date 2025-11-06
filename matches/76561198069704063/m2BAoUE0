@@ -1,3 +1,4 @@
 94=1{item_blades_of_attack,item_ring_of_basilius,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_vladimir_pact,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_vladimir_pact,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_vladimir_pact,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
