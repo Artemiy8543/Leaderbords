@@ -1,4 +1,4 @@
 73=1{-,-,-,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-002{-,-,-,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_radiance,-,-,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-6{item_radiance_prc,-,-,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+003{item_radiance,-,-,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_radiance_prc,-,-,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+007{item_radiance_prc,-,-,item_power_treads,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
