@@ -1,3 +1,4 @@
 72=4{item_vladimir_pact,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_vladimir_pact,item_mjollnir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 0016{item_vladimir_pact,item_armlet_of_mjolnir,item_trident_custom,item_skadi,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+17{item_vladimir_pact,item_armlet_of_mjolnir,item_trident_custom,item_skadi,item_butterfly,item_hurricane_pike,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
