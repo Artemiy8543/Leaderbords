@@ -1,3 +1,4 @@
 131=3{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_power_treads,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_power_treads,item_bloodstone_shield,item_urn_of_shadows,-,item_talisman_of_evasion,-,}{item_recipe_radiance_prc,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_power_treads,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
