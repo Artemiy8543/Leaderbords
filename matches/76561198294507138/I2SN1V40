@@ -4,3 +4,4 @@
 006{item_blade_midas,item_voodoo_mask,item_soul_booster,-,item_ring_of_protection,-,}{item_recipe_pavise,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_blade_midas,item_bloodstone_shield,-,-,-,-,}{item_recipe_heart,item_recipe_gladiator_guard,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_blade_midas,item_bloodstone_shield,item_ring_of_tarrasque,-,-,-,}{item_recipe_heart,item_recipe_gladiator_guard,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+10{item_blade_midas,item_bloodstone_shield,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
