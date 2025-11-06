@@ -1,3 +1,4 @@
 94=1{item_sobi_mask,item_ring_of_protection,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_vladmir,item_buckler,item_dragon_lance,item_ring_of_basilius,item_lifesteal,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_vladimir_pact,item_battle_lance,item_armlet,item_maelstrom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+13{item_vladimir_pact,item_battle_lance,item_armlet_of_mjolnir,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
