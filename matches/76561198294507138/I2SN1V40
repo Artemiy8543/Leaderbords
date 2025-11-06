@@ -1,3 +1,4 @@
 96=1{item_broadsword,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_broadsword,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{item_blade_midas,item_voodoo_mask,item_soul_booster,-,item_ring_of_protection,-,}{item_recipe_pavise,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
