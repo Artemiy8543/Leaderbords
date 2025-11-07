@@ -2,3 +2,4 @@
 002{item_ring_of_tarrasque,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_ring_of_tarrasque,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_ring_of_tarrasque,item_reaver,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_heart,item_blade_mail,item_buckler,item_quelling_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
