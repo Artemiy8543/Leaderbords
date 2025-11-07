@@ -4,3 +4,4 @@
 11{item_maelstrom,item_heart,item_butterfly,item_yasha_and_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0013{item_maelstrom,item_heart,item_butterfly,item_yasha_and_kaya,item_ultimate_scepter,item_yasha,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0017{item_shivas_strom,item_gladiator_guard,item_butterfly,item_yasha_and_kaya,item_ultimate_scepter,item_manta,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+19{item_shivas_strom,item_gladiator_guard,item_butterfly,item_yasha_and_kaya,-,item_manta,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
