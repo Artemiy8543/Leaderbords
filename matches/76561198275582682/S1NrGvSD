@@ -4,3 +4,4 @@
 4{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_bfury,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_bfury,item_ring_of_tarrasque,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_bfury,item_heart,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
