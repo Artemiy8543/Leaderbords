@@ -6,4 +6,4 @@
 7{item_bfury,item_ring_of_tarrasque,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_bfury,item_heart,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_bfury,item_heart,item_platemail,item_hyperstone,item_buckler,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-10{item_bfury,item_heart,item_assault,item_veil_of_discord,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_bfury,item_heart,item_assault,item_veil_of_discord,item_platemail,item_ring_of_protection,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
