@@ -2,3 +2,4 @@
 006{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_maelstrom,item_butterfly,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_mjollnir,item_butterfly,item_lesser_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_mjollnir,item_butterfly,item_great_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
