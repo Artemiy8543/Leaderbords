@@ -3,3 +3,4 @@
 3{item_quelling_blade,item_broadsword,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_bfury,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_bfury,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_bfury,item_ring_of_tarrasque,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
