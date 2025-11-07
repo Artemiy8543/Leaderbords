@@ -5,3 +5,4 @@
 6{item_attacker_midas_agi,item_butterfly,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_attacker_midas_agi,item_butterfly,item_satanic,item_lightning_sword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_agi,item_butterfly,item_satanic,item_lightning_sword,item_heart,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_bfury,item_butterfly,item_satanic,item_lightning_sword,item_heart,item_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
