@@ -11,3 +11,4 @@
 0015{item_battle_lance,item_gladiator_guard,item_assault,item_shivas_guard,item_blade_mail,item_vladimir_pact,}{item_ring_of_health,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 18{item_battle_lance,item_gladiator_guard,item_lotus_cuirass,item_shivas_strom,item_blade_midas,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0021{item_battle_lance,item_blade_midas,item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0023{item_battle_lance,item_blade_midas,item_lotus_cuirass,item_shivas_strom,item_gladiator_guard,item_vladimir_pact,}{-,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
