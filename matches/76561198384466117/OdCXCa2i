@@ -1,3 +1,4 @@
 35=3{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_maelstrom,item_butterfly,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_mjollnir,item_butterfly,item_lesser_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
