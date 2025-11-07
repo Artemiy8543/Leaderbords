@@ -8,3 +8,4 @@
 9{item_bfury,item_heart,item_platemail,item_hyperstone,item_buckler,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_bfury,item_heart,item_assault,item_veil_of_discord,item_platemail,item_ring_of_protection,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 14{item_bfury,item_heart,item_assault,item_shivas_guard,item_blade_mail,item_vladimir_pact,}{item_vanguard,item_recipe_gladiator_guard,item_recipe_battle_lance,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0015{item_battle_lance,item_gladiator_guard,item_assault,item_shivas_guard,item_blade_mail,item_vladimir_pact,}{item_ring_of_health,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
