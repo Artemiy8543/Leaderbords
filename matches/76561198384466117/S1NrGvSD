@@ -1,4 +1,5 @@
 12=2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-12{item_maelstrom,item_heart,item_butterfly,item_yasha_and_kaya,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_maelstrom,item_heart,item_butterfly,item_yasha_and_kaya,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0013{item_maelstrom,item_heart,item_butterfly,item_yasha_and_kaya,item_ultimate_scepter,item_yasha,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
