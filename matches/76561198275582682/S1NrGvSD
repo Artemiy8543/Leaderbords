@@ -1,2 +1,3 @@
 98=1{item_quelling_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_quelling_blade,item_broadsword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_quelling_blade,item_broadsword,item_broadsword,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
