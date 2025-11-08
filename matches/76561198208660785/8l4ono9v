@@ -5,4 +5,5 @@
 11{item_attacker_midas_str,item_heart,-,item_lotus_cuirass,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 12{item_attacker_midas_str,item_heart,item_great_crit_custom3,item_lotus_cuirass,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 14{item_attacker_midas_str,item_gladiator_guard,item_great_crit_custom3,item_lotus_cuirass,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-20{item_attacker_midas_str,item_gladiator_guard,item_great_crit_custom3,item_lotus_cuirass,item_satanic,item_rapier,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+19{item_attacker_midas_str,item_gladiator_guard,item_great_crit_custom3,item_lotus_cuirass,item_satanic,item_rapier,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+22{item_attacker_midas_str,item_gladiator_guard,item_great_crit_custom3,item_lotus_cuirass,item_satanic,item_rapier,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
