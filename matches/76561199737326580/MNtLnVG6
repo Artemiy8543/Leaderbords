@@ -4,5 +4,5 @@
 006{item_power_treads,item_attacker_midas_agi,item_mjollnir,item_dragon_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_power_treads,item_attacker_midas_agi,item_mjollnir,item_creep_desolator,item_hurricane_pike,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_power_treads,item_attacker_midas_agi,item_mjollnir,item_creep_desolator,item_hurricane_pike,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0010{-,item_attacker_midas_agi,item_mjollnir,item_creep_desolator,item_hurricane_pike,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0012{item_great_crit_custom3,item_attacker_midas_agi,item_armlet_of_mjolnir,item_creep_desolator,item_hurricane_pike,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0011{item_great_crit_custom3,item_attacker_midas_agi,item_mjollnir,item_creep_desolator,item_hurricane_pike,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+13{item_great_crit_custom3,item_attacker_midas_agi,item_armlet_of_mjolnir,item_creep_desolator,item_hurricane_pike,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
