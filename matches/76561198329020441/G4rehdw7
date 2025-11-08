@@ -3,4 +3,5 @@
 004{item_dragon_lance,-,-,-,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 005{item_lifesteal,-,-,item_dragon_lance,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_lifesteal,-,-,item_dragon_lance,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-009{-,-,item_mjollnir,-,item_lifesteal,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{-,-,-,item_dragon_lance,item_lifesteal,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0011{-,-,item_mjollnir,-,item_lifesteal,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
