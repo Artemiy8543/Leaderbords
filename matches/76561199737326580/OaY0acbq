@@ -1,4 +1,5 @@
 94=1{item_power_treads,item_helm_of_iron_will,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_power_treads,item_helm_of_iron_will,item_crown,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_power_treads,item_helm_of_the_overlord,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-6{item_power_treads,item_helm_of_the_overlord,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+3{item_power_treads,item_helm_of_the_dominator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_power_treads,item_helm_of_the_overlord,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+7{item_power_treads,item_helm_of_the_overlord,-,item_manta,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
