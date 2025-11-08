@@ -6,3 +6,4 @@
 007{item_power_treads,item_helm_of_the_overlord,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_power_treads,item_helm_of_the_overlord,-,item_hurricane_pike,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 9{item_power_treads,item_helm_of_the_overlord,item_maelstrom,item_hurricane_pike,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+10{item_power_treads,item_helm_of_the_overlord,item_mjollnir,item_hurricane_pike,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
