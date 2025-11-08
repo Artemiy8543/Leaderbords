@@ -2,4 +2,4 @@
 003{item_power_treads,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_power_treads,item_attacker_midas_agi,item_maelstrom,item_dragon_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_power_treads,item_attacker_midas_agi,item_mjollnir,item_dragon_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-7{item_power_treads,item_attacker_midas_agi,item_mjollnir,item_desolator,item_hurricane_pike,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_power_treads,item_attacker_midas_agi,item_mjollnir,item_creep_desolator,item_hurricane_pike,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
