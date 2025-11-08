@@ -1,2 +1,3 @@
 128=1{item_javelin,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_mjollnir,-,-,-,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
