@@ -4,3 +4,4 @@
 7{item_attacker_midas_str,item_heart,item_buckler,item_platemail,item_satanic,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_attacker_midas_str,item_heart,-,item_lotus_cuirass,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 12{item_attacker_midas_str,item_heart,item_great_crit_custom3,item_lotus_cuirass,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+13{item_attacker_midas_str,item_heart,item_great_crit_custom3,item_lotus_cuirass,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
