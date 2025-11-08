@@ -1,2 +1,3 @@
 6=001{-,-,-,-,item_gloves,item_javelin,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{-,-,-,-,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+002{-,-,-,-,item_gloves,item_javelin,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_dragon_lance,-,-,-,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
