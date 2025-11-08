@@ -6,3 +6,4 @@
 008{-,-,-,item_dragon_lance,item_lifesteal,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{-,-,item_mjollnir,-,item_lifesteal,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_butterfly,-,item_mjollnir,-,item_lifesteal,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+15{item_butterfly,-,item_mjollnir,-,item_lifesteal,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
