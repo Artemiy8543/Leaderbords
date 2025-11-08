@@ -2,3 +2,4 @@
 002{-,-,-,-,item_gloves,item_javelin,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_dragon_lance,-,-,-,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 005{item_lifesteal,-,-,item_dragon_lance,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_lifesteal,-,-,item_dragon_lance,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
