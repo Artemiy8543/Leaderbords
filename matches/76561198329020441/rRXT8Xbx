@@ -4,3 +4,4 @@
 6{item_lifesteal,-,-,-,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_satanic,-,-,-,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_satanic,-,-,-,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_satanic,item_battle_lance,-,-,-,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
