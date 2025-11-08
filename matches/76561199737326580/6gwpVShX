@@ -2,3 +2,4 @@
 002{item_power_treads,item_crown,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_power_treads,item_helm_of_the_dominator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_power_treads,item_helm_of_the_dominator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+005{item_power_treads,item_helm_of_the_dominator,item_dragon_lance,-,-,-,}{item_recipe_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
