@@ -7,4 +7,5 @@
 13{item_satanic,item_armlet_of_mjolnir,item_flask,-,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0015{item_satanic,item_armlet_of_mjolnir,item_flask,-,item_battle_lance,item_great_crit_custom2,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 17{item_satanic,item_armlet_of_mjolnir,item_flask,item_great_crit_custom3,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0022{item_satanic,item_armlet_of_mjolnir,item_flask,item_butterfly,item_battle_lance,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0021{item_satanic,item_armlet_of_mjolnir,item_flask,item_butterfly,item_battle_lance,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+23{item_satanic,item_armlet_of_mjolnir,-,item_butterfly,item_battle_lance,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
