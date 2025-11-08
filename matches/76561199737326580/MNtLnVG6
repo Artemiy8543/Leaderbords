@@ -1,2 +1,3 @@
 35=1{item_power_treads,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_power_treads,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_power_treads,item_attacker_midas_agi,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
