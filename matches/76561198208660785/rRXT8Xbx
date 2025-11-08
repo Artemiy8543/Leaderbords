@@ -2,3 +2,4 @@
 003{item_maelstrom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_mjollnir,-,-,-,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0014{item_mjollnir,item_heart,-,item_lotus_cuirass,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0020{item_mjollnir,item_gladiator_guard,item_battle_lance,item_lotus_cuirass,item_satanic_of_madness,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
