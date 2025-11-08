@@ -5,3 +5,4 @@
 005{item_power_treads,item_helm_of_the_dominator,item_dragon_lance,-,-,-,}{item_recipe_helm_of_the_overlord,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_power_treads,item_helm_of_the_overlord,item_dragon_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 8{item_power_treads,item_helm_of_the_overlord,-,item_hurricane_pike,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_power_treads,item_helm_of_the_overlord,item_maelstrom,item_hurricane_pike,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
