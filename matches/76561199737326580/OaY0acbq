@@ -5,4 +5,5 @@
 7{item_power_treads,item_helm_of_the_overlord,-,item_manta,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 8{item_power_treads,item_helm_of_the_overlord,item_claymore,item_manta,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 9{item_power_treads,item_helm_of_the_overlord,item_claymore,item_manta,item_talisman_of_evasion,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-0011{item_power_treads,item_helm_of_the_overlord,item_butterfly,item_manta,item_orb_of_frost,item_ultimate_orb,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+0010{item_power_treads,item_helm_of_the_overlord,item_butterfly,item_manta,item_orb_of_frost,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+12{item_power_treads,item_helm_of_the_overlord,item_butterfly,item_manta,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
