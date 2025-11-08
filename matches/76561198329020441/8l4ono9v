@@ -4,3 +4,4 @@
 6{-,-,-,-,item_lifesteal,item_maelstrom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_satanic,-,item_flask,-,-,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0010{item_satanic,-,item_flask,-,-,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+13{item_satanic,item_armlet_of_mjolnir,item_flask,-,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
