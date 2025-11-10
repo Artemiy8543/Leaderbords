@@ -2,4 +2,5 @@
 2{item_kaya,item_ogre_axe,item_belt_of_strength,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_trident_custom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_trident_custom,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-8{item_trident_custom,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_trident_custom,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_trident_custom,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
