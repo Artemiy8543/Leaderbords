@@ -1,2 +1,3 @@
 65=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_agi,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_attacker_midas_agi,item_voodoo_mask,item_void_stone,item_point_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
