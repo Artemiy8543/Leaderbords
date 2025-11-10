@@ -1,4 +1,4 @@
 99=1{item_kaya,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_kaya,item_ogre_axe,item_belt_of_strength,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_kaya_and_sange,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_trident_custom,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+004{item_trident_custom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+6{item_trident_custom,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
