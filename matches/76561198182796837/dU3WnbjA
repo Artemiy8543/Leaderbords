@@ -7,4 +7,5 @@
 12{item_trident_custom,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 14{item_trident_custom,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0017{item_trident_custom,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-20{item_trident_custom,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+19{item_trident_custom,item_bloodstone_shield,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0021{item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
