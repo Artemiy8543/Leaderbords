@@ -18,4 +18,4 @@
 36{item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_refresher_core,item_manaback3,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 38{item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_refresher_core,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 40{item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_refresher_core,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-0042{item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_refresher_core,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+0043{item_trident_custom,item_bloodstone_shield,item_radiance_prc,item_refresher_core,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
