@@ -4,3 +4,4 @@
 4{item_attacker_midas_agi,item_bloodstone_shield,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 5{item_attacker_midas_agi,item_bloodstone_shield,item_kaya_and_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_attacker_midas_agi,item_bloodstone_shield,item_trident_custom,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
