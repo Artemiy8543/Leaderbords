@@ -1,2 +1,3 @@
 36=1{item_pavise,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_pavise,item_voodoo_mask,item_soul_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+002{item_pavise,item_voodoo_mask,item_point_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_bloodstone_shield,item_ogre_axe,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
