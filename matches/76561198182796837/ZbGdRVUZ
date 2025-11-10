@@ -2,3 +2,4 @@
 2{item_sange,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_trident_custom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 5{item_trident_custom,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+6{item_trident_custom,item_voodoo_mask,item_soul_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
