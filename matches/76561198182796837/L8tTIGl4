@@ -1,2 +1,2 @@
 14=8{item_bloodstone_shield,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-63{item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_radiance_prc,item_phylactery_blade,}{item_whisper_of_the_dread,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+64{item_bloodstone_shield,item_shivas_strom,item_trident_custom,item_great_magic_crit3,item_radiance_prc,item_phylactery_blade,}{-,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
