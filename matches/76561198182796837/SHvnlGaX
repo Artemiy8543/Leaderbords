@@ -1,4 +1,5 @@
 36=9{item_bloodstone_shield,item_trident_custom,item_radiance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_bloodstone_shield,item_trident_custom,item_radiance_prc,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0013{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,-,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0016{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0015{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0017{item_bloodstone_shield,item_phylactery_blade,item_radiance_prc,item_trident_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
