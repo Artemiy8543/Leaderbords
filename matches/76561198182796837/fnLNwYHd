@@ -3,6 +3,7 @@
 4{item_attacker_midas_str,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 5{item_attacker_midas_str,item_creep_desolator,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 006{item_attacker_midas_str,item_creep_desolator,item_heart,item_vanguard,item_helm_of_iron_will,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-008{item_attacker_midas_str,item_creep_desolator,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-10{item_attacker_midas_str,item_creep_desolator,item_gladiator_guard,item_butterfly,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0012{item_attacker_midas_str,item_shivas_strom,item_gladiator_guard,item_butterfly,item_creep_desolator,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+007{item_attacker_midas_str,item_creep_desolator,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_attacker_midas_str,item_creep_desolator,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0011{item_attacker_midas_str,item_shivas_strom,item_gladiator_guard,item_butterfly,item_creep_desolator,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+13{item_attacker_midas_str,item_shivas_strom,item_gladiator_guard,item_butterfly,item_creep_desolator,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
