@@ -1,3 +1,4 @@
 14=1{item_sange,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_sange,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_trident_custom,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+5{item_trident_custom,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
