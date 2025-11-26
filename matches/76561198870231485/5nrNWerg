@@ -11,4 +11,4 @@
 0028{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_platemail,item_trident_custom,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 42{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_satanic_of_madness,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_demonicon,};
 56{item_gladiator_guard,item_satanic_of_madness,item_lotus_cuirass,item_shivas_strom,item_trident_custom,item_pipe,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
-58{item_gladiator_guard,item_satanic_of_madness,item_lotus_cuirass,item_shivas_strom,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
+59{item_gladiator_guard,item_satanic_of_madness,item_lotus_cuirass,item_shivas_strom,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_gale_guard,};
