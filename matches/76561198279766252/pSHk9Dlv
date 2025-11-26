@@ -1,2 +1,3 @@
 75=1{item_blade_of_alacrity,item_belt_of_strength,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_dragon_lance,item_broadsword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+2{item_dragon_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_dragon_lance,item_broadsword,item_quelling_blade,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
