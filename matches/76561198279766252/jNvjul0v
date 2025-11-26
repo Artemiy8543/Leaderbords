@@ -1,2 +1,2 @@
 36=14{item_ultimate_scepter,item_manaback3,item_radiance_prc,-,-,item_veil_of_dagon,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-40{item_gladiator_guard,item_manaback3,item_radiance_prc,item_great_magic_crit3,item_refresher_core,item_veil_of_dagon,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+44{item_gladiator_guard,item_manaback3,item_radiance_prc,-,item_refresher_core,item_veil_of_dagon,}{item_great_magic_crit3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
