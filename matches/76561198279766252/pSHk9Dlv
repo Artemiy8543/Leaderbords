@@ -1,3 +1,4 @@
 75=1{item_blade_of_alacrity,item_belt_of_strength,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_dragon_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_dragon_lance,item_broadsword,item_quelling_blade,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_battle_lance,item_blitz_knuckles,item_sobi_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
