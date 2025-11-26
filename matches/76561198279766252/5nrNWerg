@@ -4,3 +4,4 @@
 7{item_butterfly,item_magic_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_butterfly,item_magic_crit,item_demon_edge,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_butterfly,item_great_magic_crit2,item_blight_stone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_butterfly,item_great_magic_crit3,item_blight_stone,item_mithril_hammer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
