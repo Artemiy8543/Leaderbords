@@ -12,4 +12,4 @@
 24{item_butterfly,item_great_magic_crit3,item_creep_desolator,item_monkey_king_bar,item_battle_lance,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 27{item_butterfly,item_great_magic_crit3,item_creep_desolator,item_monkey_king_bar,item_battle_lance,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0030{item_butterfly,item_great_magic_crit3,item_creep_desolator,item_monkey_king_bar,item_battle_lance,item_lightning_sword,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-35{item_basher_slardar,item_great_magic_crit3,item_creep_desolator,item_monkey_king_bar,item_lightning_sword,item_battle_lance,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+36{item_basher_slardar,item_great_magic_crit3,item_creep_desolator,item_monkey_king_bar,item_lightning_sword,item_battle_lance,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
