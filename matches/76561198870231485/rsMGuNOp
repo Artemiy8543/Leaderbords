@@ -2,3 +2,4 @@
 5{item_mjollnir,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_mjollnir,item_force_staff,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 009{item_mjollnir,item_hurricane_pike,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0010{item_armlet_of_mjolnir,item_hurricane_pike,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
