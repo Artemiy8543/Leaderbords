@@ -2,3 +2,4 @@
 2{item_dragon_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_dragon_lance,item_broadsword,item_quelling_blade,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_battle_lance,item_blitz_knuckles,item_sobi_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_battle_lance,item_witch_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
