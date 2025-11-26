@@ -5,3 +5,4 @@
 11{item_crimson_guard,item_heart,item_ultimate_scepter,item_platemail,item_platemail,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0012{item_crimson_guard,item_shivas_guard,item_ultimate_scepter,item_heart,item_assault,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 15{item_gladiator_guard,item_shivas_guard,item_lotus_cuirass,item_platemail,-,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0017{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_platemail,-,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
