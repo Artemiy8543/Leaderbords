@@ -1,4 +1,1 @@
-36=2{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_relic,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_ogre_axe,item_point_booster,item_radiance_prc,item_staff_of_wizardry,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-9{item_ultimate_scepter,item_dagon,item_radiance_prc,-,-,item_veil_of_discord,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+36=13{item_ultimate_scepter,item_manaback3,item_radiance_prc,-,-,item_veil_of_dagon,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
