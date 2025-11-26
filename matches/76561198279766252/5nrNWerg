@@ -3,3 +3,4 @@
 004{item_eagle,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_butterfly,item_magic_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_butterfly,item_magic_crit,item_demon_edge,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_butterfly,item_great_magic_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
