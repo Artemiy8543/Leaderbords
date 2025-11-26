@@ -1,3 +1,4 @@
 75=5{item_manaback2,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_manaback3,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 007{item_manaback3,item_dragon_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+8{item_manaback3,item_dragon_lance,item_cornucopia,-,-,item_quelling_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
