@@ -7,3 +7,4 @@
 15{item_gladiator_guard,item_shivas_guard,item_lotus_cuirass,item_platemail,-,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0017{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_platemail,-,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0019{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_platemail,-,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0022{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_platemail,item_trident_custom,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
