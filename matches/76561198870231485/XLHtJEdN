@@ -1,3 +1,4 @@
 29=1{item_ring_of_tarrasque,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_heart,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_heart,item_platemail,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_heart,item_mask_of_madness,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
