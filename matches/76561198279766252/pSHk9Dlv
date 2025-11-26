@@ -3,4 +3,4 @@
 004{item_dragon_lance,item_broadsword,item_quelling_blade,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_battle_lance,item_blitz_knuckles,item_sobi_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_battle_lance,item_witch_blade,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-8{item_battle_lance,item_witch_blade,item_blade_of_alacrity,item_robe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_battle_lance,item_staff_of_wizardry,item_robe,-,item_arcane_boots,item_diffuth_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
