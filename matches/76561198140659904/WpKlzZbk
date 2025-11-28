@@ -3,3 +3,4 @@
 7{item_reaver,item_ring_of_tarrasque,-,item_crimson_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_gladiator_guard,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_gladiator_guard,-,item_lotus_cuirass,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+16{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_blade_midas,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
