@@ -1,3 +1,4 @@
 96=2{item_midas_component,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{-,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ring_of_health,-,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_gladiator_guard,item_lotus_orb,item_assault,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
