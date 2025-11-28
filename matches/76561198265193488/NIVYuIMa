@@ -5,3 +5,4 @@
 20{item_ultimate_scepter,item_trident_custom,item_refresher_core,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 30{item_ultimate_scepter,item_trident_custom,item_refresher_core,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 32{item_ultimate_scepter,item_trident_custom,item_refresher_core,item_great_magic_crit3,item_phylactery_blade,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+40{-,item_trident_custom,item_refresher_core,item_great_magic_crit3,item_octarine_core,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
