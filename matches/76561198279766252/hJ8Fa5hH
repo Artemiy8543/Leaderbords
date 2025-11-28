@@ -1,3 +1,4 @@
 68=7{item_manaback2,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_manaback3,item_dragon_lance,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_manaback3,item_battle_lance,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_manaback3,item_battle_lance,item_great_magic_crit,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
