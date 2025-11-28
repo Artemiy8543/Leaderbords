@@ -3,4 +3,4 @@
 0017{item_ultimate_scepter,item_trident_custom,item_refresher_core,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 19{item_ultimate_scepter,item_trident_custom,item_refresher_core,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 41{-,item_trident_custom,item_refresher_core,item_great_magic_crit3,item_octarine_core,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-46{-,item_trident_custom,item_refresher_core,item_great_magic_crit3,item_octarine_core,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+52{item_khandas_brooch,item_trident_custom,item_refresher_core,item_great_magic_crit3,item_octarine_core,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
