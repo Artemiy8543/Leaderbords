@@ -1,4 +1,4 @@
 6=001{item_gloves,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_hand_of_midas,item_refresher,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-20{item_hand_of_midas,item_refresher_core,item_ultimate_scepter,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+24{item_hand_of_midas,item_refresher_core,-,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
