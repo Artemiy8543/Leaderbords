@@ -1,2 +1,3 @@
 6=001{item_gloves,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_hand_of_midas,item_refresher,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
