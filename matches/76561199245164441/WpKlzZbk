@@ -3,4 +3,4 @@
 008{item_octarine_core,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 12{item_octarine_core,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 15{item_octarine_core,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-48{item_shivas_strom,item_rod_staff,item_gladiator_guard,item_octarine_core,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+50{item_shivas_strom,item_rod_staff,item_gladiator_guard,item_octarine_core,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
