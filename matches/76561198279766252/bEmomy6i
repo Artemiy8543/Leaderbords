@@ -2,3 +2,4 @@
 2{item_null_talisman,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_null_talisman,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_null_talisman,item_battle_lance,item_tiara_of_selemene,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_null_talisman,item_battle_lance,item_tiara_of_selemene,item_point_booster,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
