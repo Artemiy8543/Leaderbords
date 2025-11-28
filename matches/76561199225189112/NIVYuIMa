@@ -1,4 +1,4 @@
 6=001{item_gloves,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_hand_of_midas,item_refresher,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-41{item_basher_slardar,item_battle_lance,item_great_crit_custom3,item_creep_desolator,item_skadi,item_armlet_of_mjolnir,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+42{item_basher_slardar,item_battle_lance,item_great_crit_custom3,item_creep_desolator,item_skadi,item_armlet_of_mjolnir,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
