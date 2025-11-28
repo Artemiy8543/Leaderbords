@@ -4,5 +4,5 @@
 5{item_kaya_and_sange,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{-,-,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_dragon_lance,item_cornucopia,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-8{item_battle_lance,-,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0011{item_battle_lance,item_magic_crit,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_battle_lance,item_magic_crit,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0013{item_battle_lance,item_great_magic_crit2,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
