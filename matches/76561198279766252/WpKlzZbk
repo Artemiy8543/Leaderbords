@@ -3,3 +3,4 @@
 4{item_kaya,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_kaya_and_sange,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{-,-,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_dragon_lance,item_cornucopia,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
