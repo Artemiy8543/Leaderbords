@@ -2,3 +2,4 @@
 3{item_hand_of_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_hand_of_midas,item_refresher,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 26{item_hand_of_midas,item_refresher_core,-,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+31{item_hand_of_midas,-,item_great_crit_custom3,item_creep_desolator,item_skadi,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
