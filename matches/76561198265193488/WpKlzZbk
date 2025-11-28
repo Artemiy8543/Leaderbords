@@ -2,3 +2,4 @@
 25{item_trident_custom,item_battle_lance,item_great_magic_crit3,item_lightning_sword,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 29{item_trident_custom,item_battle_lance,item_great_magic_crit3,item_lightning_sword,item_manaback3,item_diffuth_blade,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 52{item_trident_custom,item_battle_lance,item_great_magic_crit3,item_armlet_of_mjolnir,item_manaback3,item_diffuth_blade,}{item_int_book3,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
+58{item_battle_lance,item_creep_desolator,item_trident_custom,item_manaback3,item_rod_staff,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
