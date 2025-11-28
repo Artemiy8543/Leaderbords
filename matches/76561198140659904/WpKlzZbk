@@ -9,4 +9,4 @@
 0026{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_blade_midas,item_lightning_sword,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 27{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_blade_midas,item_lightning_sword,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0028{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_blade_midas,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-38{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_blade_midas,item_heart,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+39{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_blade_midas,item_heart,item_radiance_prc,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
