@@ -1,3 +1,4 @@
 68=1{item_null_talisman,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_null_talisman,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_null_talisman,item_dragon_lance,item_cornucopia,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_null_talisman,item_dragon_lance,item_cornucopia,item_broadsword,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
