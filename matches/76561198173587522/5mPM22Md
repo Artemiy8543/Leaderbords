@@ -9,4 +9,4 @@
 0013{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 0015{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0018{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-22{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+23{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,-,-,}{-,item_branches,item_branches,}{-,-,-,-,-,-,}{item_misericorde,};
