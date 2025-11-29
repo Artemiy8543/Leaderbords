@@ -10,4 +10,4 @@
 0015{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0018{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 42{item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-75{item_battle_lance,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_radiance_prc,}{item_great_crit_custom3,-,item_attacker_midas_str,}{-,-,-,-,-,-,}{item_divine_regalia,};
+76{item_battle_lance,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_radiance_prc,}{item_great_crit_custom3,-,item_attacker_midas_str,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
