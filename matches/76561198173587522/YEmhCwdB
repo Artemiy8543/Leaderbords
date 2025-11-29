@@ -7,4 +7,4 @@
 12{item_attacker_midas_int,item_gladiator_guard,item_butterfly,item_battle_lance,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_attacker_midas_int,item_gladiator_guard,item_butterfly,item_battle_lance,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0017{-,item_gladiator_guard,item_butterfly,item_battle_lance,-,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
-0021{item_infinity_moon_shard,item_gladiator_guard,item_butterfly,item_battle_lance,-,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+0022{item_infinity_moon_shard,item_gladiator_guard,item_butterfly,item_battle_lance,-,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
