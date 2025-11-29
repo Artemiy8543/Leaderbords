@@ -10,4 +10,5 @@
 0015{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0018{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 26{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-29{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+28{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+0030{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_great_crit_custom3,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
