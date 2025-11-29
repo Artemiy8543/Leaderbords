@@ -3,4 +3,5 @@
 4{item_attacker_midas_str,item_faerie_fire,item_faerie_fire,item_faerie_fire,item_faerie_fire,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 005{item_attacker_midas_str,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 6{item_attacker_midas_str,item_heart,item_ring_of_health,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
-008{item_attacker_midas_str,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+007{item_attacker_midas_str,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
+9{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
