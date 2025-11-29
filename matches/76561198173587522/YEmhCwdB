@@ -2,5 +2,5 @@
 003{item_attacker_midas_int,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_int,item_heart,item_vanguard,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_int,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_attacker_midas_int,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_attacker_midas_int,item_gladiator_guard,item_butterfly,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_attacker_midas_int,item_gladiator_guard,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_attacker_midas_int,item_gladiator_guard,item_butterfly,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
