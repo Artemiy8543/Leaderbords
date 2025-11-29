@@ -26,6 +26,6 @@
 0060{item_infinity_moon_shard,item_gladiator_guard,item_bloodstone_shield,item_battle_lance,item_great_crit_custom3,item_creep_desolator,}{item_enchanted_mango,item_butterfly,item_khandas_brooch,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 62{item_infinity_moon_shard,item_gladiator_guard,item_bloodstone_shield,item_battle_lance,item_great_crit_custom3,item_creep_desolator,}{item_enchanted_mango,item_butterfly,item_khandas_brooch,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
 0064{item_infinity_moon_shard,item_gladiator_guard,item_bloodstone_shield,item_battle_lance,item_great_crit_custom3,item_creep_desolator,}{-,-,item_khandas_brooch,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
-65{item_infinity_moon_shard,item_skadi,item_bloodstone_shield,item_battle_lance,item_great_crit_custom3,item_creep_desolator,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
-67{item_infinity_moon_shard,item_skadi,item_bloodstone_shield,item_battle_lance,item_great_crit_custom3,item_creep_desolator,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
-69{item_infinity_moon_shard,item_skadi,item_bloodstone_shield,item_battle_lance,item_great_crit_custom3,item_creep_desolator,}{item_gladiator_guard,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_divine_regalia,};
+66{item_infinity_moon_shard,item_skadi,item_bloodstone_shield,item_battle_lance,item_great_crit_custom3,item_creep_desolator,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+68{item_infinity_moon_shard,item_skadi,item_bloodstone_shield,item_battle_lance,item_great_crit_custom3,item_creep_desolator,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_int,};
+70{item_infinity_moon_shard,item_skadi,item_bloodstone_shield,item_battle_lance,item_great_crit_custom3,item_creep_desolator,}{item_gladiator_guard,-,item_attacker_midas_int,}{-,-,-,-,-,-,}{item_divine_regalia,};
