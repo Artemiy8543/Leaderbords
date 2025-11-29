@@ -4,4 +4,5 @@
 006{item_attacker_midas_int,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_attacker_midas_int,item_gladiator_guard,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_attacker_midas_int,item_gladiator_guard,item_butterfly,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_attacker_midas_int,item_gladiator_guard,item_butterfly,item_battle_lance,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+12{item_attacker_midas_int,item_gladiator_guard,item_butterfly,item_battle_lance,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_attacker_midas_int,item_gladiator_guard,item_butterfly,item_battle_lance,item_ultimate_scepter,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
