@@ -21,3 +21,4 @@
 108{item_creep_desolator,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,}{-,item_attacker_midas_str,-,}{-,-,-,-,-,-,}{item_demonicon,};
 109{item_creep_desolator,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,}{-,item_attacker_midas_str,-,}{-,-,-,-,-,-,}{item_demonicon,};
 110{item_creep_desolator,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,}{item_moon_shard,item_attacker_midas_str,item_hyperstone,}{-,-,-,-,-,-,}{item_demonicon,};
+00111{item_creep_desolator,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,}{item_moon_shard,item_attacker_midas_str,item_hyperstone,}{-,-,-,-,-,-,}{item_demonicon,};
