@@ -16,4 +16,4 @@
 86{item_battle_lance,item_gladiator_guard,item_creep_desolator,item_infinity_moon_shard,item_blade_mail,item_radiance_prc,}{item_divine_regalia,item_great_crit_custom3,item_attacker_midas_str,}{-,-,-,-,-,-,}{-,};
 87{item_blade_mail,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,}{-,item_divine_regalia,item_attacker_midas_str,}{-,-,-,-,-,-,}{item_creep_desolator,};
 88{item_lightning_sword,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,}{item_blade_mail,item_divine_regalia,item_attacker_midas_str,}{-,-,-,-,-,-,}{item_creep_desolator,};
-96{item_creep_desolator,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,}{-,item_attacker_midas_str,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+97{item_creep_desolator,item_gladiator_guard,item_radiance_prc,item_infinity_moon_shard,item_battle_lance,item_great_crit_custom3,}{-,item_attacker_midas_str,-,}{-,-,-,-,-,-,}{item_giant_maul,};
