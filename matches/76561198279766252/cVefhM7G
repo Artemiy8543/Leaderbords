@@ -3,3 +3,4 @@
 3{item_sange,item_boots_of_elves,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_sange_and_yasha,item_staff_of_wizardry,item_robe,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 005{item_trident_custom,item_hyperstone,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+6{item_trident_custom,item_kaya,item_lesser_crit,item_moon_shard,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
