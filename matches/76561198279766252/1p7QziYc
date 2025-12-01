@@ -5,3 +5,4 @@
 8{item_battle_lance,item_creep_desolator,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 16{item_battle_lance,item_creep_desolator,item_ultimate_scepter,item_infinity_moon_shard,item_great_crit_custom3,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 18{item_battle_lance,item_creep_desolator,item_mask_of_madness,item_infinity_moon_shard,item_great_crit_custom3,item_attacker_midas_agi,}{item_mask_of_madness,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+19{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
