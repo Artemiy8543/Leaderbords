@@ -7,4 +7,5 @@
 8{item_attacker_midas_int,item_null_talisman,item_vladmir,item_battle_lance,item_kaya,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_attacker_midas_int,item_mask_of_madness,item_vladmir,item_battle_lance,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_attacker_midas_int,item_satanic_of_madness,item_vladmir,item_battle_lance,item_trident_custom,item_blight_stone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-12{item_attacker_midas_int,item_satanic_of_madness,item_vladimir_pact,item_battle_lance,item_trident_custom,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_attacker_midas_int,item_satanic_of_madness,item_vladmir,item_battle_lance,item_trident_custom,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0013{item_attacker_midas_int,item_satanic_of_madness,-,item_battle_lance,item_trident_custom,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
