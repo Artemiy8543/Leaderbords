@@ -2,4 +2,4 @@
 005{item_dragon_lance,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_battle_lance,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 10{item_battle_lance,item_satanic,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0012{item_battle_lance,item_creep_desolator,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0013{item_battle_lance,item_creep_desolator,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
