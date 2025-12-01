@@ -4,3 +4,4 @@
 6{item_trident_custom,item_arcane_boots,item_staff_of_wizardry,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_trident_custom,item_manaback2,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 11{item_trident_custom,item_manaback3,item_great_magic_crit3,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+14{item_trident_custom,item_manaback3,item_great_magic_crit3,item_infinity_moon_shard,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
