@@ -10,4 +10,4 @@
 34{item_battle_lance,item_creep_desolator,item_satanic_of_madness,item_infinity_moon_shard,item_butterfly,item_great_crit_custom3,}{-,-,item_skadi,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 41{item_battle_lance,item_creep_desolator,item_satanic_of_madness,item_infinity_moon_shard,item_butterfly,item_great_crit_custom3,}{-,-,item_skadi,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 78{item_firecracker_small,item_creep_desolator,item_satanic_of_madness,item_infinity_moon_shard,item_butterfly,item_skadi,}{item_agi_book3,item_battle_lance,item_great_crit_custom3,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-104{item_battle_lance,-,item_vladimir_pact,item_infinity_moon_shard,item_lotus_cuirass,item_skadi,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+105{item_battle_lance,-,item_vladimir_pact,item_infinity_moon_shard,item_lotus_cuirass,item_skadi,}{item_agi_book2,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
