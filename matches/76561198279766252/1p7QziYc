@@ -18,4 +18,4 @@
 0049{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,}{item_int_book2,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 55{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,}{-,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
 58{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,}{-,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
-60{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
+62{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
