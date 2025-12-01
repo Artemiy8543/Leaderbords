@@ -1,4 +1,4 @@
 48=4{item_dragon_lance,-,item_quelling_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_dragon_lance,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_battle_lance,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-10{item_battle_lance,item_satanic,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_battle_lance,item_satanic_of_madness,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
