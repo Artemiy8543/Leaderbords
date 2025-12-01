@@ -5,3 +5,4 @@
 005{item_trident_custom,item_hyperstone,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 6{item_trident_custom,item_kaya,item_lesser_crit,item_moon_shard,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 7{item_trident_custom,item_great_magic_crit,-,item_moon_shard,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0010{item_trident_custom,item_great_magic_crit3,item_manaback3,item_infinity_moon_shard,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
