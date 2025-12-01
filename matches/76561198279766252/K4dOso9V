@@ -2,3 +2,4 @@
 002{item_blade_of_alacrity,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_yasha_and_kaya,item_belt_of_strength,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 6{item_trident_custom,item_arcane_boots,item_staff_of_wizardry,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+007{item_trident_custom,item_manaback2,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
