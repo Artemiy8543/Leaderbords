@@ -17,4 +17,4 @@
 130{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 170{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_skadi,item_attacker_midas_agi,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 200{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_trident_custom,item_khandas_brooch,item_attacker_midas_agi,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
-202{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_trident_custom,item_khandas_brooch,item_attacker_midas_agi,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+208{item_trident_custom,item_creep_desolator,item_great_crit_custom3,item_battle_lance,item_armlet_of_mjolnir,item_attacker_midas_agi,}{-,item_khandas_brooch,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
