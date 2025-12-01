@@ -1,3 +1,4 @@
 75=1{-,-,-,-,-,item_midas_component,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{-,-,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_sange,item_boots_of_elves,-,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_sange_and_yasha,item_staff_of_wizardry,item_robe,-,-,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
