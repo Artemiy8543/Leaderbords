@@ -3,3 +3,4 @@
 004{item_attacker_midas_int,item_dragon_lance,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 5{item_attacker_midas_int,item_dragon_lance,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_attacker_midas_int,item_dragon_lance,item_vladmir,item_tranquil_boots,item_cornucopia,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_attacker_midas_int,item_battle_lance,item_vladmir,item_tranquil_boots,item_blade_of_alacrity,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
