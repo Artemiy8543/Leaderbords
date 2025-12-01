@@ -10,3 +10,4 @@
 24{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0026{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
 29{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0031{item_battle_lance,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_agi,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
