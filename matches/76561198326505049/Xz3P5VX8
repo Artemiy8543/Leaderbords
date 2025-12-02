@@ -1,3 +1,4 @@
 13=1{item_circlet,-,item_midas_component,-,-,-,}{item_recipe_null_talisman,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_int,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_attacker_midas_int,item_soul_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
