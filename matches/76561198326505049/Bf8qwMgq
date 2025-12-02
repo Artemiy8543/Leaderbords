@@ -4,4 +4,4 @@
 4{item_attacker_midas_int,item_kaya,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 5{item_attacker_midas_int,item_trident_custom,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 007{item_attacker_midas_int,item_trident_custom,item_mask_of_madness,item_moon_shard,item_manaback,item_kaya,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-9{item_attacker_midas_int,item_trident_custom,item_satanic_of_madness,item_moon_shard,item_manaback3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_attacker_midas_int,item_lotus_cuirass,item_satanic_of_madness,-,item_manaback3,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
