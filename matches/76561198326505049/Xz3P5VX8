@@ -10,3 +10,4 @@
 0012{item_refresher_core,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_battle_lance,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 14{item_refresher_core,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_battle_lance,item_attacker_midas_int,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 16{item_refresher_core,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+17{item_refresher_core,item_satanic_of_madness,item_armlet_of_mjolnir,item_creep_desolator,item_battle_lance,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
