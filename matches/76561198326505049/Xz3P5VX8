@@ -5,4 +5,4 @@
 5{item_attacker_midas_int,item_octarine_core,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 006{item_attacker_midas_int,item_octarine_core,item_mask_of_madness,-,item_maelstrom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_attacker_midas_int,item_octarine_core,item_mask_of_madness,item_desolator,-,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-8{item_attacker_midas_int,item_mjollnir,item_satanic,item_creep_desolator,item_dragon_lance,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+9{item_attacker_midas_int,item_satanic,item_armlet_of_mjolnir,item_creep_desolator,item_battle_lance,item_octarine_core,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
