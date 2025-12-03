@@ -6,3 +6,4 @@
 8{item_ward_observer,item_bloodstone_shield,item_attacker_midas_str,item_heart,item_vanguard,item_helm_of_iron_will,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 9{-,item_gladiator_guard,item_attacker_midas_str,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 11{item_radiance,item_gladiator_guard,item_attacker_midas_str,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+12{item_radiance_prc,item_gladiator_guard,item_attacker_midas_str,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
