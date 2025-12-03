@@ -4,4 +4,5 @@
 006{item_ward_observer,item_bloodstone,item_attacker_midas_str,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 7{item_ward_observer,item_bloodstone,item_attacker_midas_str,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 8{item_ward_observer,item_bloodstone_shield,item_attacker_midas_str,item_heart,item_vanguard,item_helm_of_iron_will,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-10{item_radiance,item_gladiator_guard,item_attacker_midas_str,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+9{-,item_gladiator_guard,item_attacker_midas_str,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+11{item_radiance,item_gladiator_guard,item_attacker_midas_str,item_bloodstone_shield,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
