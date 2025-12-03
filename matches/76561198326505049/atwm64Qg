@@ -18,3 +18,4 @@
 0044{item_radiance_prc,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0048{item_radiance_prc,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0055{item_gladiator_guard,item_shivas_strom,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0056{item_gladiator_guard,-,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_radiance_prc,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{-,};
