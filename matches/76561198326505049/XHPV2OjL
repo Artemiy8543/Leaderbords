@@ -1,2 +1,2 @@
 99=1{item_ward_observer,item_midas_component,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_ward_observer,item_midas_component,item_broadsword,item_chainmail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_ward_observer,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
