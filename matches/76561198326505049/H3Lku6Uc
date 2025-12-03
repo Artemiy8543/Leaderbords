@@ -2,3 +2,4 @@
 002{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_str,item_voodoo_mask,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_str,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+6{item_ward_observer,item_heart,-,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
