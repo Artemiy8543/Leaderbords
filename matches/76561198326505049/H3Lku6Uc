@@ -4,5 +4,5 @@
 5{item_attacker_midas_str,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 6{item_ward_observer,item_heart,-,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 007{item_ward_observer,item_heart,item_blade_mail,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-008{item_ward_observer,item_gladiator_guard,item_blade_mail,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-10{item_ward_observer,item_gladiator_guard,item_blade_mail,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+009{item_ward_observer,item_gladiator_guard,item_blade_mail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+0011{item_ward_observer,item_gladiator_guard,item_lotus_cuirass,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
