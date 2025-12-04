@@ -1,2 +1,2 @@
 2=10{item_gladiator_guard,item_octarine_core,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-28{item_gladiator_guard,item_refresher_core,item_bloodstone_shield,-,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+30{item_gladiator_guard,item_refresher_core,item_bloodstone_shield,-,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
