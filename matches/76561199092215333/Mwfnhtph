@@ -1,3 +1,3 @@
 2=10{item_gladiator_guard,item_octarine_core,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 49{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_refresher_core,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
-68{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_refresher_core,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+70{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_refresher_core,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
