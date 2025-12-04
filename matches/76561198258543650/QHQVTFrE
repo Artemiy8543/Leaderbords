@@ -2,4 +2,5 @@
 4{item_helm_of_the_dominator,item_ring_of_basilius,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 9{item_helm_of_the_dominator,item_vladmir,item_ultimate_scepter,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{item_helm_of_the_overlord,item_vladmir,item_ultimate_scepter,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-17{item_helm_of_the_overlord,item_vladimir_pact,item_ultimate_scepter,item_bloodstone,item_gladiator_guard,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+16{item_helm_of_the_overlord,item_vladimir_pact,item_ultimate_scepter,item_bloodstone,item_gladiator_guard,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+18{item_helm_of_the_overlord,item_vladimir_pact,-,item_bloodstone,item_gladiator_guard,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
