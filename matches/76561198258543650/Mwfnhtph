@@ -6,3 +6,4 @@
 103{item_great_magic_crit3,item_attacker_midas_agi,item_trident_custom,item_khandas_brooch,item_creep_desolator,item_infinity_moon_shard,}{-,-,item_battle_lance,}{item_great_crit_custom3,item_vladimir_pact,-,-,-,-,}{item_desolator_2,};
 00105{item_great_magic_crit3,item_attacker_midas_agi,item_trident_custom,item_agi_book3,item_creep_desolator,item_infinity_moon_shard,}{item_khandas_brooch,-,item_battle_lance,}{item_great_crit_custom3,item_vladimir_pact,-,-,-,-,}{item_desolator_2,};
 107{item_great_magic_crit3,item_attacker_midas_agi,item_trident_custom,item_khandas_brooch,item_creep_desolator,item_infinity_moon_shard,}{-,-,item_battle_lance,}{item_great_crit_custom3,item_vladimir_pact,-,-,-,-,}{item_desolator_2,};
+108{item_great_magic_crit3,item_battle_lance,item_trident_custom,item_khandas_brooch,item_creep_desolator,item_infinity_moon_shard,}{item_agi_book3,-,item_attacker_midas_agi,}{item_great_crit_custom3,item_vladimir_pact,-,-,-,-,}{item_desolator_2,};
