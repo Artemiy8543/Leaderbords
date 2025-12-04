@@ -2,3 +2,4 @@
 002{-,-,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{-,-,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 004{item_vanguard,item_helm_of_iron_will,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+5{-,item_crimson_guard,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
