@@ -11,4 +11,4 @@
 13{item_custom_necronomicon3,item_gladiator_guard,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 14{item_custom_necronomicon3,item_gladiator_guard,item_blade_midas,-,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 16{item_custom_necronomicon3,item_gladiator_guard,item_blade_midas,-,item_meteor_hammer,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-19{item_custom_necronomicon3,item_gladiator_guard,item_blade_midas,-,item_meteor_hammer,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+20{item_custom_necronomicon3,item_lotus_cuirass,item_blade_midas,item_gladiator_guard,item_meteor_hammer,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
