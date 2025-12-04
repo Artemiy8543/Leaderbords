@@ -5,4 +5,4 @@
 99{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_refresher_core,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 100{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_great_magic_crit3,item_radiance_prc,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 102{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_great_magic_crit3,item_radiance_prc,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-00105{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_great_magic_crit3,item_radiance_prc,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+00106{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_great_magic_crit3,item_radiance_prc,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
