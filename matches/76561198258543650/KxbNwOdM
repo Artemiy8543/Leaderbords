@@ -3,4 +3,4 @@
 006{item_attacker_midas_agi,item_ward_observer,item_lifesteal,item_hyperstone,item_maelstrom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0012{item_attacker_midas_agi,-,item_butterfly,item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0019{item_attacker_midas_agi,item_battle_lance,item_butterfly,item_armlet_of_mjolnir,item_satanic_of_madness,item_moon_shard,}{item_ward_observer,item_great_crit_custom3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-20{item_attacker_midas_agi,item_battle_lance,item_butterfly,item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+21{item_attacker_midas_agi,item_battle_lance,item_butterfly,item_armlet_of_mjolnir,item_satanic_of_madness,item_great_crit_custom3,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
