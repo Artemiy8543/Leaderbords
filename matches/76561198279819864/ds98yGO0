@@ -1,5 +1,5 @@
 104=1{item_blade_mail,item_ward_observer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_blade_midas,item_crimson_guard,item_reaver,item_ring_of_tarrasque,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-007{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
