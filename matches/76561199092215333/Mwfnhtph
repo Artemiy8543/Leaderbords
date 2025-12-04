@@ -40,4 +40,4 @@
 164{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_infinity_moon_shard,item_shivas_strom,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 169{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_infinity_moon_shard,item_shivas_strom,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 180{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_infinity_moon_shard,item_shivas_strom,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_divine_regalia,};
-185{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_infinity_moon_shard,item_shivas_strom,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_divine_regalia,};
+190{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_infinity_moon_shard,item_great_magic_crit3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
