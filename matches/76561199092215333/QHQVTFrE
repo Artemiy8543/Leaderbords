@@ -6,4 +6,4 @@
 0011{-,-,item_gladiator_guard,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_hyperstone,-,item_gladiator_guard,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 13{item_assault,-,item_gladiator_guard,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0014{item_assault,item_mjollnir,item_gladiator_guard,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0015{item_assault,item_armlet_of_mjolnir,item_gladiator_guard,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
