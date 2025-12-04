@@ -4,4 +4,4 @@
 5{item_crimson_guard,-,item_voodoo_mask,-,-,-,}{item_recipe_gladiator_guard,item_recipe_heart,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{-,item_gladiator_guard,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_platemail,item_gladiator_guard,item_voodoo_mask,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-9{item_assault,item_gladiator_guard,item_voodoo_mask,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_assault,item_gladiator_guard,item_voodoo_mask,item_pers,item_platemail,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
