@@ -17,3 +17,4 @@
 116{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_great_magic_crit3,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 117{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_great_magic_crit3,item_shivas_strom,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 118{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_great_magic_crit3,item_shivas_strom,}{item_radiance_prc,item_agi_book3,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+119{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_great_magic_crit3,item_shivas_strom,}{item_radiance_prc,item_agi_book3,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
