@@ -37,4 +37,4 @@
 00154{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_infinity_moon_shard,item_shivas_strom,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 155{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_infinity_moon_shard,item_shivas_strom,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 00156{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_infinity_moon_shard,item_shivas_strom,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-158{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_infinity_moon_shard,item_shivas_strom,}{-,-,item_shivas_guard,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+159{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_lotus_cuirass,item_infinity_moon_shard,item_shivas_strom,}{item_infinity_moon_shard,item_infinity_moon_shard,item_shivas_guard,}{item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,item_infinity_moon_shard,-,-,}{item_dezun_bloodrite,};
