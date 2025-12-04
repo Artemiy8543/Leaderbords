@@ -8,4 +8,4 @@
 13{item_assault,-,item_gladiator_guard,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0015{item_assault,item_armlet_of_mjolnir,item_gladiator_guard,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0018{item_assault,item_armlet_of_mjolnir,item_gladiator_guard,item_great_magic_crit3,item_battle_lance,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-21{item_lotus_cuirass,item_armlet_of_mjolnir,item_gladiator_guard,item_great_magic_crit3,item_battle_lance,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+22{item_lotus_cuirass,item_armlet_of_mjolnir,item_gladiator_guard,item_great_magic_crit3,item_battle_lance,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
