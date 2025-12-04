@@ -5,3 +5,4 @@
 8{item_crimson_guard,-,-,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{-,-,item_gladiator_guard,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_hyperstone,-,item_gladiator_guard,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+13{item_assault,-,item_gladiator_guard,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
