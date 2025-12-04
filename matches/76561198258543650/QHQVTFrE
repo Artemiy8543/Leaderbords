@@ -1,3 +1,4 @@
 38=2{item_helm_of_the_dominator,item_ring_of_basilius,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_helm_of_the_dominator,item_ring_of_basilius,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_helm_of_the_dominator,item_vladmir,item_ultimate_scepter,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_helm_of_the_dominator,item_vladmir,item_ultimate_scepter,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0011{item_helm_of_the_overlord,item_vladmir,item_ultimate_scepter,item_bloodstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
