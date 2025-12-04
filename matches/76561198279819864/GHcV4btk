@@ -6,3 +6,4 @@
 6{item_ring_of_tarrasque,item_crimson_guard,item_attacker_midas_int,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{-,item_gladiator_guard,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_custom_necronomicon3,item_gladiator_guard,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0010{item_custom_necronomicon3,item_gladiator_guard,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
