@@ -2,3 +2,4 @@
 2{item_vanguard,item_helm_of_iron_will,-,-,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_vanguard,item_helm_of_iron_will,item_voodoo_mask,-,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_crimson_guard,-,item_voodoo_mask,-,-,-,}{item_recipe_gladiator_guard,item_recipe_heart,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{-,item_gladiator_guard,item_voodoo_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
