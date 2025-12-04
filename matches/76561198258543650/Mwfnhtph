@@ -32,3 +32,4 @@
 163{item_battle_lance,item_skadi,item_trident_custom,item_great_crit_custom3,item_lightning_sword,item_creep_desolator,}{item_great_magic_crit3,item_manaback3,item_infinity_moon_shard,}{-,item_attacker_midas_agi,item_diffuth_blade,item_agi_book3,-,-,}{item_divine_regalia,};
 169{item_attacker_midas_agi,item_radiance_prc,item_trident_custom,item_great_crit_custom3,item_skadi,item_creep_desolator,}{item_lightning_sword,item_manaback3,item_agi_book3,}{item_battle_lance,-,-,-,-,-,}{item_divine_regalia,};
 179{item_attacker_midas_agi,item_radiance_prc,item_trident_custom,item_great_crit_custom3,item_skadi,item_creep_desolator,}{item_lightning_sword,item_manaback3,item_agi_book3,}{-,-,-,-,-,-,}{item_divine_regalia,};
+181{item_attacker_midas_agi,item_radiance_prc,item_trident_custom,item_great_crit_custom3,item_skadi,item_creep_desolator,}{item_lightning_sword,item_manaback3,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
