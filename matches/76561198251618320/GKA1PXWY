@@ -16,3 +16,4 @@
 0042{item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0044{item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_trident_custom,}{item_helm_of_the_undying,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 45{item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_trident_custom,}{item_helm_of_the_undying,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+46{item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_trident_custom,}{item_helm_of_the_undying,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
