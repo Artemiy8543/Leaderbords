@@ -3,3 +3,4 @@
 5{-,item_hand_of_midas,-,-,item_reaver,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{-,item_hand_of_midas,-,item_ring_of_tarrasque,item_reaver,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 009{item_creep_desolator,item_hand_of_midas,-,item_heart,-,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0012{item_satanic_of_madness,item_hand_of_midas,item_creep_desolator,item_heart,-,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
