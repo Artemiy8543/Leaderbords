@@ -13,4 +13,5 @@
 0031{item_great_magic_crit3,item_monkey_king_bar,item_battle_lance,item_diffuth_blade,item_lightning_sword,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0032{item_great_magic_crit3,item_monkey_king_bar,item_battle_lance,item_diffuth_blade,item_lightning_sword,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0037{item_great_magic_crit3,item_monkey_king_bar,item_battle_lance,item_diffuth_blade,item_infinity_moon_shard,item_creep_desolator,}{item_lightning_sword,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-40{item_great_magic_crit3,item_armlet_of_mjolnir,item_battle_lance,item_diffuth_blade,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+39{item_great_magic_crit3,item_armlet_of_mjolnir,item_battle_lance,item_diffuth_blade,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+0041{item_great_magic_crit3,item_armlet_of_mjolnir,item_battle_lance,item_diffuth_blade,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
