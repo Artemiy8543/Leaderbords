@@ -14,4 +14,4 @@
 28{item_satanic_of_madness,item_gladiator_guard,item_hand_of_midas,item_creep_desolator,item_trident_custom,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 54{item_satanic_of_madness,item_gladiator_guard,item_radiance_prc,item_creep_desolator,item_trident_custom,item_skadi,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 56{item_satanic_of_madness,item_gladiator_guard,item_radiance_prc,item_creep_desolator,item_trident_custom,item_skadi,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-59{item_satanic_of_madness,item_gladiator_guard,item_lotus_cuirass,item_creep_desolator,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+63{item_skadi,item_gladiator_guard,item_lotus_cuirass,item_creep_desolator,item_trident_custom,item_battle_lance,}{item_satanic_of_madness,item_str_book3,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
