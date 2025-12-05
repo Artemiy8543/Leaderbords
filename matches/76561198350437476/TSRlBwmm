@@ -12,3 +12,4 @@
 0038{item_battle_lance,item_shivas_strom,item_lotus_cuirass,item_butterfly,item_butterfly,item_butterfly,}{item_trident_custom,item_satanic_of_madness,item_demonicon,}{-,-,-,-,-,-,}{item_divine_regalia,};
 44{item_battle_lance,item_shivas_strom,item_radiance_prc,item_butterfly,item_butterfly,item_butterfly,}{item_trident_custom,item_satanic_of_madness,item_demonicon,}{-,item_lotus_cuirass,-,-,-,-,}{item_divine_regalia,};
 47{item_battle_lance,item_shivas_strom,item_radiance_prc,item_butterfly,item_butterfly,item_butterfly,}{item_trident_custom,item_satanic_of_madness,item_demonicon,}{-,item_lotus_cuirass,-,-,-,-,}{item_divine_regalia,};
+49{item_battle_lance,item_shivas_strom,item_radiance_prc,item_butterfly,item_butterfly,item_butterfly,}{item_trident_custom,item_satanic_of_madness,item_demonicon,}{-,item_lotus_cuirass,-,-,-,-,}{item_divine_regalia,};
