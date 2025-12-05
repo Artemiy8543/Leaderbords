@@ -3,4 +3,4 @@
 003{item_dragon_lance,item_broadsword,item_broadsword,item_cornucopia,item_quelling_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_battle_lance,item_mithril_hammer,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_battle_lance,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-9{item_battle_lance,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_battle_lance,item_creep_desolator,item_vladimir_pact,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
