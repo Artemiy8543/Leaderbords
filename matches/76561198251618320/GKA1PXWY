@@ -3,3 +3,4 @@
 004{item_voodoo_mask,item_soul_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_ward_observer,-,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{-,-,item_bloodstone_shield,-,-,item_kaya,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+8{-,-,item_bloodstone_shield,-,-,item_kaya,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
