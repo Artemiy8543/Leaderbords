@@ -11,4 +11,4 @@
 21{item_battle_lance,item_creep_desolator,item_vladimir_pact,item_lotus_cuirass,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 23{item_battle_lance,item_creep_desolator,item_vladimir_pact,item_lotus_cuirass,item_armlet_of_mjolnir,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 24{item_battle_lance,item_creep_desolator,item_vladimir_pact,item_lotus_cuirass,item_armlet_of_mjolnir,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-26{item_battle_lance,item_creep_desolator,item_vladimir_pact,item_lotus_cuirass,item_armlet_of_mjolnir,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+27{item_battle_lance,item_creep_desolator,item_vladimir_pact,item_lotus_cuirass,item_armlet_of_mjolnir,-,}{item_trident_custom,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
