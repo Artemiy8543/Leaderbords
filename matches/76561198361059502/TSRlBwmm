@@ -2,3 +2,4 @@
 004{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{-,item_hand_of_midas,-,-,item_reaver,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{-,item_hand_of_midas,-,item_ring_of_tarrasque,item_reaver,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+009{item_creep_desolator,item_hand_of_midas,-,item_heart,-,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
