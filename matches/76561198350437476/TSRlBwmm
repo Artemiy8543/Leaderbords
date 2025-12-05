@@ -1,3 +1,4 @@
 54=2{item_quelling_blade,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_quelling_blade,item_attacker_midas_str,-,item_hand_of_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-9{item_battle_lance,item_attacker_midas_str,item_sange_and_yasha,item_hand_of_midas,item_assault,item_satanic,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+8{item_battle_lance,item_attacker_midas_str,item_sange_and_yasha,item_hand_of_midas,item_platemail,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+10{item_hand_of_midas,item_attacker_midas_str,item_sange_and_yasha,item_satanic,item_assault,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
