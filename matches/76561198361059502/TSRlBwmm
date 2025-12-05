@@ -14,3 +14,4 @@
 28{item_satanic_of_madness,item_gladiator_guard,item_hand_of_midas,item_creep_desolator,item_trident_custom,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 30{item_satanic_of_madness,item_gladiator_guard,item_hand_of_midas,item_creep_desolator,item_trident_custom,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 42{item_satanic_of_madness,item_gladiator_guard,item_hand_of_midas,item_creep_desolator,item_trident_custom,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+48{item_satanic_of_madness,item_gladiator_guard,-,item_creep_desolator,item_trident_custom,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
