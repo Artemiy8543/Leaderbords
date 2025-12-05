@@ -14,3 +14,4 @@
 41{item_gladiator_guard,item_creep_desolator,item_vladimir_pact,item_blade_mail,item_satanic_of_madness,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0043{item_gladiator_guard,item_creep_desolator,item_vladimir_pact,item_blade_mail,item_satanic_of_madness,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 45{item_gladiator_guard,item_creep_desolator,item_vladimir_pact,-,item_satanic_of_madness,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+48{item_gladiator_guard,item_creep_desolator,item_vladimir_pact,item_radiance_prc,item_satanic_of_madness,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
