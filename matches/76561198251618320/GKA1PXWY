@@ -7,3 +7,4 @@
 0010{-,-,item_bloodstone_shield,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0014{-,item_refresher_core,item_bloodstone_shield,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0020{item_gladiator_guard,item_refresher_core,item_bloodstone_shield,-,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+24{item_gladiator_guard,item_shivas_strom,item_bloodstone_shield,item_refresher_core,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
