@@ -12,3 +12,4 @@
 0028{item_attacker_midas_agi,item_monkey_king_bar,item_battle_lance,item_diffuth_blade,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0031{item_great_magic_crit3,item_monkey_king_bar,item_battle_lance,item_diffuth_blade,item_lightning_sword,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0032{item_great_magic_crit3,item_monkey_king_bar,item_battle_lance,item_diffuth_blade,item_lightning_sword,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0037{item_great_magic_crit3,item_monkey_king_bar,item_battle_lance,item_diffuth_blade,item_infinity_moon_shard,item_creep_desolator,}{item_lightning_sword,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
