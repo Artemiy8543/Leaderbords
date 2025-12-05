@@ -6,4 +6,4 @@
 8{-,-,item_bloodstone_shield,-,-,item_kaya,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{-,-,item_bloodstone_shield,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0014{-,item_refresher_core,item_bloodstone_shield,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
-0018{item_gladiator_guard,item_refresher_core,item_bloodstone_shield,-,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0020{item_gladiator_guard,item_refresher_core,item_bloodstone_shield,-,item_radiance_prc,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
