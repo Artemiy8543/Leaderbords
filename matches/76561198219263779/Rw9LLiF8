@@ -6,4 +6,4 @@
 9{item_battle_lance,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{item_battle_lance,item_creep_desolator,item_vladimir_pact,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0014{item_battle_lance,item_creep_desolator,item_vladimir_pact,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-16{item_battle_lance,item_creep_desolator,item_vladimir_pact,item_lotus_cuirass,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+17{item_battle_lance,item_creep_desolator,item_vladimir_pact,item_lotus_cuirass,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
