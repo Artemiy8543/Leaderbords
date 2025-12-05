@@ -5,4 +5,4 @@
 009{item_creep_desolator,item_hand_of_midas,-,item_heart,-,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0012{item_satanic_of_madness,item_hand_of_midas,item_creep_desolator,item_heart,-,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 14{item_satanic_of_madness,item_hand_of_midas,item_creep_desolator,item_heart,item_trident_custom,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-16{item_satanic_of_madness,item_gladiator_guard,item_hand_of_midas,item_creep_desolator,item_trident_custom,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+17{item_satanic_of_madness,item_gladiator_guard,item_hand_of_midas,item_creep_desolator,item_trident_custom,item_bracer,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
