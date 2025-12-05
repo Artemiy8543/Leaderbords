@@ -3,3 +3,4 @@
 8{item_battle_lance,item_attacker_midas_str,item_sange_and_yasha,item_hand_of_midas,item_platemail,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 10{item_hand_of_midas,item_attacker_midas_str,item_sange_and_yasha,item_satanic,item_assault,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 13{item_hand_of_midas,item_attacker_midas_str,item_trident_custom,item_satanic_of_madness,item_lotus_cuirass,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+19{item_creep_desolator,item_attacker_midas_str,item_trident_custom,item_satanic_of_madness,item_lotus_cuirass,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
