@@ -6,3 +6,4 @@
 19{item_creep_desolator,item_attacker_midas_str,item_trident_custom,item_satanic_of_madness,item_lotus_cuirass,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 23{item_creep_desolator,item_attacker_midas_str,item_trident_custom,item_satanic_of_madness,item_lotus_cuirass,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 53{item_battle_lance,item_shivas_strom,item_radiance_prc,item_butterfly,item_butterfly,item_butterfly,}{item_trident_custom,item_satanic_of_madness,item_demonicon,}{-,item_lotus_cuirass,-,-,-,-,}{item_divine_regalia,};
+57{item_battle_lance,item_shivas_strom,item_butterfly,item_battle_lance,item_butterfly,item_butterfly,}{item_radiance_prc,item_bracer,-,}{item_great_crit_custom3,item_lotus_cuirass,-,-,-,-,}{item_dormant_curio,};
