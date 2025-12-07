@@ -1,3 +1,4 @@
 138=7{item_maelstrom,item_battle_lance,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 39{item_armlet_of_mjolnir,item_battle_lance,item_satanic_of_madness,item_great_crit_custom3,item_creep_desolator,item_rapier,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0043{item_armlet_of_mjolnir,item_battle_lance,item_satanic_of_madness,item_great_crit_custom3,item_creep_desolator,item_rapier,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_misericorde,};
+45{item_armlet_of_mjolnir,item_battle_lance,item_satanic_of_madness,item_great_crit_custom3,item_creep_desolator,item_rapier,}{-,-,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
