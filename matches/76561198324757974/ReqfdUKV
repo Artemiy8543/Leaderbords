@@ -5,3 +5,4 @@
 6{-,-,item_bloodstone,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{-,-,item_bloodstone,-,item_blade_mail,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_mithril_hammer,-,item_bloodstone,-,item_blade_mail,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_maelstrom,item_ward_observer,item_bloodstone,-,item_blade_mail,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
