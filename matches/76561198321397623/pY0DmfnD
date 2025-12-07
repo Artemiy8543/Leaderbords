@@ -1,4 +1,4 @@
 29=1{item_lifesteal,item_buckler,item_ring_of_basilius,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_vladmir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_vladmir,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-008{item_vladmir,item_creep_desolator,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_vladmir,item_creep_desolator,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
