@@ -1,3 +1,4 @@
 99=1{item_broadsword,item_chainmail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{-,-,-,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_voodoo_mask,item_void_stone,item_vitality_booster,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_voodoo_mask,item_void_stone,item_vitality_booster,item_energy_booster,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
