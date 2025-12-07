@@ -8,3 +8,4 @@
 0019{item_radiance,item_bloodstone_shield,item_attacker_midas_int,item_meteor_rain,item_refresher_core,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 24{item_radiance,item_bloodstone_shield,item_attacker_midas_int,item_meteor_rain,item_refresher_core,-,}{-,-,item_phylactery_blade,}{-,-,-,-,-,-,}{item_dormant_curio,};
 26{item_radiance,item_bloodstone_shield,item_attacker_midas_int,item_meteor_rain,item_refresher_core,item_shivas_strom,}{-,-,item_phylactery_blade,}{-,-,-,-,-,-,}{item_dormant_curio,};
+27{item_radiance,item_bloodstone_shield,item_attacker_midas_int,item_meteor_rain,item_refresher_core,item_shivas_strom,}{-,-,item_phylactery_blade,}{-,-,-,-,-,-,}{item_dormant_curio,};
