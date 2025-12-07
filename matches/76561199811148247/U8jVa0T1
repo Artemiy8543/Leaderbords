@@ -6,3 +6,4 @@
 6{item_hand_of_midas,item_bfury,item_wraith_band,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 007{item_hand_of_midas,item_battle_lance,item_wraith_band,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 8{item_hand_of_midas,item_battle_lance,item_wraith_band,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+9{item_hand_of_midas,item_battle_lance,item_wraith_band,item_butterfly,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
