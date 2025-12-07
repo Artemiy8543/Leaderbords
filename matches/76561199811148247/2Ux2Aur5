@@ -2,4 +2,4 @@
 002{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 4{item_heart,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 006{item_heart,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-008{item_gladiator_guard,item_great_crit_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+009{item_gladiator_guard,item_great_crit_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
