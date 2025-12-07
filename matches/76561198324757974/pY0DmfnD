@@ -2,3 +2,4 @@
 004{-,-,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_bloodstone,-,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_bloodstone,-,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_radiance,item_bloodstone_shield,item_attacker_midas_int,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
