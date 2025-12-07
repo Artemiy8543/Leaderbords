@@ -3,3 +3,4 @@
 4{item_voodoo_mask,item_void_stone,item_vitality_booster,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_voodoo_mask,item_void_stone,item_vitality_booster,item_energy_booster,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{-,-,item_bloodstone,-,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{-,-,item_bloodstone,-,item_blade_mail,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
