@@ -7,4 +7,5 @@
 007{item_hand_of_midas,item_battle_lance,item_wraith_band,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 8{item_hand_of_midas,item_battle_lance,item_wraith_band,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 9{item_hand_of_midas,item_battle_lance,item_wraith_band,item_butterfly,item_gladiator_guard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-11{item_hand_of_midas,item_battle_lance,item_wraith_band,item_butterfly,item_gladiator_guard,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+10{item_hand_of_midas,item_battle_lance,item_wraith_band,item_butterfly,item_gladiator_guard,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+12{item_hand_of_midas,item_battle_lance,item_wraith_band,item_butterfly,item_gladiator_guard,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
