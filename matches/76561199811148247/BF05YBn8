@@ -1,3 +1,4 @@
 11=1{item_wraith_band,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_platemail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 4{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+005{item_lifesteal,-,-,-,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
