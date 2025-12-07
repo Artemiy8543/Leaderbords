@@ -1,3 +1,2 @@
 129=1{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_desolator,item_assault,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_desolator,item_assault,item_ultimate_scepter,item_satanic,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_creep_desolator,item_lotus_cuirass,-,item_satanic,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
