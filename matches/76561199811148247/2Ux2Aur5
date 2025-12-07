@@ -1,4 +1,5 @@
 18=1{item_bracer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-4{item_heart,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-006{item_heart,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+3{item_ring_of_tarrasque,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+005{item_heart,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+7{item_gladiator_guard,item_lesser_crit,item_demon_edge,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
