@@ -3,4 +3,4 @@
 5{item_vladmir,item_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_vladmir,item_creep_desolator,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0010{item_vladmir,item_creep_desolator,item_assault,item_great_crit_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-14{item_vladimir_pact,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+16{item_vladimir_pact,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
