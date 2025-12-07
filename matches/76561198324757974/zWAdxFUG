@@ -8,3 +8,4 @@
 47{item_battle_lance,item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,item_blade_midas,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
 48{item_battle_lance,item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,item_blade_midas,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
 49{item_battle_lance,item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,item_skadi,item_gladiator_guard,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+50{item_battle_lance,item_lotus_cuirass,item_satanic_of_madness,item_armlet_of_mjolnir,item_skadi,item_gladiator_guard,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
