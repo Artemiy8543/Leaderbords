@@ -4,3 +4,4 @@
 7{item_attacker_midas_int,item_battle_lance,item_voodoo_mask,item_butterfly,item_vitality_booster,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 11{item_bloodstone_shield,item_battle_lance,item_armlet_of_mjolnir,item_butterfly,item_trident_custom,item_devastator,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 13{item_bloodstone_shield,item_battle_lance,item_armlet_of_mjolnir,item_infinity_moon_shard,item_trident_custom,item_devastator,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+0018{item_bloodstone_shield,item_battle_lance,item_armlet_of_mjolnir,item_int_book2,item_trident_custom,item_devastator,}{item_butterfly,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_misericorde,};
