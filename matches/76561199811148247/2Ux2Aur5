@@ -4,4 +4,5 @@
 006{item_heart,item_crimson_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 008{item_gladiator_guard,item_great_crit_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 10{item_gladiator_guard,item_great_crit_custom,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-13{item_gladiator_guard,item_great_crit_custom,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+12{item_gladiator_guard,item_great_crit_custom,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+14{item_gladiator_guard,item_great_crit_custom2,item_satanic_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
