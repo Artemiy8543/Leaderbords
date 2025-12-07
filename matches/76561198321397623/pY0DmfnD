@@ -4,4 +4,4 @@
 008{item_vladmir,item_creep_desolator,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0010{item_vladmir,item_creep_desolator,item_assault,item_great_crit_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 17{item_vladimir_pact,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0020{item_vladimir_pact,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0021{item_vladimir_pact,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
