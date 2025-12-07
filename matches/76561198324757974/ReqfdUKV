@@ -7,3 +7,4 @@
 8{item_mithril_hammer,-,item_bloodstone,-,item_blade_mail,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_maelstrom,item_ward_observer,item_bloodstone,-,item_blade_mail,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0010{-,item_ward_observer,item_bloodstone,-,item_blade_mail,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0014{item_gladiator_guard,item_ward_observer,item_bloodstone,item_octarine_core,item_blade_mail,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
