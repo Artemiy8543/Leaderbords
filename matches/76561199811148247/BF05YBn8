@@ -25,4 +25,4 @@
 153{item_gladiator_guard,-,item_satanic_of_madness,item_great_magic_crit3,item_armlet_of_mjolnir,item_lotus_cuirass,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 178{item_gladiator_guard,item_agi_book3,item_satanic_of_madness,item_great_magic_crit3,item_armlet_of_mjolnir,item_lotus_cuirass,}{item_shivas_strom,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
 194{item_creep_desolator,-,item_great_magic_crit3,item_gladiator_guard,item_armlet_of_mjolnir,item_lotus_cuirass,}{item_shivas_strom,item_satanic_of_madness,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
-197{item_creep_desolator,-,item_great_magic_crit3,item_gladiator_guard,item_armlet_of_mjolnir,item_lotus_cuirass,}{item_shivas_strom,item_satanic_of_madness,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+198{item_creep_desolator,item_agi_book3,item_great_magic_crit3,item_gladiator_guard,item_armlet_of_mjolnir,item_lotus_cuirass,}{item_shivas_strom,item_satanic_of_madness,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
