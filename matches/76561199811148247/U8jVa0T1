@@ -15,4 +15,4 @@
 0021{item_hand_of_midas,item_battle_lance,item_monkey_king_bar,item_butterfly,item_gladiator_guard,item_rapier,}{item_satanic,item_basher_slardar,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 22{item_hand_of_midas,item_battle_lance,item_satanic,item_butterfly,item_gladiator_guard,item_rapier,}{item_monkey_king_bar,item_basher_slardar,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
 23{item_hand_of_midas,item_battle_lance,item_satanic,item_butterfly,item_gladiator_guard,item_rapier,}{item_monkey_king_bar,item_basher_slardar,-,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
-24{item_lotus_cuirass,item_butterfly,item_satanic,item_battle_lance,item_gladiator_guard,item_rapier,}{item_monkey_king_bar,item_basher_slardar,item_hand_of_midas,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
+25{item_lotus_cuirass,item_butterfly,item_satanic,item_battle_lance,item_gladiator_guard,item_rapier,}{item_monkey_king_bar,item_basher_slardar,item_hand_of_midas,}{-,-,-,-,-,-,}{item_attacker_midas_str,};
