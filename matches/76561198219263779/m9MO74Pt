@@ -2,3 +2,4 @@
 004{item_desolator,item_helm_of_iron_will,item_crown,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_creep_desolator,item_platemail,item_hyperstone,item_buckler,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_creep_desolator,item_assault,item_vladmir,item_pers,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_creep_desolator,item_lotus_cuirass,item_vladimir_pact,item_dragon_lance,item_broadsword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
