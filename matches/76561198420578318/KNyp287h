@@ -1,3 +1,4 @@
 49=1{item_power_treads,item_hand_of_midas,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_power_treads,item_hand_of_midas,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_power_treads,item_hand_of_midas,item_assault,item_blight_stone,item_corrosion_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_power_treads,-,item_assault,item_desolator,item_corrosion_blade,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
