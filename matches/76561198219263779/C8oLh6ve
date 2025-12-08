@@ -2,3 +2,4 @@
 2{item_power_treads,item_creep_desolator,item_cloak,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_power_treads,item_creep_desolator,item_cloak,item_dragon_lance,item_broadsword,item_broadsword,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_power_treads,item_creep_desolator,item_boots_of_bearing,item_battle_lance,item_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+007{item_power_treads,item_creep_desolator,item_boots_of_bearing,item_battle_lance,item_travel_boots,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
