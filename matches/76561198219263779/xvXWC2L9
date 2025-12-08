@@ -6,4 +6,4 @@
 0012{item_creep_desolator,item_lotus_cuirass,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 0016{item_creep_desolator,item_lotus_cuirass,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 0022{item_creep_desolator,item_lotus_cuirass,item_gladiator_guard,item_blade_mail,item_battle_lance,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
-62{item_creep_desolator,item_lotus_cuirass,item_gladiator_guard,item_str_book3,item_battle_lance,item_shivas_strom,}{item_blade_mail,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
+63{item_creep_desolator,item_lotus_cuirass,item_gladiator_guard,item_str_book3,item_battle_lance,item_shivas_strom,}{item_blade_mail,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
