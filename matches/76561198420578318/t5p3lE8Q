@@ -1,4 +1,4 @@
 2=17{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 99{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 132{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-139{item_radiance_prc,item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,}{item_attacker_midas_str,item_lotus_cuirass,item_gladiator_guard,}{-,-,-,-,-,-,}{item_dormant_curio,};
+143{item_radiance_prc,item_shivas_strom,item_bloodstone_shield,item_trident_custom,item_manaback3,item_great_magic_crit3,}{-,-,item_gladiator_guard,}{-,-,-,-,-,-,}{item_dormant_curio,};
