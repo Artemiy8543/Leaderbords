@@ -2,3 +2,4 @@
 3{item_maelstrom,item_hyperstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_mjollnir,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_mjollnir,item_satanic,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+7{item_mjollnir,item_satanic,item_buckler,item_ring_of_basilius,item_lifesteal,item_blades_of_attack,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
