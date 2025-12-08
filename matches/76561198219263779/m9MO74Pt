@@ -4,3 +4,4 @@
 9{item_creep_desolator,item_assault,item_vladmir,item_pers,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_creep_desolator,item_lotus_cuirass,item_vladimir_pact,item_dragon_lance,item_broadsword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0014{item_creep_desolator,item_lotus_cuirass,item_vladimir_pact,item_battle_lance,item_ring_of_tarrasque,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+16{item_creep_desolator,item_lotus_cuirass,item_vladimir_pact,item_battle_lance,item_gladiator_guard,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
