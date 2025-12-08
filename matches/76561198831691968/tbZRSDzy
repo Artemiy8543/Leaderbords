@@ -6,4 +6,5 @@
 8{item_armlet_of_mjolnir,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 10{item_armlet_of_mjolnir,item_creep_desolator,-,item_satanic_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 13{item_armlet_of_mjolnir,item_creep_desolator,item_battle_lance,item_satanic_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0016{item_armlet_of_mjolnir,item_creep_desolator,item_battle_lance,item_satanic_of_madness,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0015{item_armlet_of_mjolnir,item_creep_desolator,item_battle_lance,item_satanic_of_madness,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+17{item_armlet_of_mjolnir,item_creep_desolator,item_battle_lance,item_satanic_of_madness,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
