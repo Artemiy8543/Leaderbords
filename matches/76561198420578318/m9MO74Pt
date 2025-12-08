@@ -5,4 +5,4 @@
 6{item_crimson_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_gladiator_guard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-12{item_gladiator_guard,item_lotus_cuirass,item_vladimir_pact,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+13{item_gladiator_guard,item_lotus_cuirass,item_vladimir_pact,item_guardian_greaves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
