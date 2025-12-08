@@ -4,4 +4,5 @@
 6{item_power_treads,item_blitz_knuckles,item_sobi_mask,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 12{item_ultimate_boots,item_oblivion_staff,-,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 14{item_ultimate_boots,item_oblivion_staff,item_gladiator_guard,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-16{item_ultimate_boots,item_diffuth_blade,item_gladiator_guard,item_blade_midas,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_ultimate_boots,item_oblivion_staff,item_gladiator_guard,item_blade_midas,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+17{item_ultimate_boots,item_diffuth_blade,item_gladiator_guard,item_blade_midas,item_radiance_prc,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
