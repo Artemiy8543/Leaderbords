@@ -1,5 +1,1 @@
-93=1{item_mithril_hammer,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_desolator,item_buckler,item_ring_of_basilius,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_desolator,item_vladmir,item_ring_of_protection,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-5{item_desolator,item_vladmir,item_vladmir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+93=6{item_desolator,item_vladimir_pact,item_platemail,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
