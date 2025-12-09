@@ -1,4 +1,5 @@
 99=1{item_voodoo_mask,item_vitality_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_voodoo_mask,item_vitality_booster,item_energy_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_bloodstone_shield,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-007{item_bloodstone_shield,item_heart,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+006{item_bloodstone_shield,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+8{item_bloodstone_shield,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
