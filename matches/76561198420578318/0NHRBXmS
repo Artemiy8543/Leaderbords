@@ -9,4 +9,4 @@
 144{item_shivas_strom,item_lotus_cuirass,item_khandas_brooch,item_radiance_prc,item_bloodstone_shield,item_gladiator_guard,}{item_silver_edge,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 178{item_shivas_strom,item_great_magic_crit3,item_khandas_brooch,item_radiance_prc,item_bloodstone_shield,item_helm_of_the_overlord,}{item_silver_edge,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 199{item_shivas_strom,item_bloodstone_shield,item_armlet_of_mjolnir,item_radiance_prc,item_helm_of_the_overlord,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
-202{item_shivas_strom,item_bloodstone_shield,item_armlet_of_mjolnir,item_radiance_prc,item_refresher_core,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+205{item_shivas_strom,item_bloodstone_shield,-,item_radiance_prc,item_refresher_core,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
