@@ -1,4 +1,4 @@
 2=33{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_gungir,item_great_magic_crit3,-,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 41{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_gungir,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0044{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_gungir,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
-49{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_gungir,item_great_magic_crit3,item_manaback3,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+50{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_gungir,item_great_magic_crit3,item_manaback3,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
