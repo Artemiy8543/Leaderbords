@@ -4,4 +4,4 @@
 50{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_gungir,item_great_magic_crit3,item_manaback3,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 55{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_gungir,item_great_magic_crit3,item_manaback3,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 58{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_gungir,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-62{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_gungir,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+64{item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_gungir,item_great_magic_crit3,item_manaback3,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
