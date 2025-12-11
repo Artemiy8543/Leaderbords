@@ -4,4 +4,4 @@
 007{item_assault,item_lotus_orb,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_lotus_cuirass,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_lotus_cuirass,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-12{item_lotus_cuirass,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+13{item_lotus_cuirass,item_gladiator_guard,item_radiance_prc,item_bloodstone,item_yasha,item_ogre_axe,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
