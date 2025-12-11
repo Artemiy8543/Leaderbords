@@ -1,4 +1,4 @@
 2=001{item_buckler,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_buckler,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_buckler,item_platemail,item_hyperstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_assault,item_pers,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+004{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+006{item_assault,item_lotus_orb,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
