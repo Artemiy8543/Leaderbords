@@ -2,3 +2,4 @@
 2{item_buckler,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 007{item_assault,item_lotus_orb,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_lotus_cuirass,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
