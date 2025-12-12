@@ -1,3 +1,4 @@
 48=1{item_vitality_booster,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_vitality_booster,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_vanguard,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+3{item_vitality_booster,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_vanguard,item_heart,item_lifesteal,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
