@@ -13,3 +13,4 @@
 0025{item_gladiator_guard,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_great_crit_custom3,item_armlet_of_mjolnir,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0027{item_gladiator_guard,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_great_crit_custom3,item_armlet_of_mjolnir,}{item_desolator_2,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0029{item_gladiator_guard,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_great_crit_custom3,item_armlet_of_mjolnir,}{item_desolator_2,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+0030{item_gladiator_guard,item_satanic_of_madness,item_butterfly,item_creep_desolator,item_great_crit_custom3,item_infinity_moon_shard,}{item_desolator_2,item_armlet_of_mjolnir,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
