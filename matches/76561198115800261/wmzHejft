@@ -3,4 +3,4 @@
 3{item_vitality_booster,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_vanguard,item_heart,item_lifesteal,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 6{item_gladiator_guard,-,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-7{item_gladiator_guard,item_mask_of_madness,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+8{item_gladiator_guard,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
