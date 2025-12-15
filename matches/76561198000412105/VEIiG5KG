@@ -45,4 +45,5 @@
 0066{item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_crit_custom3,item_creep_desolator,item_battle_lance,}{item_agi_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0068{item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_crit_custom3,item_creep_desolator,item_battle_lance,}{item_agi_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0070{item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_crit_custom3,item_creep_desolator,item_battle_lance,}{item_agi_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0073{item_gladiator_guard,item_trident_custom,item_blade_midas,item_infinity_moon_shard,item_creep_desolator,item_battle_lance,}{item_great_crit_custom3,item_shivas_strom,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0072{item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_crit_custom3,item_creep_desolator,item_battle_lance,}{item_agi_book3,item_shivas_strom,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_dormant_curio,};
+74{item_gladiator_guard,item_trident_custom,item_blade_midas,item_infinity_moon_shard,item_creep_desolator,item_battle_lance,}{item_great_crit_custom3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
