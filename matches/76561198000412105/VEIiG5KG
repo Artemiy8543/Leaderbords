@@ -41,4 +41,5 @@
 58{item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_crit_custom3,item_creep_desolator,item_battle_lance,}{item_str_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 60{item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_crit_custom3,item_creep_desolator,item_battle_lance,}{item_agi_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0062{item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_crit_custom3,item_creep_desolator,item_battle_lance,}{item_agi_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0065{item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_crit_custom3,item_creep_desolator,item_battle_lance,}{item_agi_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0064{item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_crit_custom3,item_creep_desolator,item_battle_lance,}{item_agi_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0066{item_gladiator_guard,item_trident_custom,item_blade_midas,item_great_crit_custom3,item_creep_desolator,item_battle_lance,}{item_agi_book3,item_shivas_strom,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
