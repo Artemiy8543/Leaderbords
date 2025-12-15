@@ -4,3 +4,4 @@
 6{item_battle_lance,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 9{item_battle_lance,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 10{item_battle_lance,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+11{item_battle_lance,item_satanic_of_madness,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
