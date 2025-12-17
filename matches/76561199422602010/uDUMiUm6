@@ -1,4 +1,4 @@
 73=1{item_gloves,item_lifesteal,item_bracer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_gloves,item_lifesteal,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_gloves,item_mask_of_madness,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_gloves,item_satanic,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+004{item_gloves,item_satanic,item_attacker_midas_str,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_gloves,item_satanic,item_attacker_midas_str,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
