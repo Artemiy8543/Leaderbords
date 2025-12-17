@@ -19,3 +19,4 @@
 0032{item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_str,item_gladiator_guard,item_bloodstone_shield,item_battle_lance,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0033{item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_str,item_gladiator_guard,item_bloodstone_shield,item_battle_lance,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0034{item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_str,item_gladiator_guard,item_bloodstone_shield,item_trident_custom,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+35{item_infinity_moon_shard,item_satanic_of_madness,item_attacker_midas_str,item_gladiator_guard,item_bloodstone_shield,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
