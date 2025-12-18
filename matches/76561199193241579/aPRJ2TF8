@@ -14,3 +14,4 @@
 0026{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,item_blade_midas,item_refresher_core,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 28{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,item_blade_midas,item_refresher_core,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0030{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,item_blade_midas,item_refresher_core,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{-,};
+31{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,item_blade_midas,item_great_magic_crit3,}{item_refresher_core,-,-,}{-,-,-,-,-,-,}{-,};
