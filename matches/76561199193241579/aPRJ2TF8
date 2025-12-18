@@ -4,4 +4,4 @@
 7{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 9{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_radiance_prc,item_heart,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-13{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+14{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
