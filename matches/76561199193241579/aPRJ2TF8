@@ -12,3 +12,4 @@
 22{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,item_blade_midas,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0024{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,item_blade_midas,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 0026{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,item_blade_midas,item_refresher_core,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+27{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,item_blade_midas,item_refresher_core,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
