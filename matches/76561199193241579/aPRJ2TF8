@@ -9,3 +9,4 @@
 0016{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 18{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0020{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,item_blade_midas,item_refresher_core,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+21{item_radiance_prc,item_gladiator_guard,item_heart,item_heart,item_blade_midas,item_refresher_core,}{item_str_book2,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
