@@ -16,4 +16,4 @@
 0040{item_attacker_midas_str,item_great_crit_custom3,item_gladiator_guard,item_satanic,item_infinity_moon_shard,item_creep_desolator,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 47{item_attacker_midas_str,item_great_crit_custom3,item_gladiator_guard,item_satanic,item_infinity_moon_shard,item_creep_desolator,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0053{item_attacker_midas_str,item_great_crit_custom3,item_gladiator_guard,item_satanic,item_infinity_moon_shard,item_creep_desolator,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
-56{item_str_book3,item_great_crit_custom3,item_gladiator_guard,item_satanic,item_infinity_moon_shard,item_creep_desolator,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+57{item_str_book3,item_great_crit_custom3,item_gladiator_guard,item_satanic,item_infinity_moon_shard,item_creep_desolator,}{item_attacker_midas_str,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
