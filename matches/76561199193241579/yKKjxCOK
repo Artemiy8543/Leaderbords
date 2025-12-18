@@ -5,4 +5,4 @@
 006{item_attacker_midas_str,item_lesser_crit,item_heart,item_mask_of_madness,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 007{item_attacker_midas_str,item_lesser_crit,item_heart,item_mask_of_madness,item_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 9{item_attacker_midas_str,item_lesser_crit,item_heart,item_mask_of_madness,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
-0011{item_attacker_midas_str,item_lesser_crit,item_gladiator_guard,item_mask_of_madness,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0012{item_attacker_midas_str,item_lesser_crit,item_gladiator_guard,item_mask_of_madness,item_infinity_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
