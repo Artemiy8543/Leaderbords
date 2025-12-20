@@ -1,2 +1,2 @@
 2=001{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_attacker_midas_str,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+3{item_attacker_midas_str,item_heart,item_voodoo_mask,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
