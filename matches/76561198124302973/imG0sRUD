@@ -2,4 +2,5 @@
 2{item_ward_observer,item_battle_lance,item_bracer,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_ward_observer,item_battle_lance,item_attacker_midas_str,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_ward_observer,item_battle_lance,item_attacker_midas_str,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{item_ward_observer,item_battle_lance,item_attacker_midas_str,item_heart,item_trident_custom,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_ward_observer,item_battle_lance,item_attacker_midas_str,item_heart,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_ward_observer,item_satanic_of_madness,item_attacker_midas_str,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
