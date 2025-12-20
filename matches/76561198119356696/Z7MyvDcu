@@ -5,4 +5,4 @@
 008{item_attacker_midas_str,item_gladiator_guard,item_voodoo_mask,item_ultimate_scepter,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_attacker_midas_str,item_gladiator_guard,item_voodoo_mask,item_ultimate_scepter,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_attacker_midas_str,item_gladiator_guard,item_bloodstone,item_ultimate_scepter,item_blade_mail,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-0014{item_attacker_midas_str,item_gladiator_guard,-,item_ultimate_scepter,item_blade_mail,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0015{item_attacker_midas_str,item_gladiator_guard,item_mjollnir,item_ultimate_scepter,item_blade_mail,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
