@@ -3,4 +3,4 @@
 4{item_ward_observer,item_battle_lance,item_attacker_midas_str,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_ward_observer,item_battle_lance,item_attacker_midas_str,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_ward_observer,item_battle_lance,item_attacker_midas_str,item_heart,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0010{item_ward_observer,item_satanic_of_madness,item_attacker_midas_str,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_ward_observer,item_satanic_of_madness,item_attacker_midas_str,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
