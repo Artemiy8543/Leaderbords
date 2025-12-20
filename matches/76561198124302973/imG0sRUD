@@ -5,4 +5,5 @@
 8{item_ward_observer,item_battle_lance,item_attacker_midas_str,item_heart,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_ward_observer,item_satanic_of_madness,item_attacker_midas_str,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0013{item_ward_observer,item_satanic_of_madness,item_attacker_midas_str,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0017{-,item_satanic_of_madness,item_attacker_midas_str,item_heart,item_trident_custom,item_battle_lance,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{-,};
+0016{item_ward_observer,item_satanic_of_madness,item_attacker_midas_str,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0018{item_radiance_prc,item_satanic_of_madness,item_attacker_midas_str,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
