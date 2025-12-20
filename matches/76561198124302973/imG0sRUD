@@ -10,4 +10,5 @@
 25{item_radiance_prc,item_satanic_of_madness,item_attacker_midas_str,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 30{item_radiance_prc,item_satanic_of_madness,item_attacker_midas_str,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 34{item_radiance_prc,item_satanic_of_madness,item_attacker_midas_str,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
-38{item_radiance_prc,item_satanic_of_madness,item_creep_desolator,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+37{item_radiance_prc,item_satanic_of_madness,item_creep_desolator,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+39{item_radiance_prc,item_satanic_of_madness,item_creep_desolator,item_heart,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
