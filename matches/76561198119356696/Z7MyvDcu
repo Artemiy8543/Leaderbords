@@ -3,4 +3,4 @@
 4{item_attacker_midas_str,item_heart,item_voodoo_mask,item_ultimate_scepter,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_attacker_midas_str,item_heart,item_voodoo_mask,item_ultimate_scepter,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_attacker_midas_str,item_gladiator_guard,item_voodoo_mask,item_ultimate_scepter,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-10{item_attacker_midas_str,item_gladiator_guard,item_voodoo_mask,item_ultimate_scepter,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_attacker_midas_str,item_gladiator_guard,item_voodoo_mask,item_ultimate_scepter,item_blade_mail,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
