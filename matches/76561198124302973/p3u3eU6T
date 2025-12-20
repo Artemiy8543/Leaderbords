@@ -11,4 +11,4 @@
 0030{item_bfury,item_vladimir_pact,item_great_crit_custom3,item_bfury,item_trident_custom,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0036{item_bfury,item_vladimir_pact,item_great_crit_custom3,item_bfury,item_trident_custom,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0042{item_bfury,item_vladimir_pact,item_great_crit_custom3,item_bfury,-,item_bfury,}{item_recipe_great_crit_custom,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-44{item_bfury,item_vladimir_pact,item_great_crit_custom3,item_bfury,-,item_bfury,}{item_recipe_great_crit_custom,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+45{item_bfury,item_vladimir_pact,item_great_crit_custom3,item_bfury,-,item_bfury,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
