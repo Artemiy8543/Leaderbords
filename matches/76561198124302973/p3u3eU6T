@@ -3,4 +3,5 @@
 4{item_bfury,item_vladimir_pact,item_great_crit_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_bfury,item_vladimir_pact,item_great_crit_custom,item_demon_edge,item_demon_edge,-,}{item_recipe_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_bfury,item_vladimir_pact,item_great_crit_custom3,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-11{item_bfury,item_vladimir_pact,item_great_crit_custom3,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_bfury,item_vladimir_pact,item_great_crit_custom3,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_bfury,item_vladimir_pact,item_great_crit_custom3,item_bfury,item_trident_custom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
