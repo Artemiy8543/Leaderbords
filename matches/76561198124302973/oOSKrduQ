@@ -1,3 +1,4 @@
 96=1{item_ward_observer,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_ward_observer,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_ward_observer,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+2{item_ward_observer,item_heart,item_vanguard,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_ward_observer,item_gladiator_guard,item_kaya_and_sange,item_blade_of_alacrity,item_boots_of_elves,-,}{item_recipe_trident_custom,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_ward_observer,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
