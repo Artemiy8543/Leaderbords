@@ -4,4 +4,5 @@
 005{item_lotus_cuirass,item_battle_lance,item_attacker_midas_agi,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_lotus_cuirass,item_battle_lance,item_attacker_midas_agi,-,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_lotus_cuirass,item_battle_lance,item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-10{item_lotus_cuirass,item_battle_lance,item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,}{item_ultimate_scepter,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_lotus_cuirass,item_battle_lance,item_attacker_midas_agi,item_butterfly,item_satanic_of_madness,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+11{item_lotus_cuirass,item_battle_lance,item_attacker_midas_agi,item_infinity_moon_shard,item_satanic_of_madness,item_creep_desolator,}{item_butterfly,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
