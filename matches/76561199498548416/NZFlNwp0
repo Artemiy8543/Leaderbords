@@ -6,3 +6,4 @@
 8{item_maelstrom,item_ultimate_scepter,item_butterfly,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_maelstrom,item_ultimate_scepter,item_butterfly,item_battle_lance,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 13{item_maelstrom,item_ultimate_scepter,item_butterfly,item_battle_lance,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0015{item_armlet_of_mjolnir,item_ultimate_scepter,item_butterfly,item_battle_lance,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
