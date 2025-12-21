@@ -1,4 +1,5 @@
 48=1{item_lifesteal,item_lesser_crit,item_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_mask_of_madness,item_lesser_crit,item_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_satanic,item_lesser_crit,item_yasha,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-7{item_satanic,item_great_crit_custom2,item_yasha,item_assault,item_eagle,item_talisman_of_evasion,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_satanic,item_great_crit_custom2,item_yasha,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_satanic,item_great_crit_custom2,item_yasha,item_assault,item_butterfly,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
