@@ -6,3 +6,4 @@
 18{item_mjollnir,item_heart,item_soul_ring,item_great_magic_crit,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0021{item_mjollnir,item_heart,item_great_magic_crit3,-,item_battle_lance,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 23{item_mjollnir,item_heart,item_great_magic_crit3,item_rapier,item_battle_lance,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0025{item_skadi,item_rapier,item_great_magic_crit3,item_great_crit_custom3,item_battle_lance,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
