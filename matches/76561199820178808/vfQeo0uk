@@ -3,4 +3,4 @@
 7{item_soul_ring,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_mjollnir,item_heart,item_soul_ring,item_lesser_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 14{item_mjollnir,item_heart,item_soul_ring,item_great_magic_crit,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-17{item_mjollnir,item_heart,item_soul_ring,item_great_magic_crit,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+18{item_mjollnir,item_heart,item_soul_ring,item_great_magic_crit,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
