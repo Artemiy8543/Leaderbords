@@ -10,3 +10,4 @@
 15{item_maelstrom,item_ultimate_scepter,item_creep_desolator,item_butterfly,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 20{item_maelstrom,item_ultimate_scepter,item_creep_desolator,item_butterfly,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0024{item_maelstrom,item_ultimate_scepter,item_creep_desolator,item_butterfly,item_battle_lance,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+0025{-,item_ultimate_scepter,item_creep_desolator,item_butterfly,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
