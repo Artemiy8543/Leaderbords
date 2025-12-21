@@ -3,4 +3,5 @@
 004{item_maelstrom,item_ultimate_scepter,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_maelstrom,item_ultimate_scepter,item_butterfly,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_maelstrom,item_ultimate_scepter,item_butterfly,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-9{item_maelstrom,item_ultimate_scepter,item_butterfly,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+8{item_maelstrom,item_ultimate_scepter,item_butterfly,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0010{item_maelstrom,item_ultimate_scepter,item_butterfly,item_battle_lance,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
