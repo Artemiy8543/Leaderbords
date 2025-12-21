@@ -1,3 +1,4 @@
 29=2{item_soul_ring,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_soul_ring,item_ring_of_tarrasque,item_reaver,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_soul_ring,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_mjollnir,item_heart,item_soul_ring,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
