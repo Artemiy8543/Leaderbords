@@ -2,3 +2,4 @@
 3{item_assault,-,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_assault,item_bfury,item_attacker_midas_agi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_lotus_cuirass,item_battle_lance,item_attacker_midas_agi,item_satanic,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_lotus_cuirass,item_battle_lance,item_attacker_midas_agi,-,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
