@@ -3,3 +3,4 @@
 004{item_maelstrom,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_maelstrom,item_ultimate_scepter,item_creep_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_maelstrom,item_ultimate_scepter,item_creep_desolator,item_eagle,item_talisman_of_evasion,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+009{item_maelstrom,item_ultimate_scepter,item_creep_desolator,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
