@@ -1,3 +1,4 @@
 29=1{item_desolator,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_creep_desolator,item_point_booster,item_staff_of_wizardry,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_creep_desolator,-,item_gungir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+003{item_creep_desolator,-,item_gungir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_creep_desolator,-,item_gungir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
