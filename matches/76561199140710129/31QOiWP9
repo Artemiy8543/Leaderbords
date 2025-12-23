@@ -1,3 +1,4 @@
 36=1{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_radiance_prc,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+2{item_radiance,item_spirit_vessel,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+006{item_radiance_prc,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
