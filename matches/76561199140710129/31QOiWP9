@@ -3,4 +3,4 @@
 4{item_radiance_prc,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_radiance_prc,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_radiance_prc,item_gladiator_guard,item_sange_and_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-10{item_radiance_prc,item_gladiator_guard,item_sange_and_yasha,item_heart,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+11{item_radiance_prc,item_gladiator_guard,item_sange_and_yasha,item_heart,item_heart,item_ring_of_tarrasque,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
