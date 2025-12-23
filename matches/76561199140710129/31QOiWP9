@@ -5,4 +5,4 @@
 8{item_radiance_prc,item_gladiator_guard,item_sange_and_yasha,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 10{item_radiance_prc,item_gladiator_guard,item_sange_and_yasha,item_heart,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0013{item_radiance_prc,item_gladiator_guard,item_sange_and_yasha,item_heart,item_heart,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0015{item_radiance_prc,item_gladiator_guard,item_sange_and_yasha,item_heart,item_heart,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0016{item_radiance_prc,item_gladiator_guard,item_sange_and_yasha,item_heart,item_heart,item_heart,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
