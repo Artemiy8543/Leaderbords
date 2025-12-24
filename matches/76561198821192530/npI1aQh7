@@ -2,3 +2,4 @@
 002{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_battle_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_battle_lance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+5{item_battle_lance,item_butterfly,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
