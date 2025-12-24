@@ -3,4 +3,4 @@
 005{item_flask,item_gladiator_guard,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_flask,item_gladiator_guard,item_assault,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 009{item_flask,item_gladiator_guard,item_lotus_cuirass,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-11{-,item_gladiator_guard,item_lotus_cuirass,item_battle_lance,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_battle_lance,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
