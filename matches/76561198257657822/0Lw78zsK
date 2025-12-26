@@ -2,3 +2,4 @@
 3{item_attacker_midas_agi,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_agi,item_battle_lance,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_attacker_midas_agi,item_battle_lance,item_butterfly,item_basher_slardar,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_attacker_midas_agi,item_battle_lance,item_butterfly,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
