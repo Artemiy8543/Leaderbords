@@ -1,7 +1,8 @@
 94=1{item_sange,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_trident_custom,item_ultimate_scepter,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{-,item_ultimate_scepter,item_gladiator_guard,-,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{-,item_ultimate_scepter,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-9{-,-,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-11{-,item_vladimir_pact,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0013{-,item_vladimir_pact,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+002{item_trident_custom,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_trident_custom,item_ultimate_scepter,item_gladiator_guard,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{-,item_ultimate_scepter,item_gladiator_guard,-,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{-,-,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{-,item_vladimir_pact,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0012{item_str_book2,item_vladimir_pact,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+14{item_battle_lance,item_vladimir_pact,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
