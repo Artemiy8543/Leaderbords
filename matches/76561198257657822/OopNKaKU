@@ -1,3 +1,4 @@
 94=1{item_sange,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_trident_custom,item_ultimate_scepter,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{-,item_ultimate_scepter,item_gladiator_guard,-,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+002{item_trident_custom,-,-,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_trident_custom,item_ultimate_scepter,item_gladiator_guard,-,-,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+006{-,item_ultimate_scepter,item_gladiator_guard,-,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
