@@ -24,4 +24,5 @@
 42{item_battle_lance,item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{item_agi_book3,-,item_vladimir_pact,}{-,-,-,-,-,-,}{-,};
 0043{item_battle_lance,item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{item_agi_book3,-,item_vladimir_pact,}{-,-,-,-,-,-,}{-,};
 0045{item_battle_lance,item_great_crit_custom3,item_gladiator_guard,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{item_agi_book3,-,item_vladimir_pact,}{-,-,-,-,-,-,}{-,};
-0047{item_creep_desolator,item_great_crit_custom3,item_gladiator_guard,item_battle_lance,item_trident_custom,item_attacker_midas_agi,}{item_agi_book3,-,item_vladimir_pact,}{-,-,-,-,-,-,}{-,};
+0046{item_creep_desolator,item_great_crit_custom3,item_gladiator_guard,item_battle_lance,item_trident_custom,item_attacker_midas_agi,}{item_agi_book3,-,item_vladimir_pact,}{-,-,-,-,-,-,}{-,};
+0048{item_creep_desolator,item_great_crit_custom3,item_gladiator_guard,item_battle_lance,item_trident_custom,item_attacker_midas_agi,}{item_agi_book3,-,item_vladimir_pact,}{-,-,-,-,-,-,}{-,};
