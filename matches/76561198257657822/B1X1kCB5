@@ -16,4 +16,4 @@
 0031{-,item_battle_lance,item_vladimir_pact,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0033{-,item_battle_lance,item_vladimir_pact,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0035{item_agi_book,item_battle_lance,item_vladimir_pact,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0037{item_int_book,item_battle_lance,item_vladimir_pact,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0038{-,item_battle_lance,item_vladimir_pact,item_creep_desolator,item_trident_custom,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
