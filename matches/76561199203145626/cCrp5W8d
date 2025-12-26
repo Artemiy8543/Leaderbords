@@ -3,3 +3,4 @@
 5{item_creep_desolator,item_wraith_band,item_wraith_band,item_battle_lance,-,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_creep_desolator,item_wraith_band,item_wraith_band,item_battle_lance,-,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 8{item_creep_desolator,item_satanic,item_wraith_band,item_battle_lance,item_monkey_king_bar,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_creep_desolator,item_wraith_band,item_satanic_of_madness,item_battle_lance,item_monkey_king_bar,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
