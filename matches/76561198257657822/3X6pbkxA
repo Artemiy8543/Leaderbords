@@ -1,4 +1,4 @@
 94=1{item_attacker_midas_agi,item_blade_of_alacrity,item_point_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_agi,item_ultimate_scepter,item_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_attacker_midas_agi,item_ultimate_scepter,item_trident_custom,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-006{item_attacker_midas_agi,item_vladimir_pact,item_trident_custom,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+007{item_attacker_midas_agi,item_vladimir_pact,item_trident_custom,item_creep_desolator,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
