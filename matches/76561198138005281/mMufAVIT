@@ -7,3 +7,4 @@
 0012{item_blade_midas,item_blink,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_blade_midas,item_overwhelming_blink,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_radiance_prc,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 14{item_blade_midas,item_overwhelming_blink,item_gladiator_guard,item_bloodstone_shield,item_lotus_cuirass,item_radiance_prc,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0015{item_great_crit_custom3,item_overwhelming_blink,item_gladiator_guard,-,item_lotus_cuirass,item_infinity_moon_shard,}{item_bloodstone_shield,item_radiance_prc,item_blade_midas,}{-,-,-,-,-,-,}{item_dormant_curio,};
