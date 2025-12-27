@@ -1,4 +1,4 @@
 14=1{item_attacker_midas_str,item_sange,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_attacker_midas_str,item_kaya_and_sange,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_str,item_trident_custom,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_attacker_midas_str,item_trident_custom,item_bloodstone_shield,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_blade_midas,item_trident_custom,item_bloodstone_shield,item_bracer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
