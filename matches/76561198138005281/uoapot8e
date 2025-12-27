@@ -2,3 +2,4 @@
 002{-,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_ring_of_tarrasque,item_attacker_midas_agi,item_butterfly,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_ring_of_tarrasque,item_satanic,item_attacker_midas_agi,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_ring_of_tarrasque,item_satanic,item_attacker_midas_agi,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
