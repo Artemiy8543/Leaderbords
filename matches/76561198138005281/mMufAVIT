@@ -11,3 +11,4 @@
 16{item_great_crit_custom3,item_overwhelming_blink,item_gladiator_guard,item_rapier,item_lotus_cuirass,item_infinity_moon_shard,}{item_bloodstone_shield,item_radiance_prc,item_blade_midas,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0017{item_great_crit_custom3,item_overwhelming_blink,item_gladiator_guard,item_rapier,item_lotus_cuirass,item_infinity_moon_shard,}{item_bloodstone_shield,item_radiance_prc,item_blade_midas,}{item_aghanims_shard,-,-,-,-,-,}{item_dormant_curio,};
 0018{item_great_crit_custom3,item_rapier,item_rapier,item_rapier,item_rapier,item_infinity_moon_shard,}{item_bloodstone_shield,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0019{item_great_crit_custom3,item_rapier,item_rapier,item_rapier,item_rapier,item_infinity_moon_shard,}{item_bloodstone_shield,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
