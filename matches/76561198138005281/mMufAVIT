@@ -3,3 +3,4 @@
 3{item_blade_mail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_blade_midas,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+8{item_blade_midas,item_gladiator_guard,item_blink,item_radiance_prc,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
