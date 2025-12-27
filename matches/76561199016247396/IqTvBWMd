@@ -1,4 +1,4 @@
 93=1{item_hyperstone,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_hyperstone,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_moon_shard,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_moon_shard,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+006{item_moon_shard,item_attacker_midas_agi,item_basher_slardar,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
