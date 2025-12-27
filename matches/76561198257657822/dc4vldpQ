@@ -11,4 +11,5 @@
 19{item_blade_midas,item_armlet_of_mjolnir,item_bloodstone_shield,-,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 21{item_blade_midas,item_str_book3,item_bloodstone_shield,item_armlet_of_mjolnir,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0022{item_blade_midas,-,item_bloodstone_shield,item_armlet_of_mjolnir,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-26{item_blade_midas,item_battle_lance,item_bloodstone_shield,item_armlet_of_mjolnir,item_trident_custom,item_gladiator_guard,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{-,};
+25{item_blade_midas,item_battle_lance,item_bloodstone_shield,item_armlet_of_mjolnir,item_trident_custom,item_gladiator_guard,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{-,};
+27{item_blade_midas,item_battle_lance,item_bloodstone_shield,item_armlet_of_mjolnir,item_trident_custom,item_gladiator_guard,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{-,};
