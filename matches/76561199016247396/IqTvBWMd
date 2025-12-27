@@ -2,3 +2,4 @@
 2{item_hyperstone,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_moon_shard,item_attacker_midas_agi,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_moon_shard,item_attacker_midas_agi,item_basher_slardar,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+007{item_infinity_moon_shard,item_attacker_midas_agi,item_basher_slardar,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
