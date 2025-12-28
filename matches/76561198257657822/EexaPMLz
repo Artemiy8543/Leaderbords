@@ -1,2 +1,2 @@
 93=1{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-002{item_attacker_midas_agi,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+003{-,-,-,-,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{-,};
