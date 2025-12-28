@@ -12,4 +12,4 @@
 29{item_satanic,item_blade_midas,item_gladiator_guard,item_battle_lance,item_creep_desolator,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 31{item_satanic,item_blade_midas,item_gladiator_guard,item_battle_lance,item_creep_desolator,item_trident_custom,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0034{item_satanic,item_blade_midas,item_gladiator_guard,item_battle_lance,item_creep_desolator,item_trident_custom,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0036{item_vladimir_pact,item_blade_midas,item_gladiator_guard,item_battle_lance,item_creep_desolator,item_trident_custom,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0037{item_vladimir_pact,item_blade_midas,item_gladiator_guard,item_battle_lance,item_creep_desolator,item_trident_custom,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
