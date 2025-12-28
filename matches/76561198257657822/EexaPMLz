@@ -1,4 +1,4 @@
 93=1{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_attacker_midas_agi,item_creep_desolator,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_gladiator_guard,-,-,-,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-6{item_gladiator_guard,item_battle_lance,-,-,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+7{item_gladiator_guard,item_battle_lance,-,-,item_creep_desolator,item_attacker_midas_agi,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
