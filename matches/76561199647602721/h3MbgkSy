@@ -1,3 +1,4 @@
 94=1{item_maelstrom,item_point_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_maelstrom,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_armlet_of_mjolnir,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+007{item_armlet_of_mjolnir,item_ultimate_scepter,item_desolator,item_helm_of_iron_will,item_crown,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
