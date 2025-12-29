@@ -16,3 +16,4 @@
 0017{item_trident_custom,item_heart,item_enchanted_mango,item_ring_of_health,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 18{item_trident_custom,item_heart,item_enchanted_mango,item_vanguard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0020{item_trident_custom,item_heart,item_enchanted_mango,item_vanguard,item_helm_of_iron_will,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+21{item_trident_custom,item_gladiator_guard,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
