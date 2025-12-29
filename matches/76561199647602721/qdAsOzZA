@@ -2,3 +2,4 @@
 2{item_kaya_and_sange,item_blade_of_alacrity,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_kaya_and_sange,item_blade_of_alacrity,item_enchanted_mango,item_boots_of_elves,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_trident_custom,-,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_trident_custom,-,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
