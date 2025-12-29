@@ -3,3 +3,4 @@
 006{item_armlet_of_mjolnir,item_ultimate_scepter,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 007{item_armlet_of_mjolnir,item_ultimate_scepter,item_desolator,item_helm_of_iron_will,item_crown,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_armlet_of_mjolnir,item_ultimate_scepter,item_creep_desolator,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_armlet_of_mjolnir,item_ultimate_scepter,item_creep_desolator,item_mask_of_madness,item_mask_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
