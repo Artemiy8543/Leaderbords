@@ -1,3 +1,4 @@
 47=1{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_kaya_and_sange,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_kaya_and_sange,item_bloodstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_kaya_and_sange,-,-,item_bloodstone_shield,-,item_blade_midas,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
