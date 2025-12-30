@@ -23,3 +23,4 @@
 29{item_gladiator_guard,item_trident_custom,item_radiance_prc,item_infinity_moon_shard,item_shivas_strom,item_blade_midas,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_giant_maul,};
 30{item_gladiator_guard,item_trident_custom,item_radiance_prc,item_infinity_moon_shard,item_shivas_strom,item_blade_midas,}{item_bloodstone_shield,-,-,}{-,-,-,-,-,-,}{item_giant_maul,};
 32{item_gladiator_guard,item_trident_custom,item_radiance_prc,item_infinity_moon_shard,item_shivas_strom,item_blade_midas,}{item_bloodstone_shield,item_infinity_moon_shard,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
+0033{item_gladiator_guard,item_trident_custom,item_radiance_prc,item_infinity_moon_shard,item_shivas_strom,item_blade_midas,}{item_bloodstone_shield,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
