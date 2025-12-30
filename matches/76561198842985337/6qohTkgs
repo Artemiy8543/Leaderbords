@@ -27,3 +27,4 @@
 31{item_bfury,item_satanic,item_butterfly,item_ring_of_tarrasque,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0032{item_bfury,item_satanic,item_butterfly,item_heart,item_infinity_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
 0033{item_bfury,item_satanic,item_butterfly,item_heart,item_orb_of_frost,-,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+35{item_bfury,item_satanic,item_butterfly,item_heart,item_orb_of_frost,item_dragon_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
