@@ -1,3 +1,4 @@
 14=2{-,-,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_reaver,-,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_heart,-,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+10{item_heart,item_radiance,-,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
