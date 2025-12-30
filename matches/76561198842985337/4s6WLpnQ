@@ -7,3 +7,4 @@
 009{item_heart,item_blade_mail,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_heart,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 11{item_heart,item_blade_mail,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+12{item_heart,item_blade_mail,item_vanguard,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
