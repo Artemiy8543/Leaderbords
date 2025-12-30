@@ -5,3 +5,4 @@
 28{item_satanic_of_madness,item_blade_midas,item_octarine_core,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{item_moon_shard,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 31{item_satanic_of_madness,item_blade_midas,item_octarine_core,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{item_moon_shard,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 32{item_satanic_of_madness,item_blade_midas,item_octarine_core,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0036{item_satanic_of_madness,item_blade_midas,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{item_str_book2,item_octarine_core,item_int_book2,}{-,-,-,-,-,-,}{item_desolator_2,};
