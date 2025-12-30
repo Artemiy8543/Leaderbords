@@ -6,3 +6,4 @@
 008{item_heart,item_blade_mail,item_ogre_axe,item_point_booster,item_staff_of_wizardry,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 009{item_heart,item_blade_mail,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0010{item_heart,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_heart,item_blade_mail,item_vanguard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
