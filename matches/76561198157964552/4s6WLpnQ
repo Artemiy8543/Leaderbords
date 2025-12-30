@@ -7,3 +7,4 @@
 32{item_satanic_of_madness,item_blade_midas,item_octarine_core,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0036{item_satanic_of_madness,item_blade_midas,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{item_str_book2,item_octarine_core,item_int_book2,}{-,-,-,-,-,-,}{item_desolator_2,};
 37{item_satanic_of_madness,item_blade_midas,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{item_infinity_moon_shard,item_octarine_core,item_infinity_moon_shard,}{-,-,-,-,item_hyperstone,-,}{item_desolator_2,};
+0041{item_battle_lance,item_blade_midas,item_bloodstone_shield,item_trident_custom,item_great_magic_crit3,item_infinity_moon_shard,}{item_refresher_core,item_satanic_of_madness,-,}{-,-,-,-,-,-,}{item_desolator_2,};
