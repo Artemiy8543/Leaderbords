@@ -28,3 +28,4 @@
 37{item_gladiator_guard,item_blade_mail,item_creep_desolator,item_hyperstone,item_bloodstone_shield,item_buckler,}{item_platemail,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 38{item_gladiator_guard,item_blade_mail,item_creep_desolator,item_assault,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0039{item_gladiator_guard,item_blade_mail,item_creep_desolator,item_assault,item_bloodstone_shield,item_pers,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+40{item_gladiator_guard,item_blade_mail,item_creep_desolator,item_assault,item_bloodstone_shield,item_pers,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
