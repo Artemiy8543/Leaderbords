@@ -1,4 +1,4 @@
 104=1{item_hyperstone,item_quelling_blade,item_phase_boots,item_buckler,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_assault,item_quelling_blade,item_phase_boots,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{-,item_quelling_blade,item_phase_boots,-,-,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_mjollnir,item_quelling_blade,item_phase_boots,-,-,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+5{item_mjollnir,item_quelling_blade,item_phase_boots,item_satanic,-,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
