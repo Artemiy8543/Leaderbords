@@ -2,3 +2,4 @@
 004{item_heart,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_heart,item_heart,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_heart,item_heart,item_point_booster,item_staff_of_wizardry,item_ogre_axe,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_heart,item_heart,item_ultimate_scepter,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
