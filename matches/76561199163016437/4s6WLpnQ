@@ -12,3 +12,4 @@
 29{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_blade_mail,item_shivas_guard,item_javelin,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 31{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_blade_mail,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 33{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_blade_mail,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+34{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_blade_mail,item_shivas_strom,item_point_booster,}{item_staff_of_wizardry,item_ogre_axe,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
