@@ -18,3 +18,4 @@
 21{item_gladiator_guard,item_blade_mail,item_ultimate_orb,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0024{item_gladiator_guard,item_blade_mail,item_skadi,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0027{item_gladiator_guard,item_blade_mail,item_skadi,item_voodoo_mask,item_vitality_booster,item_void_stone,}{item_energy_booster,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+29{item_gladiator_guard,item_blade_mail,item_skadi,-,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
