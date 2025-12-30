@@ -1,3 +1,4 @@
 104=2{item_platemail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 11{item_assault,item_talisman_of_evasion,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
 14{item_assault,item_talisman_of_evasion,item_sange,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_rippers_lash,};
+0025{item_assault,item_talisman_of_evasion,item_trident_custom,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_mana_draught,};
