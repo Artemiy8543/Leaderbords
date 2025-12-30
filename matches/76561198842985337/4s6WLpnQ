@@ -12,3 +12,4 @@
 0014{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0015{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0016{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0017{item_gladiator_guard,item_blade_mail,item_ultimate_orb,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
