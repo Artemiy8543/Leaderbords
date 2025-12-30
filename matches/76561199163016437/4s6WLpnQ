@@ -11,3 +11,4 @@
 26{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_blade_mail,item_veil_of_discord,item_platemail,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 29{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_blade_mail,item_shivas_guard,item_javelin,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 31{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_blade_mail,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+33{item_gladiator_guard,item_radiance_prc,item_trident_custom,item_blade_mail,item_shivas_strom,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
