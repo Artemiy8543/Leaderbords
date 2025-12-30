@@ -1,4 +1,4 @@
 104=4{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_trident_custom,item_blade_midas,item_octarine_core,item_ring_of_tarrasque,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 0019{item_trident_custom,item_blade_midas,item_octarine_core,item_gladiator_guard,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-24{item_trident_custom,item_blade_midas,item_octarine_core,-,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+25{item_trident_custom,item_blade_midas,item_octarine_core,-,item_great_magic_crit3,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
