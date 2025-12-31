@@ -1,3 +1,4 @@
 32=2{item_orb_of_venom,item_attacker_midas_agi,item_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_orb_of_venom,item_attacker_midas_agi,item_creep_desolator,item_blade_mail,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 5{-,item_attacker_midas_agi,item_creep_desolator,item_blade_mail,item_basher_slardar,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+6{item_radiance,item_attacker_midas_agi,item_creep_desolator,item_blade_mail,item_basher_slardar,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
