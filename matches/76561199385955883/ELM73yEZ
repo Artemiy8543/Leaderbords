@@ -1,2 +1,3 @@
 56=1{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_power_treads,item_creep_desolator,item_radiance,item_gloves,item_javelin,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
