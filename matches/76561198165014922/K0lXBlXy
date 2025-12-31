@@ -11,3 +11,4 @@
 0020{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,-,item_trident_custom,}{-,item_blade_mail,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0021{item_great_magic_crit2,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,item_radiance_prc,}{item_trident_custom,item_blade_mail,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 22{item_great_magic_crit2,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,item_skadi,}{item_trident_custom,item_blade_mail,item_radiance_prc,}{item_creep_desolator,-,-,-,-,-,}{item_dormant_curio,};
+23{item_great_magic_crit2,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_shivas_strom,item_creep_desolator,}{item_skadi,item_blade_mail,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
