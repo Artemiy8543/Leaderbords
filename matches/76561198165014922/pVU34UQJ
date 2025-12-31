@@ -6,4 +6,4 @@
 008{item_ward_observer,item_attacker_midas_agi,item_battle_lance,item_mjollnir,item_lightning_sword,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 9{item_creep_desolator,item_attacker_midas_agi,item_battle_lance,item_mjollnir,item_lightning_sword,item_butterfly,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0011{item_creep_desolator,item_attacker_midas_agi,item_battle_lance,item_mjollnir,item_lightning_sword,item_butterfly,}{item_ward_observer,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-13{item_creep_desolator,item_attacker_midas_agi,item_battle_lance,item_mjollnir,item_lightning_sword,item_lotus_cuirass,}{item_ward_observer,item_butterfly,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+14{item_creep_desolator,item_attacker_midas_agi,item_battle_lance,item_mjollnir,item_lightning_sword,item_lotus_cuirass,}{item_ward_observer,item_butterfly,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
