@@ -3,3 +3,4 @@
 4{item_ward_observer,item_attacker_midas_agi,item_point_booster,item_mjollnir,item_bloodthorn,item_staff_of_wizardry,}{item_recipe_rod_of_atos,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 6{item_ward_observer,item_attacker_midas_agi,-,item_mjollnir,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 7{item_ward_observer,item_attacker_midas_agi,-,item_mjollnir,item_lightning_sword,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+008{item_ward_observer,item_attacker_midas_agi,item_battle_lance,item_mjollnir,item_lightning_sword,item_butterfly,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
