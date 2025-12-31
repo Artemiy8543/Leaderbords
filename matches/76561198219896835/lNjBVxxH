@@ -1,2 +1,3 @@
 18=1{item_yasha,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_sange_and_yasha,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_sange_and_yasha,item_lifesteal,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
