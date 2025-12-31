@@ -7,3 +7,4 @@
 12{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_mail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 14{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_blade_mail,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0017{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,-,item_trident_custom,}{-,item_blade_mail,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0018{item_attacker_midas_str,item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,-,item_trident_custom,}{-,item_blade_mail,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
