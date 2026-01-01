@@ -2,3 +2,4 @@
 2{item_power_treads,item_yasha,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_power_treads,item_sange_and_yasha,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_power_treads,item_sange_and_yasha,item_staff_of_wizardry,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+6{item_power_treads,item_sange_and_yasha,item_staff_of_wizardry,item_robe,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
