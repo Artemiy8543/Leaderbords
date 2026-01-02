@@ -4,3 +4,4 @@
 6{item_quelling_blade,item_phase_boots,item_assault,-,item_attacker_midas_str,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_quelling_blade,item_phase_boots,item_assault,-,item_attacker_midas_str,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 008{item_phase_boots,item_battle_lance,item_assault,item_heart,item_attacker_midas_str,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+9{item_great_crit_custom3,item_battle_lance,item_assault,item_heart,item_attacker_midas_str,item_mjollnir,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
