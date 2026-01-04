@@ -1,2 +1,3 @@
 73=2{item_bfury,item_gloves,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_bfury,item_power_treads,item_lesser_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_bfury,item_power_treads,item_lesser_crit,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
