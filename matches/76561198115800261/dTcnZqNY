@@ -2,5 +2,6 @@
 2{item_vanguard,item_helm_of_iron_will,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_vanguard,item_helm_of_iron_will,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-6{item_gladiator_guard,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-008{item_gladiator_guard,item_radiance_prc,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+5{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_gladiator_guard,item_radiance_prc,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_gladiator_guard,item_radiance_prc,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
