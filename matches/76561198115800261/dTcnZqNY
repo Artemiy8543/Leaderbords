@@ -26,4 +26,4 @@
 35{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_bfury,item_great_crit_custom3,}{item_trident_custom,item_creep_desolator,item_lotus_cuirass,}{-,item_armlet_of_mjolnir,item_infinity_moon_shard,-,-,-,}{item_desolator_2,};
 36{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_infinity_moon_shard,item_great_crit_custom3,}{item_trident_custom,item_creep_desolator,item_bfury,}{-,item_armlet_of_mjolnir,item_lotus_cuirass,-,-,-,}{item_desolator_2,};
 37{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_infinity_moon_shard,item_great_crit_custom3,}{item_trident_custom,item_lotus_cuirass,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
-0039{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_infinity_moon_shard,item_great_crit_custom3,}{item_infinity_moon_shard,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
+0040{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_infinity_moon_shard,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_helm_of_the_undying,};
