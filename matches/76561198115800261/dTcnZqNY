@@ -18,3 +18,4 @@
 0027{item_gladiator_guard,item_radiance_prc,item_great_crit_custom3,item_lotus_cuirass,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0028{item_gladiator_guard,item_radiance_prc,item_great_crit_custom3,item_lotus_cuirass,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 0029{item_gladiator_guard,item_hand_of_midas,item_great_crit_custom3,item_lotus_cuirass,item_trident_custom,item_battle_lance,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
+30{item_gladiator_guard,item_armlet_of_mjolnir,item_battle_lance,item_lotus_cuirass,item_trident_custom,item_great_crit_custom3,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
