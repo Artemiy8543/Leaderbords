@@ -23,3 +23,4 @@
 32{item_gladiator_guard,item_armlet_of_mjolnir,item_battle_lance,item_lotus_cuirass,item_infinity_moon_shard,item_great_crit_custom3,}{item_trident_custom,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 0033{item_gladiator_guard,item_armlet_of_mjolnir,item_battle_lance,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,}{item_trident_custom,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_desolator_2,};
 0034{item_gladiator_guard,item_armlet_of_mjolnir,item_bfury,item_infinity_moon_shard,item_lotus_cuirass,item_great_crit_custom3,}{item_trident_custom,item_creep_desolator,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+35{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_bfury,item_great_crit_custom3,}{item_trident_custom,item_creep_desolator,item_lotus_cuirass,}{-,item_armlet_of_mjolnir,item_infinity_moon_shard,-,-,-,}{item_desolator_2,};
