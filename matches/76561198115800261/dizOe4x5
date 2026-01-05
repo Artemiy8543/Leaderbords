@@ -1,4 +1,5 @@
 72=1{item_vitality_booster,item_ring_of_tarrasque,-,-,-,-,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_vanguard,item_heart,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_gladiator_guard,item_blight_stone,item_mask_of_madness,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_gladiator_guard,item_creep_desolator,item_satanic_of_madness,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_gladiator_guard,item_desolator,item_satanic_of_madness,item_helm_of_iron_will,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{item_gladiator_guard,item_creep_desolator,item_satanic_of_madness,item_assault,item_ring_of_health,-,}{item_recipe_lotus_orb,item_recipe_dragon_lance,item_recipe_lotus_cuirass,}{-,-,-,-,-,-,}{item_chipped_vest,};
