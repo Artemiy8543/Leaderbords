@@ -2,4 +2,4 @@
 2{item_vanguard,item_heart,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_gladiator_guard,item_blight_stone,item_mask_of_madness,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_gladiator_guard,item_creep_desolator,item_satanic_of_madness,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-9{item_gladiator_guard,item_creep_desolator,item_satanic_of_madness,item_lotus_cuirass,item_blade_of_alacrity,-,}{-,item_recipe_dragon_lance,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_gladiator_guard,item_creep_desolator,item_satanic_of_madness,item_lotus_cuirass,item_dragon_lance,item_broadsword,}{item_broadsword,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
