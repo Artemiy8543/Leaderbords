@@ -2,4 +2,4 @@
 2{item_crimson_guard,item_ring_of_tarrasque,-,-,-,-,}{item_recipe_heart,item_recipe_gladiator_guard,-,}{-,-,-,-,-,-,}{-,};
 3{item_gladiator_guard,item_broadsword,item_broadsword,item_quelling_blade,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_gladiator_guard,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-7{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_harpoon,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_gladiator_guard,item_bfury,item_harpoon,item_bfury,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
