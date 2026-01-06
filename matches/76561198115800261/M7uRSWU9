@@ -1,4 +1,4 @@
 104=1{item_ring_of_health,item_ring_of_tarrasque,-,-,-,-,}{item_recipe_gladiator_guard,item_recipe_heart,-,}{-,-,-,-,-,-,}{-,};
 002{item_vanguard,item_heart,item_helm_of_iron_will,-,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_gladiator_guard,item_bfury,item_broadsword,item_broadsword,item_quelling_blade,-,}{-,item_recipe_bfury,-,}{-,-,-,-,-,-,}{-,};
-006{item_gladiator_guard,item_bfury,item_bfury,item_broadsword,item_broadsword,item_claymore,}{item_blades_of_attack,item_recipe_bfury,-,}{-,-,-,-,-,-,}{-,};
+007{item_gladiator_guard,item_bfury,item_bfury,item_broadsword,item_broadsword,item_claymore,}{item_blades_of_attack,item_recipe_bfury,-,}{-,-,-,-,-,-,}{-,};
