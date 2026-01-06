@@ -5,3 +5,4 @@
 008{item_gladiator_guard,item_bfury,item_bfury,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 10{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 13{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_bfury,item_great_crit_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+14{item_gladiator_guard,item_bfury,item_bfury,item_bfury,-,item_great_crit_custom,}{-,item_bfury,-,}{-,-,-,-,-,-,}{item_desolator_2,};
