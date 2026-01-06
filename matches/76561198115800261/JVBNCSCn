@@ -3,4 +3,4 @@
 3{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_gladiator_guard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 007{item_gladiator_guard,item_lotus_cuirass,item_mask_of_madness,item_mask_of_madness,item_vladmir,item_ring_of_protection,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-008{item_gladiator_guard,item_lotus_cuirass,item_satanic_of_madness,-,item_vladmir,-,}{item_ring_of_basilius,item_blades_of_attack,item_buckler,}{-,-,-,-,-,-,}{item_chipped_vest,};
+009{item_gladiator_guard,item_lotus_cuirass,item_satanic_of_madness,item_bfury,item_vladmir,-,}{item_ring_of_basilius,item_blades_of_attack,item_buckler,}{-,-,-,-,-,-,}{item_chipped_vest,};
