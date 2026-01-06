@@ -5,4 +5,4 @@
 007{item_lotus_cuirass,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0010{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_battle_lance,item_dragon_lance,item_broadsword,}{item_broadsword,-,-,}{-,-,-,-,-,-,}{-,};
-12{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_battle_lance,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+13{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_battle_lance,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
