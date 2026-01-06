@@ -3,4 +3,4 @@
 4{item_gladiator_guard,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_gladiator_guard,item_bfury,item_bfury,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_gladiator_guard,item_bfury,item_bfury,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
