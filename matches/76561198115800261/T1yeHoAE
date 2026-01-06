@@ -3,4 +3,4 @@
 4{item_gladiator_guard,item_heart,item_ring_of_health,-,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_gladiator_guard,item_gladiator_guard,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_ring_of_tarrasque,item_ring_of_health,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-009{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_heart,item_ring_of_health,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0010{item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,item_gladiator_guard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
