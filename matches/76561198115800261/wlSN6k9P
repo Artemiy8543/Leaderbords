@@ -3,4 +3,4 @@
 003{item_lotus_cuirass,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_lotus_cuirass,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_lotus_cuirass,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-008{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+009{item_lotus_cuirass,item_gladiator_guard,item_trident_custom,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
