@@ -1,4 +1,4 @@
 8=001{item_platemail,item_buckler,item_hyperstone,-,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
 2{item_assault,item_pers,item_platemail,-,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
-003{item_lotus_cuirass,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_lotus_cuirass,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_lotus_cuirass,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_lotus_cuirass,item_gladiator_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
