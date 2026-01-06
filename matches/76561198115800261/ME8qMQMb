@@ -1,4 +1,4 @@
 54=1{item_vitality_booster,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_vanguard,item_heart,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_gladiator_guard,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+4{item_gladiator_guard,item_bfury,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+6{item_gladiator_guard,item_bfury,item_bfury,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
