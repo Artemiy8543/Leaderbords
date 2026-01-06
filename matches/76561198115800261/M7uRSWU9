@@ -4,4 +4,4 @@
 006{item_gladiator_guard,item_bfury,item_bfury,item_broadsword,item_broadsword,item_claymore,}{item_blades_of_attack,item_recipe_bfury,-,}{-,-,-,-,-,-,}{-,};
 9{item_gladiator_guard,item_bfury,item_bfury,item_bfury,item_great_crit_custom,item_revenants_brooch,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0012{item_gladiator_guard,item_bfury,item_refresher_core,item_bfury,item_great_crit_custom,item_revenants_brooch,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-13{item_gladiator_guard,item_bfury,item_refresher_core,item_bfury,item_great_crit_custom,item_revenants_brooch,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+15{item_gladiator_guard,item_bfury,item_refresher_core,item_bfury,item_great_crit_custom,item_revenants_brooch,}{-,-,-,}{-,-,-,-,-,-,}{-,};
