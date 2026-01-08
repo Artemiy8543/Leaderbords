@@ -3,4 +3,5 @@
 3{item_power_treads,item_bfury,item_desolator,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_power_treads,item_battle_lance,item_desolator,item_butterfly,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 7{item_power_treads,item_battle_lance,item_desolator,item_butterfly,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_power_treads,item_battle_lance,item_desolator,item_butterfly,item_satanic,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_power_treads,item_battle_lance,item_desolator,item_butterfly,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0011{item_power_treads,item_battle_lance,item_desolator,item_butterfly,item_satanic,item_basher_slardar,}{-,-,-,}{-,-,-,-,-,-,}{-,};
