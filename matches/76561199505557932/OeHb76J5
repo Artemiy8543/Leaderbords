@@ -9,3 +9,4 @@
 0016{item_great_crit_custom2,item_satanic_of_madness,item_lotus_cuirass,item_butterfly,item_gladiator_guard,item_infinity_moon_shard,}{item_attacker_midas_agi,item_skadi,-,}{item_infinity_moon_shard,-,-,-,-,-,}{item_chipped_vest,};
 17{item_great_crit_custom2,item_satanic_of_madness,item_lotus_cuirass,item_butterfly,item_gladiator_guard,item_skadi,}{item_attacker_midas_agi,-,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,-,-,-,}{item_chipped_vest,};
 0018{item_great_crit_custom2,item_satanic_of_madness,item_lotus_cuirass,item_butterfly,item_gladiator_guard,item_skadi,}{item_attacker_midas_agi,-,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,-,-,-,}{item_chipped_vest,};
+19{item_great_crit_custom2,item_satanic_of_madness,item_lotus_cuirass,item_radiance_prc,item_gladiator_guard,item_skadi,}{item_attacker_midas_agi,item_butterfly,item_infinity_moon_shard,}{item_infinity_moon_shard,-,-,-,-,-,}{item_chipped_vest,};
