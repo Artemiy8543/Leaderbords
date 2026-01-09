@@ -3,4 +3,4 @@
 004{item_attacker_midas_agi,item_mask_of_madness,item_butterfly,item_assault,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 007{item_attacker_midas_agi,item_satanic,item_lotus_cuirass,item_butterfly,item_ring_of_tarrasque,item_crimson_guard,}{item_recipe_heart,item_recipe_gladiator_guard,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0010{item_attacker_midas_agi,item_satanic_of_madness,item_lotus_cuirass,item_butterfly,item_gladiator_guard,-,}{item_skadi,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-11{item_great_crit_custom2,item_satanic_of_madness,item_lotus_cuirass,item_butterfly,item_gladiator_guard,item_skadi,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_great_crit_custom2,item_satanic_of_madness,item_lotus_cuirass,item_butterfly,item_gladiator_guard,item_skadi,}{item_attacker_midas_agi,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
