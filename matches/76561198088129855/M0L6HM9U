@@ -4,5 +4,5 @@
 005{item_battle_lance,item_basher_slardar,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_helm_of_iron_will,item_basher_slardar,item_heart,item_vanguard,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 007{item_gladiator_guard,item_basher_slardar,-,-,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-8{item_gladiator_guard,item_basher_slardar,item_armlet,item_maelstrom,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-10{item_gladiator_guard,item_armlet_of_mjolnir,item_basher_slardar,-,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+9{item_gladiator_guard,item_armlet_of_mjolnir,item_basher_slardar,-,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0011{item_gladiator_guard,item_armlet_of_mjolnir,item_basher_slardar,item_radiance_prc,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
