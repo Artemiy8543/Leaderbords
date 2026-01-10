@@ -3,3 +3,4 @@
 3{item_battle_lance,item_basher,item_echo_sabre,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_battle_lance,item_basher_slardar,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 006{item_helm_of_iron_will,item_basher_slardar,item_heart,item_vanguard,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+007{item_gladiator_guard,item_basher_slardar,-,-,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
