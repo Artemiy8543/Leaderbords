@@ -4,5 +4,5 @@
 006{item_tranquil_boots,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_tranquil_boots,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 8{item_tranquil_boots,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-9{item_tranquil_boots,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-11{item_tranquil_boots,item_shivas_strom,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_tranquil_boots,item_shivas_guard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0012{item_tranquil_boots,item_shivas_strom,item_heart,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
