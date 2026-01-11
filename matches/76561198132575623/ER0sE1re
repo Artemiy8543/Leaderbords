@@ -8,3 +8,4 @@
 0023{item_ward_observer,item_wraith_band,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 25{item_ward_observer,item_wraith_band,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0027{item_ward_observer,item_wraith_band,item_octarine_core,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+33{item_ward_observer,item_wraith_band,item_octarine_core,item_heart,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
