@@ -1,4 +1,4 @@
 18=1{-,-,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{-,-,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{-,-,-,-,item_blade_midas,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_moon_shard,item_dragon_lance,item_broadsword,item_blade_midas,item_satanic_of_madness,item_broadsword,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+004{item_moon_shard,-,-,item_blade_midas,item_satanic,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{-,item_battle_lance,item_moon_shard,item_blade_midas,item_satanic_of_madness,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
