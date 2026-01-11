@@ -1,3 +1,4 @@
 104=3{item_ward_observer,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 6{item_ward_observer,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-11{item_ward_observer,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+10{item_ward_observer,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+12{item_ward_observer,item_wraith_band,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
