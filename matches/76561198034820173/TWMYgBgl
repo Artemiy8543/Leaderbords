@@ -6,3 +6,4 @@
 009{item_attacker_midas_agi,item_mjollnir,item_mask_of_madness,item_butterfly,item_great_crit_custom,item_mithril_hammer,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 0010{item_attacker_midas_agi,item_mjollnir,item_mask_of_madness,item_butterfly,item_great_crit_custom,item_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 11{item_attacker_midas_agi,item_mjollnir,item_satanic_of_madness,item_butterfly,item_great_crit_custom2,item_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0013{item_attacker_midas_agi,item_armlet_of_mjolnir,item_satanic_of_madness,item_butterfly,item_great_crit_custom3,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
