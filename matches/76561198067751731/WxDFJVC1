@@ -1,4 +1,4 @@
 2=001{item_crimson_guard,item_voodoo_mask,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_crimson_guard,-,-,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_crimson_guard,item_heart,-,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-6{item_gladiator_guard,-,-,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_gladiator_guard,-,-,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
