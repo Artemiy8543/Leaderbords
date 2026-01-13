@@ -1,3 +1,4 @@
 95=1{item_ring_of_tarrasque,-,-,-,-,-,}{item_recipe_heart,item_recipe_gladiator_guard,-,}{-,-,-,-,-,-,}{-,};
 2{item_heart,item_vanguard,item_helm_of_iron_will,-,-,-,}{-,item_recipe_gladiator_guard,-,}{-,-,-,-,-,-,}{-,};
 4{item_gladiator_guard,item_assault,item_ring_of_health,-,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
+5{item_gladiator_guard,item_lotus_cuirass,item_belt_of_strength,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
