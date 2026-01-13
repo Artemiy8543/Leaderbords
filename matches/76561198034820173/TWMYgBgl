@@ -1,3 +1,4 @@
 6=001{item_attacker_midas_agi,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_attacker_midas_agi,item_lifesteal,item_gloves,item_mithril_hammer,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_attacker_midas_agi,item_lifesteal,item_maelstrom,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+006{item_attacker_midas_agi,item_lifesteal,item_mjollnir,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
