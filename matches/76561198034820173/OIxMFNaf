@@ -1,3 +1,4 @@
 22=1{item_tiara_of_selemene,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_tiara_of_selemene,item_energy_booster,item_point_booster,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_octarine_core,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_octarine_core,item_null_talisman,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
