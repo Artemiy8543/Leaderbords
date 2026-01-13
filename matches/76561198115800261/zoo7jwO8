@@ -2,4 +2,4 @@
 2{item_heart,item_vanguard,item_helm_of_iron_will,-,-,-,}{-,item_recipe_gladiator_guard,-,}{-,-,-,-,-,-,}{-,};
 4{item_gladiator_guard,item_assault,item_ring_of_health,-,-,-,}{item_recipe_lotus_orb,item_recipe_lotus_cuirass,-,}{-,-,-,-,-,-,}{-,};
 6{item_gladiator_guard,item_lotus_cuirass,item_dragon_lance,item_quelling_blade,item_broadsword,item_broadsword,}{item_recipe_battle_lance,-,-,}{-,-,-,-,-,-,}{-,};
-8{item_gladiator_guard,item_lotus_cuirass,item_battle_lance,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+9{item_gladiator_guard,item_lotus_cuirass,item_battle_lance,item_dragon_lance,item_broadsword,item_quelling_blade,}{item_recipe_battle_lance,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
