@@ -3,3 +3,4 @@
 4{item_satanic,item_assault,-,-,-,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 5{item_satanic_of_madness,item_assault,-,-,-,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 6{item_satanic_of_madness,item_assault,item_maelstrom,item_hyperstone,-,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+007{item_satanic_of_madness,item_assault,item_mjollnir,item_ring_of_tarrasque,-,item_armlet,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
