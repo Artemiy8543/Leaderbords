@@ -1,2 +1,3 @@
 54=2{item_mjollnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_armlet_of_mjolnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_armlet_of_mjolnir,item_radiance,item_talisman_of_evasion,item_eagle,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
