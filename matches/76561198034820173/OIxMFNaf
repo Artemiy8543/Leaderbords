@@ -10,3 +10,4 @@
 13{item_octarine_core,item_attacker_midas_agi,item_bloodstone,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 14{item_octarine_core,item_attacker_midas_agi,item_bloodstone,item_energy_booster,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
 0015{item_octarine_core,item_attacker_midas_agi,item_bloodstone,item_energy_booster,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
+16{item_octarine_core,item_attacker_midas_agi,item_bloodstone,item_energy_booster,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_searing_signet,};
