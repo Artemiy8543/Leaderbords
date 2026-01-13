@@ -1,3 +1,4 @@
 12=1{item_eagle,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_butterfly,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_butterfly,item_lesser_crit,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+008{item_butterfly,item_great_crit_custom,item_heart,item_blade_of_alacrity,item_boots_of_elves,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
