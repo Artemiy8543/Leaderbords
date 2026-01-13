@@ -1,3 +1,4 @@
 59=1{item_lifesteal,-,-,-,-,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_satanic,-,-,-,-,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_satanic,item_assault,-,-,-,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+5{item_satanic_of_madness,item_assault,-,-,-,item_armlet,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
