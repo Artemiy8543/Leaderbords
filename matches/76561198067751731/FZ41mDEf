@@ -1,4 +1,4 @@
 2=001{item_blade_mail,item_vanguard,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_blade_mail,item_vanguard,item_ring_of_tarrasque,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{item_blade_mail,item_vanguard,item_heart,item_voodoo_mask,item_vitality_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_blade_mail,item_gladiator_guard,-,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+4{item_blade_mail,item_vanguard,item_heart,item_voodoo_mask,item_vitality_booster,item_energy_booster,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_blade_mail,item_gladiator_guard,item_sange_and_yasha,-,-,item_bloodstone,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
