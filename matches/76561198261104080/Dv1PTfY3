@@ -3,3 +3,4 @@
 9{item_attacker_midas_str,item_gladiator_guard,item_radiance_prc,item_pipe,item_bloodstone,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0011{item_attacker_midas_str,item_gladiator_guard,item_radiance_prc,item_pipe,item_bloodstone_shield,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 13{item_attacker_midas_str,item_gladiator_guard,item_radiance_prc,item_pipe,item_bloodstone_shield,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0017{item_attacker_midas_str,item_gladiator_guard,item_radiance_prc,item_armlet_of_mjolnir,item_bloodstone_shield,item_shivas_strom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
