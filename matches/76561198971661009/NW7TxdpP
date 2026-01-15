@@ -1,2 +1,3 @@
 35=3{item_wraith_band,item_wraith_band,item_boots,item_maelstrom,item_blade_of_alacrity,item_belt_of_strength,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_wraith_band,item_wraith_band,item_boots,item_maelstrom,item_dragon_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+7{item_wraith_band,item_wraith_band,item_boots,item_maelstrom,item_battle_lance,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
