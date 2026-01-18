@@ -1,4 +1,4 @@
 2=001{item_ring_of_tarrasque,item_reaver,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_gladiator_guard,item_assault,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-6{item_gladiator_guard,-,-,-,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+005{item_gladiator_guard,item_assault,item_pers,item_platemail,item_energy_booster,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+7{item_gladiator_guard,item_radiance,-,-,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
