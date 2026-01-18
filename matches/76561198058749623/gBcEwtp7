@@ -16,3 +16,4 @@
 0019{item_gladiator_guard,item_great_crit_custom3,item_blade_midas,item_monkey_king_bar,item_satanic_of_madness,item_lotus_cuirass,}{-,item_butterfly,-,}{-,-,-,-,-,-,}{item_giant_maul,};
 21{item_gladiator_guard,item_great_crit_custom3,item_blade_midas,item_monkey_king_bar,item_satanic_of_madness,item_lotus_cuirass,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_giant_maul,};
 0022{item_gladiator_guard,item_great_crit_custom3,item_blade_midas,-,item_satanic_of_madness,item_lotus_cuirass,}{item_monkey_king_bar,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+23{item_gladiator_guard,item_great_crit_custom3,item_blade_midas,item_monkey_king_bar,item_satanic_of_madness,item_lotus_cuirass,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
