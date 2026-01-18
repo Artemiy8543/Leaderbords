@@ -1,4 +1,5 @@
 94=1{item_javelin,item_gloves,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_maelstrom,-,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_maelstrom,item_eagle,item_satanic_of_madness,item_talisman_of_evasion,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-6{item_maelstrom,item_eagle,item_satanic_of_madness,item_talisman_of_evasion,item_skadi,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+003{item_maelstrom,-,item_satanic,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_maelstrom,item_eagle,item_satanic_of_madness,item_talisman_of_evasion,item_ultimate_orb,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+7{item_maelstrom,item_eagle,item_satanic_of_madness,item_talisman_of_evasion,item_skadi,item_hyperstone,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
