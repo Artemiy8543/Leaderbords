@@ -1,4 +1,4 @@
 48=1{item_reaver,item_vitality_booster,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_heart,item_vanguard,item_helm_of_iron_will,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_gladiator_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_gladiator_guard,item_assault,item_blade_midas,item_pers,item_platemail,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+004{item_gladiator_guard,-,item_blade_midas,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+6{item_gladiator_guard,-,item_blade_midas,-,-,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
