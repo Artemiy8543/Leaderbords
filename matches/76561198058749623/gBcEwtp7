@@ -12,3 +12,4 @@
 15{item_gladiator_guard,item_butterfly,item_blade_midas,item_monkey_king_bar,item_satanic_of_madness,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giant_maul,};
 0016{item_gladiator_guard,item_butterfly,item_blade_midas,item_monkey_king_bar,item_satanic_of_madness,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_giant_maul,};
 0017{item_gladiator_guard,item_butterfly,item_blade_midas,item_monkey_king_bar,item_satanic_of_madness,item_lotus_cuirass,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_giant_maul,};
+18{item_gladiator_guard,item_butterfly,item_blade_midas,item_monkey_king_bar,item_satanic_of_madness,item_lotus_cuirass,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_giant_maul,};
