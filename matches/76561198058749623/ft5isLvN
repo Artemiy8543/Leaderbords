@@ -18,3 +18,4 @@
 33{item_gladiator_guard,item_radiance_prc,item_heart,item_blade_midas,item_satanic_of_madness,item_lotus_cuirass,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0034{item_gladiator_guard,item_radiance_prc,item_heart,-,item_satanic_of_madness,item_lotus_cuirass,}{item_blade_midas,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 36{item_gladiator_guard,item_blade_midas,item_heart,-,item_satanic_of_madness,item_lotus_cuirass,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0037{item_gladiator_guard,item_blade_midas,item_heart,-,item_satanic_of_madness,item_lotus_cuirass,}{item_radiance_prc,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
