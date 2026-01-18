@@ -1,4 +1,4 @@
 2=001{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{item_heart,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-003{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_gladiator_guard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+004{item_gladiator_guard,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_gladiator_guard,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
