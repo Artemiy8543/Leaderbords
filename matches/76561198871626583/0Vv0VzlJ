@@ -16,4 +16,4 @@
 0029{item_satanic_of_madness,item_abyssal_blade,item_monkey_king_bar,item_bfury,item_butterfly,item_skadi,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0031{item_satanic_of_madness,item_abyssal_blade,item_monkey_king_bar,item_gladiator_guard,item_butterfly,item_skadi,}{item_bfury,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0033{item_satanic_of_madness,item_abyssal_blade,item_monkey_king_bar,item_bfury,item_butterfly,item_skadi,}{item_gladiator_guard,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-0035{item_satanic_of_madness,item_abyssal_blade,item_battle_lance,item_battle_lance,item_butterfly,item_skadi,}{item_gladiator_guard,item_monkey_king_bar,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0036{item_satanic_of_madness,item_abyssal_blade,item_battle_lance,item_battle_lance,item_butterfly,item_battle_lance,}{item_gladiator_guard,item_monkey_king_bar,item_skadi,}{item_battle_lance,-,-,-,-,-,}{item_dormant_curio,};
