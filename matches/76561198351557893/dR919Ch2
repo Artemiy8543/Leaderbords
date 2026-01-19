@@ -7,4 +7,5 @@
 14{item_blade_midas,item_gladiator_guard,item_manaback2,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0017{item_blade_midas,item_gladiator_guard,item_manaback2,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0021{item_blade_midas,item_gladiator_guard,item_manaback2,item_refresher_core,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
-26{item_blade_midas,item_gladiator_guard,item_manaback3,item_refresher_core,item_heart,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+25{item_blade_midas,item_gladiator_guard,item_manaback2,item_refresher_core,item_heart,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+27{item_blade_midas,item_gladiator_guard,item_manaback3,item_refresher_core,item_heart,item_assault,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
