@@ -2,4 +2,4 @@
 003{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 007{item_blade_midas,item_satanic_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-10{item_blade_midas,item_satanic_of_madness,item_butterfly,item_bfury,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+11{item_blade_midas,item_satanic_of_madness,item_butterfly,item_battle_lance,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
