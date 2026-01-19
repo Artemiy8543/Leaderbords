@@ -14,3 +14,4 @@
 28{-,item_refresher_core,item_battle_lance,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,}{item_attacker_midas_str,-,item_mask_of_madness,}{-,-,-,-,-,-,}{item_pogo_stick,};
 0029{item_skadi,item_refresher_core,item_battle_lance,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,}{item_attacker_midas_str,-,item_mask_of_madness,}{-,-,-,-,-,-,}{item_pogo_stick,};
 30{item_skadi,item_shivas_strom,item_battle_lance,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,}{item_attacker_midas_str,item_refresher_core,-,}{-,-,-,-,-,-,}{item_pogo_stick,};
+0031{item_skadi,item_refresher_core,item_battle_lance,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,}{item_attacker_midas_str,item_shivas_strom,item_bfury,}{-,-,-,-,-,-,}{item_pogo_stick,};
