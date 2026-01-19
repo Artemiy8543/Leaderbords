@@ -4,4 +4,5 @@
 5{item_attacker_midas_str,item_octarine_core,item_lifesteal,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 7{item_attacker_midas_str,item_octarine_core,item_lifesteal,item_creep_desolator,item_lotus_cuirass,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
 009{item_attacker_midas_str,item_octarine_core,item_mask_of_madness,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
-13{item_attacker_midas_str,item_octarine_core,item_mask_of_madness,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+12{item_attacker_midas_str,item_octarine_core,item_mask_of_madness,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+0014{item_attacker_midas_str,item_octarine_core,-,item_creep_desolator,item_lotus_cuirass,item_great_crit_custom3,}{-,-,item_mask_of_madness,}{-,-,-,-,-,-,}{item_sisters_shroud,};
