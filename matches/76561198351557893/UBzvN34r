@@ -1,4 +1,4 @@
 29=1{item_attacker_midas_str,item_enchanted_mango,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_attacker_midas_str,item_enchanted_mango,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_attacker_midas_str,item_octarine_core,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_attacker_midas_str,item_octarine_core,item_lifesteal,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+6{item_attacker_midas_str,item_octarine_core,item_lifesteal,item_creep_desolator,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
