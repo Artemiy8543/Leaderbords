@@ -1,3 +1,4 @@
 2=001{item_talisman_of_evasion,item_circlet,item_sobi_mask,item_ring_of_protection,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_radiance_prc,item_platemail,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-5{item_radiance_prc,item_lotus_cuirass,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+4{item_radiance_prc,item_platemail,item_buckler,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_radiance_prc,item_lotus_cuirass,item_ring_of_tarrasque,item_reaver,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
