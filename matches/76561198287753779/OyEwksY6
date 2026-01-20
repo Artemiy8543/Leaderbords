@@ -4,3 +4,4 @@
 4{item_null_talisman,item_kaya,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_null_talisman,item_manaback,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 8{item_null_talisman,item_manaback,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+10{item_null_talisman,item_manaback,item_mask_of_madness,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
