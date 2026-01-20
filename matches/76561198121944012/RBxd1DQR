@@ -1,2 +1,3 @@
 48=2{item_attacker_midas_agi,item_dragon_lance,item_quelling_blade,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_attacker_midas_agi,item_battle_lance,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
+6{item_attacker_midas_agi,item_battle_lance,item_butterfly,item_mask_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
