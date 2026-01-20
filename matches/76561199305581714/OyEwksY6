@@ -4,3 +4,4 @@
 004{item_blade_mail,item_attacker_midas_str,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_blade_mail,item_attacker_midas_str,item_enchanted_mango,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 7{item_blade_mail,item_attacker_midas_str,item_enchanted_mango,item_great_crit_custom,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+8{item_blade_mail,item_attacker_midas_str,item_enchanted_mango,item_great_crit_custom,item_flask,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
