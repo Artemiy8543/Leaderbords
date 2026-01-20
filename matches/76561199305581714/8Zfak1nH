@@ -1,2 +1,3 @@
 104=3{item_blade_midas,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 009{item_blade_midas,item_gladiator_guard,item_great_crit_custom3,item_platemail,item_hyperstone,item_buckler,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0010{item_blade_midas,item_gladiator_guard,item_great_crit_custom3,item_lotus_cuirass,item_vladmir,item_ring_of_protection,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
