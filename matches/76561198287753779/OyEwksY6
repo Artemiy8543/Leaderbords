@@ -6,3 +6,4 @@
 8{item_null_talisman,item_manaback,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_null_talisman,item_manaback,item_mask_of_madness,item_hyperstone,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0011{item_null_talisman,item_manaback,item_mask_of_madness,item_moon_shard,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_null_talisman,item_manaback,item_mask_of_madness,item_moon_shard,item_staff_of_wizardry,-,}{item_recipe_manaback2,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
