@@ -3,3 +3,4 @@
 5{item_assault,item_buckler,item_ring_of_basilius,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_assault,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 009{item_assault,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0012{item_assault,item_vladmir,item_talisman_of_evasion,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
