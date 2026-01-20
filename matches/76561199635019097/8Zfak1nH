@@ -6,3 +6,4 @@
 008{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 14{item_voodoo_mask,-,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
 26{item_mithril_hammer,item_bloodstone,item_gladiator_guard,item_javelin,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
+28{-,item_bloodstone,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_occult_bracelet,};
