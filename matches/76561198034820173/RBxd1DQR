@@ -1,3 +1,4 @@
 54=1{item_platemail,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_assault,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_assault,item_buckler,item_ring_of_basilius,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_assault,item_vladmir,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
