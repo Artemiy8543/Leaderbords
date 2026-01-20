@@ -1,3 +1,4 @@
 99=1{item_vanguard,item_helm_of_iron_will,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_crimson_guard,item_broadsword,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_crimson_guard,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_crimson_guard,item_blade_mail,item_veil_of_discord,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_polliwog_charm,};
