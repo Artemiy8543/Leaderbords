@@ -9,4 +9,4 @@
 11{item_blade_mail,item_gladiator_guard,item_great_crit_custom,-,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 12{item_blade_mail,item_gladiator_guard,item_great_crit_custom3,item_assault,item_attacker_midas_str,item_pers,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 14{item_blade_mail,item_gladiator_guard,item_satanic_of_madness,item_lotus_cuirass,item_attacker_midas_str,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-15{item_trident_custom,item_gladiator_guard,item_satanic_of_madness,item_lotus_cuirass,item_attacker_midas_str,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+16{item_trident_custom,item_gladiator_guard,item_satanic_of_madness,item_lotus_cuirass,item_attacker_midas_str,-,}{item_great_crit_custom3,item_enchanted_mango,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
