@@ -2,3 +2,4 @@
 2{item_power_treads,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 006{item_power_treads,item_radiance,item_circlet,item_sobi_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 007{item_power_treads,item_radiance,item_urn_of_shadows,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+008{item_power_treads,item_radiance,item_spirit_vessel,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
