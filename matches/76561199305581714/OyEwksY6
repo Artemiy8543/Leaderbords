@@ -7,3 +7,4 @@
 8{item_blade_mail,item_attacker_midas_str,item_enchanted_mango,item_great_crit_custom,item_flask,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 10{item_blade_mail,item_crimson_guard,item_great_crit_custom,item_ring_of_tarrasque,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 11{item_blade_mail,item_gladiator_guard,item_great_crit_custom,-,item_attacker_midas_str,-,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+12{item_blade_mail,item_gladiator_guard,item_great_crit_custom3,item_assault,item_attacker_midas_str,item_pers,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
