@@ -16,3 +16,4 @@
 0032{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 34{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 36{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+0037{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{item_chipped_vest,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
