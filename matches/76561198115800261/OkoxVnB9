@@ -8,4 +8,5 @@
 0015{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0017{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 19{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-22{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+21{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+23{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
