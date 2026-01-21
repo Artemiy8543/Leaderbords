@@ -1,4 +1,5 @@
 14=1{item_vanguard,item_ring_of_tarrasque,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_vanguard,item_heart,item_helm_of_iron_will,-,-,-,}{item_recipe_gladiator_guard,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_gladiator_guard,item_assault,-,item_voodoo_mask,-,-,}{-,item_recipe_lotus_orb,-,}{-,-,-,-,-,-,}{-,};
-6{item_gladiator_guard,item_lotus_cuirass,item_vitality_booster,item_voodoo_mask,item_energy_booster,item_ring_of_protection,}{item_recipe_pavise,item_blades_of_attack,item_recipe_lesser_crit,}{item_robe,-,-,-,-,-,}{-,};
+3{item_gladiator_guard,item_platemail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_gladiator_guard,item_lotus_cuirass,-,item_voodoo_mask,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+007{item_gladiator_guard,item_lotus_cuirass,item_bloodstone,item_robe,item_energy_booster,item_ring_of_protection,}{item_recipe_pavise,item_blades_of_attack,item_recipe_lesser_crit,}{-,-,-,-,-,-,}{-,};
