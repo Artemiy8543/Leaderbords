@@ -6,4 +6,5 @@
 9{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_magic_crit,item_quelling_blade,item_broadsword,}{item_recipe_bfury,item_recipe_great_magic_crit,item_broadsword,}{-,-,-,-,-,-,}{-,};
 0012{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 0015{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-0018{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0017{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+19{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
