@@ -13,5 +13,5 @@
 0026{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0029{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0031{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
-0032{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-34{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+0033{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_jidi_pollen_bag,};
+0035{item_gladiator_guard,item_lotus_cuirass,item_bloodstone_shield,item_great_magic_crit,item_bfury,item_infinity_moon_shard,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
