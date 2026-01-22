@@ -13,3 +13,4 @@
 0021{item_lotus_cuirass,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_trident_custom,}{item_blade_mail,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0022{item_lotus_cuirass,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_radiance_prc,item_trident_custom,}{item_blade_mail,item_gladiator_guard,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0023{item_lotus_cuirass,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_aeon_disk,item_trident_custom,}{item_blade_mail,item_gladiator_guard,item_radiance_prc,}{-,-,-,-,-,-,}{item_chipped_vest,};
+24{item_aeon_disk,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_trident_custom,}{item_lotus_cuirass,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
