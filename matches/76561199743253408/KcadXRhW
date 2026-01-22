@@ -20,3 +20,4 @@
 28{item_lightning_sword,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_trident_custom,}{item_radiance_prc,item_aeon_disk,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 29{item_lightning_sword,item_blade_midas,item_bloodstone_shield,item_shivas_strom,item_gladiator_guard,item_trident_custom,}{item_radiance_prc,item_aeon_disk,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_whisper_of_the_dread,};
 31{item_lightning_sword,item_blade_midas,item_blade_mail,item_shivas_strom,item_bloodstone_shield,item_trident_custom,}{item_gladiator_guard,item_radiance_prc,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_divine_regalia,};
+0032{item_lightning_sword,item_blade_midas,item_blade_mail,item_shivas_strom,item_bloodstone_shield,item_trident_custom,}{item_gladiator_guard,item_radiance_prc,item_lotus_cuirass,}{-,-,-,-,-,-,}{item_divine_regalia,};
