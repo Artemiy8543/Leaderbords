@@ -1,3 +1,4 @@
 94=1{-,-,-,-,-,item_yasha_and_kaya,}{item_recipe_trident_custom,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_maelstrom,item_armlet,-,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-7{item_armlet_of_mjolnir,item_ultimate_scepter,item_great_crit_custom,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_armlet_of_mjolnir,item_ultimate_scepter,-,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{item_armlet_of_mjolnir,item_ultimate_scepter,item_great_crit_custom,item_platemail,item_hyperstone,item_trident_custom,}{item_ring_of_protection,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
