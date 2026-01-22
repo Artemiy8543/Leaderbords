@@ -1,3 +1,4 @@
 99=1{-,-,-,-,-,item_kaya_and_sange,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-3{-,item_blade_midas,-,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-005{item_heart,item_blade_midas,-,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+2{-,-,-,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+004{item_ring_of_tarrasque,item_blade_midas,-,-,-,item_trident_custom,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+6{item_gladiator_guard,item_blade_midas,item_voodoo_mask,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
