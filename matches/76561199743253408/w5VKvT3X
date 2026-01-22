@@ -1,3 +1,4 @@
 11=1{item_sange_and_yasha,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 002{-,-,-,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-004{item_armlet_of_mjolnir,-,-,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+003{item_maelstrom,-,-,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_armlet_of_mjolnir,item_reaver,-,-,-,item_trident_custom,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
