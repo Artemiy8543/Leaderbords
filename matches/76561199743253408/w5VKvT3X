@@ -3,4 +3,4 @@
 003{item_maelstrom,-,-,-,-,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 5{item_armlet_of_mjolnir,item_reaver,-,-,-,item_trident_custom,}{item_recipe_heart,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 6{item_armlet_of_mjolnir,item_lifesteal,item_lifesteal,-,item_heart,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
-007{item_mask_of_madness,item_armlet_of_mjolnir,item_mask_of_madness,-,item_heart,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+008{item_satanic_of_madness,item_armlet_of_mjolnir,-,-,item_heart,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
