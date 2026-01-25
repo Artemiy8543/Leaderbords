@@ -2,3 +2,4 @@
 002{item_power_treads,item_branches,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_power_treads,item_branches,item_desolator,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_power_treads,item_branches,item_desolator,item_lifesteal,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_power_treads,item_branches,item_desolator,item_satanic_of_madness,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
