@@ -13,4 +13,4 @@
 0023{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_battle_lance,item_armlet_of_mjolnir,item_trident_custom,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 25{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_battle_lance,item_armlet_of_mjolnir,item_trident_custom,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 27{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_battle_lance,item_armlet_of_mjolnir,item_trident_custom,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-29{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_battle_lance,item_armlet_of_mjolnir,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+30{item_attacker_midas_str,item_gladiator_guard,item_creep_desolator,item_battle_lance,item_armlet_of_mjolnir,item_trident_custom,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
