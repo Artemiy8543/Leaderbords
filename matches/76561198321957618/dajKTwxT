@@ -2,3 +2,4 @@
 2{item_hyperstone,item_buckler,item_phase_boots,item_platemail,-,item_enchanted_mango,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 004{item_assault,item_maelstrom,item_phase_boots,-,-,item_enchanted_mango,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_assault,item_mjollnir,item_phase_boots,-,-,item_enchanted_mango,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_assault,item_mask_of_madness,item_phase_boots,item_heart,item_mjollnir,item_enchanted_mango,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
