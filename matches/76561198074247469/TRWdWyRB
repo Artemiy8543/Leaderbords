@@ -1,6 +1,6 @@
 81=1{item_blade_mail,-,-,-,-,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_blade_midas,-,-,-,-,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 3{item_blade_midas,item_gladiator_guard,-,-,-,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_blade_midas,item_gladiator_guard,-,-,-,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-006{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-008{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+5{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+7{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,item_blade_mail,-,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+9{item_blade_midas,item_gladiator_guard,item_lotus_cuirass,-,-,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
