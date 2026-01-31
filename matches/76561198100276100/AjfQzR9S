@@ -1,3 +1,4 @@
 104=1{item_quelling_blade,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 2{item_quelling_blade,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 4{item_bfury,item_blade_mail,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+5{item_bfury,item_blade_mail,item_gladiator_guard,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_sisters_shroud,};
