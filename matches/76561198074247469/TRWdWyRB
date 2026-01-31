@@ -10,3 +10,4 @@
 0014{item_blade_midas,item_battle_lance,-,item_lotus_cuirass,item_gladiator_guard,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 15{item_blade_midas,item_battle_lance,-,item_lotus_cuirass,item_gladiator_guard,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 16{item_blade_midas,item_battle_lance,-,item_lotus_cuirass,item_gladiator_guard,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
+0017{item_blade_midas,item_battle_lance,item_great_crit_custom3,item_lotus_cuirass,item_gladiator_guard,item_power_treads,}{-,-,-,}{-,-,-,-,-,-,}{item_misericorde,};
