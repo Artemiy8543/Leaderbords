@@ -1,3 +1,3 @@
 35=1{item_maelstrom,item_hyperstone,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-2{item_mjollnir,item_force_staff,item_belt_of_strength,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-4{item_mjollnir,item_hurricane_pike,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+3{item_mjollnir,item_hurricane_pike,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+005{item_mjollnir,item_hurricane_pike,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
