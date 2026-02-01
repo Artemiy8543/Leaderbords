@@ -2,3 +2,4 @@
 3{item_mjollnir,item_hurricane_pike,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 005{item_mjollnir,item_hurricane_pike,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_mjollnir,item_mask_of_madness,item_hurricane_pike,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+007{item_mjollnir,item_mask_of_madness,item_hurricane_pike,item_monkey_king_bar,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
