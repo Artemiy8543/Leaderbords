@@ -3,4 +3,4 @@
 005{item_mjollnir,item_hurricane_pike,item_mask_of_madness,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 006{item_mjollnir,item_mask_of_madness,item_hurricane_pike,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 007{item_mjollnir,item_mask_of_madness,item_hurricane_pike,item_monkey_king_bar,item_moon_shard,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-008{item_mjollnir,item_mask_of_madness,item_hurricane_pike,item_monkey_king_bar,item_moon_shard,item_desolator,}{item_helm_of_iron_will,item_crown,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+009{item_mjollnir,item_mask_of_madness,item_hurricane_pike,item_monkey_king_bar,item_moon_shard,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
