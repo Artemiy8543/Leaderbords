@@ -2,3 +2,4 @@
 003{item_armlet,item_maelstrom,-,-,-,-,}{item_recipe_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{-,};
 008{item_armlet_of_mjolnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 10{item_armlet_of_mjolnir,item_mask_of_madness,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+11{item_armlet_of_mjolnir,item_mask_of_madness,item_lifesteal,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
