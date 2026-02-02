@@ -13,4 +13,4 @@
 29{item_armlet_of_mjolnir,item_satanic_of_madness,item_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 33{item_armlet_of_mjolnir,item_satanic_of_madness,item_magic_crit,item_demon_edge,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_poor_mans_shield,};
 35{item_armlet_of_mjolnir,item_satanic_of_madness,item_great_magic_crit,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
-0039{item_armlet_of_mjolnir,item_satanic_of_madness,item_great_magic_crit,item_demon_edge,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
+0040{item_armlet_of_mjolnir,item_satanic_of_madness,item_great_magic_crit2,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
