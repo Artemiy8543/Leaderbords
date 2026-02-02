@@ -17,4 +17,4 @@
 42{item_battle_lance,item_satanic_of_madness,item_infinity_moon_shard,-,item_great_crit_custom3,item_attacker_midas_agi,}{-,item_ultimate_boots,item_butterfly,}{-,-,-,-,-,-,}{item_serrated_shiv,};
 0043{item_battle_lance,item_satanic_of_madness,item_infinity_moon_shard,item_infinity_moon_shard,item_great_crit_custom3,item_attacker_midas_agi,}{item_infinity_moon_shard,item_ultimate_boots,item_butterfly,}{item_infinity_moon_shard,item_infinity_moon_shard,-,-,-,-,}{item_serrated_shiv,};
 0045{item_battle_lance,item_satanic_of_madness,item_infinity_moon_shard,item_butterfly,item_great_crit_custom3,item_creep_desolator,}{item_attacker_midas_agi,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
-46{item_battle_lance,item_satanic_of_madness,item_infinity_moon_shard,item_butterfly,item_great_crit_custom3,item_creep_desolator,}{item_attacker_midas_agi,item_ultimate_boots,-,}{-,-,-,-,-,-,}{item_serrated_shiv,};
+47{item_battle_lance,item_satanic_of_madness,item_infinity_moon_shard,item_bfury,item_great_crit_custom3,item_creep_desolator,}{item_attacker_midas_agi,item_ultimate_boots,item_butterfly,}{-,-,-,-,-,-,}{item_serrated_shiv,};
