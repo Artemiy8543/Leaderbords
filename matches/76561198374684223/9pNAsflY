@@ -1,2 +1,3 @@
 49=1{item_armlet,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 003{item_armlet,item_maelstrom,-,-,-,-,}{item_recipe_armlet_of_mjolnir,-,-,}{-,-,-,-,-,-,}{-,};
+008{item_armlet_of_mjolnir,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
