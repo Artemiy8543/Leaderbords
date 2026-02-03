@@ -1,2 +1,2 @@
 4=001{-,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
-2{item_radiance,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
+3{-,-,-,-,-,item_radiance_prc,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas_agi,};
