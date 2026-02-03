@@ -1,2 +1,2 @@
 14=1{item_attacker_midas_str,-,-,-,-,-,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-002{item_radiance,-,-,-,-,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+003{-,-,-,-,item_radiance_prc,item_attacker_midas_str,}{-,-,-,}{-,-,-,-,-,-,}{-,};
