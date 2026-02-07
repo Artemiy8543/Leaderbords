@@ -5,4 +5,5 @@
 44{item_radiance_prc,item_great_crit_custom3,item_satanic,item_battle_lance,item_khandas_brooch,item_creep_desolator,}{item_corrosion_blade,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 47{item_radiance_prc,item_great_crit_custom3,item_satanic,item_battle_lance,item_khandas_brooch,item_creep_desolator,}{item_corrosion_blade,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
 0050{item_radiance_prc,item_great_crit_custom3,item_satanic,item_battle_lance,item_khandas_brooch,item_creep_desolator,}{item_corrosion_blade,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
-53{-,item_great_crit_custom3,item_satanic,item_battle_lance,item_khandas_brooch,item_creep_desolator,}{item_corrosion_blade,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+52{-,item_great_crit_custom3,item_satanic,item_battle_lance,item_khandas_brooch,item_creep_desolator,}{item_corrosion_blade,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
+54{-,item_great_crit_custom3,item_satanic,item_battle_lance,item_khandas_brooch,item_creep_desolator,}{item_corrosion_blade,-,-,}{-,-,-,-,-,-,}{item_kobold_cup,};
