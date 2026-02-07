@@ -5,4 +5,4 @@
 45{item_battle_lance,item_vladimir_pact,item_refresher_core,item_attacker_midas_agi,item_creep_desolator,item_trident_custom,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{-,};
 0047{item_battle_lance,item_vladimir_pact,-,item_attacker_midas_agi,item_creep_desolator,item_trident_custom,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{-,};
 49{item_battle_lance,item_vladimir_pact,-,item_attacker_midas_agi,item_creep_desolator,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{-,};
-51{item_battle_lance,item_vladimir_pact,item_lotus_cuirass,item_attacker_midas_agi,item_creep_desolator,item_trident_custom,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{-,};
+52{item_battle_lance,item_vladimir_pact,item_lotus_cuirass,item_attacker_midas_agi,item_creep_desolator,item_trident_custom,}{item_agi_book3,-,-,}{-,-,-,-,-,-,}{-,};
