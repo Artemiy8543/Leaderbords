@@ -2,4 +2,5 @@
 0032{item_boots,item_trident_custom,item_radiance_prc,item_attacker_midas_str,item_heart,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 34{item_boots,item_trident_custom,item_radiance_prc,item_attacker_midas_str,item_heart,item_ultimate_scepter,}{-,-,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 0037{item_boots_of_bearing,item_trident_custom,item_radiance_prc,item_attacker_midas_str,item_heart,item_ultimate_scepter,}{item_power_treads,item_phase_boots,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
-40{item_boots_of_bearing,item_trident_custom,item_radiance_prc,item_attacker_midas_str,item_heart,item_ultimate_scepter,}{item_power_treads,item_phase_boots,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+39{item_boots_of_bearing,item_trident_custom,item_radiance_prc,item_attacker_midas_str,item_heart,item_ultimate_scepter,}{item_power_treads,item_phase_boots,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+0041{item_boots_of_bearing,item_trident_custom,item_radiance_prc,item_attacker_midas_str,item_heart,item_ultimate_scepter,}{item_power_treads,item_phase_boots,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
