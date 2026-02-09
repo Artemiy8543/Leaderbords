@@ -5,4 +5,4 @@
 0036{item_attacker_midas_agi,item_battle_lance,item_lotus_cuirass,item_gladiator_guard,-,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 0038{item_attacker_midas_agi,item_battle_lance,item_lotus_cuirass,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,}{-,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
 40{item_attacker_midas_agi,item_battle_lance,item_lotus_cuirass,item_gladiator_guard,item_vladimir_pact,item_great_crit_custom3,}{item_creep_desolator,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
-0042{item_attacker_midas_agi,item_battle_lance,item_lotus_cuirass,item_gladiator_guard,item_vladimir_pact,item_creep_desolator,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
+0043{item_attacker_midas_agi,item_battle_lance,item_lotus_cuirass,item_gladiator_guard,item_vladimir_pact,item_creep_desolator,}{item_great_crit_custom3,-,-,}{-,-,-,-,-,-,}{item_spark_of_courage,};
