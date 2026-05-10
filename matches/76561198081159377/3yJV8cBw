@@ -4,3 +4,4 @@
 0060{item_blade_midas,item_armlet_of_mjolnir,item_gladiator_guard,-,item_battle_lance,item_radiance_prc,}{item_ward_observer,item_great_magic_crit,item_creep_desolator,}{-,-,-,-,-,-,}{item_possessed_mask,};
 0070{item_blade_midas,item_armlet_of_mjolnir,item_gladiator_guard,item_ward_observer,item_battle_lance,item_radiance_prc,}{item_possessed_mask,item_great_magic_crit,item_creep_desolator,}{-,-,-,-,-,-,}{item_desolator_2,};
 0080{item_blade_midas,item_armlet_of_mjolnir,item_gladiator_guard,item_lotus_cuirass,item_battle_lance,item_radiance_prc,}{item_possessed_mask,item_great_magic_crit,item_creep_desolator,}{-,-,-,-,-,-,}{item_desolator_2,};
+0090{item_blade_midas,item_armlet_of_mjolnir,item_gladiator_guard,-,item_battle_lance,item_radiance_prc,}{item_possessed_mask,item_lotus_cuirass,item_creep_desolator,}{-,-,-,-,-,-,}{item_desolator_2,};
