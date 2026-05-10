@@ -1,1 +1,2 @@
 93=30{item_radiance_prc,item_bloodstone_shield,item_ultimate_boots,item_great_magic_crit,item_khandas_brooch,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_weighted_dice,};
+40{item_radiance_prc,item_bloodstone_shield,item_ultimate_boots,-,item_khandas_brooch,item_trident_custom,}{item_great_magic_crit,-,-,}{-,-,-,-,-,-,}{item_weighted_dice,};
