@@ -5,3 +5,4 @@
 0070{item_attacker_midas,item_creep_desolator,item_satanic_of_madness,item_great_crit_custom,item_battle_lance,item_devostator,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
 80{item_attacker_midas,item_creep_desolator,item_vladimir_pact,item_great_crit_custom,item_battle_lance,item_devostator,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
 90{item_attacker_midas,item_creep_desolator,item_vladimir_pact,item_great_crit_custom,item_battle_lance,item_devostator,}{item_str_book3,item_agi_book3,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
+100{item_attacker_midas,item_vladimir_pact,item_creep_desolator,item_great_crit_custom,item_battle_lance,item_devostator,}{-,item_str_book3,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
