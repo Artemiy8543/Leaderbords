@@ -6,3 +6,4 @@
 80{item_attacker_midas,item_creep_desolator,item_vladimir_pact,item_great_crit_custom,item_battle_lance,item_devostator,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
 90{item_attacker_midas,item_creep_desolator,item_vladimir_pact,item_great_crit_custom,item_battle_lance,item_devostator,}{item_str_book3,item_agi_book3,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
 100{item_attacker_midas,item_vladimir_pact,item_creep_desolator,item_great_crit_custom,item_battle_lance,item_devostator,}{-,item_str_book3,-,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
+110{item_attacker_midas,item_vladimir_pact,item_creep_desolator,item_radiance_prc,item_battle_lance,item_skadi,}{item_great_crit_custom,item_str_book3,item_devostator,}{-,-,-,-,-,-,}{item_gunpowder_gauntlets,};
