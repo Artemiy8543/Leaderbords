@@ -1,3 +1,4 @@
 29=30{item_attacker_midas,item_creep_desolator,item_satanic_of_madness,item_great_crit_custom,item_agi_book3,item_devostator,}{item_battle_lance,-,-,}{-,-,-,-,-,-,}{item_dagger_of_ristul,};
 40{item_attacker_midas,item_creep_desolator,item_satanic_of_madness,item_great_crit_custom,item_battle_lance,item_devostator,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_dagger_of_ristul,};
 0050{item_attacker_midas,item_creep_desolator,item_satanic_of_madness,item_great_crit_custom,item_battle_lance,item_devostator,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
+0060{item_attacker_midas,item_creep_desolator,item_satanic_of_madness,item_great_crit_custom,item_battle_lance,item_devostator,}{item_str_book3,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
