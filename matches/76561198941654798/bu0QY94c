@@ -1,2 +1,3 @@
 14=30{item_blade_midas,item_gladiator_guard,item_bloodstone_shield,item_battle_lance,-,item_great_crit_custom,}{item_great_magic_crit,item_shivas_strom,item_infinity_moon_shard,}{-,-,-,-,-,-,}{item_chipped_vest,};
 40{item_attacker_midas,item_gladiator_guard,item_bloodstone_shield,item_battle_lance,item_shivas_strom,item_great_crit_custom,}{item_great_magic_crit,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+50{item_attacker_midas,item_gladiator_guard,item_bloodstone_shield,item_battle_lance,item_creep_desolator,item_great_crit_custom,}{item_great_magic_crit,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
