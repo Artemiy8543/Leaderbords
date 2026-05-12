@@ -3,3 +3,4 @@
 50{item_attacker_midas,item_gladiator_guard,item_bloodstone_shield,item_battle_lance,item_creep_desolator,item_great_crit_custom,}{item_great_magic_crit,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0060{item_khandas_brooch,item_great_magic_crit,item_bloodstone_shield,item_battle_lance,item_creep_desolator,item_great_crit_custom,}{item_gladiator_guard,item_lightning_sword,item_midas_component,}{-,-,-,-,-,-,}{item_defiant_shell,};
 70{item_khandas_brooch,item_bloodstone_shield,item_creep_desolator,item_gladiator_guard,item_corrosion_blade,item_great_crit_custom,}{item_skadi,item_blade_midas,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
+80{item_khandas_brooch,item_attacker_midas,item_infinity_moon_shard,item_gladiator_guard,item_corrosion_blade,item_great_crit_custom,}{item_creep_desolator,item_skadi,item_gunpowder_gauntlets,}{item_bloodstone_shield,-,-,-,-,item_moon_shard,}{item_divine_regalia,};
