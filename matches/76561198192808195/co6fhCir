@@ -5,3 +5,4 @@
 0070{item_trident_custom,item_attacker_midas,item_bloodstone_shield,-,item_armlet_of_mjolnir,-,}{-,-,-,}{-,-,-,-,-,-,}{item_dagger_of_ristul,};
 0080{item_trident_custom,item_attacker_midas,item_bloodstone_shield,-,-,-,}{item_dagger_of_ristul,item_infinity_moon_shard,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 90{item_trident_custom,item_attacker_midas,item_bloodstone_shield,item_khandas_brooch,item_great_magic_crit,-,}{item_dagger_of_ristul,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+100{item_trident_custom,item_attacker_midas,item_bloodstone_shield,item_khandas_brooch,item_great_magic_crit,-,}{item_dagger_of_ristul,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
