@@ -2,3 +2,4 @@
 40{item_trident_custom,item_bloodstone_shield,item_attacker_midas,-,item_great_magic_crit,item_khandas_brooch,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0050{item_trident_custom,item_bloodstone_shield,item_meteor_rain,item_kaya_and_sange,item_great_magic_crit,item_khandas_brooch,}{item_attacker_midas,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 60{item_attacker_midas,item_bloodstone_shield,item_battle_lance,item_great_magic_crit,item_trident_custom,item_khandas_brooch,}{-,-,item_kaya_and_sange,}{item_meteor_rain,-,-,-,-,-,}{item_chipped_vest,};
+70{item_attacker_midas,item_bloodstone_shield,item_battle_lance,item_great_magic_crit,item_trident_custom,item_skadi,}{item_spell_reroll_book,-,-,}{item_meteor_rain,-,-,-,-,-,}{item_chipped_vest,};
