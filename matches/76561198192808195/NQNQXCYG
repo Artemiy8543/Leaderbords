@@ -42,3 +42,4 @@
 440{item_bfury,item_vladimir_pact,item_orb_of_soul,item_great_crit_custom,item_skadi,item_corrosion_blade,}{item_divine_regalia,item_trident_custom,-,}{-,-,-,-,-,-,}{item_enchanters_bauble,};
 450{item_bfury,item_vladimir_pact,item_orb_of_soul,item_great_crit_custom,item_skadi,item_corrosion_blade,}{-,item_divine_regalia,item_trident_custom,}{-,-,-,-,-,-,}{item_heavy_blade,};
 460{item_lotus_cuirass,item_vladimir_pact,item_orb_of_soul,item_great_crit_custom,item_skadi,item_corrosion_blade,}{-,item_divine_regalia,item_trident_custom,}{-,-,-,-,-,-,}{item_heavy_blade,};
+00470{item_trident_custom,item_vladimir_pact,item_orb_of_soul,item_great_crit_custom,item_skadi,item_corrosion_blade,}{-,item_divine_regalia,-,}{-,-,-,-,-,-,}{item_heavy_blade,};
