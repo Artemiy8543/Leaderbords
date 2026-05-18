@@ -16,3 +16,4 @@
 180{item_great_crit_custom,item_vladimir_pact,item_orb_of_soul,item_corrosion_blade,item_skadi,item_trident_custom,}{item_khandas_brooch,item_weighted_dice,item_spell_reroll_book,}{-,-,-,-,-,-,}{item_divine_regalia,};
 00190{item_great_crit_custom,item_vladimir_pact,item_orb_of_soul,item_corrosion_blade,item_skadi,item_trident_custom,}{item_khandas_brooch,item_weighted_dice,item_spell_reroll_book,}{-,-,-,-,-,-,}{item_divine_regalia,};
 200{item_great_crit_custom,item_vladimir_pact,item_orb_of_soul,item_corrosion_blade,item_skadi,item_trident_custom,}{item_khandas_brooch,item_weighted_dice,item_spell_reroll_book,}{-,-,-,-,-,-,}{item_divine_regalia,};
+00210{item_great_crit_custom,item_vladimir_pact,item_orb_of_soul,item_corrosion_blade,item_skadi,item_trident_custom,}{item_khandas_brooch,item_enchanters_bauble,item_spell_reroll_book,}{-,-,-,-,-,-,}{item_divine_regalia,};
