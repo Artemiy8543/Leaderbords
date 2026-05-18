@@ -3,3 +3,4 @@
 50{item_rapier,item_vladimir_pact,item_spell_reroll_book,item_khandas_brooch,item_great_magic_crit,item_trident_custom,}{item_vladmir,item_bloodstone_shield,item_phylactery_blade,}{item_attacker_midas,-,-,-,-,-,}{-,};
 0060{item_rapier,item_vladimir_pact,item_spell_reroll_book,item_khandas_brooch,item_great_magic_crit,item_trident_custom,}{item_vladmir,item_bloodstone_shield,item_phylactery_blade,}{item_attacker_midas,-,-,-,-,-,}{-,};
 70{item_refresher_core,item_vladimir_pact,item_spell_reroll_book,item_khandas_brooch,item_great_magic_crit,item_trident_custom,}{item_octarine_core,-,-,}{item_attacker_midas,item_rapier,-,-,-,-,}{-,};
+80{item_int_book3,item_vladimir_pact,item_attacker_midas,item_khandas_brooch,item_great_magic_crit,item_trident_custom,}{-,-,item_spell_reroll_book,}{-,item_rapier,-,-,-,-,}{item_chipped_vest,};
