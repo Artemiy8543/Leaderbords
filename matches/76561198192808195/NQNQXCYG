@@ -29,3 +29,4 @@
 00310{item_corrosion_blade,item_vladimir_pact,item_orb_of_soul,item_great_crit_custom,item_skadi,item_trident_custom,}{item_butterfly,item_divine_regalia,item_agi_book3,}{-,-,-,-,-,-,}{item_enchanters_bauble,};
 320{item_revenants_brooch,item_vladimir_pact,item_orb_of_soul,item_great_crit_custom,item_skadi,item_trident_custom,}{item_agi_book3,item_corrosion_blade,-,}{-,-,-,-,-,-,}{item_enchanters_bauble,};
 330{item_corrosion_blade,item_vladimir_pact,item_orb_of_soul,item_great_crit_custom,item_skadi,item_trident_custom,}{item_spell_reroll_book,-,-,}{-,-,-,-,-,-,}{item_enchanters_bauble,};
+340{item_corrosion_blade,item_vladimir_pact,item_orb_of_soul,item_great_crit_custom,item_skadi,item_trident_custom,}{-,-,-,}{-,-,-,-,-,-,}{item_enchanters_bauble,};
