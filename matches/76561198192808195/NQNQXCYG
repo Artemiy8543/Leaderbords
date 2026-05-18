@@ -35,3 +35,4 @@
 370{item_bfury,item_vladimir_pact,item_corrosion_blade,item_great_crit_custom,item_skadi,item_trident_custom,}{item_orb_of_soul,item_spell_reroll_book,-,}{-,-,-,-,-,-,}{item_enchanters_bauble,};
 380{item_bfury,item_vladimir_pact,item_corrosion_blade,item_great_crit_custom,item_skadi,item_trident_custom,}{item_enchanters_bauble,-,-,}{-,-,-,-,-,-,}{item_orb_of_soul,};
 390{item_bfury,item_vladimir_pact,item_orb_of_soul,item_great_crit_custom,item_skadi,item_trident_custom,}{item_enchanters_bauble,item_corrosion_blade,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+400{item_bfury,item_vladimir_pact,item_orb_of_soul,item_great_crit_custom,item_skadi,item_trident_custom,}{item_enchanters_bauble,item_corrosion_blade,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
