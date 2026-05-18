@@ -1,3 +1,4 @@
 94=30{item_attacker_midas,item_creep_desolator,item_vladimir_pact,item_gladiator_guard,item_battle_lance,item_spell_reroll_book,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0040{item_attacker_midas,item_creep_desolator,item_vladimir_pact,item_gladiator_guard,item_battle_lance,item_agi_book3,}{item_spell_reroll_book,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 50{item_attacker_midas,item_creep_desolator,item_vladimir_pact,item_gladiator_guard,item_battle_lance,item_spell_reroll_book,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
+60{item_attacker_midas,item_creep_desolator,item_vladimir_pact,item_gladiator_guard,item_battle_lance,item_trident_custom,}{item_str_book3,item_int_book3,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
