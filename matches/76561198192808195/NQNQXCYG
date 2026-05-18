@@ -19,3 +19,4 @@
 00210{item_great_crit_custom,item_vladimir_pact,item_orb_of_soul,item_corrosion_blade,item_skadi,item_trident_custom,}{item_khandas_brooch,item_enchanters_bauble,item_spell_reroll_book,}{-,-,-,-,-,-,}{item_divine_regalia,};
 220{item_great_crit_custom,item_vladimir_pact,item_orb_of_soul,item_corrosion_blade,item_skadi,item_trident_custom,}{-,item_enchanters_bauble,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 230{item_great_crit_custom,item_vladimir_pact,item_orb_of_soul,item_corrosion_blade,item_skadi,item_trident_custom,}{-,item_enchanters_bauble,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+240{item_butterfly,item_vladimir_pact,item_orb_of_soul,item_great_crit_custom,item_skadi,item_trident_custom,}{-,item_enchanters_bauble,item_corrosion_blade,}{-,-,-,-,-,-,}{item_divine_regalia,};
