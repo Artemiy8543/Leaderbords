@@ -59,3 +59,4 @@
 00610{item_trident_custom,item_skadi,item_vladimir_pact,item_great_magic_crit,item_great_crit_custom,item_radiance_prc,}{item_spell_reroll_book,-,item_blade_mail,}{-,-,-,-,-,-,}{item_heavy_blade,};
 00620{item_trident_custom,item_skadi,item_vladimir_pact,item_great_magic_crit,item_great_crit_custom,item_radiance_prc,}{item_spell_reroll_book,-,item_blade_mail,}{-,-,-,-,-,-,}{item_heavy_blade,};
 00630{item_trident_custom,item_skadi,item_vladimir_pact,item_spell_reroll_book,item_great_crit_custom,item_radiance_prc,}{item_great_magic_crit,-,item_blade_mail,}{-,-,-,-,-,-,}{item_heavy_blade,};
+00640{item_trident_custom,item_skadi,item_vladimir_pact,item_spell_reroll_book,item_great_crit_custom,item_radiance_prc,}{item_great_magic_crit,-,item_blade_mail,}{-,-,-,-,-,-,}{item_heavy_blade,};
