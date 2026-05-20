@@ -10,3 +10,4 @@
 00120{item_vladmir,item_great_crit_custom,item_vladimir_pact,item_orb_of_soul,item_radiance_prc,item_skadi,}{item_possessed_mask,item_corrosion_blade,-,}{item_trident_custom,-,-,-,-,-,}{item_dezun_bloodrite,};
 00130{item_vladmir,item_great_crit_custom,item_vladimir_pact,item_orb_of_soul,item_radiance_prc,item_skadi,}{item_possessed_mask,-,item_corrosion_blade,}{item_trident_custom,-,-,-,-,-,}{item_dezun_bloodrite,};
 00140{item_vladmir,item_great_crit_custom,item_vladimir_pact,item_orb_of_soul,item_radiance_prc,item_skadi,}{item_possessed_mask,-,item_corrosion_blade,}{item_trident_custom,-,-,-,-,-,}{item_dezun_bloodrite,};
+00150{item_vladmir,item_great_crit_custom,item_vladimir_pact,item_orb_of_soul,item_radiance_prc,item_skadi,}{item_possessed_mask,-,item_corrosion_blade,}{item_trident_custom,-,-,-,-,-,}{item_dezun_bloodrite,};
