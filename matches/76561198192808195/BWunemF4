@@ -47,3 +47,4 @@
 490{item_butterfly,item_great_crit_custom,item_skadi,item_vladmir,item_radiance_prc,item_vladimir_pact,}{-,-,-,}{item_trident_custom,-,-,-,-,-,}{item_heavy_blade,};
 500{item_trident_custom,item_great_crit_custom,item_skadi,item_vladmir,item_radiance_prc,item_vladimir_pact,}{-,-,-,}{item_butterfly,-,-,-,-,-,}{item_heavy_blade,};
 510{item_trident_custom,item_great_crit_custom,item_skadi,item_great_magic_crit,item_radiance_prc,item_vladimir_pact,}{item_vladmir,-,-,}{item_butterfly,-,-,-,-,-,}{item_heavy_blade,};
+520{item_trident_custom,item_great_crit_custom,item_skadi,item_great_magic_crit,item_radiance_prc,item_vladimir_pact,}{item_vladmir,-,-,}{item_butterfly,-,-,-,-,-,}{item_heavy_blade,};
