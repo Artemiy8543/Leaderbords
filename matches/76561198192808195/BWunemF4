@@ -55,3 +55,4 @@
 00570{item_trident_custom,item_great_crit_custom,item_skadi,item_great_magic_crit,item_radiance_prc,item_vladimir_pact,}{item_infinity_moon_shard,-,-,}{-,-,-,item_pers,item_broadsword,item_broadsword,}{item_heavy_blade,};
 00580{item_trident_custom,item_radiance_prc,item_vladimir_pact,item_great_magic_crit,item_great_crit_custom,item_skadi,}{-,-,-,}{-,-,-,-,-,-,}{item_heavy_blade,};
 590{item_trident_custom,item_skadi,item_vladimir_pact,item_great_magic_crit,item_great_crit_custom,item_radiance_prc,}{item_spell_reroll_book,item_bfury,item_blade_mail,}{-,-,-,-,-,-,}{item_heavy_blade,};
+600{item_trident_custom,item_skadi,item_vladimir_pact,item_great_magic_crit,item_great_crit_custom,item_radiance_prc,}{item_spell_reroll_book,-,item_blade_mail,}{-,-,-,-,-,-,}{item_heavy_blade,};
