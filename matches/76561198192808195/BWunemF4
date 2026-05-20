@@ -38,3 +38,4 @@
 00400{item_butterfly,item_great_crit_custom,item_skadi,item_vladmir,item_radiance_prc,item_vladimir_pact,}{-,-,-,}{item_trident_custom,-,-,-,-,-,}{item_dezun_bloodrite,};
 00410{item_butterfly,item_great_crit_custom,item_skadi,item_vladmir,item_radiance_prc,item_vladimir_pact,}{-,-,-,}{item_trident_custom,-,-,-,-,-,}{item_heavy_blade,};
 420{item_butterfly,item_great_crit_custom,item_skadi,item_vladmir,item_radiance_prc,item_vladimir_pact,}{-,-,-,}{item_trident_custom,-,-,-,-,-,}{item_heavy_blade,};
+430{item_butterfly,item_great_crit_custom,item_skadi,item_vladmir,item_radiance_prc,item_vladimir_pact,}{-,-,-,}{item_trident_custom,-,-,-,-,-,}{item_heavy_blade,};
