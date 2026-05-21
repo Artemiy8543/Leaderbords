@@ -2,3 +2,4 @@
 40{item_vladimir_pact,item_bloodstone_shield,item_trident_custom,item_vladmir,item_attacker_midas,item_ultimate_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 50{item_vladimir_pact,item_bloodstone_shield,item_trident_custom,item_vladmir,item_attacker_midas,item_ultimate_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
 60{item_vladimir_pact,item_bloodstone_shield,item_trident_custom,item_vladmir,item_attacker_midas,item_ultimate_boots,}{-,-,-,}{-,-,-,-,-,-,}{-,};
+70{item_vladimir_pact,item_bloodstone_shield,item_trident_custom,item_spell_reroll_book,item_attacker_midas,item_ultimate_boots,}{item_vladmir,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
