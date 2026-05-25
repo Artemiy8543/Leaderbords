@@ -3,3 +3,4 @@
 50{item_attacker_midas,item_shivas_guard,item_creep_desolator,item_gladiator_guard,item_gungir,item_spell_reroll_book,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 60{item_attacker_midas,item_shivas_guard,item_creep_desolator,item_gladiator_guard,item_gungir,-,}{item_desolator_2,-,-,}{-,-,-,-,-,-,}{-,};
 70{item_attacker_midas,item_shivas_guard,item_creep_desolator,item_gladiator_guard,item_gungir,-,}{item_dezun_bloodrite,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+0080{item_attacker_midas,item_shivas_guard,item_creep_desolator,item_gladiator_guard,item_gungir,item_str_book3,}{-,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
