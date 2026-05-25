@@ -6,3 +6,4 @@
 80{item_vladimir_pact,item_vladmir,item_attacker_midas,item_spell_reroll_book,item_trident_custom,item_gungir,}{item_bfury,-,item_great_crit_custom,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 0090{item_vladimir_pact,item_vladmir,item_great_crit_custom,item_spell_reroll_book,item_trident_custom,item_gungir,}{item_bfury,-,item_attacker_midas,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
 100{item_vladimir_pact,item_vladmir,item_great_crit_custom,item_blade_midas,item_trident_custom,item_gungir,}{item_spell_reroll_book,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
+110{item_vladimir_pact,item_vladmir,item_great_crit_custom,item_blade_midas,item_trident_custom,item_gungir,}{item_spell_reroll_book,-,-,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
