@@ -11,3 +11,4 @@
 130{item_vladimir_pact,item_vladmir,item_great_crit_custom,item_blade_midas,item_trident_custom,item_gungir,}{item_spell_reroll_book,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 00140{item_vladimir_pact,item_vladmir,item_great_crit_custom,item_blade_midas,item_trident_custom,item_gungir,}{item_spell_reroll_book,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 150{item_vladimir_pact,item_vladmir,item_great_crit_custom,item_blade_midas,item_trident_custom,item_gungir,}{item_spell_reroll_book,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+00160{item_vladimir_pact,item_vladmir,item_battle_lance,item_blade_midas,item_trident_custom,item_gungir,}{item_infinity_moon_shard,-,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
