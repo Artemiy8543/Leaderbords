@@ -3,3 +3,4 @@
 0050{item_radiance_prc,item_lotus_cuirass,item_creep_desolator,item_battle_lance,item_skadi,item_refresher_core,}{item_blade_midas,-,-,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
 0060{item_radiance_prc,item_battle_lance,item_creep_desolator,item_corrosion_blade,item_skadi,item_refresher_core,}{item_blade_midas,item_lotus_cuirass,item_spell_reroll_book,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
 70{item_radiance_prc,item_battle_lance,item_creep_desolator,item_corrosion_blade,item_skadi,item_refresher_core,}{item_blade_midas,item_lotus_cuirass,item_spell_reroll_book,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
+0080{item_radiance_prc,item_battle_lance,item_creep_desolator,item_corrosion_blade,item_skadi,item_spell_reroll_book,}{item_blade_midas,item_lotus_cuirass,item_refresher_core,}{item_rapier,-,-,-,-,-,}{item_dormant_curio,};
