@@ -15,3 +15,4 @@
 170{item_radiance_prc,item_vladmir,item_great_crit_custom,item_skadi,item_trident_custom,item_vladimir_pact,}{item_ash_legion_shield,item_attacker_midas,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 00180{item_radiance_prc,item_vladmir,item_great_crit_custom,item_skadi,item_trident_custom,item_vladimir_pact,}{item_ash_legion_shield,item_attacker_midas,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
 190{item_radiance_prc,item_vladmir,item_great_crit_custom,item_skadi,item_trident_custom,item_vladimir_pact,}{item_ash_legion_shield,item_attacker_midas,-,}{-,-,-,-,-,-,}{item_divine_regalia,};
+00200{item_gungir,item_vladmir,item_great_crit_custom,item_skadi,item_trident_custom,item_vladimir_pact,}{item_ash_legion_shield,item_attacker_midas,item_radiance_prc,}{-,-,-,-,-,-,}{item_dezun_bloodrite,};
