@@ -11,3 +11,4 @@
 130{item_attacker_midas,item_creep_desolator,item_shivas_strom,item_refresher_core,item_ultimate_boots,item_battle_lance,}{item_devostator,item_dormant_curio,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 140{item_attacker_midas,item_creep_desolator,item_shivas_strom,item_refresher_core,item_ultimate_boots,item_battle_lance,}{item_devostator,item_dormant_curio,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
 150{item_attacker_midas,item_creep_desolator,item_shivas_strom,item_refresher_core,item_ultimate_boots,item_battle_lance,}{item_devostator,item_dormant_curio,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
+160{item_attacker_midas,item_creep_desolator,item_custom_necronomicon3,item_refresher_core,item_lotus_cuirass,item_battle_lance,}{item_ultimate_boots,item_dormant_curio,-,}{-,-,-,-,-,-,}{item_dormant_curio,};
