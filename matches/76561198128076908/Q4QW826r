@@ -1,1 +1,2 @@
 29=30{item_attacker_midas,item_great_crit_custom,item_creep_desolator,item_battle_lance,item_trident_custom,item_gladiator_guard,}{-,item_khandas_brooch,-,}{-,-,-,-,-,-,}{-,};
+0040{item_armlet_of_mjolnir,item_great_crit_custom,item_creep_desolator,item_battle_lance,item_trident_custom,item_gladiator_guard,}{-,-,-,}{-,-,-,-,-,-,}{item_attacker_midas,};
