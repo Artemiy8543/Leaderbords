@@ -1,2 +1,3 @@
 94=30{item_attacker_midas,-,item_devostator,item_creep_desolator,item_gladiator_guard,item_satanic_of_madness,}{-,-,-,}{-,-,-,-,-,-,}{item_chipped_vest,};
 0040{item_attacker_midas,item_agi_book3,item_devostator,item_creep_desolator,item_gladiator_guard,item_satanic_of_madness,}{item_chipped_vest,-,-,}{-,-,-,-,-,-,}{item_desolator_2,};
+50{item_attacker_midas,item_hydras_breath,item_devostator,item_creep_desolator,item_gladiator_guard,item_satanic_of_madness,}{item_chipped_vest,item_agi_book3,-,}{-,-,-,-,-,-,}{item_desolator_2,};
