@@ -16,3 +16,4 @@
 180{item_spirit_vessel,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_blade_midas,item_refresher_core,}{item_shivas_strom,item_str_book3,item_spell_reroll_book,}{-,-,-,-,-,-,}{item_enchanters_bauble,};
 00190{item_spell_reroll_book,item_gladiator_guard,item_trident_custom,item_bloodstone_shield,item_blade_midas,item_refresher_core,}{item_shivas_strom,item_str_book3,item_spirit_vessel,}{-,-,-,-,-,-,}{item_enchanters_bauble,};
 200{item_spell_reroll_book,item_skadi,item_trident_custom,item_bloodstone_shield,item_blade_midas,item_refresher_core,}{item_shivas_strom,item_str_book3,item_spirit_vessel,}{item_gladiator_guard,-,-,-,-,-,}{item_enchanters_bauble,};
+00210{item_shivas_strom,item_skadi,item_trident_custom,item_bloodstone_shield,item_blade_midas,item_refresher_core,}{item_spell_reroll_book,item_str_book3,item_spirit_vessel,}{item_gladiator_guard,-,-,-,-,-,}{item_enchanters_bauble,};
