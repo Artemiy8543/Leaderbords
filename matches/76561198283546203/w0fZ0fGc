@@ -9,3 +9,4 @@
 00110{item_blade_midas,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_refresher_core,item_spell_reroll_book,}{item_agi_book3,item_ultimate_scepter,item_gladiator_guard,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 120{item_blade_midas,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_refresher_core,item_spell_reroll_book,}{item_agi_book3,item_ultimate_scepter,item_gladiator_guard,}{-,-,-,-,-,-,}{item_polliwog_charm,};
 00130{item_blade_midas,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_refresher_core,item_spell_reroll_book,}{item_agi_book3,item_ultimate_scepter,item_gladiator_guard,}{item_str_book3,-,-,-,-,-,}{item_polliwog_charm,};
+140{item_blade_midas,item_shivas_strom,item_trident_custom,item_bloodstone_shield,item_refresher_core,item_spell_reroll_book,}{item_agi_book3,item_ultimate_scepter,item_gladiator_guard,}{-,-,-,-,-,-,}{item_polliwog_charm,};
