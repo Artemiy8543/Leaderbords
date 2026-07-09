@@ -11,3 +11,4 @@
 00190{item_vladimir_pact,item_battle_lance,-,-,-,item_creep_desolator,}{item_ultimate_scepter,-,-,}{-,-,-,-,-,-,}{item_partisans_brand,};
 00210{item_vladimir_pact,item_battle_lance,item_spell_reroll_book,item_ultimate_scepter,-,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_partisans_brand,};
 00220{item_vladimir_pact,item_battle_lance,item_trident_custom,item_ultimate_scepter,item_crellas_crozier,item_creep_desolator,}{-,-,-,}{-,-,-,-,-,-,}{item_partisans_brand,};
+230{item_vladimir_pact,item_refresher_core,item_trident_custom,item_ultimate_scepter,item_crellas_crozier,item_creep_desolator,}{item_battle_lance,item_spell_reroll_book,-,}{-,-,-,-,-,-,}{item_partisans_brand,};
