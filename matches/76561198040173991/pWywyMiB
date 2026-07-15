@@ -3,3 +3,4 @@
 0050{item_creep_desolator,item_lotus_cuirass,item_satanic_of_madness,item_basher_slardar,item_attacker_midas,item_battle_lance,}{item_spell_reroll_book,-,item_possessed_mask,}{-,-,-,-,-,-,}{item_desolator_2,};
 0060{item_creep_desolator,item_lotus_cuirass,item_satanic_of_madness,item_spell_reroll_book,item_attacker_midas,item_battle_lance,}{item_basher_slardar,item_agi_book3,item_possessed_mask,}{-,-,-,-,-,-,}{item_desolator_2,};
 70{item_creep_desolator,item_lotus_cuirass,item_satanic_of_madness,item_basher_slardar,item_attacker_midas,item_battle_lance,}{item_agi_book3,-,item_possessed_mask,}{-,-,-,-,-,-,}{item_desolator_2,};
+0080{item_creep_desolator,item_lotus_cuirass,item_armlet_of_mjolnir,-,item_attacker_midas,item_battle_lance,}{-,-,item_possessed_mask,}{-,-,-,-,-,-,}{item_desolator_2,};
