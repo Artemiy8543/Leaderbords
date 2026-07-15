@@ -1,2 +1,3 @@
 93=30{item_creep_desolator,item_lotus_cuirass,item_satanic_of_madness,item_spell_reroll_book,item_attacker_midas,item_battle_lance,}{item_basher_slardar,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
 40{item_creep_desolator,item_lotus_cuirass,item_satanic_of_madness,item_basher_slardar,item_attacker_midas,item_battle_lance,}{item_spell_reroll_book,-,-,}{-,-,-,-,-,-,}{item_possessed_mask,};
+0050{item_creep_desolator,item_lotus_cuirass,item_satanic_of_madness,item_basher_slardar,item_attacker_midas,item_battle_lance,}{item_spell_reroll_book,-,item_possessed_mask,}{-,-,-,-,-,-,}{item_desolator_2,};
