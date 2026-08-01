@@ -1,2 +1,3 @@
 96=30{item_blade_midas,item_gladiator_guard,item_radiance_prc,item_bloodstone_shield,item_battle_lance,-,}{-,-,-,}{-,-,-,-,-,-,}{item_defiant_shell,};
 40{item_blade_midas,item_gladiator_guard,item_str_book3,item_bloodstone_shield,item_battle_lance,-,}{-,item_radiance_prc,-,}{-,-,-,-,-,-,}{item_giant_maul,};
+50{item_blade_midas,item_trident_custom,item_refresher_core,item_bloodstone_shield,item_battle_lance,item_str_book3,}{-,item_radiance_prc,item_gladiator_guard,}{-,-,-,-,-,-,}{item_riftshadow_prism,};
